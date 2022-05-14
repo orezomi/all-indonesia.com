@@ -22,4 +22,13 @@ Baik, kita akan menggunakan gambar berikut untuk menjelaskan konsep dasar trigon
 
 Pada dasarnya gambar di atas merupakan lingkaran dengan jari-jari ***r***. Di dalam lingkaran tersebut terdapatlah sebuah segitiga siku-siku ***ABC***. Uniknya, sisi miring segitiga siku siku ini adalah sama dengan jari-jari lingkaran yaitu ***r***. Selain itu, segitiga dalam lingkaran ini juga memiliki 2 sisi lainnya yaitu sisi ***c*** dan ***a***.
 
-Segitiga ABC ini memiliki tiga sudut yang terdiri atas dua sudut lancip yaitu $$\alpha$$ dan $$\gamma$$ serta sebuah sudut siku siku yaitu $$\beta$$. Kedepan sudut-sudut dan sisi-sisi inilah yang mengantar kita ke pemahaman materi trigonometri ini. Para siswa pada umumnya menyebut lingkaran ini dengan "Lingkaran sin cos tan".
+Segitiga ABC ini memiliki tiga sudut yang terdiri atas dua sudut lancip yaitu $\alpha$ dan $\gamma$ serta sebuah sudut siku siku yaitu $\beta$. Kedepan sudut-sudut dan sisi-sisi inilah yang mengantar kita ke pemahaman materi trigonometri ini. Para siswa pada umumnya menyebut lingkaran ini dengan "Lingkaran sin cos tan".
+
+## Rumus Nilai Cosinus atau Cos
+|[![Gambar Konsep Nilai Cosinus](/img/gambar-rumus-cos.png "Gambar Konsep Nilai Cosinus")](/img/gambar-rumus-cos.png)|
+|:--:|
+|*Gambar Konsep Nilai Cosinus*|
+
+Nilai Cosinus atau Cos sebuah sudut $\alpha$ dalam segitiga ABC di atas adalah :
+
+$$Cos(\alpha) = {a\over r}$$
