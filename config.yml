@@ -1,0 +1,13 @@
+baseURL: "http://localhost:1313/"
+languageCode: en-us
+title: All-Indonesia.com
+theme: PaperMod
+sectionPagesMenu : "main"
+
+minify:
+  minifyOutput: true
+
+params:
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
