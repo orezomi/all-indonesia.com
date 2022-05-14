@@ -10,6 +10,7 @@ cover:
     image: /img/bangun-datar-geometri.png
     alt: 'Rumus Luas dan Keliling Bangun Datar'
     caption : 'Rumus Luas dan Keliling Bangun Datar'
+    lazyload: false
 ---
 
 Bangun datar adalah bentuk geometri dengan semua titik bangun atau titik sudut berada dalam satu bidang datar. Contohnya adalah segi empat, lingkaran, bujur sangkar, belah ketupat, jajaran genjang dan trapesium. Dalam matematika terdapat dua hal utama yang umum dihitung dalam bidang datar yaitu menghitung luas dan keliling.
