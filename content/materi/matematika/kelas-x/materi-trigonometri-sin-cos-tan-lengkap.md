@@ -51,3 +51,34 @@ $$Sin(\alpha) = {a\over r} = {3\over 5} = 0,6$$
 ## Rumus Nilai Tangen atau Tan
 Dalam segitiga ***ABC*** di atas, nilai tangen dari sudut $\alpha$ adalah :
 $$Tan(\alpha) = {a\over c} = {3\over 4} = 0,75$$
+
+## Tabel Trigonometri
+Dalam praktiknya, sudut $\alpha$ dapat bergerak dari $0\degree$ sampai dengan satu putaran penuh yaitu $360\degree$. Hal ini menyebabkan nilai sin, cos dan tan dari setiap sudut untuk seluruh putaran adalah bervariasi. Lebih lengkapnya dapat dilihat pada tabel trigonometri berikut ini :
+|[![Tabel Trigonometri Kuno](/img/tabel-trigonometri-kuno.jpeg "Tabel Trigonometri Kuno")](/img/tabel-trigonometri-kuno.jpeg)|
+|:--:|
+|*Tabel Trigonometri Kuno -- Wikipedia*|
+
+|[![Tabel Trigonometri Menggunakan Excel](/img/trigonometri-excel.webp "Tabel Trigonometri Menggunakan Excel")](/img/trigonometri-excel.webp)|
+|:--:|
+|*Tabel Trigonometri $0-30\degree$ Menggunakan Excel*|
+
+[Download Tabel Trigonometri](https://drive.google.com/file/d/1hepgB4TTaVyICphCUDWP-R5zyF-OL3ev/view?usp=sharing)
+
+## Grafik Sin, Cos, Tan
+Dari tabel trigonometri atau tabel sin,cos, tan di atas kita dapat membuat grafik dengan menggunakan MsExcel atau aplikasi lainnya. Dalam grafik ini, sudut ditampilkan dalam $\pi$ radian. Nilai $\pi$ radian sama dengan $180\degree$. Dengan demikian sudut $1\degree$ sama nilainya dengan ${\pi\over 180}$, kemudian sudut $2\degree$ sama nilainya dengan ${2\pi\over 180}$ dan seterusnya.
+
+|[![Grafik Cos dalam Pi Radian](/img/grafik-cos-dalam-pi.png "Grafik Cos dalam Pi Radian")](/img/grafik-cos-dalam-pi.png)|
+|:--:|
+|*Grafik Cos Dalam Pi Radian*|
+
+|[![Grafik Sin dalam Pi Radian](/img/grafik-sin-dalam-pi-radian.png "Grafik Sin dalam Pi Radian")](/img/grafik-sin-dalam-pi-radian.png)|
+|:--:|
+|*Grafik Sin Dalam Pi Radian*|
+
+|[![Grafik Tan dalam Pi Radian](/img/grafik-tan-radian.png "Grafik Sin dalam Pi Radian")](/img/grafik-tan-radian.png)|
+|:--:|
+|*Grafik Tan Dalam Pi Radian*|
+
+Jika diperhatikan grafik fungsi trigonometri dasar di atas, grafik fungsi sinus dan grafik fungsi cosinus memiliki kemiripan yaitu seperti gelombang teratur yang berulang-ulang. Namun jika dicermati kembali, dapat dilihat bahwa grafik fungsi cosinus di titik x=0 dimulai dari nilai y=1 sedangkan grafik fungsi sinus di titik x=0 dimulai dari nilai y=0.
+
+Jika dihubungkan ke gambar segitiga konsep trigonometri yang ada di atas di awal materi ini maka untuk sudut $\alpha$ maka nilai Sin $\alpha$ adalah sama dengan 0/r yaitu 0. Sedangkan nilai Cos $\alpha$ adalah sama dengan ***c/r*** dimana ***c=r*** karena di sudut  sisi miring ***AC*** akan sejajar dengan sumbu x sehingga nilai ***Cos(0)*** menjadi sama dengan ***1***.
