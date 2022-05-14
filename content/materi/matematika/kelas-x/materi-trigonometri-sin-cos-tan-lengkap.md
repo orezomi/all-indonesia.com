@@ -29,6 +29,25 @@ Segitiga ABC ini memiliki tiga sudut yang terdiri atas dua sudut lancip yaitu $\
 |:--:|
 |*Gambar Konsep Nilai Cosinus*|
 
+
 Nilai Cosinus atau Cos sebuah sudut $\alpha$ dalam segitiga ABC di atas adalah :
 
 $$Cos(\alpha) = {a\over r}$$
+
+Jika kita perhatikan, segitiga ***ABC*** di atas adalah segitiga siku siku dengan sisi ***a***,***c*** dan ***r*** dengan masing-masing memiliki panjang ***a=3***, ***c=4*** sehingga ***r=5***. Dengan demikian, nilai $Cos(\alpha)$ adalah:
+
+$$Cos(\alpha) = {c\over r} = {4\over 5} = 0,8$$
+
+## Rumus Nilai Sinus atau Sin
+
+|[![Gambar Konsep Nilai Sinus](/img/gambar-rumus-cos.png "Gambar Konsep Nilai Sinus")](/img/gambar-rumus-cos.png)|
+|:--:|
+|*Gambar Konsep Nilai Sinus*|
+
+Kembali perhatikan segitiga ***ABC*** di atas. Dengan panjang ***c = 4***, ***a=3*** dan ***r=5*** maka nilai Sinus atau Sin sudut $\alpha$ adalah :
+
+$$Sin(\alpha) = {a\over r} = {3\over 5} = 0,6$$
+
+## Rumus Nilai Tangen atau Tan
+Dalam segitiga ***ABC*** di atas, nilai tangen dari sudut $\alpha$ adalah :
+$$Tan(\alpha) = {a\over c} = {3\over 4} = 0,75$$
