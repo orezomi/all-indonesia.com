@@ -79,6 +79,6 @@ Dari tabel trigonometri atau tabel sin,cos, tan di atas kita dapat membuat grafi
 |:--:|
 |*Grafik Tan Dalam Pi Radian*|
 
-Jika diperhatikan grafik fungsi trigonometri dasar di atas, grafik fungsi sinus dan grafik fungsi cosinus memiliki kemiripan yaitu seperti gelombang teratur yang berulang-ulang. Namun jika dicermati kembali, dapat dilihat bahwa grafik fungsi cosinus di titik x=0 dimulai dari nilai y=1 sedangkan grafik fungsi sinus di titik x=0 dimulai dari nilai y=0.
+Jika diperhatikan grafik fungsi trigonometri dasar di atas, grafik fungsi sinus dan grafik fungsi cosinus memiliki kemiripan yaitu seperti gelombang teratur yang berulang-ulang. Namun jika dicermati kembali, dapat dilihat bahwa grafik fungsi cosinus di titik ***x=0*** dimulai dari nilai ***y=1*** sedangkan grafik fungsi sinus di titik ***x=0*** dimulai dari nilai ***y=0***.
 
-Jika dihubungkan ke gambar segitiga konsep trigonometri yang ada di atas di awal materi ini maka untuk sudut $\alpha$ maka nilai Sin $\alpha$ adalah sama dengan 0/r yaitu 0. Sedangkan nilai Cos $\alpha$ adalah sama dengan ***c/r*** dimana ***c=r*** karena di sudut  sisi miring ***AC*** akan sejajar dengan sumbu x sehingga nilai ***Cos(0)*** menjadi sama dengan ***1***.
+Jika dihubungkan ke gambar segitiga konsep trigonometri yang ada di atas di awal materi ini maka untuk sudut $\alpha$ maka nilai Sin $\alpha$ adalah sama dengan ***0/r*** yaitu ***0***. Sedangkan nilai Cos $\alpha$ adalah sama dengan ***c/r*** dimana ***c=r*** karena di sudut  sisi miring ***AC*** akan sejajar dengan sumbu ***x*** sehingga nilai ***Cos(0)*** menjadi sama dengan ***1***.
