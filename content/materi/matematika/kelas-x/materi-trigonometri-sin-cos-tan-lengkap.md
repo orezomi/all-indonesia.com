@@ -82,3 +82,58 @@ Dari tabel trigonometri atau tabel sin,cos, tan di atas kita dapat membuat grafi
 Jika diperhatikan grafik fungsi trigonometri dasar di atas, grafik fungsi sinus dan grafik fungsi cosinus memiliki kemiripan yaitu seperti gelombang teratur yang berulang-ulang. Namun jika dicermati kembali, dapat dilihat bahwa grafik fungsi cosinus di titik ***x=0*** dimulai dari nilai ***y=1*** sedangkan grafik fungsi sinus di titik ***x=0*** dimulai dari nilai ***y=0***.
 
 Jika dihubungkan ke gambar segitiga konsep trigonometri yang ada di atas di awal materi ini maka untuk sudut $\alpha$ maka nilai Sin $\alpha$ adalah sama dengan ***0/r*** yaitu ***0***. Sedangkan nilai Cos $\alpha$ adalah sama dengan ***c/r*** dimana ***c=r*** karena di sudut  sisi miring ***AC*** akan sejajar dengan sumbu ***x*** sehingga nilai ***Cos(0)*** menjadi sama dengan ***1***.
+
+## Tabel Trigonometri (Sin Cos Tan) Sudut Istimewa
+Dalam satu putaran penuh $360\degree$ terdapat sudut-sudut istimewa yang ditandai dengan nilai sin cos tan yang istimewa. Berikut ini adalah tabel sin cos tan sudut istimewa.
+|[![Tabel Sin Cos Tan Sudut Istimewa](/img/tabel-sin-cos-tan-istimewa.png "Tabel Sin Cos Tan Sudut Istimewa")](/img/tabel-sin-cos-tan-istimewa.png)|
+|:--:|
+|*Tabel Sin Cos Tan Sudut Istimewa*|
+
+|[![Tabel Sin Cos Tan Sudut Istimewa Berwarna](/img/tabel-sin-cos-tan-istimewa-warna.png "Tabel Sin Cos Tan Sudut Istimewa Berwarna")](/img/tabel-sin-cos-tan-istimewa-warna.png)|
+|:--:|
+|*Tabel Sin Cos Tan Sudut Istimewa Berwarna*|
+
+## Trigonometri Dalam Kehidupan Sehari Hari
+Dalam kehidupan sehari-hari kita dapat memanfaatkan fungsi trigonometri dasar untuk mengukur ketinggian gedung atau bangunan yang tinggi tanpa harus mengukur langsung bangunan tersebut menggunakan alat ukur panjang. Sebagai contoh soal, kita perhatikan gambar berikut
+
+|[![Trigonometri Dalam Kehidupan Sehari-hari](/img/trigonometri-sehari-hari.png "Trigonometri Dalam Kehidupan Sehari-hari")](/img/trigonometri-sehari-hari.png)|
+|:--:|
+|*Trigonometri Dalam Kehidupan Sehari-hari*|
+
+Berapakah tinggi pohon tersebut? kita dapat menghitung ketinggian pohon dengan fungsi trigonometri yang telah kita pelajari di materi ini.
+
+$$tan(\theta) = {y\over x}$$
+$$y\ =\ x\ tan(\theta) = 70ft \times tan(31,8\degree)\ =\ 44ft$$
+
+Jadi kita dapat kita ketahui bahwa tinggi pohon tersebut adalah 44 feet. Dalam mengukur sudut kemiringan kita dapat gunakan aplikasi di smartphone.
+
+## Perbandingan Trigonometri
+Dalam trigonometri terdapat 2(dua) satuan pengukuran sudut yaitu derajat dan radian. Berikut adalah penjelasannya.
+
+### Derajat
+Sudut dalam satu putaran penuh disebut dengan sudut 360 derajat. Jika kita membagi lingkaran menjadi 360 juring yang sama maka satu bagian ini disebut dengan 1 derajat. 1 derajat ini dibagi menjadi 60 menit dan satu menit dibagi dalam 60 detik. Dengan demikian maka
+$$1\degree\ =\ 60'\ =\ 3600"$$
+
+### Radian
+
+Satuan ukuran sudut selain derajat adalah radian, perhatikan gambar berikut untuk memahami konsep radian.
+
+|[![Sudut dalam Radian](/img/radian.png "Sudut dalam Radian")](/img/radian.png)|
+|:--:|
+|*Sudut dalam Radian*|
+
+Sudut Α dalam radian besarnya adalah panjang busur ***s*** dibagi dengan jari-jari ***r***. Dengan demikian persamaannya adalah sebagai berikut
+
+$$\alpha\ =\ {s\over r} radian$$
+
+Jika kita mendapati panjang busur ***s*** sama dengan jari jari ***r*** atau ***s=r*** maka akan didapatkan besar sudut 1 radian yaitu
+
+$$\alpha\ =\ {s\over r} radian\ =\ 1\ radian\ \approx\ 57,296\degree$$
+
+Dengan demikian, 1 radian adalah sudut pusat lingkaran dimana panjang busurnya sama dengan jari jari lingkaran tersebut. Besar sudut 1 radian juga sama dengan
+
+$${180\over \pi}\ \approx\ 57,296\degree$$
+
+Untuk mengkonversi sudut dari satuan derajat ke radian dapat digunakan rumus berikut,
+
+$${\alpha \scriptstyle radian \over \pi\ rad}\ =\ {\alpha \scriptstyle derajat \over 180\degree}$$
