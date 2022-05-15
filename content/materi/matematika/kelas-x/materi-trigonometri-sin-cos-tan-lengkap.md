@@ -137,3 +137,26 @@ $${180\over \pi}\ \approx\ 57,296\degree$$
 Untuk mengkonversi sudut dari satuan derajat ke radian dapat digunakan rumus berikut,
 
 $${\alpha \scriptstyle radian \over \pi\ rad}\ =\ {\alpha \scriptstyle derajat \over 180\degree}$$
+
+## Sektor atau Juring Lingkaran
+
+|[![Sektor atau Juring Lingkaran](/img/juring-lingkaran.png "Sektor atau Juring Lingkaran")](/img/juring-lingkaran.png)|
+|:--:|
+|*Sektor atau Juring Lingkaran*|
+
+Rumus luas juring ***ABC*** adalah :
+$$Luas Juring ABC = {1\over 2}r^2\alpha \scriptstyle radian$$
+
+## Rasio atau Perbandingan Trigonometri Segitiga Siku Siku
+Nilai sinus, cosinus, tangen, secan, cosecan dan cotangen sudut ***α*** dalam segitiga berikut akan selalu tetap walaupun ukuran segitiga bertambah besar atau kecil.
+
+|[![Segitiga Perbandingan Trigonometri](/img/perbandingan-trigonometri.png "Segitiga Perbandingan Trigonometri")](/img/perbandingan-trigonometri.png)|
+|:--:|
+|*Segitiga Perbandingan Trigonometri*|
+
+$$Sin\ \alpha\ =\ {BC\over AB}\ =\ {DE\over AD}\ =\ ...$$
+$$Cos\ \alpha\ =\ {AC\over AB}\ =\ {AE\over AD}\ =\ ...$$
+$$Tan\ \alpha\ =\ {BC\over AC}\ =\ {DE\over AE}\ =\ ...$$
+$$Cosec\ \alpha\ =\ {AB\over BC}\ =\ {AD\over DE}\ =\ ...$$
+$$Sec\ \alpha\ =\ {AB\over AC}\ =\ {AD\over AE}\ =\ ...$$
+$$Cotan\ \alpha\ =\ {AC\over BC}\ =\ {AE\over DE}\ =\ ...$$
