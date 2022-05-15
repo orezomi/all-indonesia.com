@@ -82,6 +82,22 @@ $$Keliling = 2 \sqrt{40} + 4$$
 Rumus Luas Segitiga Sama Kaki di atas (dalam cm) adalah :
 $$Luas = {1\over 2}\times a\times t = {1\over 2}\times 4\times 6 = 12cm^2$$
 
+## Luas Segitiga Dengan Trigonometri
+Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus [trigonometri](/materi/matematika/kelas-x/materi-trigonometri-sin-cos-tan-lengkap/). Berikut adalah penurunan rumusnya.
+
+|[![Konsep Luas Segitiga dalam Trigonometri](/img/luas-segitiga-trigonometri.png "Konsep Luas Segitiga dalam Trigonometri")](/img/luas-segitiga-trigonometri.png)|
+|:--:|
+|*Konsep Luas Segitiga dalam Trigonometri*|
+
+$$Luas\ ABC\ =\ {1\over 2}\times\ alas\ \times\ tinggi $$
+$$c=AB$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ f $$
+$${f\over sin(\alpha)}={b\over sin(90\degree)}$$
+$$f=b\ sin(\alpha)$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ b\ sin(\alpha) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ a\ sin(\beta) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$
+
 ## Trapesium
 Trapesium adalah bangun datar bersegi empat yang dua sisinya sejajar namun tidak sama panjang. Rumus luas dan rumus keliling trapesium dapat dilihat pada gambar dan keterangan berikut
 
