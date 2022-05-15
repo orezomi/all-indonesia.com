@@ -160,3 +160,49 @@ $$Tan\ \alpha\ =\ {BC\over AC}\ =\ {DE\over AE}\ =\ ...$$
 $$Cosec\ \alpha\ =\ {AB\over BC}\ =\ {AD\over DE}\ =\ ...$$
 $$Sec\ \alpha\ =\ {AB\over AC}\ =\ {AD\over AE}\ =\ ...$$
 $$Cotan\ \alpha\ =\ {AC\over BC}\ =\ {AE\over DE}\ =\ ...$$
+
+## Identitas Trigonometri
+$$Cosec\ \alpha\ =\ {1\over sin\ \alpha}$$
+$$Sec\ \alpha\ =\ {1\over cos\ \alpha}$$
+$$Cot\ \alpha\ =\ {1\over tan\ \alpha}$$
+$$Tan\ \alpha\ =\ {sin\ \alpha \over cos\ \alpha}$$
+$$Cot\ \alpha\ =\ {cos\ \alpha \over sin\ \alpha}$$
+$$Cos(-\alpha)=Cos(\alpha)$$
+$$Sin(-\alpha)=-Sin(\alpha)$$
+$$Tan(-\alpha)=-Tan(\alpha)$$
+
+## Dalil Sinus
+|[![Segitiga Konsep Dalil Sinus dan Dalil Cosinus](/img/dalil-sinus.png "Segitiga Konsep Dalil Sinus dan Dalil Cosinus")](/img/dalil-sinus.png)|
+|:--:|
+|*Segitiga Konsep Dalil Sinus dan Dalil Cosinus*|
+
+$${a\over sin(\alpha)}={b\over sin(\beta)}={c\over sin(\gamma)}$$
+
+## Dalil Cosinus
+$$a^2=b^2+c^2-2bc\ Cos(\alpha)$$
+$$b^2=c^2+a^2-2ca\ Cos(\beta)$$
+$$c^2=a^2+b^2-2ab\ Cos(\gamma)$$
+
+## Luas Segitiga Dengan Trigonometri
+Luas segitiga dengan perhitungan konvensional telah dibahas di artikel [Rumus Luas Dan Keliling Bangun Datar](/materi/matematika/kelas-x/rumus-luas-dan-keliling-bangun-datar/). Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus trigonometri. Berikut adalah penurunan rumusnya.
+
+|[![Konsep Luas Segitiga dalam Trigonometri](/img/luas-segitiga-trigonometri.png "Konsep Luas Segitiga dalam Trigonometri")](/img/luas-segitiga-trigonometri.png)|
+|:--:|
+|*Konsep Luas Segitiga dalam Trigonometri*|
+
+$$Luas\ ABC\ =\ {1\over 2}\times\ alas\ \times\ tinggi $$
+$$c=AB$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ f $$
+$${f\over sin(\alpha)}={b\over sin(90\degree)}$$
+$$f=b\ sin(\alpha)$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ b\ sin(\alpha) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ a\ sin(\beta) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$
+
+## Penutup
+Demikian bahasan singkat mengenai materi trigonometri. Sebagai kesimpulan, beberapa yang telah kita pelajari dalam materi ini adalah :
+1. Konsep dasar trigonometri (sin, cos dan tan) menggunakan segitiga dan lingkaran konsep trigonometri
+2. Tabel trigonometri
+3. Grafik Trigonometri
+4. Contoh penerapan rumus trigonometri dasar dalam kehidupan sehari-hari
+5. Perbandingan Trigonometri yang terdiri atas pengukuran sudut, identitas trigonometri, perbandingan trigomometri dalam segitiga siku-siku, dalil sinus, dalil cosinus dan luas segitiga dalam trigonometri.
