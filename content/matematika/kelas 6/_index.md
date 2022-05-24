@@ -24,7 +24,7 @@ Pelajar juga terampil menggunakan lambang bilangan berpangkat dan akar, termasuk
 
 ### Geometri
 ***Mengembangkan pengertian luas permukaan dan volume gabungan bidang ruang***
-Pelajar menggunakan pengetahuan sebelumnya tentang luas permukaan dan volume suatu bangun ruang sederhana untuk menentukan luas permukaan dan volume dari gabungan beberapa bangun ruang. Misalnya, pelajar menghitung volume silinder yang ditumpuk dengan balok di atasnya. Dalam hal ini, pelajar dituntut untuk dapat menganalisis bangun ruang penyusunnya dan kemudian menentukan luas permukaan dan volumenya. Meskipun hanya dengan menyebutkan ciri-ciri bangun datar ataupun bangun ruang, pelajar dapat menentukan luas permukaan dan volumenya. Kecuali itu, pelajar juga dapat mengungkapkan data dalam bentuk diagram (gambar, garis, dan batang).
+Pelajar menggunakan pengetahuan sebelumnya tentang luas permukaan dan volume suatu bangun ruang sederhana untuk menentukan luas permukaan dan volume dari gabungan beberapa bangun ruang. Misalnya, pelajar menghitung volume silinder yang ditumpuk dengan balok di atasnya. Dalam hal ini, pelajar dituntut untuk dapat menganalisis bangun ruang penyusunnya dan kemudian menentukan luas permukaan dan volumenya. Meskipun hanya dengan menyebutkan ciri-ciri bangun datar ataupun bangun ruang, pelajar dapat menentukan luas permukaan dan volumenya. Kecuali itu, pelajar juga dapat mengungkapkan data dalam bentuk diagram (gambar, garis, dan batang)
 
 ## Keterkaitan dengan Proses Bermatematika
 ### Penyelesaian Masalah
