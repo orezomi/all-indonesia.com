@@ -1,13 +1,55 @@
-baseURL: "https://all-indonesia.com"
-languageCode: en-us
+baseURL: "/"
 title: All-Indonesia.com
-theme: PaperMod
-sectionPagesMenu : "main"
+theme: docsy
+# description : "Info Rupa-Rupa"
+contentDir : "content/"
+offlineSearch: true
+
+# menu:
+#   main:
+#     - name: GitHub
+#       weight: 50
+#       url: 'https://github.com/google/docsy/'
+#       pre: <i class='fab fa-github'></i>
+#       # post: <span class='alert'>New!</span>
 
 minify:
   minifyOutput: true
 
+enableRobotsTXT: true
+
+taxonomies:
+  tag: tags
+  category: categories
+
+offlineSearch: true
+
 params:
-    ShowShareButtons: true
-    ShowReadingTime: true
-    ShowBreadCrumbs: true
+  # links:
+  #   developer-en:
+  #     - name: Account Management
+  #       url: /en/acm/
+  #       icon: fas fa-id-card
+  #       desc: Manage your e2e.ee JabberID!
+  #       target: _self
+  #   developer-es:
+  #     - name: Administración de Cuenta
+  #       url: /es/acm/
+  #       icon: fas fa-id-card
+  #       desc: Manage your e2e.ee JabberID!
+  #       target: _self
+  ui:
+    sidebar_menu_compact: true
+    sidebar_menu_foldable: true
+    # sidebar_search_disable: false
+
+  taxonomy:
+    taxonomyCloud:
+      - tags
+      - categories
+    taxonomyCloudTitle:
+      - Tag Cloud
+      - Categories
+    taxonomyPageHeader:
+      - tags
+      - categories
