@@ -1,17 +1,9 @@
 baseURL: "/"
 title: All-Indonesia.com
 theme: docsy
-# description : "Info Rupa-Rupa"
+description : "Info Rupa-Rupa"
 contentDir : "content/"
 offlineSearch: true
-
-# menu:
-#   main:
-#     - name: GitHub
-#       weight: 50
-#       url: 'https://github.com/google/docsy/'
-#       pre: <i class='fab fa-github'></i>
-#       # post: <span class='alert'>New!</span>
 
 minify:
   minifyOutput: true
@@ -23,21 +15,7 @@ taxonomies:
   category: categories
 
 offlineSearch: true
-
 params:
-  # links:
-  #   developer-en:
-  #     - name: Account Management
-  #       url: /en/acm/
-  #       icon: fas fa-id-card
-  #       desc: Manage your e2e.ee JabberID!
-  #       target: _self
-  #   developer-es:
-  #     - name: Administración de Cuenta
-  #       url: /es/acm/
-  #       icon: fas fa-id-card
-  #       desc: Manage your e2e.ee JabberID!
-  #       target: _self
   ui:
     sidebar_menu_compact: true
     sidebar_menu_foldable: true
