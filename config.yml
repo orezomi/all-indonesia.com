@@ -3,7 +3,6 @@ title: All-Indonesia.com
 theme: docsy
 description : "Info Rupa-Rupa"
 contentDir : "content/"
-offlineSearch: true
 
 minify:
   minifyOutput: true
@@ -14,12 +13,11 @@ taxonomies:
   tag: tags
   category: categories
 
-offlineSearch: true
 params:
+  offlineSearch: true
   ui:
     sidebar_menu_compact: true
     sidebar_menu_foldable: true
-    # sidebar_search_disable: false
 
   taxonomy:
     taxonomyCloud:
