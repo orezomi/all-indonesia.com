@@ -4,6 +4,8 @@ date: 2022-05-14T19:29:11+07:00
 draft: false
 type: docs
 weight: 7
+categories:
+    - matematika
 description: >
     Pelajar kelas 7 memulai bekerja dengan aljabar seperti persamaan, peubah, grafik garis, dsb. secara formal. Pelajar mengembangkan penguasaannya pada pumpunan di bawah ini. Pelajar juga mengasah kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
 ---
