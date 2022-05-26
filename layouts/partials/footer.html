@@ -6,7 +6,16 @@
         {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
         {{- partial "share_icons.html" . -}}
         {{- end }}
+      </div>
     </div>
+    <div class="d-flex justify-content-center">
+      <!-- <div class="col-12"> -->
+        {{ with $links }}
+        {{ with index . "customLinks"}}
+        {{ template "custom-links-block"  . }}
+        {{ end }}
+        {{ end }}
+      <!-- </div> -->
     </div>
     <div class="row">
       <div class="col-6 col-sm-4 text-xs-center order-sm-2">
@@ -38,7 +47,19 @@
   {{ range . }}
   <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="{{ .name }}" aria-label="{{ .name }}">
     <a class="text-white" target="_blank" rel="noopener" href="{{ .url }}" aria-label="{{ .name }}">
-      <i class="{{ .icon }}"></i>
+      <i class="{{ .icon }}"></i> <i>{{ .name }}</i>
+    </a>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
+
+{{ define "custom-links-block" }}
+<ul class="list-inline mb-0">
+  {{ range . }}
+  <li class="list-inline-item mx-2" data-toggle="tooltip" data-placement="top" title="{{ .name }}" aria-label="{{ .name }}">
+    <a class="text-white" target="_self" rel="noopener" href="{{ .url }}" aria-label="{{ .name }}">
+      <span class="custom-links">{{ .name }}</span>
     </a>
   </li>
   {{ end }}

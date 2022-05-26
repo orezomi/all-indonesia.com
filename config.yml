@@ -15,6 +15,20 @@ taxonomies:
 
 params:
   ShowShareButtons: true
+  links:
+    customLinks:
+      - name: Sitemap
+        url: /sitemap.xml
+        desc: Sitemap
+        target: _self
+      - name: Disclaimer
+        url: /disclaimer
+        desc: Sitemap
+        target: _self
+      - name: Privacy Policy
+        url: /privacy-policy
+        desc: Privacy Policy
+        target: _self
   offlineSearch: true
   ui:
     sidebar_menu_compact: true
