@@ -32,7 +32,7 @@ params:
   offlineSearch: true
   ui:
     sidebar_menu_compact: true
-    sidebar_menu_foldable: true
+    sidebar_menu_foldable: false
 
   taxonomy:
     taxonomyCloud:
