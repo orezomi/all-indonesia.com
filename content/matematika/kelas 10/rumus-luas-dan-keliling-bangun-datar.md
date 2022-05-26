@@ -140,3 +140,66 @@ $$Keliling = AB+BC+CD+DA = 4\times \sqrt{2^2+3^2} = 4\sqrt{13}$$
 $$Luas = {1\over 2}\times AC\times BD = {1\over 2}\times 6\times 4 = 12cm^2$$
 
 Rumus rumus bangun datar untuk menghitung luas dan keliling persegi, lingkaran, segitiga, trapesium dan belah ketupat di atas merupakan sebagian dari banyak sekali turunan rumus-rumus bangun datar lainnya. Bentuk bangun dasar sangat bervariatif. Jenis segitiga, jenis trapesium dan lain-lain sangatlah beragam. Sehingga jika kita paham konsep dasar perhitungannya maka bukan tidak mungkin luas dan keliling dari bangun datar untuk diperoleh nilainya.
+
+
+```mermaid
+flowchart TB
+    c1-->a2
+    subgraph one
+    a1-->a2
+    end
+    subgraph two
+    b1-->b2
+    end
+    subgraph three
+    c1-->c2
+    end
+    one --> two
+    three --> two
+    two --> c2
+```
+
+```plantuml
+participant participant as Foo
+actor       actor       as Foo1
+boundary    boundary    as Foo2
+control     control     as Foo3
+entity      entity      as Foo4
+database    database    as Foo5
+collections collections as Foo6
+queue       queue       as Foo7
+Foo -> Foo1 : To actor
+Foo -> Foo2 : To boundary
+Foo -> Foo3 : To control
+Foo -> Foo4 : To entity
+Foo -> Foo5 : To database
+Foo -> Foo6 : To collections
+Foo -> Foo7: To queue
+```
+
+```markmap
+# markmap
+
+## Links
+
+- <https://markmap.js.org/>
+- [GitHub](https://github.com/gera2ld/markmap)
+
+## Related
+
+- [coc-markmap](https://github.com/gera2ld/coc-markmap)
+- [gatsby-remark-markmap](https://github.com/gera2ld/gatsby-remark-markmap)
+
+## Features
+
+- links
+- **inline** ~~text~~ *styles*
+- multiline
+  text
+- `inline code`
+-
+    ```js
+    console.log('code block');
+    ```
+- Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```

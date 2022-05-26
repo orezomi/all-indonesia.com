@@ -36,18 +36,26 @@ params:
       enable: true
     options:
       delimiters:
-        - left: $$
-          right: $$
-          display: true
-        - left: $
-          right: $
-          display: false
-        - left: \\(
-          right: \\)
-          display: false
-        - left: '\\['
-          right: '\\]'
-          display: true
+        # - left: $$
+        #   right: $$
+        #   display: true
+        # - left: $
+        #   right: $
+        #   display: false
+        # - left: \\(
+        #   right: \\)
+        #   display: false
+        # - left: '\\['
+        #   right: '\\]'
+        #   display: true
+  mermaid:
+    enable: true
+  plantuml:
+    enable: true
+  markmap:
+    enable: true
+  # drawio:
+  #   enable: false
   ui:
     sidebar_menu_compact: true
     sidebar_menu_foldable: false
