@@ -14,6 +14,7 @@ taxonomies:
   category: categories
 
 params:
+  ShowShareButtons: true
   offlineSearch: true
   ui:
     sidebar_menu_compact: true
