@@ -38,8 +38,6 @@
   crossorigin="anonymous"></script>
 {{ end -}}
 
-{{ if .Params.katex}}{{ partial "math.html" . }}{{ end }}
-
 {{ if .Site.Params.prism_syntax_highlighting -}}
 <link rel="stylesheet" href="{{ "/css/prism.css" | relURL }}"/>
 {{ end -}}

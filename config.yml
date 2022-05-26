@@ -30,6 +30,24 @@ params:
         desc: Privacy Policy
         target: _self
   offlineSearch: true
+  katex:
+    enable: true
+    mhchem:
+      enable: true
+    options:
+      delimiters:
+        - left: $$
+          right: $$
+          display: true
+        - left: $
+          right: $
+          display: false
+        - left: \\(
+          right: \\)
+          display: false
+        - left: '\\['
+          right: '\\]'
+          display: true
   ui:
     sidebar_menu_compact: true
     sidebar_menu_foldable: false

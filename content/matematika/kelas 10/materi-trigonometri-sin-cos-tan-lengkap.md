@@ -2,8 +2,6 @@
 title: "Materi Trigonometri Sin Cos Tan Lengkap"
 date: 2022-05-14T16:08:44+07:00
 draft: false
-katex: true
-markup: 'mmark'
 ShowToc: true
 TocOpen: true
 type: docs

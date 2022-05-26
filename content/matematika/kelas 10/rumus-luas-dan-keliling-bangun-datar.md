@@ -2,8 +2,8 @@
 title: "Rumus Luas Dan Keliling Bangun Datar"
 date: 2022-05-08T19:38:04+07:00
 draft: false
-katex: true
-markup: 'mmark'
+# katex: true
+# markup: 'mmark'
 ShowToc: true
 TocOpen: true
 type: docs
