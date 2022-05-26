@@ -34,8 +34,8 @@ params:
     enable: true
     mhchem:
       enable: true
-    options:
-      delimiters:
+    # options:
+    #   delimiters:
         # - left: $$
         #   right: $$
         #   display: true
@@ -48,12 +48,12 @@ params:
         # - left: '\\['
         #   right: '\\]'
         #   display: true
-  mermaid:
-    enable: true
-  plantuml:
-    enable: true
-  markmap:
-    enable: true
+  # mermaid:
+  #   enable: true
+  # plantuml:
+  #   enable: true
+  # markmap:
+  #   enable: true
   # drawio:
   #   enable: false
   ui:
