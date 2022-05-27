@@ -8,7 +8,7 @@ categories:
     - ipa
     - kelas 4
 description: >
-
+    Mengenal sifat, wujud benda dan pengelompokan bahan kimia sehari-hari. Pemahaman jenis/bentuk dan sumber energi. Mengenal fenomena alam. Mengenal ciri-ciri dan habitat makhluk hidup. Mengenal dan mengamati keanekaragaman hayati dan budaya serta pelestarian lingkungan.
 ---
 ## Fokus Pembelajaran IPA Kelas 4
 ### IPA (Fisika, Kimia), Wujud benda dan bahan kimia
