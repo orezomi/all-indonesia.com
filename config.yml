@@ -4,6 +4,14 @@ theme: docsy
 description : "Info Rupa-Rupa"
 contentDir : "content/"
 
+enableGitInfo: true
+frontmatter:
+  lastmod:
+    - lastmod
+    - :git
+    - date
+    - publishDate
+
 minify:
   minifyOutput: true
 

@@ -30,8 +30,8 @@ Siswa dikenalkan dengan jenis/bentuk dan sumber-sumber energi yang ada di sekeli
 Siswa mengenal dan memahami ciri-ciri dan bentuk (morfologi) umum makhluk hidup, lingkungan biotik dan abiotik, habitat makhluk hidup secara sederhana, dan peran makhluk hidup di lingkungan. Siswa melakukan pengamatan pada lingkungan biotik dan abiotik yang ada di sekitar lingkungan sekolah atau di sekitar tempat tinggal dan memahami peran makhluk hidup dalam lingkungan tersebut.
 
 ### Sasaran Kompetensi yang Diharapkan
-- Siswa memiliki kecakapan dan berilmu, rasa ingin tahu tentang ilmu pengetahuan, teknologi, budaya menjadi tumbuh kembang
-- Siswa menunjukkan kebiasaan peduli lingkungan alam dan sosial, serta tertanam kebiasaan hidup bersih dan sehat
-- Siswa memiliki kebiasaan hidup gotong-royong (kolaborasi), adaptif, mandiri, kreatif, respek, serta bermanfaat bagi dirinya dan orang lain
-- Siswa menunjukkan rasa cinta tanah air, bangsa dan negara, serta tumbuh rasa tanggungjawab dalam menjaga kelestarian kekayaan hayati Indonesia
-- Siswa menunjukkan kebiasaan berperilaku mempercayai pencipta alam semesta, beriman, bertakwa dan berakhlak mulia
+- Siswa memiliki kecakapan dan berilmu, rasa ingin tahu tentang ilmu pengetahuan, teknologi, budaya menjadi tumbuh kembang,
+- Siswa menunjukkan kebiasaan peduli lingkungan alam dan sosial, serta tertanam kebiasaan hidup bersih dan sehat,
+- Siswa memiliki kebiasaan hidup gotong-royong (kolaborasi), adaptif, mandiri, kreatif, respek, serta bermanfaat bagi dirinya dan orang lain,
+- Siswa menunjukkan rasa cinta tanah air, bangsa dan negara, serta tumbuh rasa tanggungjawab dalam menjaga kelestarian kekayaan hayati Indonesia,
+- Siswa menunjukkan kebiasaan berperilaku mempercayai pencipta alam semesta, beriman, bertakwa dan berakhlak mulia.
