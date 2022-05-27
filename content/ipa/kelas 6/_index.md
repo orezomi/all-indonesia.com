@@ -14,6 +14,7 @@ description: >
 ## Fokus Pembelajaran IPA Kelas 6
 ### IPA (Fisika), Gaya
 ***Pengembangan pemahaman gaya dan aplikasinya dalam kehidupan sehari-hari***
+
 Siswa dikenalkan berbagai jenis gaya dan aplikasinya berupa pesawat sederhana.
 
 ### IPA (Fisika, Kimia, Biologi), Kerja ilmiah
