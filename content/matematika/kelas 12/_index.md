@@ -6,6 +6,7 @@ type: docs
 weight: 12
 categories:
     - matematika
+    - kelas 12
 description: >
     Pelajar kelas 12 perlu menekankan pengembangan pada pumpunan di bawah ini, guna mengasah kemampuannya bernalar dan membuktikan, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
 ---

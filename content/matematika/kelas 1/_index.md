@@ -6,6 +6,7 @@ type: docs
 weight: 1
 categories:
     - matematika
+    - kelas 1
 description: >
     Gabungan pengetahuan dan keterampilan dalam matematika berikut menjabarkan muatan yang mutlak harus dikembangkan para pelajar kelas Perlu diperhatikan bahwa dengan muatan-muatan ini, pelajar bahkan kelas 1 SD sudah memulai mengasah kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai medium.
 ---

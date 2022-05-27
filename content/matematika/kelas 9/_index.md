@@ -8,6 +8,7 @@ description: >
     Pelajar kelas 9 perlu menekan pengembangan pada pumpunan di bawah ini, guna mengasah kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
 categories:
     - matematika
+    - kelas 9
 ---
 
 ## Pumpunan Matematika Kelas 8

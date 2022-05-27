@@ -6,6 +6,7 @@ type: docs
 weight: 3
 categories:
     - matematika
+    - kelas 3
 description: >
     Muatan yang harus ditekankan dan perlu dikembangkan para pelajar kelas 3 dalam proses belajar adalah pumpunan di bawah ini. Nantinya, pelajar kelas 3 mengaitkan pumpunan dengan kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus menyajikan dengan berbagai permasalahan 202 atematika yang dihadapinya.
 ---

@@ -6,6 +6,7 @@ type: docs
 weight: 2
 categories:
     - matematika
+    - kelas 2
 description: >
     Tiga pumpunan mendasar berikut perlu memperoleh penekanan untuk dikembangkan para pelajar kelas 2. Dalam mempelajarinya, pelajar mengaitkan pumpunan di atas dengan kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus menyajikan dengan berbagai medium.
 ---

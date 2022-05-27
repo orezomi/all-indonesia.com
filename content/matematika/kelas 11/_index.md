@@ -6,6 +6,7 @@ type: docs
 weight: 11
 categories:
     - matematika
+    - kelas 11
 description: >
     Pelajar kelas 11 perlu menekankan pengembangan pada pumpunan di bawah ini, guna mengasah kemampuannya bernalar dan membuktikan, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
 ---

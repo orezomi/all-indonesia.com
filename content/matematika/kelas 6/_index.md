@@ -6,6 +6,7 @@ type: docs
 weight: 6
 categories:
     - matematika
+    - kelas 6
 description: >
     Dalam proses belajar para pelajar kelas 6, gabungkan pengetahuan dan keterampilan matematika di bawah ini menjelaskan muatan yang harus dikembangkan, dimana muatan- muatan tersebut ditujukan untuk mengasah kemampuan bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai sarana dan permasalahan dalam kehidupan yang terkait dengan matematika.
 ---
