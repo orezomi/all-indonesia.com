@@ -1,6 +1,7 @@
 ---
 title: "IPA Kelas 1"
 date: 2022-05-14T19:29:11+07:00
+lastmod: 2022-05-14T19:29:11+07:00
 draft: false
 type: docs
 weight: 1
@@ -8,7 +9,7 @@ categories:
     - ipa
     - kelas 1
 description: >
-    Siswa mengamati berbagai macam benda yang ada di lingkungan sehari-hari dan mengenali sifat, wujud, bentuk dan perubahannya. Siswa mengelompokkan benda-benda di sekitar berdasarkan sifat dan wujud benda. Siswa menegnali bahwa di alam ada benda padat, cair, dan gas.
+    Siswa mengamati berbagai macam benda yang ada di lingkungan sehari-hari dan mengenali sifat, wujud, bentuk dan perubahannya. Siswa mengelompokkan benda-benda di sekitar berdasarkan sifat dan wujud benda. Siswa menegnali bahwa di alam ada benda padat, cair, dan gas
 ---
 
 ## Fokus Pembelajaran IPA Kelas 1
