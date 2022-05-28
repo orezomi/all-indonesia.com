@@ -4,6 +4,8 @@ date: 2022-05-14T19:29:11+07:00
 draft: false
 type: docs
 weight: 1001
+toc_hide: true
+hide_summary: true
 ---
 ## Kebijakan Privasi untuk www.all-indonesia.com
 Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang kebijakan privasi kami, jangan ragu untuk menghubungi kami melalui email di allindonesiaofficial1@gmail.com.
