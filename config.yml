@@ -38,6 +38,8 @@ params:
         desc: Privacy Policy
         target: _self
   offlineSearch: true
+  offlineSearchSummaryLength: 200
+  offlineSearchMaxResults: 25
   katex:
     enable: true
     mhchem:
