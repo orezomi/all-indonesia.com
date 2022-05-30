@@ -11,5 +11,3 @@ Banyaknya bahan ajar yang masih dalam bentuk konvensional sehingga mengakibatkan
 Istilah '***tinggal klik-klik langsung ketemu***' menjadi inspirasi solusi atas permasalahan tersebut. Perkembangan teknologi seharusnya dapat dimanfaatkan maksimal. Oleh karena itu kami hadir untuk meningkatkan kemudahan pencarian tema-tema materi dan bahan ajar pendidikan dasar, menengah dan pendidikan tinggi melalui digitalisasi. Konteks digitalisasi yang diusung di sini yaitu membuat laman-laman web yang terhubung secara sistematis sehingga terjadi kemudahan dalam penelusuran atas kontennya.
 
 Tentu saja butuh waktu untuk menyelesaikan solusi atas permasalahan ini. Ada tahap-tahap yang akan dilakukan. Namun secara garis besar akan ada 2 tahapan besar. Pertama akan dimulai tahapan digitalisasi atas [fokus pembelajaran](https://bsnp-indonesia.org/fokus-pembelajaran/) di semua tingkat pendidikan. Dilanjutkan dengan digitalisasi atas bahan ajar sesuai dengan standar fokus pembelajaran tersebut.
-
-Standar Fokus Pembelajaran merupakan dokumen 
