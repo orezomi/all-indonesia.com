@@ -193,7 +193,7 @@ $$b^2=c^2+a^2-2ca\ Cos(\beta)$$
 $$c^2=a^2+b^2-2ab\ Cos(\gamma)$$
 
 ## Luas Segitiga Dengan Trigonometri
-Luas segitiga dengan perhitungan konvensional telah dibahas di artikel [Rumus Luas Dan Keliling Bangun Datar](/materi/matematika/kelas-x/rumus-luas-dan-keliling-bangun-datar/). Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus trigonometri. Berikut adalah penurunan rumusnya.
+Luas segitiga dengan perhitungan konvensional telah dibahas di artikel [Rumus Luas Dan Keliling Bangun Datar](/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/). Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus trigonometri. Berikut adalah penurunan rumusnya.
 
 |[![Konsep Luas Segitiga dalam Trigonometri](/img/luas-segitiga-trigonometri.png "Konsep Luas Segitiga dalam Trigonometri")](/img/luas-segitiga-trigonometri.png)|
 |:--:|
