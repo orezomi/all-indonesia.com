@@ -49,12 +49,12 @@ Setelah menyimak dan/atau menonton tayangan, video atau kaset yang terkait denga
 #### Keterampilan Menyimak, Menulis
 ***Menyimak dan menyusun teks personal recount dan teks narrative***
 
-Peserta didik mengidentifikasi berbagai jenis teks tulis, lisan, visual atau multimodal teks personal recount (e.g., diary entry, biography) dan teks narrative (e.g., fables, historical fiction, tales) dalam konteks ilmu pengetahuan, teknologi, dan seni, sesuai dengan fungsi sosial, struktur teks, dan unsur kebahasaan yang otentik atau semi- otentik. Setelah menyimak teks dalam bahasa Inggris, peserta didik menyimpulkan teks tersebut secara kritis. Peserta didik menyusun teks personal recount dan teks narrative sesuai dengan konteks ilmu pengetahuan, teknologi, dan seni, dengan topik tertentu, contoh: past events, weekend activities, interesting stories, details of important events.
+Peserta didik mengidentifikasi berbagai jenis teks tulis, lisan, visual atau multimodal teks personal *recount* (*e.g., diary entry, biography*) dan teks *narrative* (*e.g., fables, historical fiction, tales*) dalam konteks ilmu pengetahuan, teknologi, dan seni, sesuai dengan fungsi sosial, struktur teks, dan unsur kebahasaan yang otentik atau semi- otentik. Setelah menyimak teks dalam bahasa Inggris, peserta didik menyimpulkan teks tersebut secara kritis. Peserta didik menyusun teks personal recount dan teks narrative sesuai dengan konteks ilmu pengetahuan, teknologi, dan seni, dengan topik tertentu, contoh: *past events, weekend activities, interesting stories, details of important events*.
 
 #### Keterampilan Membaca
 ***Memahami makna kata dalam konteks***
 
-Setelah mengidentifikasi makna kata, baik yang berdiri sendiri maupun dalam kalimat, dan dalam konteks, contoh: book, I have a book, I book a room at the hotel, peserta didik membedakannya sesuai konteks. Peserta didik mengamati, mencari, dan memberikan contoh serupa dari berbagai sumber, baik dari buku teks maupun non buku teks.
+Setelah mengidentifikasi makna kata, baik yang berdiri sendiri maupun dalam kalimat, dan dalam konteks, contoh: *book, I have a book, I book a room at the hotel*, peserta didik membedakannya sesuai konteks. Peserta didik mengamati, mencari, dan memberikan contoh serupa dari berbagai sumber, baik dari buku teks maupun non buku teks.
 
 #### Keterampilan Membaca, Menulis
 ***Memahami kerangka berpikir***
