@@ -9,6 +9,8 @@ description: >
 categories:
     - matematika
     - kelas 9
+katex: true
+markup: 'mmark'
 ---
 
 ## Pumpunan Matematika Kelas 8

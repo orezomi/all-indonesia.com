@@ -9,6 +9,9 @@ categories:
     - kelas 11
 description: >
    Fokus Pembelajaran Kimia Kelas 11 meliputi Energi Kimia dan Thermokimia, Kinetika Kimia dan Kesetimbangan Kimia serta Larutan dan Sifat Koligatif.
+katex: true
+markup: 'mmark'
+chem: true
 ---
 ## Fokus Pembelajaran Kimia Kelas 11
 

@@ -20,6 +20,8 @@ cover:
     alt: 'Materi Trigonometri Sin Cos Tan Lengkap'
     caption : 'Materi Trigonometri Sin Cos Tan Lengkap'
     lazyload: false
+katex: true
+markup: 'mmark'
 ---
 
 Trigonometri adalah bidang ilmu ukur sudut dan sempadan segitiga yang umum digunakan dalam ilmu astronomi atau perbintangan dan sebagainya (KBBI). Umumnya materi terkait trigonometri disajikan di sekolah mulai dari tingkat SMP dan akan lebih mendalam pada tingkat SMA dan Perguruan tinggi. Pada umumnya para siswa menyebut bidang ilmu matematika ini dengan sebutan pelajaran atau rumus ***Sin Cos Tan***, karena mungkin lebih mudah untuk diingat.

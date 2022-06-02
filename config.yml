@@ -40,10 +40,10 @@ params:
   offlineSearch: true
   offlineSearchSummaryLength: 200
   offlineSearchMaxResults: 25
-  katex:
-    enable: true
-    mhchem:
-      enable: true
+  # katex:
+  #   enable: true
+  #   mhchem:
+  #     enable: true
     # options:
     #   delimiters:
         # - left: $$
