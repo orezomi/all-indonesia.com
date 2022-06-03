@@ -29,6 +29,7 @@
 {{ partialCached "head-css.html" . "asdf" -}}
 {{ if .Params.katex}}{{ partial "math.html" . }}{{ end }}
 {{ if .Params.chem}}{{ partial "chem.html" . }}{{ end }}
+{{ if .Params.renderkatex}}{{ partial "renderkatex.html" . }}{{ end }}
 
 <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"

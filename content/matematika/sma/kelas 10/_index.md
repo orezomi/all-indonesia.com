@@ -11,6 +11,7 @@ description: >
     Gabungan pengetahuan dan keterampilan dalam matematika berikut menjabarkan pumpunan yang mutlak harus dikembangkan para pelajar kelas 10. Perlu diperhatikan bahwa dengan muatan-muatan ini, pelajar sekaligus mengasah kemampuannya bernalar dan membuktikan, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
 katex: true
 markup: 'mmark'
+renderkatex: true
 ---
 ## Pumpunan Matematika Kelas 10
 

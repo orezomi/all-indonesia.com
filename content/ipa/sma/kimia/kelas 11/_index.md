@@ -12,6 +12,7 @@ description: >
 katex: true
 markup: 'mmark'
 chem: true
+renderkatex: true
 ---
 ## Fokus Pembelajaran Kimia Kelas 11
 
