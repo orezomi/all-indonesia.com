@@ -6,7 +6,7 @@ type: docs
 weight: 1
 ---
 
-Banyaknya bahan ajar yang masih dalam bentuk konvensional sehingga mengakibatkan kesulitan penelusuran runutan materi dan bahan ajar tersebut.
+Bahan ajar dalam bentuk konvensional mengakibatkan kesulitan penelusuran runutan materi dan bahan ajar.
 
 Istilah '***tinggal klik-klik langsung ketemu***' menjadi inspirasi solusi atas permasalahan tersebut. Perkembangan teknologi seharusnya dapat dimanfaatkan maksimal. Oleh karena itu kami hadir untuk meningkatkan kemudahan pencarian tema-tema materi dan bahan ajar pendidikan dasar, menengah dan pendidikan tinggi melalui digitalisasi. Konteks digitalisasi yang diusung di sini yaitu membuat laman-laman web yang terhubung secara sistematis sehingga terjadi kemudahan dalam penelusuran atas kontennya.
 

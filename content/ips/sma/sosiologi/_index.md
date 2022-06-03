@@ -1,0 +1,18 @@
+---
+title: "Sosiologi"
+date: 2022-06-03T10:48:13+07:00
+draft: false
+type: docs
+weight: 5
+---
+
+## Fokus Pembelajaran Sosiologi
+### Deskripsi
+Sosiologi merupakan studi ilmiah dan sistematis mengenai kehidupan sosial individu, kelompok, dan masyarakat. Sosiologi mempelajari struktur sosial dan proses sosial dalam masyarakat. Struktur sosial mencakup nilai dan norma yang berlaku dalam masyarakat, institusi sosial, kelompok sosial, dan stratifikasi sosial. Sedangkan proses sosial merupakan cara dimana individu-individu membangun hubungan dan interaksi sosial, serta perubahan sosial yang terjadi dalam masyarakat. Materi muatan sosiologi di tingkat SMA meliputi pengertian, perspektif, metode penelitian, interaksi sosial sehari-hari, sosialisasi, dan institusi sosial yang ada dalam masyarakat. Pada kelas selanjutnya, muatan sosiologi mencakup bahasan tentang konformitas dan penyimpangan, kelompok sosial dan organisasi, serta konflik sosial yang mencakup penyebab dan penyelesaiannya. Pada kelas akhir, muatan sosiologi membahas tentang stratifikasi dam mobilitas sosial, perubahan sosial, serta globalisasi.
+
+Pembelajaran sosiologi sangat penting untuk menumbuhkembangkan kompetensi warga negara yang memiliki karakter kritis, pemecahan masalah, dan bekerja sama/ gotong royong. Pembelajaran sosiologi bertujuan memberikan kemampuan berpikir peserta didik untuk menjelaskan dan menganalisis secara sistematis dan kritis kondisi masyarakat dan dinamikanya. Sosiologi mendorong peserta didik untuk berpikir kreatif dan obyektif dalam merumuskan solusi atas berbagai permasalahan sosial yang terjadi di masyarakat berdasarkan hasil analisis kritis mereka. Muatan sosiologi mengasah kepekaan sosial dalam memahami dan menganalisis kompleksitas masalah-masalah sosial. Selain itu, sosiologi bertujuan membangun sikap dan perilaku empati, toleran, dan kerja sama melalui pemahaman akan fenomena sosial yang terjadi dalam lingkup keluarga, pertemanan, komunitas, maupun masyarakat luas.
+
+Pembelajaran sosiologi menekankan pada pembelajaran yang berpusat pada peserta didik dan aktif, dimana mereka terlibat langsung dalam kegiatan pembelajaran. Pembelajaran ini bertujuan untuk mengembangkan pemikiran kritis, keterampilan, kemampuan memecahkan masalah, kemandirian, serta tanggung jawab peserta didik. Aktivitas yang dilakukan peserta didik cukup beragam. Peserta didik melakukan pengamatan di sekitar lingkungan tempat tinggal mereka tentang fenomena sosial tertentu. Mereka berdiskusi dalam kelompok dan mempresentasikan hasil diskusi merkea di depan kelas. Aktivitas lain adalah peserta melakukan penelitian kecil secara berkelompok untuk menelaah fenomena sosial tertentu dan menuliskan hasil penelitian tersebut.
+
+### FokusPembelajaran
+Muatan Sosiologi mengkaji perilaku individu, kelompok, dan masyarakat secara sistematis dan ilmiah. Muatan Sosiologi bertujuan untuk membangun dan mengembangkan kesadaran dan kemampuan berpikir peserta didik mengenai perspektif-perspektif sosiologi, struktur sosial yang ada dalam masyarakat, serta proses sosial yang terjadi di masyarakat. Melalui muatan Sosiologi, peserta didik mampu memanfaatkan perspektif-perspektif Sosiologi untuk menganalisis kehidupan masyarakat dan dinamikanya secara kritis, merumuskan pemecahan masalah sosial, berinteraksi dalam masyarakat yang beragam dengan mengikuti kaidah nilai dan norma yang berlaku, mengembangkan kepedulian sosial mulai dari ingkungan tempat tinggal hingga hingga masyarakat secara luas.
