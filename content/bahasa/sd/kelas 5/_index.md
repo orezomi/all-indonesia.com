@@ -1,5 +1,6 @@
 ---
 title: "Bahasa Kelas 5"
+linkTitle: "Kelas 5"
 date: 2022-05-30T00:57:11+07:00
 draft: false
 weight: 5

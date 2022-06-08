@@ -1,5 +1,6 @@
 ---
 title: "IPS Kelas 9"
+linkTitle: "Kelas 9"
 date: 2022-06-03T09:55:50+07:00
 draft: false
 weight: 3

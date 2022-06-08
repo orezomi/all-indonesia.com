@@ -1,5 +1,6 @@
 ---
 title: "Bahasa Kelas 8"
+linkTitle: "Kelas 8"
 date: 2022-05-30T16:01:48+07:00
 draft: false
 type: docs

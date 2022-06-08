@@ -1,5 +1,6 @@
 ---
 title: "Geografi Kelas 11"
+linkTitle: "Kelas 11"
 date: 2022-06-03T14:55:11+07:00
 draft: false
 weight: 2

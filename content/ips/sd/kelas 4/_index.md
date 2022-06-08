@@ -1,5 +1,6 @@
 ---
 title: "IPS Kelas 4"
+linkTitle: "Kelas 4"
 date: 2022-06-03T09:19:53+07:00
 draft: false
 weight: 4

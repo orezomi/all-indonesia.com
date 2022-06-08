@@ -1,5 +1,6 @@
 ---
 title: "IPS Kelas 2"
+linkTitle: "Kelas 2"
 date: 2022-06-03T09:10:46+07:00
 draft: false
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: "Bahasa Kelas 11"
+linkTitle: "Kelas 11"
 date: 2022-05-31T08:38:40+07:00
 draft: false
 type: docs

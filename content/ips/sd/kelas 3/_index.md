@@ -1,5 +1,6 @@
 ---
 title: "IPS Kelas 3"
+linkTitle: "Kelas 3"
 date: 2022-06-03T09:14:36+07:00
 draft: false
 weight: 3

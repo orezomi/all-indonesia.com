@@ -1,5 +1,6 @@
 ---
 title: "PPKn Kelas 8"
+linkTitle: "Kelas 8"
 date: 2022-06-01T21:51:30+07:00
 draft: false
 weight: 80

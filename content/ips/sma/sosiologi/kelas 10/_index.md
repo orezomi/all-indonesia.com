@@ -1,5 +1,6 @@
 ---
 title: "Sosiologi Kelas 10"
+linkTitle: "Kelas 10"
 date: 2022-06-03T10:24:42+07:00
 draft: false
 weight: 1

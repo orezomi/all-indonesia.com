@@ -1,5 +1,6 @@
 ---
 title: "PPKn Kelas 12"
+linkTitle: "Kelas 12"
 date: 2022-06-01T22:42:48+07:00
 draft: false
 type: docs

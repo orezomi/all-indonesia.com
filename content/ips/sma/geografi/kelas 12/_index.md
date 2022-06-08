@@ -1,5 +1,6 @@
 ---
 title: "Geografi Kelas 12"
+linkTitle: "Kelas 12"
 date: 2022-06-03T14:55:17+07:00
 draft: false
 type: docs

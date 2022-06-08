@@ -1,5 +1,6 @@
 ---
 title: "Sejarah Kelas 12"
+linkTitle: "Kelas 12"
 date: 2022-06-03T16:02:18+07:00
 draft: false
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: "Ekonomi Kelas 12"
+linkTitle: "Kelas 12"
 date: 2022-06-03T10:24:52+07:00
 draft: false
 weight: 3

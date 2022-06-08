@@ -1,5 +1,6 @@
 ---
 title: "Sejarah Indonesia Kelas 11"
+linkTitle: "Kelas 11"
 date: 2022-06-03T10:24:46+07:00
 draft: false
 weight: 2

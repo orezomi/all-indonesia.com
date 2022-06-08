@@ -1,5 +1,6 @@
 ---
 title: "PPKn Kelas 3"
+linkTitle: "Kelas 3"
 date: 2022-06-01T20:21:55+07:00
 draft: false
 type: docs

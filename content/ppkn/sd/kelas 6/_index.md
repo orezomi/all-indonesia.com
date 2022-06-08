@@ -1,5 +1,6 @@
 ---
 title: "PPKn Kelas 6"
+linkTitle: "Kelas 6"
 date: 2022-06-01T21:28:06+07:00
 draft: false
 weight: 60

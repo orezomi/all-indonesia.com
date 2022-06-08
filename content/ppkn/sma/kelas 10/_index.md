@@ -1,5 +1,6 @@
 ---
 title: "PPKn Kelas 10"
+linkTitle: "Kelas 10"
 date: 2022-06-01T22:30:10+07:00
 draft: false
 weight: 1
