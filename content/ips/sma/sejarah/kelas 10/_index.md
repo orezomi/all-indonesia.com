@@ -9,7 +9,7 @@ categories:
     - sejarah
     - kelas 10
 description: >
-    Fokus Pembelajaran Sejaran Kelas 10 adalah materi tentang Ilmu Sejarah, Metodologi Sejarah, dan Penulisan Sejarah Indonesia. Perkembangan Manusia Indonesia pada Zaman Pra-Aksara serta Perkembangan Tradisi Maratim dan Agraris pada Zaman Hindu/ Buddha/ Islam
+    Fokus Pembelajaran Sejarah Kelas 10 adalah materi tentang Ilmu Sejarah, Metodologi Sejarah, dan Penulisan Sejarah Indonesia. Perkembangan Manusia Indonesia pada Zaman Pra-Aksara serta Perkembangan Tradisi Maratim dan Agraris pada Zaman Hindu/ Buddha/ Islam
 ---
 
 ## Fokus Pembelajaran Sejarah Kelas 10
