@@ -6,8 +6,10 @@ draft: false
 weight: 1
 type: docs
 categories:
-    - sd/mi
+    - kelas 1
     - informatika
+description: >
+    Fokus pembelajaran informatika kelas 1 meliputi etika kesadaran mulai membangun kesadaran hidup digital, memahami konsep dasar perangkat lunak dan perangkat keras serta mulai keterampilan dekomposisi, abstraksi dan berpikir prosedural melalui permainan
 ---
 ## Fokus Pembelajaran Informatika Kelas 1
 
