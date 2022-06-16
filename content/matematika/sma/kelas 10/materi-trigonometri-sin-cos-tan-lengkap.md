@@ -157,7 +157,7 @@ $${\alpha \scriptstyle radian \over \pi\ rad}\ =\ {\alpha \scriptstyle derajat \
 |*Sektor atau Juring Lingkaran*|
 
 Rumus luas juring ***ABC*** adalah :
-$$Luas Juring ABC = {1\over 2}r^2\alpha \scriptstyle radian$$
+$$Luas\ Juring\ ABC = {1\over 2}r^2\alpha \scriptstyle radian$$
 
 ## Rasio atau Perbandingan Trigonometri Segitiga Siku Siku
 Nilai sinus, cosinus, tangen, secan, cosecan dan cotangen sudut ***α*** dalam segitiga berikut akan selalu tetap walaupun ukuran segitiga bertambah besar atau kecil.
