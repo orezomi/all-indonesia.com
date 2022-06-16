@@ -12,6 +12,7 @@ categories:
     - kelas 9
 katex: true
 markup: 'mmark'
+renderkatex: true
 ---
 
 ## Pumpunan Matematika Kelas 8

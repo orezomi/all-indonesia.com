@@ -12,6 +12,7 @@ description: >
     Pelajar kelas 8 perlu menekan pengembangan pada pumpunan di bawah ini, guna mengasah kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
 katex: true
 markup: 'mmark'
+renderkatex: true
 ---
 ## Pumpunan Matematika Kelas 8
 
