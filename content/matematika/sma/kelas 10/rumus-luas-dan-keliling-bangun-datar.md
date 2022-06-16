@@ -99,7 +99,7 @@ Rumus Luas Segitiga Sama Kaki di atas (dalam cm) adalah :
 $$Luas = {1\over 2}\times a\times t = {1\over 2}\times 4\times 6 = 12cm^2$$
 
 ## Luas Segitiga Dengan Trigonometri
-Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus [trigonometri](/materi/matematika/kelas-x/materi-trigonometri-sin-cos-tan-lengkap/). Berikut adalah penurunan rumusnya.
+Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus [trigonometri](/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/). Berikut adalah penurunan rumusnya.
 
 |[![Konsep Luas Segitiga dalam Trigonometri](/img/luas-segitiga-trigonometri.png "Konsep Luas Segitiga dalam Trigonometri")](/img/luas-segitiga-trigonometri.png)|
 |:--:|
