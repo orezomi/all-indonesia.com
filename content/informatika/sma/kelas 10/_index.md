@@ -1,6 +1,6 @@
 ---
 title: "Informatika Kelas 10"
-title: "Kelas 10"
+linkTitle: "Kelas 10"
 date: 2022-06-17T23:10:27+07:00
 draft: false
 weight: 1
