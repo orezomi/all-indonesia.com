@@ -9,14 +9,15 @@ categories:
     - matematika
     - kelas 6
 description: >
-    Dalam proses belajar para pelajar kelas 6, gabungkan pengetahuan dan keterampilan matematika di bawah ini menjelaskan muatan yang harus dikembangkan, dimana muatan- muatan tersebut ditujukan untuk mengasah kemampuan bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai sarana dan permasalahan dalam kehidupan yang terkait dengan matematika.
+    Fokus Pembelajaran Matematika SD Kelas 6 meliputi Membangun kelancaran pada operasi hitung berbagai bentuk bilangan (termasuk bilangan negatif) yang diterapkan dalam kejadian sehari-hari; Mengembangkan pengertian luas permukaan dan volume gabungan bidang ruang.
 ---
 ## Pumpunan Matematika Kelas 6
 Dalam proses belajar para pelajar kelas 6, gabungkan pengetahuan dan keterampilan matematika di bawah ini menjelaskan muatan yang harus dikembangkan, dimana muatan- muatan tersebut ditujukan untuk mengasah kemampuan bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai sarana dan permasalahan dalam kehidupan yang terkait dengan matematika.
 
 ### Bilangan dan Operasinya
-***Membangun kelancaran pada operasi hitung berbagai bentuk bilangan (termasuk bilangan negatif) yang diterapkan dalam kejadian sehari-hari
-Pelajar memperluas sistem bilangan dengan bilangan negatif.***
+***Membangun kelancaran pada operasi hitung berbagai bentuk bilangan (termasuk bilangan negatif) yang diterapkan dalam kejadian sehari-hari***
+
+Pelajar memperluas sistem bilangan dengan bilangan negatif.
 
 Pelajar mampu meletakkan berbagai bilangan (positif maupun negatif) pada garis bilangan.
 

@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 1
 description: >
-    Gabungan pengetahuan dan keterampilan dalam matematika berikut menjabarkan muatan yang mutlak harus dikembangkan para pelajar kelas Perlu diperhatikan bahwa dengan muatan-muatan ini, pelajar bahkan kelas 1 SD sudah memulai mengasah kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai medium.
+    Fokus Pembelajaran Matematika SD Kelas 1 meliputi Membangun pemahaman operasi penjumlahan dan pengurangan bilangan cacah serta strategi penghitungannya; Menyusun dan Mengurai Bangun Geometri; Penyelesaian Masalah sederhana; dan Bernalar sederhana.
 ---
 
 ## Pumpunan Matematika Kelas 1

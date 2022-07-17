@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 4
 description: >
-    Dalam proses belajar para pelajar kelas 4, gabungkan pengetahuan dan keterampilan matematika di bawah ini menjelaskan muatan yang harus dikembangkan, dimana muatan- muatan tersebut ditujukan untuk mengasah kemampuan bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai sarana dan permasalahan dalam kehidupan yang terkait dengan matematika.
+    Fokus Pembelajaran Matematika SD Kelas 4 Meliputi Membangun pemahaman operasi penjumlahan, pengurangan, perkalian dan pembagian (cacah dan pecahan) serta strategi penghitungannya pada berbagai bentuk bilangan; Mengembangkan pemahaman sudut dan luas bangun datar.
 ---
 
 ## Pumpunan Matematika Kelas 4

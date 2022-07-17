@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 5
 description: >
-    Dalam proses belajar para pelajar kelas 5, gabungkan pengetahuan dan keterampilan matematika di bawah ini menjelaskan muatan yang harus dikembangkan, dimana muatan- muatan tersebut ditujukan untuk mengasah kemampuan bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai sarana dan permasalahan dalam kehidupan yang terkait dengan matematika.
+    Fokus Pembelajaran Matematika SD Kelas 5 meliputi operasi penjumlahan, pengurangan, perkalian dan pembagian pada berbagai bentuk bilangan pecahan; Mengenal bangun ruang dan atributnya, serta volume dan luas permukaannya.
 ---
 ## Pumpunan Matematika Kelas 5
 Dalam proses belajar para pelajar kelas 5, gabungkan pengetahuan dan keterampilan matematika di bawah ini menjelaskan muatan yang harus dikembangkan, dimana muatan- muatan tersebut ditujukan untuk mengasah kemampuan bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai sarana dan permasalahan dalam kehidupan yang terkait dengan matematika.

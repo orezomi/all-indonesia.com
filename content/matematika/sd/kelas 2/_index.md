@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 2
 description: >
-    Tiga pumpunan mendasar berikut perlu memperoleh penekanan untuk dikembangkan para pelajar kelas 2. Dalam mempelajarinya, pelajar mengaitkan pumpunan di atas dengan kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus menyajikan dengan berbagai medium.
+    Fokus Pembelajaran Matematika SD Kelas 2 meliputi Membangun keterampilan membaca dan menulis bilangan dengan sistem nilai tempat basis-10 serta memahami konsep dasarnya; Membangun pemahaman pengukuran dan cara mengukur panjang.
 ---
 
 ## Pumpunan Matematika Kelas 2

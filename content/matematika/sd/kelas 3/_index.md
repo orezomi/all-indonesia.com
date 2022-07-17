@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 3
 description: >
-    Muatan yang harus ditekankan dan perlu dikembangkan para pelajar kelas 3 dalam proses belajar adalah pumpunan di bawah ini. Nantinya, pelajar kelas 3 mengaitkan pumpunan dengan kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus menyajikan dengan berbagai permasalahan 202 atematika yang dihadapinya.
+    Fokus Pembelajaran Matematika SD Kelas 3 meliputi Membangun keterampilan mengalikan dan membagi bilangan cacah dengan berbagai macam strategi, mengurutkan serta menjumlahkan dan mengurangkan pecahan sederhana beserta memahami konsep dasarnya; Mengenal atribut dari bangun datar dan bangun ruang serta membangun pemahaman pengukuran luas daerah.
 ---
 
 ## Pumpunan Matematika Kelas 3
