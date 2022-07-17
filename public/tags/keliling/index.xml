@@ -1,0 +1,157 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – keliling</title><link>https://www.all-indonesia.com/tags/keliling/</link><description>Recent content in keliling on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 08 May 2022 19:38:04 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/keliling/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Rumus Luas Dan Keliling Bangun Datar</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/</link><pubDate>Sun, 08 May 2022 19:38:04 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/</guid><description>
+&lt;p>Bangun datar adalah bentuk geometri dengan semua titik bangun atau titik sudut berada dalam satu bidang datar. Contohnya adalah segi empat, lingkaran, bujur sangkar, belah ketupat, jajaran genjang dan trapesium. Dalam matematika terdapat dua hal utama yang umum dihitung dalam bidang datar yaitu menghitung luas dan keliling.&lt;/p>
+&lt;p>Dalam artikel ini akan dibahas satu per satu secara terperinci bagaimana cara menghitungnya. Dilengkapi dengan gambar untuk membantu pemahaman kita.&lt;/p>
+&lt;h2 id="empat-persegi-panjang">Empat Persegi Panjang&lt;/h2>
+&lt;p>Persegi panjang adalah bangun datar dengan empat sisi dengan panjang sisi sejajar yang sama serta panjang sisi tegak lurus berbeda dan empat titik sudut yang memiliki sudut 90 derajat di keempat sudutnya. Berikut adalah contoh gambar persegi panjang dan cara menghitung luas dan kelilingnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/persegi-panjang.png">&lt;img src="https://www.all-indonesia.com/img/persegi-panjang.png" alt="Persegi Panjang" title="Persegi Panjang">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Persegi Panjang&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus keliling persegi panjang di atas dalam &lt;em>cm&lt;/em> adalah :
+$$Keliling = 2 \times (p + l) = 2 \times (5 + 4)cm = 18cm$$
+Rumus luas persegi panjang di atas adalah :
+$$Luas = p \times l = 5 cm \times 4 cm = 20 cm^2$$&lt;/p>
+&lt;h2 id="lingkaran">Lingkaran&lt;/h2>
+&lt;p>Lingkaran adalah garis melengkung yang kedua ujungnya bertemu pada jarak yang sama dari titik pusat. Jarak dari titik pusat lingkaran ke tepi lingkaran disebut dengan &lt;em>&lt;strong>jari-jari&lt;/strong>&lt;/em> atau &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Berikut adalah gambar lingkaran berikut dengan rumus menghitung keliling dan luasnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/lingkaran.png">&lt;img src="https://www.all-indonesia.com/img/lingkaran.png" alt="Lingkaran" title="Lingkaran">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Lingkaran&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus keliling lingkaran di atas dalam &lt;em>cm&lt;/em> adalah:
+$$Keliling\ Lingkaran = 2 \times \pi \times r = 2 \times {22 \over 7} \times 7 cm = 44 cm$$
+Rumus luas lingkaran di atas adalah:
+$$Luas\ Lingkaran = \pi \times r^2 = {22 \over 7} \times (7 cm)^2 = 154 cm^2$$&lt;/p>
+&lt;h2 id="bujur-sangkar">Bujur Sangkar&lt;/h2>
+&lt;p>Bujur sangkar adalah bangun datar segi empat yang memiliki panjang yang sama di keempat sisinya dan memiliki sudut 90 derajat di keempat sudutnya. berikut adalah gambar bujur sangkar dan cara menghitung luas dan kelilingnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/bujur-sangkar.png">&lt;img src="https://www.all-indonesia.com/img/bujur-sangkar.png" alt="Bujur Sangkar" title="Bujur Sangkar">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Bujur Sangkar&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus keliling bujur sangkar di atas dalam &lt;em>cm&lt;/em> adalah:
+$$Keliling Bujur Sangkar = 4 \times Panjang\ Sisi = 4 \times 5cm = 20cm$$&lt;/p>
+&lt;p>Rumus luas bujur sangkar di atas dalam &lt;em>cm&lt;/em> adalah :
+$$Luas\ Bujur\ Sangkar = {Panjang\ Sisi}^2 = 5^2 = 25cm^2$$&lt;/p>
+&lt;h2 id="segitiga-siku-siku">Segitiga Siku-Siku&lt;/h2>
+&lt;p>Segitiga adalah bidang datar yang memiliki 3(tiga) sisi. Sedangkan segitiga siku-siku adalah segitiga yang memiliki sudut 90 derajat di salah satu titik sudutnya. Rumus segitiga siku-siku untuk menghitung luas dan kelilingnya dapat dilihat di gambar berikut.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/segitiga-siku-siku.png">&lt;img src="https://www.all-indonesia.com/img/segitiga-siku-siku.png" alt="Segitiga Siku-Siku" title="Segitiga Siku Siku">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Segitiga Siku Siku&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus keliling segitiga siku-siku di atas (dalam cm) adalah :
+$$Keliling = a + t + r = 8cm + 6cm + \sqrt {8^2 + 6^2} = 24cm$$
+$$Luas = {1\over 2} \times a \times t = {1\over 2} \times 8cm \times 6cm = 24cm^2$$&lt;/p>
+&lt;h2 id="segitiga-sama-kaki">Segitiga Sama Kaki&lt;/h2>
+&lt;p>Segitiga sama kaki adalah bangun datar segitiga yang memiliki 2(dua) sisi yang sama panjang. Jika diperhatikan gambar segitiga sama kaki di atas, maka dua sisi yang sama panjang pada segitiga tersebut adalah sisi r. Perhitungan luas dan keliling segitiga ini dihitung menggunakan rumus geometri berikut:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/segitiga-sama-kaki.png">&lt;img src="https://www.all-indonesia.com/img/segitiga-sama-kaki.png" alt="Segitiga Sama Kaki" title="Segitiga Sama Kaki">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Segitiga Sama Kaki&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus Keliling Segitiga Sama Kaki di atas (dalam cm) adalah :
+$$Keliling = AB + AC + BC$$
+$$AB = AC$$
+$$Keliling = 2 \times AB + BC$$
+$$Keliling = 2 \sqrt{AD^2 + CD^2} + BC$$
+$$Keliling = 2 \sqrt{6^2 + 2^2} + 4$$
+$$Keliling = 2 \sqrt{40} + 4$$
+Rumus Luas Segitiga Sama Kaki di atas (dalam cm) adalah :
+$$Luas = {1\over 2}\times a\times t = {1\over 2}\times 4\times 6 = 12cm^2$$&lt;/p>
+&lt;h2 id="luas-segitiga-dengan-trigonometri">Luas Segitiga Dengan Trigonometri&lt;/h2>
+&lt;p>Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus &lt;a href="https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/">trigonometri&lt;/a>. Berikut adalah penurunan rumusnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/luas-segitiga-trigonometri.png">&lt;img src="https://www.all-indonesia.com/img/luas-segitiga-trigonometri.png" alt="Konsep Luas Segitiga dalam Trigonometri" title="Konsep Luas Segitiga dalam Trigonometri">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Konsep Luas Segitiga dalam Trigonometri&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>$$Luas\ ABC\ =\ {1\over 2}\times\ alas\ \times\ tinggi $$
+$$c=AB$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ f $$
+$${f\over sin(\alpha)}={b\over sin(90\degree)}$$
+$$f=b\ sin(\alpha)$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ b\ sin(\alpha) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ a\ sin(\beta) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$&lt;/p>
+&lt;h2 id="trapesium">Trapesium&lt;/h2>
+&lt;p>Trapesium adalah bangun datar bersegi empat yang dua sisinya sejajar namun tidak sama panjang. Rumus luas dan rumus keliling trapesium dapat dilihat pada gambar dan keterangan berikut&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/trapesium.png">&lt;img src="https://www.all-indonesia.com/img/trapesium.png" alt="Trapesium" title="Trapesium">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Trapesium&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Gambar trapesium di atas adalah trapesium simetris, artinya sisi miring AD dan BC adalah sama panjang sehingga trapesium tersebut memiliki bentuk yang sama antara sisi sebelah kanan dan sisi sebelah kiri. Jika sisi miring tidak sama panjang maka dinamakan dengan trapesium sembarang. Dan jika trapesium hanya memiliki satu sisi miring maka disebut dengan trapesium siku siku.&lt;/p>
+&lt;p>Rumus luas trapesium di atas (dalam cm) adalah :&lt;/p>
+&lt;p>$$Luas\ Trapesium = Panjang\ Rata-Rata\ Sisi\ Sejajar \times Tinggi\ Trapesium$$
+$$Luas\ Trapesium = {(DC+AB)\over 2}\times 3 = {(6+2)\over 2}\times 3 = 12cm^2$$&lt;/p>
+&lt;p>Rumus keliling trapesium di atas (dalam cm) adalah :&lt;/p>
+&lt;p>$$Keliling\ Trapesium = AB + CD + 2BC = 6+2+\sqrt{2^2+3^2} = 8+2\sqrt 13$$&lt;/p>
+&lt;h2 id="belah-ketupat">Belah Ketupat&lt;/h2>
+&lt;p>Belah ketupat adalah bangun datar yang memiliki empat buah rusuk atau sisi yang sama panjang dan memiliki dua pasang sudut bukan siku-siku yang masing-masing sama besar dengan sudut dihadapannya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/belahketupat.png">&lt;img src="https://www.all-indonesia.com/img/belahketupat.png" alt="Belah Ketupat" title="Belah Ketupat">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Belah Ketupat&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus luas dan keliling belah ketupat di atas adalah :
+$$Keliling = AB+BC+CD+DA = 4\times \sqrt{2^2+3^2} = 4\sqrt{13}$$
+$$Luas = {1\over 2}\times AC\times BD = {1\over 2}\times 6\times 4 = 12cm^2$$&lt;/p>
+&lt;p>Rumus rumus bangun datar untuk menghitung luas dan keliling persegi, lingkaran, segitiga, trapesium dan belah ketupat di atas merupakan sebagian dari banyak sekali turunan rumus-rumus bangun datar lainnya. Bentuk bangun dasar sangat bervariatif. Jenis segitiga, jenis trapesium dan lain-lain sangatlah beragam. Sehingga jika kita paham konsep dasar perhitungannya maka bukan tidak mungkin luas dan keliling dari bangun datar untuk diperoleh nilainya.&lt;/p></description></item></channel></rss>

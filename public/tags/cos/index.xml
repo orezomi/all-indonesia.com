@@ -1,0 +1,283 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – cos</title><link>https://www.all-indonesia.com/tags/cos/</link><description>Recent content in cos on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 14 May 2022 16:08:44 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/cos/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Materi Trigonometri Sin Cos Tan Lengkap</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</link><pubDate>Sat, 14 May 2022 16:08:44 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</guid><description>
+&lt;p>Trigonometri adalah bidang ilmu ukur sudut dan sempadan segitiga yang umum digunakan dalam ilmu astronomi atau perbintangan dan sebagainya (KBBI). Umumnya materi terkait trigonometri disajikan di sekolah mulai dari tingkat SMP dan akan lebih mendalam pada tingkat SMA dan Perguruan tinggi. Pada umumnya para siswa menyebut bidang ilmu matematika ini dengan sebutan pelajaran atau rumus &lt;em>&lt;strong>Sin Cos Tan&lt;/strong>&lt;/em>, karena mungkin lebih mudah untuk diingat.&lt;/p>
+&lt;p>Baik, kita akan menggunakan gambar berikut untuk menjelaskan konsep dasar trigonometri&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/konsep-trigonometri.png">&lt;img src="https://www.all-indonesia.com/img/konsep-trigonometri.png" alt="Konsep Trigonometri" title="Konsep Trigonometri">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Konsep Trigonometri&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Pada dasarnya gambar di atas merupakan lingkaran dengan jari-jari &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Di dalam lingkaran tersebut terdapatlah sebuah segitiga siku-siku &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em>. Uniknya, sisi miring segitiga siku siku ini adalah sama dengan jari-jari lingkaran yaitu &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Selain itu, segitiga dalam lingkaran ini juga memiliki 2 sisi lainnya yaitu sisi &lt;em>&lt;strong>c&lt;/strong>&lt;/em> dan &lt;em>&lt;strong>a&lt;/strong>&lt;/em>.&lt;/p>
+&lt;p>Segitiga ABC ini memiliki tiga sudut yang terdiri atas dua sudut lancip yaitu \(\alpha\) dan \(\gamma\) serta sebuah sudut siku siku yaitu \(\beta\). Kedepan sudut-sudut dan sisi-sisi inilah yang mengantar kita ke pemahaman materi trigonometri ini. Para siswa pada umumnya menyebut lingkaran ini dengan &amp;ldquo;Lingkaran sin cos tan&amp;rdquo;.&lt;/p>
+&lt;h2 id="rumus-nilai-cosinus-atau-cos">Rumus Nilai Cosinus atau Cos&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/gambar-rumus-cos.png">&lt;img src="https://www.all-indonesia.com/img/gambar-rumus-cos.png" alt="Gambar Konsep Nilai Cosinus" title="Gambar Konsep Nilai Cosinus">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Konsep Nilai Cosinus&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Nilai Cosinus atau Cos sebuah sudut \( (\alpha) \) dalam segitiga ABC di atas adalah :&lt;/p>
+&lt;p>$$Cos(\alpha) = {a\over r}$$&lt;/p>
+&lt;p>Jika kita perhatikan, segitiga &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em> di atas adalah segitiga siku siku dengan sisi &lt;em>&lt;strong>a&lt;/strong>&lt;/em>,&lt;em>&lt;strong>c&lt;/strong>&lt;/em> dan &lt;em>&lt;strong>r&lt;/strong>&lt;/em> dengan masing-masing memiliki panjang &lt;em>&lt;strong>a=3&lt;/strong>&lt;/em>, &lt;em>&lt;strong>c=4&lt;/strong>&lt;/em> sehingga &lt;em>&lt;strong>r=5&lt;/strong>&lt;/em>. Dengan demikian, nilai \(Cos(\alpha)\) adalah:&lt;/p>
+&lt;p>$$Cos(\alpha) = {c\over r} = {4\over 5} = 0,8$$&lt;/p>
+&lt;h2 id="rumus-nilai-sinus-atau-sin">Rumus Nilai Sinus atau Sin&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/gambar-rumus-cos.png">&lt;img src="https://www.all-indonesia.com/img/gambar-rumus-cos.png" alt="Gambar Konsep Nilai Sinus" title="Gambar Konsep Nilai Sinus">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Konsep Nilai Sinus&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Kembali perhatikan segitiga &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em> di atas. Dengan panjang &lt;em>&lt;strong>c = 4&lt;/strong>&lt;/em>, &lt;em>&lt;strong>a=3&lt;/strong>&lt;/em> dan &lt;em>&lt;strong>r=5&lt;/strong>&lt;/em> maka nilai Sinus atau Sin sudut \((\alpha)\) adalah :&lt;/p>
+&lt;p>$$Sin(\alpha) = {a\over r} = {3\over 5} = 0,6$$&lt;/p>
+&lt;h2 id="rumus-nilai-tangen-atau-tan">Rumus Nilai Tangen atau Tan&lt;/h2>
+&lt;p>Dalam segitiga &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em> di atas, nilai tangen dari sudut \((\alpha)\) adalah :
+$$Tan(\alpha) = {a\over c} = {3\over 4} = 0,75$$&lt;/p>
+&lt;h2 id="tabel-trigonometri">Tabel Trigonometri&lt;/h2>
+&lt;p>Dalam praktiknya, sudut \((\alpha)\) dapat bergerak dari \(0\degree\) sampai dengan satu putaran penuh yaitu \(360\degree\). Hal ini menyebabkan nilai sin, cos dan tan dari setiap sudut untuk seluruh putaran adalah bervariasi. Lebih lengkapnya dapat dilihat pada tabel trigonometri berikut ini :&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/tabel-trigonometri-kuno.jpeg">&lt;img src="https://www.all-indonesia.com/img/tabel-trigonometri-kuno.jpeg" alt="Tabel Trigonometri Kuno" title="Tabel Trigonometri Kuno">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Tabel Trigonometri Kuno &amp;ndash; Wikipedia&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/trigonometri-excel.webp">&lt;img src="https://www.all-indonesia.com/img/trigonometri-excel.webp" alt="Tabel Trigonometri Menggunakan Excel" title="Tabel Trigonometri Menggunakan Excel">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Tabel Trigonometri \(0-30\degree\) Menggunakan Excel&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;a href="https://drive.google.com/file/d/1hepgB4TTaVyICphCUDWP-R5zyF-OL3ev/view?usp=sharing">Download Tabel Trigonometri&lt;/a>&lt;/p>
+&lt;h2 id="grafik-sin-cos-tan">Grafik Sin, Cos, Tan&lt;/h2>
+&lt;p>Dari tabel trigonometri atau tabel sin,cos, tan di atas kita dapat membuat grafik dengan menggunakan MsExcel atau aplikasi lainnya. Dalam grafik ini, sudut ditampilkan dalam \(\pi\) radian. Nilai \(\pi\) radian sama dengan \(180\degree\). Dengan demikian sudut \(1\degree\) sama nilainya dengan \({\pi\over 180}\), kemudian sudut \(2\degree\) sama nilainya dengan \({2\pi\over 180}\) dan seterusnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/grafik-cos-dalam-pi.png">&lt;img src="https://www.all-indonesia.com/img/grafik-cos-dalam-pi.png" alt="Grafik Cos dalam Pi Radian" title="Grafik Cos dalam Pi Radian">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Grafik Cos Dalam Pi Radian&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/grafik-sin-dalam-pi-radian.png">&lt;img src="https://www.all-indonesia.com/img/grafik-sin-dalam-pi-radian.png" alt="Grafik Sin dalam Pi Radian" title="Grafik Sin dalam Pi Radian">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Grafik Sin Dalam Pi Radian&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/grafik-tan-radian.png">&lt;img src="https://www.all-indonesia.com/img/grafik-tan-radian.png" alt="Grafik Tan dalam Pi Radian" title="Grafik Sin dalam Pi Radian">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Grafik Tan Dalam Pi Radian&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Jika diperhatikan grafik fungsi trigonometri dasar di atas, grafik fungsi sinus dan grafik fungsi cosinus memiliki kemiripan yaitu seperti gelombang teratur yang berulang-ulang. Namun jika dicermati kembali, dapat dilihat bahwa grafik fungsi cosinus di titik &lt;em>&lt;strong>x=0&lt;/strong>&lt;/em> dimulai dari nilai &lt;em>&lt;strong>y=1&lt;/strong>&lt;/em> sedangkan grafik fungsi sinus di titik &lt;em>&lt;strong>x=0&lt;/strong>&lt;/em> dimulai dari nilai &lt;em>&lt;strong>y=0&lt;/strong>&lt;/em>.&lt;/p>
+&lt;p>Jika dihubungkan ke gambar segitiga konsep trigonometri yang ada di atas di awal materi ini maka untuk sudut \((\alpha)\) maka nilai Sin \((\alpha)\) adalah sama dengan &lt;em>&lt;strong>0/r&lt;/strong>&lt;/em> yaitu &lt;em>&lt;strong>0&lt;/strong>&lt;/em>. Sedangkan nilai Cos \((\alpha)\) adalah sama dengan &lt;em>&lt;strong>c/r&lt;/strong>&lt;/em> dimana &lt;em>&lt;strong>c=r&lt;/strong>&lt;/em> karena di sudut sisi miring &lt;em>&lt;strong>AC&lt;/strong>&lt;/em> akan sejajar dengan sumbu &lt;em>&lt;strong>x&lt;/strong>&lt;/em> sehingga nilai &lt;em>&lt;strong>Cos(0)&lt;/strong>&lt;/em> menjadi sama dengan &lt;em>&lt;strong>1&lt;/strong>&lt;/em>.&lt;/p>
+&lt;h2 id="tabel-trigonometri-sin-cos-tan-sudut-istimewa">Tabel Trigonometri (Sin Cos Tan) Sudut Istimewa&lt;/h2>
+&lt;p>Dalam satu putaran penuh \(360\degree\) terdapat sudut-sudut istimewa yang ditandai dengan nilai sin cos tan yang istimewa. Berikut ini adalah tabel sin cos tan sudut istimewa.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/tabel-sin-cos-tan-istimewa.png">&lt;img src="https://www.all-indonesia.com/img/tabel-sin-cos-tan-istimewa.png" alt="Tabel Sin Cos Tan Sudut Istimewa" title="Tabel Sin Cos Tan Sudut Istimewa">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Tabel Sin Cos Tan Sudut Istimewa&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/tabel-sin-cos-tan-istimewa-warna.png">&lt;img src="https://www.all-indonesia.com/img/tabel-sin-cos-tan-istimewa-warna.png" alt="Tabel Sin Cos Tan Sudut Istimewa Berwarna" title="Tabel Sin Cos Tan Sudut Istimewa Berwarna">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Tabel Sin Cos Tan Sudut Istimewa Berwarna&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="trigonometri-dalam-kehidupan-sehari-hari">Trigonometri Dalam Kehidupan Sehari Hari&lt;/h2>
+&lt;p>Dalam kehidupan sehari-hari kita dapat memanfaatkan fungsi trigonometri dasar untuk mengukur ketinggian gedung atau bangunan yang tinggi tanpa harus mengukur langsung bangunan tersebut menggunakan alat ukur panjang. Sebagai contoh soal, kita perhatikan gambar berikut&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/trigonometri-sehari-hari.png">&lt;img src="https://www.all-indonesia.com/img/trigonometri-sehari-hari.png" alt="Trigonometri Dalam Kehidupan Sehari-hari" title="Trigonometri Dalam Kehidupan Sehari-hari">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Trigonometri Dalam Kehidupan Sehari-hari&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Berapakah tinggi pohon tersebut? kita dapat menghitung ketinggian pohon dengan fungsi trigonometri yang telah kita pelajari di materi ini.&lt;/p>
+&lt;p>$$tan(\theta) = {y\over x}$$
+$$y\ =\ x\ tan(\theta) = 70ft \times tan(31,8\degree)\ =\ 44ft$$&lt;/p>
+&lt;p>Jadi kita dapat kita ketahui bahwa tinggi pohon tersebut adalah 44 feet. Dalam mengukur sudut kemiringan kita dapat gunakan aplikasi di smartphone.&lt;/p>
+&lt;h2 id="perbandingan-trigonometri">Perbandingan Trigonometri&lt;/h2>
+&lt;p>Dalam trigonometri terdapat 2(dua) satuan pengukuran sudut yaitu derajat dan radian. Berikut adalah penjelasannya.&lt;/p>
+&lt;h3 id="derajat">Derajat&lt;/h3>
+&lt;p>Sudut dalam satu putaran penuh disebut dengan sudut 360 derajat. Jika kita membagi lingkaran menjadi 360 juring yang sama maka satu bagian ini disebut dengan 1 derajat. 1 derajat ini dibagi menjadi 60 menit dan satu menit dibagi dalam 60 detik. Dengan demikian maka
+$$1\degree\ =\ 60&amp;rsquo;\ =\ 3600&amp;quot;$$&lt;/p>
+&lt;h3 id="radian">Radian&lt;/h3>
+&lt;p>Satuan ukuran sudut selain derajat adalah radian, perhatikan gambar berikut untuk memahami konsep radian.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/radian.png">&lt;img src="https://www.all-indonesia.com/img/radian.png" alt="Sudut dalam Radian" title="Sudut dalam Radian">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Sudut dalam Radian&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Sudut Α dalam radian besarnya adalah panjang busur &lt;em>&lt;strong>s&lt;/strong>&lt;/em> dibagi dengan jari-jari &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Dengan demikian persamaannya adalah sebagai berikut&lt;/p>
+&lt;p>$$\alpha\ =\ {s\over r} radian$$&lt;/p>
+&lt;p>Jika kita mendapati panjang busur &lt;em>&lt;strong>s&lt;/strong>&lt;/em> sama dengan jari jari &lt;em>&lt;strong>r&lt;/strong>&lt;/em> atau &lt;em>&lt;strong>s=r&lt;/strong>&lt;/em> maka akan didapatkan besar sudut 1 radian yaitu&lt;/p>
+&lt;p>$$\alpha\ =\ {s\over r} radian\ =\ 1\ radian\ \approx\ 57,296\degree$$&lt;/p>
+&lt;p>Dengan demikian, 1 radian adalah sudut pusat lingkaran dimana panjang busurnya sama dengan jari jari lingkaran tersebut. Besar sudut 1 radian juga sama dengan&lt;/p>
+&lt;p>$${180\over \pi}\ \approx\ 57,296\degree$$&lt;/p>
+&lt;p>Untuk mengkonversi sudut dari satuan derajat ke radian dapat digunakan rumus berikut,&lt;/p>
+&lt;p>$${\alpha \scriptstyle radian \over \pi\ rad}\ =\ {\alpha \scriptstyle derajat \over 180\degree}$$&lt;/p>
+&lt;h2 id="sektor-atau-juring-lingkaran">Sektor atau Juring Lingkaran&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/juring-lingkaran.png">&lt;img src="https://www.all-indonesia.com/img/juring-lingkaran.png" alt="Sektor atau Juring Lingkaran" title="Sektor atau Juring Lingkaran">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Sektor atau Juring Lingkaran&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus luas juring &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em> adalah :
+$$Luas\ Juring\ ABC = {1\over 2}r^2\alpha \scriptstyle radian$$&lt;/p>
+&lt;h2 id="rasio-atau-perbandingan-trigonometri-segitiga-siku-siku">Rasio atau Perbandingan Trigonometri Segitiga Siku Siku&lt;/h2>
+&lt;p>Nilai sinus, cosinus, tangen, secan, cosecan dan cotangen sudut &lt;em>&lt;strong>α&lt;/strong>&lt;/em> dalam segitiga berikut akan selalu tetap walaupun ukuran segitiga bertambah besar atau kecil.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/perbandingan-trigonometri.png">&lt;img src="https://www.all-indonesia.com/img/perbandingan-trigonometri.png" alt="Segitiga Perbandingan Trigonometri" title="Segitiga Perbandingan Trigonometri">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Segitiga Perbandingan Trigonometri&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>$$Sin\ \alpha\ =\ {BC\over AB}\ =\ {DE\over AD}\ =\ &amp;hellip;$$
+$$Cos\ \alpha\ =\ {AC\over AB}\ =\ {AE\over AD}\ =\ &amp;hellip;$$
+$$Tan\ \alpha\ =\ {BC\over AC}\ =\ {DE\over AE}\ =\ &amp;hellip;$$
+$$Cosec\ \alpha\ =\ {AB\over BC}\ =\ {AD\over DE}\ =\ &amp;hellip;$$
+$$Sec\ \alpha\ =\ {AB\over AC}\ =\ {AD\over AE}\ =\ &amp;hellip;$$
+$$Cotan\ \alpha\ =\ {AC\over BC}\ =\ {AE\over DE}\ =\ &amp;hellip;$$&lt;/p>
+&lt;h2 id="identitas-trigonometri">Identitas Trigonometri&lt;/h2>
+&lt;p>$$Cosec\ \alpha\ =\ {1\over sin\ \alpha}$$
+$$Sec\ \alpha\ =\ {1\over cos\ \alpha}$$
+$$Cot\ \alpha\ =\ {1\over tan\ \alpha}$$
+$$Tan\ \alpha\ =\ {sin\ \alpha \over cos\ \alpha}$$
+$$Cot\ \alpha\ =\ {cos\ \alpha \over sin\ \alpha}$$
+$$Cos(-\alpha)=Cos(\alpha)$$
+$$Sin(-\alpha)=-Sin(\alpha)$$
+$$Tan(-\alpha)=-Tan(\alpha)$$&lt;/p>
+&lt;h2 id="dalil-sinus">Dalil Sinus&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/dalil-sinus.png">&lt;img src="https://www.all-indonesia.com/img/dalil-sinus.png" alt="Segitiga Konsep Dalil Sinus dan Dalil Cosinus" title="Segitiga Konsep Dalil Sinus dan Dalil Cosinus">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Segitiga Konsep Dalil Sinus dan Dalil Cosinus&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>$${a\over sin(\alpha)}={b\over sin(\beta)}={c\over sin(\gamma)}$$&lt;/p>
+&lt;h2 id="dalil-cosinus">Dalil Cosinus&lt;/h2>
+&lt;p>$$a^2=b^2+c^2-2bc\ Cos(\alpha)$$
+$$b^2=c^2+a^2-2ca\ Cos(\beta)$$
+$$c^2=a^2+b^2-2ab\ Cos(\gamma)$$&lt;/p>
+&lt;h2 id="luas-segitiga-dengan-trigonometri">Luas Segitiga Dengan Trigonometri&lt;/h2>
+&lt;p>Luas segitiga dengan perhitungan konvensional telah dibahas di artikel &lt;a href="https://www.all-indonesia.com/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/">Rumus Luas Dan Keliling Bangun Datar&lt;/a>. Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus trigonometri. Berikut adalah penurunan rumusnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/luas-segitiga-trigonometri.png">&lt;img src="https://www.all-indonesia.com/img/luas-segitiga-trigonometri.png" alt="Konsep Luas Segitiga dalam Trigonometri" title="Konsep Luas Segitiga dalam Trigonometri">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Konsep Luas Segitiga dalam Trigonometri&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>$$Luas\ ABC\ =\ {1\over 2}\times\ alas\ \times\ tinggi $$
+$$c=AB$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ f $$
+$${f\over sin(\alpha)}={b\over sin(90\degree)}$$
+$$f=b\ sin(\alpha)$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ b\ sin(\alpha) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ a\ sin(\beta) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$&lt;/p>
+&lt;h2 id="penutup">Penutup&lt;/h2>
+&lt;p>Demikian bahasan singkat mengenai materi trigonometri. Sebagai kesimpulan, beberapa yang telah kita pelajari dalam materi ini adalah :&lt;/p>
+&lt;ol>
+&lt;li>Konsep dasar trigonometri (sin, cos dan tan) menggunakan segitiga dan lingkaran konsep trigonometri&lt;/li>
+&lt;li>Tabel trigonometri&lt;/li>
+&lt;li>Grafik Trigonometri&lt;/li>
+&lt;li>Contoh penerapan rumus trigonometri dasar dalam kehidupan sehari-hari&lt;/li>
+&lt;li>Perbandingan Trigonometri yang terdiri atas pengukuran sudut, identitas trigonometri, perbandingan trigomometri dalam segitiga siku-siku, dalil sinus, dalil cosinus dan luas segitiga dalam trigonometri.&lt;/li>
+&lt;/ol></description></item></channel></rss>

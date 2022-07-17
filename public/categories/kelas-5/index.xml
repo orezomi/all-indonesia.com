@@ -1,0 +1,180 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – kelas 5</title><link>https://www.all-indonesia.com/categories/kelas-5/</link><description>Recent content in kelas 5 on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 16 Jun 2022 19:23:34 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/categories/kelas-5/index.xml" rel="self" type="application/rss+xml"/><item><title>Informatika: Informatika Kelas 5</title><link>https://www.all-indonesia.com/informatika/sd/kelas-5/</link><pubDate>Thu, 16 Jun 2022 19:23:34 +0700</pubDate><guid>https://www.all-indonesia.com/informatika/sd/kelas-5/</guid><description>
+&lt;h2 id="fokus-pembelajaran-informatika-kelas-5">Fokus Pembelajaran Informatika Kelas 5&lt;/h2>
+&lt;h3 id="etika-dan-kesadaran">Etika dan Kesadaran&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Memprediksi teknologi, mengapresiasi karya, dan waspada pada dampak teknologi&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Siswa, setelah sebelumnya mengetahui progresi teknologi dan dampak teknologi pada masyarakat, mendiskusikan prediksi kemajuan teknologi dalam sepuluh tahun ke depan. Siswa berdiskusi bagaimana teknologi yang sekarang ada bisa ditingkatkan lagi, dengan mempertimbangkan aksesibilitas, usabilitas, kebutuhan pengguna yang beragam, keinginan/selera pengguna yang bermacam-macam.&lt;/p>
+&lt;p>Siswa menghargai karya orang lain dengan mencantumkan sumbernya saat mengerjakan tugas. Siswa juga membuat daftar kontribusi “siapa telah berkontribusi apa” saat mengerjakan tugas dan presentasi, termasuk teman/orang lain di luar kelompoknya.
+Siswa memberi feedback dengan cara yang positif pada presentasi temannya, secara tertulis maupun oral.&lt;/p>
+&lt;p>Siswa sadar potensi positif dan negatif teknologi online, dan bisa mengidentifikasi jika ada sesuatu yang mencurigakan muncul. Siswa berinteraksi dan bekerja online dengan tidak membayakan dirinya ataupun orang lain.&lt;/p>
+&lt;h3 id="pengetahuan-dan-ketrampilan">Pengetahuan dan Ketrampilan&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Memodelkan komputer, mempelajari aplikasi pengolah kata/gambar/presentasi&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Melanjutkan dari kelas empat, siswa memahami aspek hardware dan software suatu desain. Siswa memahami prinsip kerja dan interaksi antar komponen dalam komputer. Siswa dapat membuat model cara kerja komputer (dan perangkat komputasi pada umumnya) dengan menggambar diagram blok dan menceritakan cara kerja dan aliran datanya. Siswa melakukan hal yang sama untuk koneksi antar perangkat, dan koneksi ke internet. Lewat mesin pencari, siswa mengenal pencarian kata, pencarian frase, dan beberapa pencarian lanjutan.&lt;/p>
+&lt;p>Siswa dapat mengoperasikan aplikasi pengolah kata, pengolah gambar bitmap, dan presentasi. Jika kondisi memungkinkan, siswa menggunakan aplikasi presentasi dalam pelajaran lain.&lt;/p>
+&lt;h3 id="berpikir-komputasi">Berpikir komputasi&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Mengenal searching, sorting, dan binary search&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Melanjutkan dari kelas sebelumnya sebelumnya, siswa pada tingkat ini sudah terampil dalam melakukan dekomposisi, baik dekomposisi konsep maupun dekomposisi langkah- waktu (misal untuk sebuah tugas sekolah). Siswa mampu membuat dan mempresentasikan proses berisi prosedur bercabang. Siswa mampu melakukan abstraksi dan generalisasi untuk hal-hal sederhana. Siswa memahami bahwa taksonomi biologi berawal dari pengamatan seperti ini (ada hewan bertulang belakang, ada hewan yang tidak bertulang belakang, ada hewan ber sel satu, dst. Di antara hewan bertulang belakang, ada yang melahirkan-menyusui, ada yang bertelur, ada yang berinsang dan hidup di air, dst.)&lt;/p>
+&lt;p>Siswa diberi permasalahan pencarian benda terberat: ada 10 buah mangga di sebuah karung, bagaimanakah menemukan mangga yang paling berat? Dari sini, siswa diminta menemukan dan mengungkapkan (oral dan tertulis) algoritma pencarian benda terberat.&lt;/p>
+&lt;p>Pengurutan: diberikan sekolompok objek (misal kartu) bertuliskan angka, siswa diminta mengurutkan dari kecil ke besar. Siswa mengungkapkan prosedur pengurutan yang dia lakukan. Di lapangan terbuka, siswa melakukan permainan sorting network. Siswa melakukan pengurutan untuk hal-hal lain melalui permainan. Misal: siswa masuk ke suatu ruangan satu-per-satu untuk berbaris satu shaf, mereka menempatkan diri sesuai tanggal lahir mereka (hanya tanggal lahir, tanpa bulan tanpa tahun). Di kesempatan lain, hanya bulan.&lt;/p>
+&lt;p>Siswa menemukan bahwa setidaknya ada tiga algoritma sederhana dalam pengurutan: bubble sort, insertion sort, dan selection sort. Siswa menemukan bahwa insertion sort dan selection sort lebih efisien dibandingkan bubble sort yang lambat. Siswa melakukan permainan tebak angka binary-search dengan jangkauan 1 sampai 10, lalu 1 sampai 100, bahkan 1 sampai 1000.&lt;/p>
+&lt;h3 id="pemrograman-dan-struktur-data">Pemrograman dan Struktur Data&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Mengenal pemrograman visual&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Jika memungkinan (SDM+Fasilitas), siswa mengenal pemrograman visual (misal Scratch). Siswa mengenal variable, data type, conditional statement, loop, dan I/O. Siswa mampu membuat berbagai karya-karya sederhana dengan ini. Ko-kurikuler atau Ekstrakurikuler: siswa yang berminat dapat dikenalkan dengan pemrograman teks seperti Python.&lt;/p>
+&lt;h3 id="sasaran-kompetensi-yang-diharapkan">Sasaran Kompetensi yang Diharapkan&lt;/h3>
+&lt;ul>
+&lt;li>menunjukan kebiasaan berperilaku sebagai warga negara yang baik&lt;/li>
+&lt;li>menunjukkan kebiasaan berinteraksi secara sopan, santun, dan terbuka dalam keberagaman masyarakat&lt;/li>
+&lt;li>menunjukkan kebiasaan mematuhi tata tertib, peraturan, dan norma sosial&lt;/li>
+&lt;li>menunjukkan kebiasaan bersikap dan berperilaku jujur&lt;/li>
+&lt;li>menunjukkan kebiasaan hidup gotong-royong (kolaborasi), adaptif, mandiri, kreatif, produktif, dan inovatif yang bermanfaat bagi dirinya&lt;/li>
+&lt;li>menunjukkan kemampuan berkomunikasi tingkat dasar dengan Bahasa Indonesia secara lisan dan tulis dalam interaksi sehari-hari&lt;/li>
+&lt;li>menunjukkan rasa ingin tahu dan kegemaran terhadap matematika, ilmu pengetahuan, teknologi, seni, dan budaya&lt;/li>
+&lt;li>menunjukkan kegemaran memanfaatkan informatika secara selektif dalam kehidupan sehari-hari&lt;/li>
+&lt;/ul></description></item><item><title>Ips: IPS Kelas 5</title><link>https://www.all-indonesia.com/ips/sd/kelas-5/</link><pubDate>Fri, 03 Jun 2022 09:25:22 +0700</pubDate><guid>https://www.all-indonesia.com/ips/sd/kelas-5/</guid><description>
+&lt;h2 id="fokus-pembelajaran-ips-kelas-5">Fokus Pembelajaran IPS Kelas 5&lt;/h2>
+&lt;h3 id="geografi-dan-sosiologi">Geografi dan Sosiologi&lt;/h3>
+&lt;p>Bencana Alam dan Sosial di Provinsi atau Pulau/ Kelompok Pulau
+Peserta didik mengenali jenis dan frekuensi bencana alam di lingkungan provinsi, mengidentifikasi faktor-faktor penyebab bencana, serta mengkaji dampak sosial akibat bencana alam, seperti trauma, kesenjangan sosial, konflik perebutan sumber daya, perubahan tata nilai dan kebiasaan masyarakat, melalui kegiatan tanya jawab dan pengamatan langsung maupun tidak langsung melalui penggunaan berbagai sumber belajar.&lt;/p>
+&lt;h3 id="sejarah-sosiologi-dan-ekonomi">Sejarah, Sosiologi, dan Ekonomi&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Kisah Perjuangan Tokoh Pada Zaman Penjajahan Barat&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik mengenali tokoh dan tempat perjuangannya pada zaman penjajahan Barat, mengidentifikasi peran tokoh dan dampak perjuangan, mengkaji kesadaran, gagasan, peranan tokoh dalam memperbaiki strategi perjuangan merebut kemerdekaan serta nilai penting tokoh untuk diterapkan di masa sekarang, melalui kegiatan diskusi dan penelusuran literatur dari berbagai sumber belajar.&lt;/p>
+&lt;h3 id="sosiologi-dan-ekonomi">Sosiologi dan Ekonomi&lt;/h3>
+&lt;p>***Interaksi dalam Kehidupan Sosial, Ekonomi, dan Budaya ***&lt;/p>
+&lt;p>Peserta didik mengenali proses interaksi antar individu yang beragam secara langsung dan melalui media sosial dalam kehidupan sosial, ekonomi, dan budaya, serta mengkaji bentuk interaksi dan permasalahan yang muncul dalam interaksi, melalui kegiatan wawancara, diskusi dan pengamatan langsung dan tidak langsung dari berbagi sumber belajar. Interaksi dalam kehidupan sosial dapat berupa interaksi pertemanan; ekonomi misalnya kegiatan jual beli; membeli produk dalam negeri; budaya berupa interaksi dalam kegiatan perayaan agama, upacara adat.&lt;/p>
+&lt;h3 id="ekonomi">Ekonomi&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Peran Pasar dalam Kegiatan Ekonomi dan Etika Perilaku Ekonomi&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik mengenali kegiatan pasar, peran pasar sebagai penggerak kegiatan ekonomi di pedesaan dan perkotaan, kegiatan jual beli yang memanfaatkan kemajuan teknologi informasi dan komunikasi (jual beli online), serta mengkaji etika moral Pancasila yang harus dipertimbangkan dalam berperilaku ekonomi agar tidak merugikan lingkungan sosial maupun fisik. Hal ini dilakukan dengan melakukan pengamatan lingkungannya, wawancara dengan orang tuanya, dan/atau mencari informasi melalui media sosial dan media cetak. Kemudian dilanjutkan dengan presentasi secara acak di kelas atas informasi yang diperolehnya&lt;/p>
+&lt;h3 id="sasaran-kompetensi-yang-diharapkan">Sasaran Kompetensi yang Diharapkan&lt;/h3>
+&lt;ul>
+&lt;li>Menunjukkan kebiasaan peduli terhadap lingkungan alam dan sosial.&lt;/li>
+&lt;li>Menunjukkan kecintaan dan kebanggaan terhadap tanah air, bangsa, dan negara serta sejarahnya.&lt;/li>
+&lt;li>Menunjukkan kebiasaan berinteraksi secara baik sehari-hari dalam kehidupan sosial, ekonomi, dan budaya.&lt;/li>
+&lt;li>Menunjukkan kebiasaan hidup gotong-royong, adaptif, kreatif, produktif yang bermanfaat bagi diri dan masyarakat.&lt;/li>
+&lt;/ul></description></item><item><title>Bahasa: Bahasa Kelas 5</title><link>https://www.all-indonesia.com/bahasa/sd/kelas-5/</link><pubDate>Mon, 30 May 2022 00:57:11 +0700</pubDate><guid>https://www.all-indonesia.com/bahasa/sd/kelas-5/</guid><description>
+&lt;h2 id="fokus-pembelajaran-bahasa-kelas-5">Fokus Pembelajaran Bahasa Kelas 5&lt;/h2>
+&lt;hr>
+&lt;h3 id="fokus-pembelajaran-bahasa-indonesia-kelas-5">Fokus Pembelajaran Bahasa Indonesia Kelas 5&lt;/h3>
+&lt;h4 id="keterampilan-menyimak-berbicara">Keterampilan Menyimak, Berbicara&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Menyimak cerita menulis isi cerita, dan menyampaikan secara lisan&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik menyimak cerita atau video yang memuat empat sikap sosial: percaya diri, jujur, kritis, dan tanggung jawab. Secara kreatif peserta didik menuliskan keempat sikap sosial tersebut dalam bentuk fiksi maupun nonfiksi. Hasil tulisan diceritakan kembali secara lisan.&lt;/p>
+&lt;h4 id="keterampilan-membaca-menulis-berbicara">Keterampilan Membaca, Menulis, berbicara&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Membaca dan menyusun kalimat lalu bermain peran&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Melalui tugas yang diberikan guru, peserta didik menyusun potongan-potongan teks menjadi sebuah cerita yang runtut dalam bentuk dialog. Berdasarkan cerita yang telah disusun, peserta didik bermain peran bersama temannya baik laki-laki maupun perempuan. Peserta didik menghayati peran yang dimainkan.&lt;/p>
+&lt;h4 id="keterampilan-membaca-menulis">Keterampilan Membaca, Menulis&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Menulis surat undangan dan surat pribadi&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik membaca beberapa contoh surat undangan dan surat pribadi serta menyebutkan unsur surat dan fungsinya dalam kegiatan komunikasi. Peserta didik menulis surat undangan’ dan ‘surat pribadi’ sesuai konteks.&lt;/p>
+&lt;h4 id="keterampilan-membaca-menulis-menyimak-berbicara">Keterampilan Membaca-Menulis, Menyimak-Berbicara&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Menyusun kalimat&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Melalui teks tulis dan lisan yang dibaca dan/ atau disimak, peserta didik menentukan gagasan dan menata gagasan secara runtut dengan menggunakan bahasa yang sederhana. Peserta didik menyusun pola kalimat lengkap sederhana (SPOK, KSPO) serta mempresentasikan hasilnya di depan kelas.&lt;/p>
+&lt;h4 id="sasaran-kompetensi-yang-diharapkan">Sasaran Kompetensi yang diharapkan&lt;/h4>
+&lt;ul>
+&lt;li>Menunjukkan kebiasaan menyimak, menulis, bercerita secara kreatif baik fiksi maupun nonfiksi dalam komunikasi lisan maupun tulis.&lt;/li>
+&lt;li>Menunjukkan kemampuan berkomunikasi tingkat dasar dengan bahasa Indonesia secara lisan dan tulis dalam interaksi sehari-hari.&lt;/li>
+&lt;li>Peserta didik menunjukkan rasa ingin tahu dan kegemaran menulis sesuai konteks.&lt;/li>
+&lt;li>Menunjukkan kemampuan berkomunikasi tingkat dasar dengan bahasa Indonesia secara lisan dan tulis dalam interaksi sehari-hari.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="fokus-pembelajaran-bahasa-inggris-kelas-5">Fokus Pembelajaran Bahasa Inggris Kelas 5&lt;/h3>
+&lt;h4 id="keterampilan-menyimak-dan-berbicara">Keterampilan Menyimak dan Berbicara&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Melakukan komunikasi lisan sesuai dengan konteks&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik menyimak teks lisan dan/atau visual dalam bahasa Inggris yang mengajarkan cara mengundang teman. Setelah menyimak, peserta didik meniru apa yang disimaknya. Peserta didik mempraktikkan komunikasi lisan sesuai konteks dalam bahasa Inggris.&lt;/p>
+&lt;h4 id="keterampilan-membaca-menulis-1">Keterampilan Membaca, Menulis&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Membaca lancar dan menyalin&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Melalui teks tulis dan/atau visual berbahasa Inggris peserta didik (1) melafalkan bunyi bahasa sesuai dengan pengucapan secara benar; (2) mengenal kata, contoh: &lt;em>it&amp;rsquo;s, our, their, a/one thousand and one,&amp;hellip;, a/one million&lt;/em>; (3) membaca kalimat perintah, contoh: sit down, stand up, come here, dan sebagainya dengan lancar. Peserta menyalin kata dan kalimat sesuai dengan konteks.&lt;/p>
+&lt;h4 id="keterampilan-membaca">Keterampilan Membaca&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Membaca kalimat sederhana&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Melalui teks tulis dan/atau visual sederhana peserta didik membaca cerita terkait dengan karakter yang menunjukkan sikap sosial peduli, disiplin, dan sebagainya. Peserta didik menunjukkan karakter tokoh secara kritis yang bebas dari radikalisme, vandalisme, pornografi, bias gender, dan unsur SARA.&lt;/p>
+&lt;h4 id="keterampilan-menyimak-membaca-menulis">Keterampilan Menyimak, Membaca, Menulis&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Membaca dan menyalin poetry&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Melalui teks tulis, lisan, visual atau multimodal, sederhana peserta didik menyimak &lt;em>poetry&lt;/em> (e.g., rhymes, haiku) sesuai dengan konteks. Setelah menyimak, peserta didik membaca poetry dengan intonasi yang benar dan ekspresif. Kemudian peserta didik menyalin poetry tersebut dengan tepat.&lt;/p>
+&lt;h4 id="sasaran-kompetensi-yang-diharapkan-1">Sasaran Kompetensi yang diharapkan&lt;/h4>
+&lt;ul>
+&lt;li>Menunjukkan kemampuan berkomunikasi secara lisan sesuai dengan konteks dalam bahasa Inggris.&lt;/li>
+&lt;li>Menunjukkan kemampuan berkomunikasi dalam bahasa Inggris melalui membaca lancar dan menyalin.&lt;/li>
+&lt;li>Menunjukkan kemampuan berkomunikasi dalam bahasa Inggris melalui membaca kalimat sederhana.&lt;/li>
+&lt;li>Menunjukkan kemampuan berkomunikasi dalam bahasa Inggris melalui membaca dan menyalin poetry.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="fokus-pembelajaran-bahasa-asing-lainnya-kelas-5">Fokus Pembelajaran Bahasa Asing Lainnya Kelas 5&lt;/h3>
+&lt;h4 id="keterampilan-menyimak-dan-berbicara-1">Keterampilan Menyimak dan Berbicara&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Menyimak dan berbicara sesuai dengan konteks&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik menyimak teks lisan dan visual singkat dengan kosaksata yang sederhana terkait topik keluarga dalam bahasa Asing lainnya (Arab, Jerman, Perancis, Jepang, Mandarin, Korea, dan lain-lain), baik otentik maupun semi otentik yang mengandung unsur permainan. Peserta didik melakukan percakapan di dalam permainan dengan kalimat singkat dan kosakata yang sederhana.&lt;/p>
+&lt;h4 id="keterampilan-membaca-1">Keterampilan Membaca&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Membaca teks sederhana&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik membaca paragraf teks tulis yang terdiri dari 3-5 (tiga hingga lima) kalimat singkat dengan pelafalan yang benar sesuai dengan kekhasan dalam bahasa Asing lainnya (Arab, Jerman, Perancis, Jepang, Mandarin, Korea, dan lain-lain) terkait topik keluarga. Peserta didik merespon komunikasi dengan baik.&lt;/p>
+&lt;h4 id="keterampilan-menulis">Keterampilan Menulis&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Menyusun kalimat sederhana&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik menyusun kata, frasa dan kalimat singkat dengan kosakata yang sederhana dalam bahasa Asing lainnya (Arab, Jerman, Perancis, Jepang, Mandarin, Korea, dan lain- lain) terkait topik keluarga.&lt;/p>
+&lt;h4 id="sasaran-kompetensi-yang-diharapkan-2">Sasaran Kompetensi yang diharapkan&lt;/h4>
+&lt;ul>
+&lt;li>Menunjukkan kemampuan komunikasi dalam bahasa Asing lainnya melalui menyimak dan berbicara melalui permainan.&lt;/li>
+&lt;li>Menunjukkan kemampuan komunikasi dalam bahasa Asing lainnya melalui membaca teks sederhana.&lt;/li>
+&lt;li>Menunjukkan kemampuan komunikasi dalam bahasa Asing lainnya melalui menyusun kalimat sederhana.&lt;/li>
+&lt;/ul></description></item><item><title>Ipa: IPA Kelas 5</title><link>https://www.all-indonesia.com/ipa/sd/kelas-5/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sd/kelas-5/</guid><description>
+&lt;h2 id="fokus-pembelajaran-ipa-kelas-5">Fokus Pembelajaran IPA Kelas 5&lt;/h2>
+&lt;h3 id="ipa-fisika-bumi-dan-alam-semesta">IPA (Fisika), Bumi dan alam semesta&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Pemahaman bumi dan alam semesta&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Siswa mengenal susunan tatasurya bumi, bulan, bintang, matahari dan benda-benda langit lainnya dalam alam semesta, serta melakukan pengamatan benda-benda langit tersebut serta fenomena-fenomena yang terjadi.&lt;/p>
+&lt;h3 id="ipa-fisika-kimia-biologi-penemuan-ilmiah">IPA (Fisika, Kimia, Biologi), Penemuan Ilmiah&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Mengenal dan memahami penemuan bidang IPA dan tokohnya&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Siswa mengenal dan mengetahui manfaat berbagai penemuan-penemuan bidang sains yang berpengaruh besar pada kehidupan manusia, baik di bidang kesehatan, lingkungan, pertanian, industri, dan bioteknologi. Contoh di bidang Pertanian dan Bioteknologi adalah penemuan pupuk dan pestisida, penemuan vaksin, obat-obatan, proses-proses fermentasi (seperti pembuatan tape dan lain-lain) dan pemanfaatan mikroba dalam makanan dan minuman. Siswa menunjukkan kemampuan bernalar dan memahami penemuan-penemuan bidang sains yang bermanfaat bagi kehidupan dan kesejahteraan manusia.&lt;/p>
+&lt;h3 id="ipa-biologi-pertumbuhan-dan-perkembangbiakan">IPA (Biologi), Pertumbuhan dan perkembangbiakan&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Mengenal dan memahami pertumbuhan dan perkembangbiakan hewan, tumbuhan dan manusia&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Siswa memahami dan menjelaskan pertumbuhan pada tumbuhan, hewan, dan manusia. Siswa memahami dan menjelaskan cara perkembangbiakan tumbuhan, hewan, dan manusia. Misalnya siswa mengamati bagaimana cara tumbuhan tumbuh dan berkembangbiak atau bagaimana proses pertumbuhan manusia mulai dari adik bayi sampai remaja.&lt;/p>
+&lt;h3 id="ipa-biologi-rantai-makanan">IPA (Biologi), Rantai makanan&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Mengamati dan memahami rantai makanan, ekosistem dan interaksi&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Siswa memahami, mengamati, dan menjelaskan proses rantai makanan, ekosistem dan interaksinya di lingkungan. Misalnya siswa mengamati hewan dan tumbuhan yang ditemukan di dalam kolam yang terdapat di kebun sekolah, lalu siswa menjelaskan interkasinya.&lt;/p>
+&lt;h3 id="ipa-biologi-kesehatan-makanan-dan-kesehatan">IPA (Biologi, Kesehatan), Makanan dan kesehatan&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Mengenal dan memahami makanan dan lingkungan sehat&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Siswa memahami dan melaksanakan mengkonsumsi makanan sehat dan bergizi sehari-hari. Siswa menjaga lingkungan sekitar yang bersih dan sehat. Misalnya siswa memperhatikan makanan apa saja yang dijual di kantin sekolah, lalu dibandingkan dengan jajanan yang ada diluar sekolah dari segi kebersihan dan kesehatan makanannya.&lt;/p>
+&lt;h3 id="sasaran-kompetensi-yang-diharapkan">Sasaran Kompetensi yang Diharapkan&lt;/h3>
+&lt;ul>
+&lt;li>Siswa memiliki kecakapan dan berilmu serta mengagungi pencipta alam semesta, beriman, bertakwa dan berakhlak mulia.&lt;/li>
+&lt;li>Siswa menunjukkan kecakapan dan berilmu, peduli lingkungan alam dan sosial, serta berperilaku dalam menjaga keseimbangan alam, serta turut berperan serta dalam menjaga kelangsungan kehidupan di bumi.&lt;/li>
+&lt;li>Siswa menunjukkan rasa ingin tahu terhadap perkembanganilmu pengetahuan, teknologi, seni, dan budaya.&lt;/li>
+&lt;li>Siswa menunjukkan keterampilan dalam menggunakan teknologi dan berkomunikasi dengan sopan dan santun, menggunakan bahasa Indonesia baik lisan maupun tulis dalam interaksi sehari-hari.&lt;/li>
+&lt;/ul></description></item><item><title>Matematika: Matematika Kelas 5</title><link>https://www.all-indonesia.com/matematika/sd/kelas-5/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sd/kelas-5/</guid><description>
+&lt;h2 id="pumpunan-matematika-kelas-5">Pumpunan Matematika Kelas 5&lt;/h2>
+&lt;p>Dalam proses belajar para pelajar kelas 5, gabungkan pengetahuan dan keterampilan matematika di bawah ini menjelaskan muatan yang harus dikembangkan, dimana muatan- muatan tersebut ditujukan untuk mengasah kemampuan bernalar, menyelesaikan masalah, berkomunikasi, sekaligus menyajikan dengan berbagai sarana dan permasalahan dalam kehidupan yang terkait dengan matematika.&lt;/p>
+&lt;h3 id="bilangan-dan-operasinya">Bilangan dan Operasinya&lt;/h3>
+&lt;p>Membangun pemahaman operasi penjumlahan, pengurangan, perkalian dan pembagian pada berbagai bentuk bilangan pecahan.&lt;/p>
+&lt;ol>
+&lt;li>Pelajar lancar menjumlahkan serta mengurangkan bilangan pecahan dengan penyebut yang tak perlu sama.&lt;/li>
+&lt;li>Pelajar mampu mengubah bilangan dalam satu bentuk ke dalam bentuk lainnya, seperti mengubah bilangan pecahan menjadi bilangan desimal.&lt;/li>
+&lt;li>Pelajar juga mengembangkan pemahaman perkalian dan pembagian pada bilangan pecahan dengan bilangan bulat atau pecahan lainnya.&lt;/li>
+&lt;li>Pelajar terampil melakukan operasi hitung penjumlahan, pengurangan, perkalian dan pembagian pada bilangan desimal, pecahan campuran, dan persen.&lt;/li>
+&lt;li>Pelajar menjelaskan makna operasi hitung pembagian pada bilangan desimal menggunakan sistem nilai tempat.&lt;/li>
+&lt;li>Pelajar menghubungkan operasi pembagian dengan pecahan yang mempunyai penyebut kelipatan 10 serta sifat-sifat perkalian dan pembagian.&lt;/li>
+&lt;li>Pelajar mengembangkan dan memanfaatkan strategi perkalian dan pembagian yang melibatkan desimal, misalnya dengan cara menyusun ke bawah atau dengan cara mengubah desimal menjadi pecahan terlebih dahulu, atau menggunakan cara lain yang lebih mudah menurut mereka.&lt;/li>
+&lt;/ol>
+&lt;h3 id="geometri">Geometri&lt;/h3>
+&lt;p>Mengenal bangun ruang dan atributnya, serta volume dan luas permukaannya&lt;/p>
+&lt;ol>
+&lt;li>Pelajar mengenal bangun ruang seperti kubus, balok, tabung, kerucut, limas, bola dan prisma, mereka juga menyebutkan atribut dari masing-masing bangun ruang tersebut, misalnya kubus mempunyai 6 sisi yang kongruen.&lt;/li>
+&lt;li>Pelajar mengembangkan konsep volume dengan menggunakan 1 kubus satuan, misalnya untuk menghitung volume suatu balok, dapat diisi dengan kubus satuan sampai penuh tanpa celah dan tumpeng tindih.&lt;/li>
+&lt;li>Pelajar juga menggunkan rumus untuk menentukan volume bangun ruang. Dengan menggunakan kubus satuan, pelajar memperkirakan volume bangun ruang dan membandingkannya dengan perhitungan menggunakan rumus.&lt;/li>
+&lt;li>Pelajar mampu menjelaskan arti luas permukaan suatu bangun ruang (seperti balok) merupakan jumlah dari luas masing-masing sisi serta terampil menghitungnya.&lt;/li>
+&lt;/ol>
+&lt;h2 id="keterkaitan-dengan-proses-bermatematika">Keterkaitan dengan Proses Bermatematika&lt;/h2>
+&lt;h3 id="penyelesaian-masalah">Penyelesaian Masalah&lt;/h3>
+&lt;p>Di kelas 5, pelajar bukan saja menyelesaikan soal rutin yang melibatkan operasi hitung penjumlahan, pengurangan, perkalian, dan pembagian pada berbagai macam bentuk bilangan, tetapi juga menjajaki masalah yang tak rutin dan kadang matematikanya masih tersembunyi dalam konteks umum, seperti soal cerita. Pelajar juga membangun number sense atau pengertiannya tentang bilangan melalui penyelesaian masalah yang melibatkan pengukuran, misalnya untuk menghitung volume atau luas permukaan menggunakan perkalian. Kecuali itu, pelajar juga mulai menyajikan data sehari-hari dalam bentuk grafik dan diagram kartesius.&lt;/p>
+&lt;h3 id="bernalar">Bernalar&lt;/h3>
+&lt;p>Melalui pengalaman berhitung serta menguasai fakta dasar (penjumlahan, pengurangan, perkalian dan pembagian), pelajar mengasah kemampuan bernalar induktif, yakni mengenali sifat-sifat penjumlahan, pengurangan, perkalian dan pembagian dengan mengamati pola. Pelajar menguji atau sanggup memverifikasi kebenaran suatu sifat dengan contoh-contoh, misalnya hasil kali dua bilangan berselisih 2 sama dengan hasil kuadrat bilangan yang di tengah dikurang 1. Ini dapat diverifikasi dengan &lt;em>&lt;strong>51 x 49 = 50 x 50 – 1 = 2500 – 1 = 2499&lt;/strong>&lt;/em>.&lt;/p></description></item><item><title>Ppkn: PPKn Kelas 5</title><link>https://www.all-indonesia.com/ppkn/sd/kelas-5/</link><pubDate>Wed, 01 Jun 2022 21:22:57 +0700</pubDate><guid>https://www.all-indonesia.com/ppkn/sd/kelas-5/</guid><description>
+&lt;h2 id="fokus-pembelajaran-ppkn-kelas-5">Fokus Pembelajaran PPKn Kelas 5&lt;/h2>
+&lt;h3 id="hak-dan-kewajiban">Hak dan Kewajiban&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Hak dan Kewajiban sebagai Warga Negara&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik menyebutkan beberapa hak dan kewajiban di keluarga, sekolah, dan lingkungan sekitar serta memberikan contoh pemenuhan hak dan kewajiban tersebut. Peserta didik mendiskusikan perlunya memenuhi hak dan kewajiban serta akibat yang ditimbulkan jika hak dan kewajiban tidak dipenuhi. Dalam kegiatan ini, Guru mengarahkan agar peserta didik selalu berusaha menjadi warga negara yang baik.&lt;/p>
+&lt;h3 id="persatuan-dan-kesatuan">Persatuan dan Kesatuan&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Membina Persatuan dan Kesatuan Bangsa dalam Keragaman Suku, Agama, Ras, Antar Golongan, Gender, dan Bahasa&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik mengemukakan contoh keragaman bangsa Indonesia dilihat dari suku, agama, ras, golongan, gender, dan bahasa. Peserta didik mendiskusikan sikap yang perlu dikembangkan dan dihindari dalam membangun persatuan dan kesatuan, serta akibat yang ditimbulkan jika tidak mendukungnya. Dalam kegiatan ini, Guru menanamkan sikap kepada peserta didik agar selalu menjaga persatuan dan kesatuan bersama.&lt;/p>
+&lt;h3 id="interaksi-sosial">Interaksi Sosial&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Kebiasaan Berinteraksi Sosial dalam Kehidupan Sehari-hari di Keluarga, Sekolah, dan Lingkungan Sekitar&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik mendiskusikan contoh hubungan yang harmonis dan tidak harmonis antara siswa dengan anggota keluarga, teman sekolah, dan teman sepermainan. Peserta didik menuliskan hal-hal yang perlu dilakukan untuk menciptakan hubungan sosial yang harmonis dan menghindari hubungan yang tidak harmonis. Melalui bimbingan Guru, peserta didik memperagakan cara berhubungan yang sopan, santun dan tebuka dengan anggota keluarga, teman sekolah, dan teman sepermainan. Dalam kegiatan ini, guru mengarahkan agar peserta didik dapat berinteraksi secara sopan, santun dan terbuka.&lt;/p>
+&lt;h3 id="cinta-dan-bangga-terhadap-tanah-air">Cinta dan Bangga terhadap Tanah Air&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Mengembangkan Sikap Nasionalisme dan Bela Negara&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Peserta didik bercerita tentang kekayaan dan keindahan alam tanah air Indonesia, kekayaan dan keindahan sosial budaya bangsa yang Bhinneka Tunggal Ika. Peserta didik mendiskusikan perlunya rasa cinta dan bangga terhadap tanah air, bangsa, dan negara Indonesia, serta contoh rasa cinta dan bangga tersebut. Melalui pembelajaran ini, Guru menanamkan sikap cinta dan bangga terhadap tanah air Indonesia kepada peserta didik.&lt;/p>
+&lt;h3 id="sasaran-kompetensi-yang-diharapkan">Sasaran Kompetensi yang Diharapkan&lt;/h3>
+&lt;ul>
+&lt;li>Memperlihatkan kebiasaan berperilaku sebagai warga negara yang baik.&lt;/li>
+&lt;li>Memperlihatkan kebiasaan berinteraksi secara sopan, santun, daan terbuka dalam keberagaman masyarakat.&lt;/li>
+&lt;li>Memperlihatkan rasa cinta dan bangga terhadap tanah air, bangsa, dan negara sebagai warga negara yang baik.&lt;/li>
+&lt;/ul></description></item></channel></rss>
