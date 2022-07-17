@@ -9,7 +9,7 @@ categories:
     - kelas 10
     - informatika
 description: >
-    Fokus pembelajaran informatika kelas 10 meliputi Menjadi warga digital yang waspada dan sadar hukum; Memahami sifat informasi, cara kerja komputer, cara kolaborasi, dan memulai analisis data; Mengembangkan kemampuan berpikir algoritmis dan menghayati aspek berpikir komputasi modern. 
+    Fokus pembelajaran informatika kelas 10 meliputi Menjadi warga digital yang waspada dan sadar hukum; Memahami sifat informasi, cara kerja komputer, cara kolaborasi, dan memulai analisis data; Mengembangkan kemampuan berpikir algoritmis dan menghayati aspek berpikir komputasi modern.
 ---
 
 ## Fokus Pembelajaran Informatika Kelas 10
