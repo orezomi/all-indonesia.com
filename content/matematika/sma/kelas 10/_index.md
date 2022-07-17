@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 10
 description: >
-    Gabungan pengetahuan dan keterampilan dalam matematika berikut menjabarkan pumpunan yang mutlak harus dikembangkan para pelajar kelas 10. Perlu diperhatikan bahwa dengan muatan-muatan ini, pelajar sekaligus mengasah kemampuannya bernalar dan membuktikan, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
+    Fokus Pembelajaran Matematika SMA/MA Kelas 10 meliputi Mengenali bentuk dan sifat bilangan berpangkat dan logaritma, serta penyajian vector; Menyelesaikan masalah melibatkan berbagai jenis fungsi, persamaan, sistem persamaan, dan pertidaksamaan (linear, mutlak, logaritma, eksponen, kuadrat, trigonometri); Mengenali kedudukan titik, garis, dan bidang dalam ruang.
 katex: true
 markup: 'mmark'
 renderkatex: true

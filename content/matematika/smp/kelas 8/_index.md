@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 8
 description: >
-    Pelajar kelas 8 perlu menekan pengembangan pada pumpunan di bawah ini, guna mengasah kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
+    Fokus Pembelajaran Matematika SMP/MTs Kelas 8 meliputi Mengutarakan pemahaman tentang karakteristik bilangan rasional lebih lanjut; Menulis hubungan linear dua peubah pada masalah nyata serta mengetahui makna himpunan jawab; Mengenal bagian dari lingkaran dan mengungkapkan pemahaman tentang sudut dan garis.
 katex: true
 markup: 'mmark'
 renderkatex: true

@@ -6,7 +6,7 @@ draft: false
 type: docs
 weight: 9
 description: >
-    Pelajar kelas 9 perlu menekan pengembangan pada pumpunan di bawah ini, guna mengasah kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
+    Fokus Pembelajaran Matematika SMP/MTs Kelas 8 meliputi Memanfaatkan pemahaman kedekatan bilangan irasional dengan bilangan rasional; Mengenali fungsi, fungsi trigonometri, fungsi linear dan non-linear pada konteks masalah nyata, memplot fungsi pada sistem koordinat; Mengenali Teorema Pitagoras dan atribut bangun ruang sisi lengkung.
 categories:
     - matematika
     - kelas 9

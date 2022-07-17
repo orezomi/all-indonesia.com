@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 11
 description: >
-    Pelajar kelas 11 perlu menekankan pengembangan pada pumpunan di bawah ini, guna mengasah kemampuannya bernalar dan membuktikan, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
+    Fokus Pembelajaran Matematika SMA/MA Kelas 11 meliputi Menyajikan bilangan pada konteks matematika yang lain (matriks); Mengenal limit, turunan, integral, dan hubungan ketiganya; Mengembangkan pemahaman tentang trigonometri, pola barisan dan deret lebih lanjut serta mengenali persamaan pangkat tiga atau lebih (suku banyak); Mengenali jenis transformasi geometri dan karakteristik lingkaran.
 katex: true
 markup: 'mmark'
 renderkatex: true

@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 7
 description: >
-    Pelajar kelas 7 memulai bekerja dengan aljabar seperti persamaan, peubah, grafik garis, dsb. secara formal. Pelajar mengembangkan penguasaannya pada pumpunan di bawah ini. Pelajar juga mengasah kemampuannya bernalar, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
+    Fokus Pembelajaran Matematika SMP/MTs Kelas 7 meliputi Mengungkapkan pemahaman tentang kesebandingan; Mengungkapkan situasi hubungan kesebandingan dengan lambang aljabar; Memecahkan masalah nyata yang melibatkan luas, luas permukaan, dan volume.
 ---
 ## Pupumpunan Matematika Kelas 7
 

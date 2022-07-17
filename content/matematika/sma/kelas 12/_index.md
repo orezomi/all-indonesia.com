@@ -9,7 +9,7 @@ categories:
     - matematika
     - kelas 12
 description: >
-    Pelajar kelas 12 perlu menekankan pengembangan pada pumpunan di bawah ini, guna mengasah kemampuannya bernalar dan membuktikan, menyelesaikan masalah, berkomunikasi, membuat hubungan, sekaligus mengkaji penyajian dalam berbagai cara.
+    Fokus Pembelajaran Matematika SMA/MA Kelas 12 meliputi Mengembangkan pemahaman tentang limit pada fungsi trigonometri; Mengembangkan pemahaman tentang kedudukan titik, garis, dan bidang lebih lanjut; Mengembangkan pemahaman tentang statistika inferensi dan menggunakannya pada masalah nyata yang menggunakan data.
 ---
 
 ## Pumpunan Matematika Kelas 12
