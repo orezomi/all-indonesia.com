@@ -11936,7 +11936,7 @@ readers do not read off random characters that represent icons */
     z-index: 1; }
 
 @media (min-width: 992px) {
-  .td-max-width-on-larger-screens, .td-content > pre, .td-content > .highlight, .td-content > .lead, .td-content > h1, .td-content > h2, .td-content > ul, .td-content > ol, .td-content > p, .td-content > blockquote, .td-content > dl dd, .td-content .footnotes, .td-content > .alert {
+  .td-max-width-on-larger-screens, .card, .td-content .highlight, .card-deck, .td-content > pre, .td-content > .lead, .td-content > h1, .td-content > h2, .td-content > ul, .td-content > ol, .td-content > p, .td-content > blockquote, .td-content > dl dd, .td-content .footnotes, .td-content > .alert {
     max-width: 80%; } }
 
 .-bg-blue {
@@ -13618,13 +13618,10 @@ nav.foldable-nav .ul-1 > li {
   padding-left: 1.5em; }
 
 nav.foldable-nav ul.foldable {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.5s cubic-bezier(0, 1, 0, 1); }
+  display: none; }
 
 nav.foldable-nav input:checked ~ ul.foldable {
-  max-height: 100000vmax;
-  transition: max-height 1s ease-in-out; }
+  display: block; }
 
 nav.foldable-nav input[type=checkbox] {
   display: none; }
@@ -14324,18 +14321,16 @@ div.drawioframe {
   margin: 0rem 0 2rem 0; }
 
 .tab-content .tab-pane {
-  margin: 0rem;
+  margin-top: 0rem;
+  margin-bottom: 1.5rem;
   max-width: 80%;
-  border-left: none;
-  border-right: none;
-  border-bottom: none; }
+  border-left: 1px solid rgba(0, 0, 0, 0.125);
+  border-right: 1px solid rgba(0, 0, 0, 0.125);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125); }
   .tab-content .tab-pane .highlight {
+    margin: 0rem 0 0rem 0;
     border: none;
     max-width: 100%; }
-  .tab-content .tab-pane pre {
-    border-left: 1px solid rgba(0, 0, 0, 0.125);
-    border-right: 1px solid rgba(0, 0, 0, 0.125);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.125); }
 
 .tab-body {
   font-weight: 500;
@@ -14368,13 +14363,8 @@ div.drawioframe {
     border-style: solid;
     border-color: #403F4C; }
 
-.card-deck {
-  max-width: 83%; }
-
-.card, .td-content .highlight {
-  max-width: 80%; }
-  .card .highlight, .td-content .highlight .highlight {
-    border: none; }
+.card .highlight, .td-content .highlight .highlight {
+  border: none; }
 
 .card-body.code {
   background-color: #f8f9fa;
