@@ -23,6 +23,7 @@ taxonomies:
 
 params:
   ShowShareButtons: true
+  github_repo: 'https://github.com/orezomi/all-indonesia.com'
   links:
     customLinks:
       - name: Sitemap
