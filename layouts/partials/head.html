@@ -59,3 +59,10 @@
     {{ template "_internal/google_analytics_async.html" . -}}
   {{ end -}}
 {{ end -}}
+
+{{ if .Page.Description }}
+  <meta name="description" content="{{ .Page.Description }}">
+{{ else }}
+  {{ $desc := (.Page.Content | safeHTML | truncate 150) }}
+  <meta name="description" content="{{ $desc }}">
+{{ end }}
