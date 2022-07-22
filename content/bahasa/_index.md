@@ -10,7 +10,7 @@ categories:
 
 ## Fokus Pembelajaran Bahasa
 
-Fokus pembelajaran muatan bahasa merupakan pemetaan kekhasan muatan terkait dengan keterampilan berbahasa yaitu menyimak, berbicara, membaca, dan menulis. Kekhasan tersebut dijabarkan menjadi topik bahasan sehingga diperoleh pengalaman belajar yang dilakukan peserta didik. Muatan bahasa terdiri atas submuatan bahasa Indonesia yang wajib diajarkan sejak tingkat 1-4, submuatan bahasa Inggris merupakan pilihan pada tingkat 1 dan 2, sedangkan pada tingkat 3 dan 4 wajib diajarkan. Bahasa Asing lainnya merupakan pilihan pada tingkat 1, 2, dan 3, sedangkan pada tingkat 4 wajib diajarkan
+Fokus pembelajaran muatan bahasa merupakan pemetaan kekhasan muatan terkait dengan keterampilan berbahasa yaitu menyimak, berbicara, membaca, dan menulis. Kekhasan tersebut dijabarkan menjadi topik bahasan sehingga diperoleh pengalaman belajar yang dilakukan peserta didik. Muatan bahasa terdiri atas submuatan bahasa Indonesia yang wajib diajarkan sejak tingkat 1-4, submuatan bahasa Inggris merupakan pilihan pada tingkat 1 dan 2, sedangkan pada tingkat 3 dan 4 wajib diajarkan. Bahasa Asing lainnya merupakan pilihan pada tingkat 1, 2, dan 3, sedangkan pada tingkat 4 wajib diajarkan.
 
 Fokus pembelajaran bertujuan memudahkan guru bahasa membaca ruang lingkup materi dan keterkaitannya dengan Standar Kompetensi Lulusan (SKL). Fokus pembelajaran juga memudahkan guru menentukan prioritas materi dan tahapan pembelajaran. Meskipun demikian, guru tetap dapat melakukan kreasi dan inovasi terkait metode dan media pembelajaran sesuai situasi kondisi wilayah.
 
