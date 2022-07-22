@@ -22,7 +22,6 @@ taxonomies:
   category: categories
 
 params:
-  github_repo: https://github.com/orezomi/all-indonesia.com
   ShowShareButtons: true
   links:
     customLinks:
