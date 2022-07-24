@@ -1,15 +1,19 @@
 ---
-title: "Matematika Kelas 1"
-linkTitle: "Kelas 1"
+title: Matematika Kelas 1
+linkTitle: Kelas 1
 date: 2022-05-14T19:29:11+07:00
 draft: false
 type: docs
 weight: 1
 categories:
-    - matematika
-    - kelas 1
+  - matematika
+  - kelas 1
 description: >
-    Fokus Pembelajaran Matematika SD Kelas 1 meliputi Membangun pemahaman operasi penjumlahan dan pengurangan bilangan cacah serta strategi penghitungannya; Menyusun dan Mengurai Bangun Geometri; Penyelesaian Masalah sederhana; dan Bernalar sederhana.
+  Fokus Pembelajaran Matematika SD Kelas 1 meliputi Membangun pemahaman operasi
+  penjumlahan dan pengurangan bilangan cacah serta strategi penghitungannya;
+  Menyusun dan Mengurai Bangun Geometri; Penyelesaian Masalah sederhana; dan
+  Bernalar sederhana
+lastmod: 2022-07-24T02:38:15.018Z
 ---
 
 ## Pumpunan Matematika Kelas 1
