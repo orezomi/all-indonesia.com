@@ -1,5 +1,5 @@
 ---
-title: "Materi Trigonometri Sin Cos Tan Lengkap"
+title: Materi Trigonometri Sin Cos Tan Lengkap
 date: 2022-05-14T16:08:44+07:00
 draft: false
 ShowToc: true
@@ -7,22 +7,25 @@ TocOpen: true
 type: docs
 weight: 1
 description: >
-    Materi Trigonometri lengkap, membahas rumus nilai sinus, cosinus, tangen, tabel sudut istimewa trigonometri, identitas trigonometri, dalil sinus, dalil cosinus dan lain-lain
+  Materi Trigonometri lengkap, membahas rumus nilai sinus, cosinus, tangen,
+  tabel sudut istimewa trigonometri, identitas trigonometri, dalil sinus, dalil
+  cosinus dan lain-lain
 categories:
-    - matematika
+  - matematika
 tags:
-    - trigonometri
-    - cos
-    - sin
-    - tan
+  - trigonometri
+  - cos
+  - sin
+  - tan
 cover:
-    image: /img/TRIGONOMETRI.png
-    alt: 'Materi Trigonometri Sin Cos Tan Lengkap'
-    caption : 'Materi Trigonometri Sin Cos Tan Lengkap'
-    lazyload: false
+  image: /img/TRIGONOMETRI.png
+  alt: Materi Trigonometri Sin Cos Tan Lengkap
+  caption: Materi Trigonometri Sin Cos Tan Lengkap
+  lazyload: false
 katex: true
-markup: 'mmark'
+markup: mmark
 renderkatex: true
+lastmod: 2022-10-06T05:53:44.233Z
 ---
 
 Trigonometri adalah bidang ilmu ukur sudut dan sempadan segitiga yang umum digunakan dalam ilmu astronomi atau perbintangan dan sebagainya (KBBI). Umumnya materi terkait trigonometri disajikan di sekolah mulai dari tingkat SMP dan akan lebih mendalam pada tingkat SMA dan Perguruan tinggi. Pada umumnya para siswa menyebut bidang ilmu matematika ini dengan sebutan pelajaran atau rumus ***Sin Cos Tan***, karena mungkin lebih mudah untuk diingat.
@@ -46,7 +49,7 @@ Nilai Cosinus atau Cos sebuah sudut \\( (\alpha) \\) dalam segitiga ABC di atas 
 
 $$Cos(\alpha) = {a\over r}$$
 
-Jika kita perhatikan, segitiga ***ABC*** di atas adalah segitiga siku siku dengan sisi ***a***,***c*** dan ***r*** dengan masing-masing memiliki panjang ***a=3***, ***c=4*** sehingga ***r=5***. Dengan demikian, nilai \\(Cos(\alpha)\\) adalah:
+Jika kita perhatikan, segitiga ***ABC*** di atas adalah segitiga siku siku dengan sisi ***a***,***c*** dan ***r*** dengan masing-masing memiliki panjang ***a=3***, ***c=4*** sehingga ***r=5***. Dengan demikian, nilai \\(Cos(\alpha)\\) adalah :
 
 $$Cos(\alpha) = {c\over r} = {4\over 5} = 0,8$$
 
