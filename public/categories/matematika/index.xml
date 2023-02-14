@@ -45,7 +45,7 @@
 &lt;/table>
 &lt;p>Nilai Cosinus atau Cos sebuah sudut \( (\alpha) \) dalam segitiga ABC di atas adalah :&lt;/p>
 &lt;p>$$Cos(\alpha) = {a\over r}$$&lt;/p>
-&lt;p>Jika kita perhatikan, segitiga &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em> di atas adalah segitiga siku siku dengan sisi &lt;em>&lt;strong>a&lt;/strong>&lt;/em>,&lt;em>&lt;strong>c&lt;/strong>&lt;/em> dan &lt;em>&lt;strong>r&lt;/strong>&lt;/em> dengan masing-masing memiliki panjang &lt;em>&lt;strong>a=3&lt;/strong>&lt;/em>, &lt;em>&lt;strong>c=4&lt;/strong>&lt;/em> sehingga &lt;em>&lt;strong>r=5&lt;/strong>&lt;/em>. Dengan demikian, nilai \(Cos(\alpha)\) adalah:&lt;/p>
+&lt;p>Jika kita perhatikan, segitiga &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em> di atas adalah segitiga siku siku dengan sisi &lt;em>&lt;strong>a&lt;/strong>&lt;/em>,&lt;em>&lt;strong>c&lt;/strong>&lt;/em> dan &lt;em>&lt;strong>r&lt;/strong>&lt;/em> dengan masing-masing memiliki panjang &lt;em>&lt;strong>a=3&lt;/strong>&lt;/em>, &lt;em>&lt;strong>c=4&lt;/strong>&lt;/em> sehingga &lt;em>&lt;strong>r=5&lt;/strong>&lt;/em>. Dengan demikian, nilai \(Cos(\alpha)\) adalah :&lt;/p>
 &lt;p>$$Cos(\alpha) = {c\over r} = {4\over 5} = 0,8$$&lt;/p>
 &lt;h2 id="rumus-nilai-sinus-atau-sin">Rumus Nilai Sinus atau Sin&lt;/h2>
 &lt;table>
