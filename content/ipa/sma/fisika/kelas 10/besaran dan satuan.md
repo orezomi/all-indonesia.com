@@ -4,7 +4,7 @@ linkTitle: "Besaran & Satuan"
 date: 2023-02-14T22:14:08+07:00
 draft: false
 type: docs
-toc_hide: true
+toc_hide: false
 weight: 10
 categories:
     - fisika
