@@ -10,6 +10,7 @@ categories:
     - kelas 10
 description: >
     Fokus Pembelajaran Fisika Kelas 10. Pengukuran dan Kinematika Partikel. Mekanika partikel, Benda Tegar dan Elastisitas. Astrofisika dan Hukum Gravitasi Newton
+    
 ---
 
 ## Fokus Pembelajaran Fisika Kelas 10
