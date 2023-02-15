@@ -9,6 +9,7 @@ categories:
     - fisika
     - kelas 11
 description: >
+
     Fokus Pembelajaran Fisika Kelas 11. Mekanika Fluida. Getaran, Gelombang Mekanik dan Gelombang Cahaya. Suhu dan Kalor, Termodinamika dan Teori Kinetika Gas. Elektrostatika, Elektrodinamis dan Sifat Kemagnetan
 ---
 ## Fokus Pembelajaran Fisika Kelas 11

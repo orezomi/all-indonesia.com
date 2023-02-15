@@ -44,4 +44,4 @@ Siswa memanfaatkan pemahamannya tentang interaksi gravitasi Newton antar benda- 
 
 - Siswa menunjukkan rasa ingin tahu dan kegemaran memecahkan masalah fisika sederhana dengan pendekatan matematis dan logis.
 - Siswa menunjukkan sikap cakap, terampil, kreatif, produktif, inovatif, mandiri, komunikatif dalam berperilaku di lingkungannya.
-- Siswa berperilaku jujur, berakhlak mulia, beriman, takwa dan mencintai tanah air.
+- Siswa berperilaku jujur, berakhlak mulia, beriman, takwa dan mencintai tanah air
