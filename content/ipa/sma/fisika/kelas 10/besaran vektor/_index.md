@@ -44,7 +44,7 @@ Selain itu, besaran vektor juga dapat dioperasikan menggunakan operasi matematik
 <!-- |[![Gambar Konsep Besaran Vektor](/img/vektorabc.png "Gambar Konsep Besaran Vektor")](/img/vektorabc.png)|
 |:--:|
 |*Gambar Konsep Besaran Vektor*| -->
-{{< figure src="/img/vektorabc.png" link="/img/vektorabc.png" width=50% caption="***Gambar Konsep Besaran Vektor***" alt="Gambar Konsep Besaran Vektor" >}}
+{{< figure src="/img/vektorabc.png" link="/img/vektorabc.png" caption="***Gambar Konsep Besaran Vektor***" alt="Gambar Konsep Besaran Vektor" >}}
 
 Gambar tersebut menunjukkan tiga buah besaran vektor, yaitu \\(\vec{a}\\), \\(\vec{b}\\), dan \\(\vec{c}\\) yang dinyatakan dalam koordinat kartesian \\((x, y, z)\\). Setiap besaran vektor direpresentasikan oleh sebuah panah dengan panjang (magnitudo) dan arah yang ditentukan oleh koordinat \\((x, y, z)\\). Panjang panah merepresentasikan besar (magnitudo) dari besaran vektor, sedangkan arah dari panah merepresentasikan arah besaran vektor.
 
