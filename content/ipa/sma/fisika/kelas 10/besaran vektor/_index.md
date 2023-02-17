@@ -49,3 +49,15 @@ Selain itu, besaran vektor juga dapat dioperasikan menggunakan operasi matematik
 Gambar tersebut menunjukkan tiga buah besaran vektor, yaitu \\(\vec{a}\\), \\(\vec{b}\\), dan \\(\vec{c}\\) yang dinyatakan dalam koordinat kartesian \\((x, y, z)\\). Setiap besaran vektor direpresentasikan oleh sebuah panah dengan panjang (magnitudo) dan arah yang ditentukan oleh koordinat \\((x, y, z)\\). Panjang panah merepresentasikan besar (magnitudo) dari besaran vektor, sedangkan arah dari panah merepresentasikan arah besaran vektor.
 
 Dalam contoh gambar tersebut, \\(\vec{a}\\) dan \\(\vec{b}\\) memiliki arah yang sama, yaitu searah sumbu \\(x\\), sedangkan \\(\vec{c}\\) memiliki arah yang berbeda dari \\(\vec{a}\\) dan \\(\vec{b}\\). Selain itu, panjang dari \\(\vec{b}\\) lebih panjang dibandingkan dengan \\(\vec{a}\\) dan \\(\vec{c}\\), sehingga magnitudo \\(\vec{b}\\) lebih besar dibandingkan dengan \\(\vec{a}\\) dan \\(\vec{c}\\).
+
+### Contoh lainnya dari besaran vektor
+
+Beberapa contoh besaran vektor dalam fisika adalah:
+
+1. ***Kecepatan:*** Kecepatan adalah besaran vektor yang menyatakan perubahan posisi suatu benda dalam suatu waktu tertentu. Kecepatan dinyatakan dalam satuan meter per detik \\((\text{m/s})\\) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, kecepatan mobil yang bergerak ke arah timur dengan kecepatan 50 km/jam dapat dituliskan sebagai \\(\vec{v} = (50\text{ km/jam})\ \hat{i}\\), di mana \\(\hat{i}\\) adalah vektor satuan searah sumbu \\(x\\).
+
+2. ***Gaya:*** Gaya adalah besaran vektor yang menyatakan pengaruh suatu benda terhadap benda lain dalam hal perubahan kecepatan atau bentuk benda tersebut. Gaya dinyatakan dalam satuan newton (\\(\text{N}\\)) dan memiliki arah yang sejajar dengan arah pengaruh tersebut. Contohnya, gaya gravitasi yang bekerja pada sebuah benda dengan massa 2 kg di dekat permukaan bumi dapat dituliskan sebagai \\(\vec{F_g} = (2\text{ kg})(9.8\text{ m/s}^2)\ \hat{j} = 19.6\text{ N}\ \hat{j}\\), di mana \\(\hat{j}\\) adalah vektor satuan searah sumbu \\(y\\) negatif.
+
+3. ***Momentum:*** Momentum adalah besaran vektor yang menyatakan kuantitas gerak suatu benda, yaitu massa benda dikalikan dengan kecepatannya. Momentum dinyatakan dalam satuan kilogram meter per detik (\\(\text{kg m/s}\\)) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, momentum sebuah bola dengan massa 0.5 kg yang bergerak dengan kecepatan 10 m/s ke arah timur dapat dituliskan sebagai \\(\vec{p} = (0.5\text{ kg})(10\text{ m/s})\ \hat{i} = 5\text{ kg m/s}\ \hat{i}\\).
+
+4. ***Percepatan:*** Percepatan adalah besaran vektor yang menyatakan perubahan kecepatan suatu benda dalam suatu waktu tertentu. Percepatan dinyatakan dalam satuan meter per detik kuadrat (\\(\text{m/s}^2\\)) dan memiliki arah yang sejajar dengan arah perubahan kecepatan. Contohnya, percepatan gravitasi yang bekerja pada benda di dekat permukaan bumi dapat dituliskan sebagai \\(\vec{a} = (0\ \text{m/s}^2)\ \hat{i} - (9.8\ \text{m/s}^2)\ \hat{j}\\), di mana \\(\hat{i}\\) dan \\(\hat{j}\\) adalah vektor satuan searah sumbu \\(x\\) dan \\(y\\) negatif.
