@@ -40,10 +40,10 @@ Pada dasarnya gambar di atas merupakan lingkaran dengan jari-jari ***r***. Di da
 Segitiga ABC ini memiliki tiga sudut yang terdiri atas dua sudut lancip yaitu \\(\alpha\\) dan \\(\gamma\\) serta sebuah sudut siku siku yaitu \\(\beta\\). Kedepan sudut-sudut dan sisi-sisi inilah yang mengantar kita ke pemahaman materi trigonometri ini. Para siswa pada umumnya menyebut lingkaran ini dengan "Lingkaran sin cos tan".
 
 ## Rumus Nilai Cosinus atau Cos
+
 |[![Gambar Konsep Nilai Cosinus](/img/gambar-rumus-cos.png "Gambar Konsep Nilai Cosinus")](/img/gambar-rumus-cos.png)|
 |:--:|
 |*Gambar Konsep Nilai Cosinus*|
-
 
 Nilai Cosinus atau Cos sebuah sudut \\( (\alpha) \\) dalam segitiga ABC di atas adalah :
 
@@ -64,10 +64,12 @@ Kembali perhatikan segitiga ***ABC*** di atas. Dengan panjang ***c = 4***, ***a=
 $$Sin(\alpha) = {a\over r} = {3\over 5} = 0,6$$
 
 ## Rumus Nilai Tangen atau Tan
+
 Dalam segitiga ***ABC*** di atas, nilai tangen dari sudut \\((\alpha)\\) adalah :
 $$Tan(\alpha) = {a\over c} = {3\over 4} = 0,75$$
 
 ## Tabel Trigonometri
+
 Dalam praktiknya, sudut \\((\alpha)\\) dapat bergerak dari \\(0\degree\\) sampai dengan satu putaran penuh yaitu \\(360\degree\\). Hal ini menyebabkan nilai sin, cos dan tan dari setiap sudut untuk seluruh putaran adalah bervariasi. Lebih lengkapnya dapat dilihat pada tabel trigonometri berikut ini :
 |[![Tabel Trigonometri Kuno](/img/tabel-trigonometri-kuno.jpeg "Tabel Trigonometri Kuno")](/img/tabel-trigonometri-kuno.jpeg)|
 |:--:|
@@ -80,6 +82,7 @@ Dalam praktiknya, sudut \\((\alpha)\\) dapat bergerak dari \\(0\degree\\) sampai
 [Download Tabel Trigonometri](https://drive.google.com/file/d/1hepgB4TTaVyICphCUDWP-R5zyF-OL3ev/view?usp=sharing)
 
 ## Grafik Sin, Cos, Tan
+
 Dari tabel trigonometri atau tabel sin,cos, tan di atas kita dapat membuat grafik dengan menggunakan MsExcel atau aplikasi lainnya. Dalam grafik ini, sudut ditampilkan dalam \\(\pi\\) radian. Nilai \\(\pi\\) radian sama dengan \\(180\degree\\). Dengan demikian sudut \\(1\degree\\) sama nilainya dengan \\({\pi\over 180}\\), kemudian sudut \\(2\degree\\) sama nilainya dengan \\({2\pi\over 180}\\) dan seterusnya.
 
 |[![Grafik Cos dalam Pi Radian](/img/grafik-cos-dalam-pi.png "Grafik Cos dalam Pi Radian")](/img/grafik-cos-dalam-pi.png)|
@@ -99,6 +102,7 @@ Jika diperhatikan grafik fungsi trigonometri dasar di atas, grafik fungsi sinus 
 Jika dihubungkan ke gambar segitiga konsep trigonometri yang ada di atas di awal materi ini maka untuk sudut \\((\alpha)\\) maka nilai Sin \\((\alpha)\\) adalah sama dengan ***0/r*** yaitu ***0***. Sedangkan nilai Cos \\((\alpha)\\) adalah sama dengan ***c/r*** dimana ***c=r*** karena di sudut  sisi miring ***AC*** akan sejajar dengan sumbu ***x*** sehingga nilai ***Cos(0)*** menjadi sama dengan ***1***.
 
 ## Tabel Trigonometri (Sin Cos Tan) Sudut Istimewa
+
 Dalam satu putaran penuh \\(360\degree\\) terdapat sudut-sudut istimewa yang ditandai dengan nilai sin cos tan yang istimewa. Berikut ini adalah tabel sin cos tan sudut istimewa.
 |[![Tabel Sin Cos Tan Sudut Istimewa](/img/tabel-sin-cos-tan-istimewa.png "Tabel Sin Cos Tan Sudut Istimewa")](/img/tabel-sin-cos-tan-istimewa.png)|
 |:--:|
@@ -109,6 +113,7 @@ Dalam satu putaran penuh \\(360\degree\\) terdapat sudut-sudut istimewa yang dit
 |*Tabel Sin Cos Tan Sudut Istimewa Berwarna*|
 
 ## Trigonometri Dalam Kehidupan Sehari Hari
+
 Dalam kehidupan sehari-hari kita dapat memanfaatkan fungsi trigonometri dasar untuk mengukur ketinggian gedung atau bangunan yang tinggi tanpa harus mengukur langsung bangunan tersebut menggunakan alat ukur panjang. Sebagai contoh soal, kita perhatikan gambar berikut
 
 |[![Trigonometri Dalam Kehidupan Sehari-hari](/img/trigonometri-sehari-hari.png "Trigonometri Dalam Kehidupan Sehari-hari")](/img/trigonometri-sehari-hari.png)|
@@ -123,9 +128,11 @@ $$y\ =\ x\ tan(\theta) = 70ft \times tan(31,8\degree)\ =\ 44ft$$
 Jadi kita dapat kita ketahui bahwa tinggi pohon tersebut adalah 44 feet. Dalam mengukur sudut kemiringan kita dapat gunakan aplikasi di smartphone.
 
 ## Perbandingan Trigonometri
+
 Dalam trigonometri terdapat 2(dua) satuan pengukuran sudut yaitu derajat dan radian. Berikut adalah penjelasannya.
 
 ### Derajat
+
 Sudut dalam satu putaran penuh disebut dengan sudut 360 derajat. Jika kita membagi lingkaran menjadi 360 juring yang sama maka satu bagian ini disebut dengan 1 derajat. 1 derajat ini dibagi menjadi 60 menit dan satu menit dibagi dalam 60 detik. Dengan demikian maka
 $$1\degree\ =\ 60'\ =\ 3600"$$
 
@@ -163,6 +170,7 @@ Rumus luas juring ***ABC*** adalah :
 $$Luas\ Juring\ ABC = {1\over 2}r^2\alpha \scriptstyle radian$$
 
 ## Rasio atau Perbandingan Trigonometri Segitiga Siku Siku
+
 Nilai sinus, cosinus, tangen, secan, cosecan dan cotangen sudut ***α*** dalam segitiga berikut akan selalu tetap walaupun ukuran segitiga bertambah besar atau kecil.
 
 |[![Segitiga Perbandingan Trigonometri](/img/perbandingan-trigonometri.png "Segitiga Perbandingan Trigonometri")](/img/perbandingan-trigonometri.png)|
@@ -177,6 +185,7 @@ $$Sec\ \alpha\ =\ {AB\over AC}\ =\ {AD\over AE}\ =\ ...$$
 $$Cotan\ \alpha\ =\ {AC\over BC}\ =\ {AE\over DE}\ =\ ...$$
 
 ## Identitas Trigonometri
+
 $$Cosec\ \alpha\ =\ {1\over sin\ \alpha}$$
 $$Sec\ \alpha\ =\ {1\over cos\ \alpha}$$
 $$Cot\ \alpha\ =\ {1\over tan\ \alpha}$$
@@ -187,6 +196,7 @@ $$Sin(-\alpha)=-Sin(\alpha)$$
 $$Tan(-\alpha)=-Tan(\alpha)$$
 
 ## Dalil Sinus
+
 |[![Segitiga Konsep Dalil Sinus dan Dalil Cosinus](/img/dalil-sinus.png "Segitiga Konsep Dalil Sinus dan Dalil Cosinus")](/img/dalil-sinus.png)|
 |:--:|
 |*Segitiga Konsep Dalil Sinus dan Dalil Cosinus*|
@@ -194,11 +204,13 @@ $$Tan(-\alpha)=-Tan(\alpha)$$
 $${a\over sin(\alpha)}={b\over sin(\beta)}={c\over sin(\gamma)}$$
 
 ## Dalil Cosinus
+
 $$a^2=b^2+c^2-2bc\ Cos(\alpha)$$
 $$b^2=c^2+a^2-2ca\ Cos(\beta)$$
 $$c^2=a^2+b^2-2ab\ Cos(\gamma)$$
 
 ## Luas Segitiga Dengan Trigonometri
+
 Luas segitiga dengan perhitungan konvensional telah dibahas di artikel [Rumus Luas Dan Keliling Bangun Datar](/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/). Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus trigonometri. Berikut adalah penurunan rumusnya.
 
 |[![Konsep Luas Segitiga dalam Trigonometri](/img/luas-segitiga-trigonometri.png "Konsep Luas Segitiga dalam Trigonometri")](/img/luas-segitiga-trigonometri.png)|
@@ -215,7 +227,9 @@ $$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ a\ sin(\beta) $$
 $$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$
 
 ## Penutup
+
 Demikian bahasan singkat mengenai materi trigonometri. Sebagai kesimpulan, beberapa yang telah kita pelajari dalam materi ini adalah :
+
 1. Konsep dasar trigonometri (sin, cos dan tan) menggunakan segitiga dan lingkaran konsep trigonometri
 2. Tabel trigonometri
 3. Grafik Trigonometri
