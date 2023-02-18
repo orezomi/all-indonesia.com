@@ -9,7 +9,7 @@ categories:
 ---
 
 
-{{< adnsense >}}
+{{< adsense >}}
 
 ## FOKUS PEMBELAJARAN IPS
 
