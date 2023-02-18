@@ -5,11 +5,11 @@ draft: false
 type: docs
 weight: 2
 description: >
-    Sebelum mereka-cipta pembelajaran matematika, tiap guru perlu mengenali muatan matematika apa saja yang penting di tiap kelas. Muatan atau topik matematika yang penting di sini dapat menjadi jangkar untuk pembelajaran sepanjang tahun.
+    Sebelum mereka-cipta pembelajaran matematika, tiap guru perlu mengenali muatan matematika apa saja yang penting di tiap kelas.
 ---
 
 
-{{< adnsense >}}
+{{< adsense >}}
 
 ## Fokus Pembelajaran Matematika
 
