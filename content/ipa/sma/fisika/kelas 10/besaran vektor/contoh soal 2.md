@@ -68,7 +68,7 @@ $$h = h_0 + v_0 t + \frac{1}{2}at^2$$
 Dalam hal ini, \\(h_0 = 0\\), \\(v_0 = 20 m/s\\), dan \\(a = -9.8 m/s^2\\), sehingga
 $$h = 0 + 20 \times 2.04 - \frac{1}{2} \times 9.8 \times (2.04)^2 \approx 20.2 \text{ m}$$
 Jadi, ketinggian maksimum bola adalah sekitar ***20.2*** meter.
-
+{{< adsense >}}
 4. Sebuah mobil bergerak dengan kecepatan 50 km/jam ke arah timur. Kemudian, mobil tersebut belok ke arah utara dan bergerak dengan kecepatan 40 km/jam. Tentukan besar dan arah vektor perubahan kecepatan mobil.\
 \
 ***Jawaban:***\
