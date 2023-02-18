@@ -11,8 +11,14 @@ categories:
 description: >
     Fokus Pembelajaran Biologi Kelas 11 meliputi Perkembangan ilmu biologi dan aplikasi bioteknologi, Struktur dan fungsi sel serta Metabolisme dan peranan enzim
 ---
+
+
+{{< adsense >}}
+
 ## Fokus Pembelajaran Biologi Kelas 11
+
 ### Perkembangan ilmu biologi dan aplikasi bioteknologi
+
 ***Memahami perkembangan ilmu biologi dan permasalahannya serta aplikasi bioteknologi***
 
 Siswa memahami perkembangan dan inovasi dalam bidang biologi dan bioteknologi, yang dapat dimanfaatkan dalam bidang lingkungan, pertanian, pangan, kesehatan dan juga energi.
