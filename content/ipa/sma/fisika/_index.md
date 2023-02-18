@@ -5,6 +5,9 @@ draft: false
 weight: 1
 type: docs
 ---
+
+{{< adsense >}}
+
 ## Fokus Pembelajaran Fisika
 
 Focus pembelajaran muatan Fisika jenjang SMA/MA kelas 10-12 merupakan elaborasi ruang lingkup materi muatan Fisika dan tingkat kompetensi pada standar isi. Agar fokus pembelajaran memiliki arah yang jelas, maka ruang lingkup materi disajikan dalam bentuk focal point. Focal point ini dirancang dengan mempertimbangkan gradasi materi antar tingkat kelas, interseksi dengan muatan seperti Kimia, terutama korelasinya dengan muatan Matematika karena pemahaman konsep Fisika memerlukan konsep-konsep dasar Matematika. Elaborasi muatan Fisika terhadap Kimia dan Matematika untuk jenjang SMA/MA akan membantu guru dalam melaksanakan proses pembelajaran secara lebih terstruktur dan sistematis, termasuk dalam merancang perencanaan pembelajaran dan evaluasi pembelajaran. Guru tetap mendapatkan ruang untuk melakukan inovasi dan kreasi pembelajaran sesuai dengan karakteristik muatan Fisika sehingga siswa memperoleh pengalaman belajar yang baik, baik melalui kegiatan intrakurikuler, kokurikuler, dan/atau ekstrakurikuler maupun budaya sekolah.

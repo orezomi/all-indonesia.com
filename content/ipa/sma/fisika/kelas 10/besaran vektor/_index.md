@@ -19,6 +19,9 @@ markup: mmark
 renderkatex: true
 ---
 
+
+{{< adsense >}}
+
 ## Dasar Pemahaman
 
 Besaran vektor adalah besaran yang memiliki magnitudo (besar) dan arah yang ditentukan dalam ruang tiga dimensi. Contoh besaran vektor adalah percepatan, gaya, kecepatan, dan momentum. Besaran vektor biasanya direpresentasikan dengan panah di atas huruf yang merepresentasikan besarnya. Misalnya, vektor percepatan direpresentasikan dengan panah di atas huruf "a", yaitu \\(\vec{a}\\).

@@ -9,8 +9,11 @@ categories:
     - biologi
     - kelas 10
 description: >
-    Fokus Pembelajaran Biologi Kelas 10 meliputi Asal-usul kehidupan, Keanekaragaman hayati dan konservasi, Metoda Ilmiah serta Interaksi dan adaptasi makhluk hidup dalam ekosistem
+    Fokus Pembelajaran Biologi Kelas 10 meliputi Asal-usul kehidupan, Keanekaragaman hayati, konservasi, Metoda Ilmiah, Interaksi, adaptasi makhluk hidup dalam ekosistem
 ---
+
+{{< adsense >}}
+
 ## Fokus Pembelajaran Biologi Kelas 10
 
 ### Asal-usul kehidupan

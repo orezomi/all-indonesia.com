@@ -13,6 +13,9 @@ description: >
     
 ---
 
+
+{{< adsense >}}
+
 ## Fokus Pembelajaran Fisika Kelas 10
 
 ### Pengukuran dan Kinematika Partikel

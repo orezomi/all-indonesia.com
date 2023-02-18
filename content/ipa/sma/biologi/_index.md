@@ -6,6 +6,9 @@ weight: 3
 type: docs
 ---
 
+
+{{< adsense >}}
+
 ## Fokus Pembelajaran Biologi
 
 Fokus pembelajaran muatan Biologi tingkat 4 yaitu ditujukan untuk kelas 10-12 SMA/MA, yang merupakan elaborasi ruang lingkup materi dan tingkat kompetensi pada standar isi. Selanjutnya, fokus pembelajaran pada muatan Biologi akan memberikan arah bagi guru untuk menjelaskan proses belajar mengajar yang dikaitkan dengan Standar Kompetensi Lulusan dan Standar Isi di satuan pendidikan. Pada jenjang SMA/MA kelas 10- 12, irisan antar bidang IPA yaitu Kimia, Fisika dan Biologi tidak ada lagi, sehingga ruang lingkup materi lebih fokus pada masing-masing bidang tersebut. Dengan demikian, Guru dapat lebih mengelaborasikan materi pada bidang Biologi secara mendalam.

@@ -7,6 +7,10 @@ weight: 5
 categories:
     - ips
 ---
+
+
+{{< adnsense >}}
+
 ## FOKUS PEMBELAJARAN IPS
 
 Ilmu Pengetahuan Sosial (Social Studies), selanjutnya disingkat IPS, adalah kajian terpadu tentang berbagai gejala sosial, melalui pemahaman hubungan antarruang dan waktu, interaksi sosial yang ada di dalamnya, serta aktivitas manusia untuk memenuhi kebutuhannya. Kajian atas aspek ruang (space) merupakan fokus dari muatan geografi, aspek waktu (time) merupakan fokus dari muatan sejarah, interaksi sosial merupakan fokus dari muatan sosiologi, dan aspek pemenuhan kebutuhan hidup merupakan fokus dari muatan ekonomi. Itulah sebabnya lingkup materi IPS difokuskan pada kajian: (1) manusia, tempat, dan lingkungan, (2) waktu, perubahan, dan keberlanjutan, (3) interaksi sosial, serta (4) perilaku manusia dalam memenuhi kebutuhan. Pengembangan kajiannya didasarkan pada suatu tradisi di mana materi disusun dalam urutan: anak/ diri sendiri, keluarga, masyarakat/ tetangga, kota, negara, regional, dan dunia. Dasar filosofi dan asumsinya adalah bahwa anak, pertama-tama perlu memperoleh konsep yang berhubungan dengan lingkungan yang terdekat (diri sendiri), selanjutnya secara bertahap dan sistematis bergerak dalam lingkaran konsentris keluar dari lingkaran tersebut, kemudian mengembangkan kemampuannya untuk menghadapi unsur- unsur dunia yang lebih luas. Sesuai dengan ruang lingkup dan kompetensi yang diharapkan, untuk Tingkat 1 (Kelas 1-3 SD/MI), Tingkat 2 (Kelas 4 - 6 SD/MI), dan Tingkat 3 (Kelas 7 - 9 SMP/MTs), muatan IPS disajikan secara terpadu, sedangkan untuk Tingkat 4 (Kelas 10 - 12 SMA/MA), muatan IPS disajikan secara terpisah/ disipliner terdiri atas Geografi, Sejarah, Sosiologi, dan Ekonomi.

@@ -10,6 +10,9 @@ categories:
 description: >
     Fokus Pembelajaran Informatika meliputi
 ---
+
+{{< adsense >}}
+
 ## Fokus Pembelajaran Informatika
 
 Era industri 4.0 telah membuat perubahan fundamental di berbagai lini kehidupan. Ciri khusus era ini adalah penggunaan perangkat teknologi informasi/komunikasi, pertukaran informasi yang seketika, dan implementasi kecerdasan buatan di banyak bidang. Hal ini mendorong setiap anak bangsa untuk siap terjun ke dunia baru dan senantiasa berkontribusi positif. Muatan pelajaran yang berhubungan dengan semua ini menjadi penting dan crucial bagi masa depan anak didik kita.

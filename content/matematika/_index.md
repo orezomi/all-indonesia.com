@@ -8,6 +8,9 @@ description: >
     Sebelum mereka-cipta pembelajaran matematika, tiap guru perlu mengenali muatan matematika apa saja yang penting di tiap kelas. Muatan atau topik matematika yang penting di sini dapat menjadi jangkar untuk pembelajaran sepanjang tahun.
 ---
 
+
+{{< adnsense >}}
+
 ## Fokus Pembelajaran Matematika
 
 Sebelum mereka-cipta pembelajaran matematika, tiap guru perlu mengenali muatan matematika apa saja yang penting di tiap kelas. Muatan atau topik matematika yang penting di sini dapat menjadi jangkar untuk pembelajaran sepanjang tahun. Khususnya, setelah mengetahui gagasan matematika mana yang perlu memperoleh penekanan serta terkait kuat ke pengetahuan lain, guru dapat merancang rangkaian kegiatan belajar mengajar yang lebih terstruktur dan kuat keterhubungan antar topiknya. Dengan begitu, dapat diharapkan pelajar menemukan pesan besar dari matematika di kelas tersebut dan kemudian mengembangkannya lebih lanjut. Berangkat dengan pemikiran seperti itu, dokumen fokus atau pumpunan matematika ini disiapkan dan disusun.

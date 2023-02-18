@@ -11,6 +11,7 @@ slug: bahasa
 description: Fokus pembelajaran muatan bahasa merupakan pemetaan kekhasan muatan terkait
   dengan keterampilan berbahasa yaitu menyimak, berbicara, membaca, dan menulis.
 ---
+{{< adsense >}}
 
 ## Fokus Pembelajaran Bahasa
 

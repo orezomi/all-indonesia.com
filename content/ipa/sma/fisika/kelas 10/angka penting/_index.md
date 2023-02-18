@@ -13,6 +13,9 @@ description: >
 weight: 2
 ---
 
+
+{{< adsense >}}
+
 ## Angka Penting
 
 Angka penting (*significant figures*) adalah cara untuk mengekspresikan ketidakpastian dalam pengukuran atau hasil perhitungan. Dalam ilmu fisika, angka penting sangat penting untuk memastikan bahwa hasil pengukuran atau perhitungan tepat dan konsisten dengan tingkat ketidakpastian yang diharapkan.

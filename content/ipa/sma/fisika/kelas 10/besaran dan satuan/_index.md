@@ -19,6 +19,9 @@ description: >
 weignt: 1
 ---
 
+
+{{< adsense >}}
+
 ## Besaran dan Satuan
 
 Besaran dalam ilmu fisika dapat dibagi menjadi dua jenis yaitu besaran fundamental dan besaran turunan. Besaran fundamental adalah besaran yang tidak dapat diuraikan lebih lanjut dalam hal besaran fisika lainnya, misalnya massa, waktu, dan panjang. Sedangkan besaran turunan adalah besaran yang dapat dihitung atau diuraikan dari besaran fundamental, misalnya kecepatan, percepatan, dan momentum.
