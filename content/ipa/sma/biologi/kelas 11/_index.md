@@ -26,14 +26,17 @@ Siswa memahami faktor biologi yang mengancam makhluk hidup dan lingkungan, dan m
 Siswa dapat menggunakan berbagai media tulis dan visual untuk memperoleh informasi lebih lengkap melalui situs di internet, jurnal, atau video. Selain itu dapat pula melakukan kunjungan ke perguruan tinggi, pusat penelitian atau industry yang melakukan penelitian atau pengembangan bioteknologi.
 
 ### Struktur dan fungsi sel
+
 ***Memahami struktur dan fungsi sel dan organel pada organisme prokariotik dan eukariotik***
 
 Siswa memahami dan mampu menguraikan struktur sel dan organel pada organisme prokariotik dan eukariotik, misal dengan menggunakan referensi dari jurnal, situs di internet, atau video. Siswa mampu melakukan pengamatan preparat sampel sel tumbuhan, hewan, atau mikroorganisme pada kegiatan praktikum
 
 ### Metabolisme dan peranan enzim
+
 ***Memahami sistem metabolisme dan peranan enzim***
 
 Siswa memahami enzim dan sistem metabolisme, termasuk pemahaman katabolisme (respirasi aerob dan anaerob) dan anabolisme (fotosintesis), serta peranan enzim dalam proses metabolisme pada makhluk hidup. Siswa memahami komponen enzim yaitu apoezim dan gugus prostestik, serta mekanisme kerja enzim yaitu teori kunci gembok dan teori ketepatan induksi. Siswa diberikan pemahaman melalui berbagai penggunaan referensi baik media tulis, visual, atau elektronik seperti jurnal, situs di internet, atau video, atau melalui pengamatan sederhana misalnya pembuatan tape yang merupakan salah satu contoh respirasi anaerob dalam sistem katabolisme.
 
 ### Sasaran Kompetensi yang Diharapkan
+
 - Siswa menunjukkan rasa tanggungjawab untuk menjaga lingkungan dan memecahkan permasalahan yang muncul melalui pendekatan penerapan bioteknologi dan mampu mengembangkan ide-ide untuk memecahkan masalah yang kompleks

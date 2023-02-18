@@ -24,5 +24,3 @@ Dokumen Fokus Pembelajaran muatan informatika ini berusaha mengakomodasi alur be
 Dokumen Fokus Pembelajaran muatan Informatika ini mencoba memberi guru sebuah panduan ringkas untuk belajar dan mengajar muatan Informatika dari kelas ke kelas (baik mapel tersendiri atau muatan yang tertitipkan di mapel lain), dengan titik tekan pada proses pembelajaran. Materi Informatika ini mempunyai gradasi dari kelas 1 SD hingga kelas 12 SMA. Jika ternyata suatu kelas belum mampu menguasai materi yang sedang diajarkan, maka guru dapat kembali sebentar ke materi tingkat sebelumnya, yang umumnya memuat materi yang sama dengan level yang lebih mudah dipahami.
 
 Penyusun sadar bahwa ada spektrum yang luas terkait ketersediaan sumberdaya (SDM dan perangkat) di seluruh penjuru negeri. Dokumen ini mencoba mengakomodasi seluas mungkin sekolah di negeri kita. Sebagai contoh, jika suatu sekolah SD tidak mempunyai akses ke komputer, maka pembelajaran tetap bisa berlangsung. Satu hal yang menjadi prasyarat wajib: guru harus terus belajar.
-
-
