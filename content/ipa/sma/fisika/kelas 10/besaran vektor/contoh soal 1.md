@@ -35,7 +35,7 @@ $$\begin{align}\Delta \vec{v} &= \vec{v_f} - \vec{v_i} \newline
 &= -35\text{ m/s}\ \hat{i}\end{align}$$
 Perubahan kecepatan memiliki arah ke arah barat dan besarnya 35 m/s.
 
-3. Sebuah bola dengan massa 0.2 kg dilempar ke atas dengan kecepatan awal 10 m/s. Jika percepatan gravitasi adalah 9.8 m/s^2 ke arah bawah, tentukan kecepatan dan posisi bola setelah 2 detik.
+3. Sebuah bola dengan massa 0.2 kg dilempar ke atas dengan kecepatan awal 10 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan kecepatan dan posisi bola setelah 2 detik.
 Jawaban: Pertama-tama, hitunglah kecepatan bola setelah 2 detik dengan menggunakan rumus kecepatan:
 $$\begin{align}\vec{v} &= \vec{v_0} + \vec{a}t \newline
 &= (10\text{ m/s})\ \hat{j} - (9.8\text{ m/s}^2)\ \hat{j}(2\text{ s}) \newline

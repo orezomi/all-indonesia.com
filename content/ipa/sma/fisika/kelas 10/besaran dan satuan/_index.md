@@ -59,7 +59,7 @@ Besaran satuan massa dalam SI adalah kilogram (kg). Satuan ini didefinisikan seb
 
 - Massa badan seseorang adalah 70 kilogram.
 - Massa beras yang dibeli adalah 5 kilogram.
-- Massa atom karbon-12 adalah sekitar 1,99 x 10^-26 kg.
+- Massa atom karbon-12 adalah sekitar 1,99 x 10{^-26} kg.
 - Massa satu butir pasir adalah sekitar 0,01 gram atau 10 miligram.
 - Massa bumi adalah sekitar 5,97 x 10^24 kilogram.
 
