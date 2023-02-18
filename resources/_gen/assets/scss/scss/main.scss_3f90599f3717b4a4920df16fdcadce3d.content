@@ -26202,4 +26202,8 @@ h3, .h3 {
   margin-right: auto;
   width: 50%; }
 
+.adsense {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
 /*# sourceMappingURL=main.css.map */

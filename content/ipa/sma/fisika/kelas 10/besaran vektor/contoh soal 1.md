@@ -17,7 +17,7 @@ markup: mmark
 renderkatex: true
 ---
 
-### Berikut adalah contoh soal terkait Besaran Vektor
+### Berikut adalah contoh soal terkait Besaran Vektor - Part 1
 
 1. Sebuah benda dengan massa 2 kg bergerak dengan kecepatan \\(5 m/s\\) ke arah sumbu \\(x\\) positif dan kecepatan \\(3 m/s\\) ke arah sumbu \\(y\\) negatif. Hitunglah momentum total benda tersebut.\
 ***Jawab:***\
@@ -35,8 +35,9 @@ $$\begin{align}\Delta \vec{v} &= \vec{v_f} - \vec{v_i} \newline
 &= -35\text{ m/s}\ \hat{i}\end{align}$$
 Perubahan kecepatan memiliki arah ke arah barat dan besarnya 35 m/s.
 
-3. Sebuah bola dengan massa 0.2 kg dilempar ke atas dengan kecepatan awal 10 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan kecepatan dan posisi bola setelah 2 detik.
-Jawaban: Pertama-tama, hitunglah kecepatan bola setelah 2 detik dengan menggunakan rumus kecepatan:
+3. Sebuah bola dengan massa 0.2 kg dilempar ke atas dengan kecepatan awal 10 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan kecepatan dan posisi bola setelah 2 detik.\
+***Jawab:***\
+Pertama-tama, hitunglah kecepatan bola setelah 2 detik dengan menggunakan rumus kecepatan:
 $$\begin{align}\vec{v} &= \vec{v_0} + \vec{a}t \newline
 &= (10\text{ m/s})\ \hat{j} - (9.8\text{ m/s}^2)\ \hat{j}(2\text{ s}) \newline
 &= -9.6\text{ m/s}\ \hat{j}\end{align}$$
@@ -45,3 +46,20 @@ $$\begin{align}\vec{r} &= \vec{r_0} + \vec{v_0}t + \frac{1}{2}\vec{a}t^2 \newlin
 &= (0\text{ m})\ \hat{i} + (0\text{ m})\ \hat{j} + (10\text{ m/s})\ \hat{j}(2\text{ s}) + \frac{1}{2}(9.8\text{ m/s}^2)\ \hat{j}(2\text{ s})^2 \newline
 &= 0\text{ m}\ \hat{i} + 20.4\text{ m}\ \hat{j}\end{align}$$
 Jadi, posisi bola setelah 2 detik adalah 20.4 m di atas titik awal.
+{{< adsense >}}
+
+4. Sebuah kapal bergerak dengan kecepatan 12 km/jam ke arah timur. Jika angin bertiup dengan kecepatan 5 km/jam ke arah barat laut, tentukan kecepatan dan arah kapal relatif terhadap daratan\
+***Jawab:***\
+Kecepatan kapal relatif terhadap daratan adalah hasil penjumlahan vektor antara kecepatan kapal dan kecepatan angin. Jadi, kecepatan kapal relatif terhadap daratan adalah:
+\
+$$\begin{align}\vec{v_{rel}} &= \vec{v_{kapal}} + \vec{v_{angin}} \newline &= (12\text{ km/jam})\ \hat{i} - (5\text{ km/jam})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &\approx 11.2\text{ km/jam}\ \hat{i} - 3.5\text{ km/jam}\ \hat{j}\end{align}$$
+\
+Jadi, kecepatan kapal relatif terhadap daratan adalah sekitar 11.2 km/jam ke arah timur dan 3.5 km/jam ke arah selatan.
+
+5. Seorang pelari berlari dengan kecepatan 6 m/s ke arah utara. Jika ada angin bertiup dengan kecepatan 3 m/s ke arah barat laut, tentukan kecepatan dan arah pelari relatif terhadap angin.\
+***Jawab:***\
+Kecepatan pelari relatif terhadap angin adalah hasil pengurangan vektor antara kecepatan pelari dan kecepatan angin. Jadi, kecepatan pelari relatif terhadap angin adalah:
+\
+$$\begin{align}\vec{v_{rel}} &= \vec{v_{pelari}} - \vec{v_{angin}} \newline &= (6\text{ m/s})\ \hat{j} - (3\text{ m/s})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &\approx 5.1\text{ m/s}\ \hat{j} - 2.1\text{ m/s}\ \hat{i}\end{align}$$
+\
+Jadi, kecepatan pelari relatif terhadap angin adalah sekitar 5.1 m/s ke arah utara dan 2.1 m/s ke arah barat.
