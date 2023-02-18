@@ -23,7 +23,7 @@ taxonomies:
 
 params:
   ShowShareButtons: true
-  github_repo: 'https://github.com/orezomi/all-indonesia.com'
+  # github_repo: 'https://github.com/orezomi/all-indonesia.com'
   links:
     customLinks:
       - name: Sitemap
@@ -39,8 +39,9 @@ params:
         desc: Privacy Policy
         target: _self
   offlineSearch: true
-  offlineSearchSummaryLength: 200
   offlineSearchMaxResults: 25
+  offlineSearchSummaryLength: 200
+  
   # katex:
   #   enable: true
   #   mhchem:
