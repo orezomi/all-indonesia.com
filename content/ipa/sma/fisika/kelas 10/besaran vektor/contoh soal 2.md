@@ -11,7 +11,7 @@ tags:
     - Besaran
     - Vektor
     - Besaran Vektor
-weight: 1
+weight: 2
 katex: true
 markup: mmark
 renderkatex: true
@@ -68,3 +68,21 @@ $$h = h_0 + v_0 t + \frac{1}{2}at^2$$
 Dalam hal ini, \\(h_0 = 0\\), \\(v_0 = 20 m/s\\), dan \\(a = -9.8 m/s^2\\), sehingga
 $$h = 0 + 20 \times 2.04 - \frac{1}{2} \times 9.8 \times (2.04)^2 \approx 20.2 \text{ m}$$
 Jadi, ketinggian maksimum bola adalah sekitar ***20.2*** meter.
+
+4. Sebuah mobil bergerak dengan kecepatan 50 km/jam ke arah timur. Kemudian, mobil tersebut belok ke arah utara dan bergerak dengan kecepatan 40 km/jam. Tentukan besar dan arah vektor perubahan kecepatan mobil.\
+\
+***Jawaban:***\
+\
+Perubahan kecepatan adalah selisih antara kecepatan akhir dan kecepatan awal mobil:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i}$$
+Kecepatan awal mobil adalah 50 km/jam ke arah timur, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_i} = 50\text{ km/jam}\ \hat{i}$$
+Kecepatan akhir mobil adalah 40 km/jam ke arah utara, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_f} = 40\text{ km/jam}\ \hat{j}$$
+Maka, perubahan kecepatan dapat dihitung sebagai berikut:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i} = 40\text{ km/jam}\ \hat{j} - 50\text{ km/jam}\ \hat{i}$$
+Untuk mengetahui besarnya perubahan kecepatan, kita dapat menggunakan teorema Pythagoras:
+$$|\Delta \vec{v}| = \sqrt{(40\text{ km/jam})^2 + (-50\text{ km/jam})^2} = 64.03\text{ km/jam}$$
+Untuk mengetahui arah perubahan kecepatan, kita dapat menggunakan trigonometri dan menghitung sudut antara vektor perubahan kecepatan dan sumbu **\\(x\\)** positif:
+$$\theta = \tan^{-1} \left(\frac{-50\text{ km/jam}}{40\text{ km/jam}}\right) = -51.34^\circ$$
+Jadi, besar perubahan kecepatan adalah ***64.03 km/jam***, dan arah perubahan kecepatan membentuk sudut sebesar ***51.34 derajat*** di bawah sumbu ***\\(x\\)*** positif.
