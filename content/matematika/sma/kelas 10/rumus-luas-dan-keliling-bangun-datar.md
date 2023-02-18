@@ -34,6 +34,7 @@ Bangun datar adalah bentuk geometri dengan semua titik bangun atau titik sudut b
 Dalam artikel ini akan dibahas satu per satu secara terperinci bagaimana cara menghitungnya. Dilengkapi dengan gambar untuk membantu pemahaman kita.
 
 ## Empat Persegi Panjang
+
 Persegi panjang adalah bangun datar dengan empat sisi dengan panjang sisi sejajar yang sama serta panjang sisi tegak lurus berbeda dan empat titik sudut yang memiliki sudut 90 derajat di keempat sudutnya. Berikut adalah contoh gambar persegi panjang dan cara menghitung luas dan kelilingnya.
 
 |[![Persegi Panjang](/img/persegi-panjang.png "Persegi Panjang")](/img/persegi-panjang.png)|
@@ -45,7 +46,10 @@ $$Keliling = 2 \times (p + l) = 2 \times (5 + 4)cm = 18cm$$
 Rumus luas persegi panjang di atas adalah :
 $$Luas = p \times l = 5 cm \times 4 cm = 20 cm^2$$
 
+{{< adsense >}}
+
 ## Lingkaran
+
 Lingkaran adalah garis melengkung yang kedua ujungnya bertemu pada jarak yang sama dari titik pusat. Jarak dari titik pusat lingkaran ke tepi lingkaran disebut dengan ***jari-jari*** atau ***r***. Berikut adalah gambar lingkaran berikut dengan rumus menghitung keliling dan luasnya.
 
 |[![Lingkaran](/img/lingkaran.png "Lingkaran")](/img/lingkaran.png)|
@@ -58,6 +62,7 @@ Rumus luas lingkaran di atas adalah:
 $$Luas\ Lingkaran = \pi \times r^2 = {22 \over 7} \times (7 cm)^2 = 154 cm^2$$
 
 ## Bujur Sangkar
+
 Bujur sangkar adalah bangun datar segi empat yang memiliki panjang yang sama di keempat sisinya dan memiliki sudut 90 derajat di keempat sudutnya. berikut adalah gambar bujur sangkar dan cara menghitung luas dan kelilingnya.
 
 |[![Bujur Sangkar](/img/bujur-sangkar.png "Bujur Sangkar")](/img/bujur-sangkar.png)|
@@ -71,6 +76,7 @@ Rumus luas bujur sangkar di atas dalam *cm* adalah :
 $$Luas\ Bujur\ Sangkar = {Panjang\ Sisi}^2 = 5^2 = 25cm^2$$
 
 ## Segitiga Siku-Siku
+
 Segitiga adalah bidang datar yang memiliki 3(tiga) sisi. Sedangkan segitiga siku-siku adalah segitiga yang memiliki sudut 90 derajat di salah satu titik sudutnya. Rumus segitiga siku-siku untuk menghitung luas dan kelilingnya dapat dilihat di gambar berikut.
 
 |[![Segitiga Siku-Siku](/img/segitiga-siku-siku.png "Segitiga Siku Siku")](/img/segitiga-siku-siku.png)|
@@ -81,7 +87,10 @@ Rumus keliling segitiga siku-siku di atas (dalam cm) adalah :
 $$Keliling = a + t + r = 8cm + 6cm + \sqrt {8^2 + 6^2} = 24cm$$
 $$Luas = {1\over 2} \times a \times t = {1\over 2} \times 8cm \times 6cm = 24cm^2$$
 
+{{< adsense >}}
+
 ## Segitiga Sama Kaki
+
 Segitiga sama kaki adalah bangun datar segitiga yang memiliki 2(dua) sisi yang sama panjang. Jika diperhatikan gambar segitiga sama kaki di atas, maka dua sisi yang sama panjang pada segitiga tersebut adalah sisi r. Perhitungan luas dan keliling segitiga ini dihitung menggunakan rumus geometri berikut:
 
 |[![Segitiga Sama Kaki](/img/segitiga-sama-kaki.png "Segitiga Sama Kaki")](/img/segitiga-sama-kaki.png)|
@@ -99,6 +108,7 @@ Rumus Luas Segitiga Sama Kaki di atas (dalam cm) adalah :
 $$Luas = {1\over 2}\times a\times t = {1\over 2}\times 4\times 6 = 12cm^2$$
 
 ## Luas Segitiga Dengan Trigonometri
+
 Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus [trigonometri](/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/). Berikut adalah penurunan rumusnya.
 
 |[![Konsep Luas Segitiga dalam Trigonometri](/img/luas-segitiga-trigonometri.png "Konsep Luas Segitiga dalam Trigonometri")](/img/luas-segitiga-trigonometri.png)|
@@ -115,6 +125,7 @@ $$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ a\ sin(\beta) $$
 $$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$
 
 ## Trapesium
+
 Trapesium adalah bangun datar bersegi empat yang dua sisinya sejajar namun tidak sama panjang. Rumus luas dan rumus keliling trapesium dapat dilihat pada gambar dan keterangan berikut
 
 |[![Trapesium](/img/trapesium.png "Trapesium")](/img/trapesium.png)|
@@ -132,7 +143,10 @@ Rumus keliling trapesium di atas (dalam cm) adalah :
 
 $$Keliling\ Trapesium = AB + CD + 2BC = 6+2+\sqrt{2^2+3^2} = 8+2\sqrt 13$$
 
+{{< adsense >}}
+
 ## Belah Ketupat
+
 Belah ketupat adalah bangun datar yang memiliki empat buah rusuk atau sisi yang sama panjang dan memiliki dua pasang sudut bukan siku-siku yang masing-masing sama besar dengan sudut dihadapannya.
 
 |[![Belah Ketupat](/img/belahketupat.png "Belah Ketupat")](/img/belahketupat.png)|

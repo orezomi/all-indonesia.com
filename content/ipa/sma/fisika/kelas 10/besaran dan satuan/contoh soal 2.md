@@ -32,6 +32,8 @@ Percepatan gravitasi = 9,8 m/s{^2}\
 Gaya = 2 kg × 9,8 m/s{^2} = 19,6 N\
 Jadi, gaya yang diperlukan untuk mengangkat beban tersebut adalah 19,6 N.
 
+{{< adsense >}}
+\
 3. Sebuah kawat tembaga memiliki panjang 10 m dan luas penampang 2 mm{^2}. Berapa resistansi kawat tersebut?\
 ***Jawaban:***\
 Panjang = 10 m\
@@ -40,13 +42,13 @@ Hambatan spesifik tembaga = 1,72 × 10{^-8} ohm·m\
 Resistansi = (hambatan spesifik × panjang) / luas penampang\
 Resistansi = (1,72 × 10{^-8} ohm·m × 10 m) / (2 × 10{^-6} m{^2}) = 86 ohm\
 Jadi, resistansi kawat tersebut adalah 86 ohm.
-
+\
 4. Sebuah ruangan memiliki suhu 25°C. Berapa suhu ruangan tersebut dalam skala Kelvin?\
 ***Jawaban:***\
 Suhu dalam skala Kelvin = suhu dalam skala Celsius + 273,15\
 Suhu dalam skala Kelvin = 25°C + 273,15 = 298,15 K\
 Jadi, suhu ruangan tersebut dalam skala Kelvin adalah 298,15 K.
-
+\
 5. Sebuah mobil bergerak dengan percepatan 3 m/s{^2} selama 8 detik. Berapa kecepatan mobil setelah 8 detik?\
 ***Jawaban:***\
 Percepatan = 3 m/s{^2}\

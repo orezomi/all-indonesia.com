@@ -27,7 +27,7 @@ Ditanyakan: percepatan ({$a})\
 ***Substitusi nilai:***\
 {$a} = 20 N / 10 kg = 2 m/s{^2}\
 Jadi, percepatan yang dialami oleh balok tersebut adalah 2 m/s{^2}.
-
+{{< adsense >}}
 2. Seorang pelari berlari dengan kecepatan rata-rata 5 m/s selama 20 detik. Berapa jarak yang ditempuh oleh pelari tersebut?\
 ***Diketahui:***\
 kecepatan rata-rata ({$v}) = 5 m/s\
@@ -49,7 +49,7 @@ Ditanyakan: tegangan ({$V})\
 ***Substitusi nilai:***\
 {$V} = 5 ohm x 2 A = 10 V\
 Jadi, tegangan listrik yang diperlukan adalah 10 volt.
-
+{{< adsense >}}
 4. Sebuah bola dilemparkan ke atas dengan kecepatan awal 10 m/s. Berapa tinggi maksimum yang dapat dicapai oleh bola tersebut?\
 ***Diketahui:***\
 kecepatan awal ({$v}) = 10 m/s\

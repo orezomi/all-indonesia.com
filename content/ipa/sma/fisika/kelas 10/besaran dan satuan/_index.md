@@ -69,6 +69,7 @@ Besaran satuan massa dalam SI adalah kilogram (kg). Satuan ini didefinisikan seb
 #### Waktu
 
 Waktu adalah besaran fisika yang mengukur urutan peristiwa atau durasi antara peristiwa. Dalam Sistem Satuan Internasional (SI), satuan untuk besaran waktu adalah detik (s). Detik didefinisikan sebagai durasi 9.192.631.770 periode radiasi terkait dengan transisi antara dua level hiperhalus dari keadaan dasar atom cesium-133.
+{{< adsense >}}
 
 ***Contoh penggunaan satuan detik:***
 
@@ -140,6 +141,8 @@ Besaran turunan dalam ilmu fisika adalah besaran yang dinyatakan sebagai kombina
 - Kapasitansi (farad)
 
 Besaran turunan ini memiliki satuan pengukuran yang tergantung pada satuan dari besaran fundamental yang digunakan dalam definisinya. Besaran turunan ini banyak digunakan dalam berbagai cabang fisika, seperti mekanika, termodinamika, listrik dan magnetisme, optik, dan lain-lain.
+
+{{< adsense >}}
 
 #### Kecepatan (meter per detik)
 

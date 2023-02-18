@@ -36,6 +36,8 @@ Pemahaman yang baik tentang angka penting sangat penting dalam ilmu fisika karen
 
 Ya, setiap angka yang bukan nol dalam sebuah bilangan dianggap sebagai angka penting. Misalnya, dalam bilangan 567, ketiga angka (5, 6, dan 7) dianggap sebagai angka penting. Ini karena setiap angka tersebut memberikan informasi tentang bilangan dan kesalahan pengukuran atau perhitungan dapat mengubah bilangan tersebut secara signifikan. Oleh karena itu, angka-angka tersebut dianggap penting dalam menentukan jumlah angka signifikan (significant figures) dalam suatu bilangan.
 
+{{< adsense >}}
+
 ### Setiap angka nol di depan angka bukan nol bukanlah angka penting
 
 Ya, aturan umum adalah bahwa angka nol di depan angka bukan nol biasanya tidak dianggap sebagai angka penting. Contohnya, dalam bilangan 0,00123, hanya tiga angka dianggap signifikan karena angka nol di depan 1 dan 2 tidak memberikan informasi tambahan tentang besarnya bilangan.

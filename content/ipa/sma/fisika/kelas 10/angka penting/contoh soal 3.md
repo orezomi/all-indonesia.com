@@ -11,7 +11,7 @@ tags:
     - Angka Penting
 weight: 3
 ---
-### Berikut adalah contoh soal terkait Angka Penting, dalam ilmu fisika.
+### Berikut adalah contoh soal terkait Angka Penting, dalam ilmu fisika
 
 1. Sebuah benda dengan massa 2,55 kg bergerak dengan kecepatan 5,25 m/s. Hitunglah momentum benda dengan jumlah angka penting yang tepat.\
 \
@@ -33,7 +33,7 @@ Karena nilai 2,55 kg dan 5,25 m/s memiliki tiga angka penting, maka hasil akhir 
 *p = 13,4 kg.m/s*\
 \
 Jadi, momentum benda adalah 13,4 kg.m/s dengan jumlah angka penting yang tepat.
-
+{{< adsense >}}
 2. Sebuah mobil bergerak dengan kecepatan rata-rata 65,2 km/jam selama 3,5 jam. Berapa jarak yang ditempuh mobil tersebut dengan jumlah angka penting yang tepat?\
 \
 ***Jawaban:***\

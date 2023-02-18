@@ -39,6 +39,8 @@ Pada dasarnya gambar di atas merupakan lingkaran dengan jari-jari ***r***. Di da
 
 Segitiga ABC ini memiliki tiga sudut yang terdiri atas dua sudut lancip yaitu \\(\alpha\\) dan \\(\gamma\\) serta sebuah sudut siku siku yaitu \\(\beta\\). Kedepan sudut-sudut dan sisi-sisi inilah yang mengantar kita ke pemahaman materi trigonometri ini. Para siswa pada umumnya menyebut lingkaran ini dengan "Lingkaran sin cos tan".
 
+{{< adsense >}}
+
 ## Rumus Nilai Cosinus atau Cos
 
 |[![Gambar Konsep Nilai Cosinus](/img/gambar-rumus-cos.png "Gambar Konsep Nilai Cosinus")](/img/gambar-rumus-cos.png)|
@@ -120,6 +122,8 @@ Dalam kehidupan sehari-hari kita dapat memanfaatkan fungsi trigonometri dasar un
 |:--:|
 |*Trigonometri Dalam Kehidupan Sehari-hari*|
 
+{{< adsense >}}
+
 Berapakah tinggi pohon tersebut? kita dapat menghitung ketinggian pohon dengan fungsi trigonometri yang telah kita pelajari di materi ini.
 
 $$tan(\theta) = {y\over x}$$
@@ -172,6 +176,8 @@ $$Luas\ Juring\ ABC = {1\over 2}r^2\alpha \scriptstyle radian$$
 ## Rasio atau Perbandingan Trigonometri Segitiga Siku Siku
 
 Nilai sinus, cosinus, tangen, secan, cosecan dan cotangen sudut ***α*** dalam segitiga berikut akan selalu tetap walaupun ukuran segitiga bertambah besar atau kecil.
+
+{{< adsense >}}
 
 |[![Segitiga Perbandingan Trigonometri](/img/perbandingan-trigonometri.png "Segitiga Perbandingan Trigonometri")](/img/perbandingan-trigonometri.png)|
 |:--:|
