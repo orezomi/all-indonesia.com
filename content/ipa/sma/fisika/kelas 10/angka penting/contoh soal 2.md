@@ -34,7 +34,6 @@ Karena nilai 10,0 kg dan 25,0 N memiliki tiga angka penting, maka hasil akhir ha
 *a = 2,50 m/s{^2}*\
 \
 Jadi, percepatannya adalah 2,50 m/s² dengan jumlah angka penting yang tepat.
-
 {{< adsense >}}
 2. Sebuah roda berputar dengan kecepatan 120 rpm. Hitunglah frekuensi putaran roda dalam Hz dengan jumlah angka penting yang tepat.\
 \

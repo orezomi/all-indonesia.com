@@ -36,9 +36,7 @@ Volume balok adalah hasil perkalian panjang, lebar, dan tinggi, yaitu:\
 Karena nilai 0,0250 m memiliki tiga angka penting, dan nilai lainnya memiliki empat angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, volume balok adalah:\
 \
 {$V} = 0,0707 m{^3}
-
 {{< adsense >}}
-\
 3. Seorang siswa mengukur waktu yang diperlukan oleh sebuah benda untuk jatuh bebas dari ketinggian 10,0 m. Hasil pengukuran adalah 2,35 s. Hitunglah kecepatan benda saat mencapai tanah dengan jumlah angka penting yang tepat.\
 \
 ***Jawaban:***\

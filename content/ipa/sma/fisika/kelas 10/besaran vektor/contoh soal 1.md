@@ -47,7 +47,6 @@ $$\begin{align}\vec{r} &= \vec{r_0} + \vec{v_0}t + \frac{1}{2}\vec{a}t^2 \newlin
 &= 0\text{ m}\ \hat{i} + 20.4\text{ m}\ \hat{j}\end{align}$$
 Jadi, posisi bola setelah 2 detik adalah 20.4 m di atas titik awal.
 {{< adsense >}}
-
 4. Sebuah kapal bergerak dengan kecepatan 12 km/jam ke arah timur. Jika angin bertiup dengan kecepatan 5 km/jam ke arah barat laut, tentukan kecepatan dan arah kapal relatif terhadap daratan\
 ***Jawab:***\
 Kecepatan kapal relatif terhadap daratan adalah hasil penjumlahan vektor antara kecepatan kapal dan kecepatan angin. Jadi, kecepatan kapal relatif terhadap daratan adalah:
