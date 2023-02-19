@@ -128,6 +128,8 @@ Untuk mengatasi masalah ini, beberapa metode analisis data dapat digunakan, di a
 
 Dalam analisis data, penting juga untuk memastikan keandalan dan keakuratan data yang digunakan. Salah satu cara untuk memastikan keandalan data adalah dengan melakukan replikasi eksperimen, di mana eksperimen diulang untuk memastikan hasil yang sama diperoleh. Selain itu, dapat juga dilakukan verifikasi melalui uji kontrol, di mana eksperimen dibandingkan dengan kelompok kontrol yang tidak diberikan perlakuan tertentu.
 
+{{< figure src="/img/data_analysis_illustration_2.png" link="/img/data_analysis_illustration_2.png" caption="***Gambar Ilustrai Analisis Data***" alt="Gambar Ilustrai Analisis Data" >}}
+
 ### Pengambilan Kesimpulan
 
 Pengambilan kesimpulan merupakan tahap penting dalam metode ilmiah yang dilakukan setelah dilakukan pengolahan dan analisis data. Dalam tahap ini, peneliti menginterpretasikan hasil yang diperoleh dari eksperimen atau pengamatan dan menarik kesimpulan apakah hipotesis yang telah dirumuskan sebelumnya dapat diterima atau ditolak.
