@@ -5,7 +5,7 @@ date: 2023-02-14T22:14:08+07:00
 draft: false
 type: docs
 toc_hide: false
-weight: 1
+weight: 2
 categories:
     - fisika
     - kelas 10
@@ -16,7 +16,6 @@ tags:
     - Besaran Fundamental
 description: >
     Besaran dan Satuan dalam Ilmu Fisika, besaran fundamental, besaran turunan
-weignt: 1
 ---
 
 

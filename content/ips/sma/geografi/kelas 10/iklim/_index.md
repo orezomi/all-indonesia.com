@@ -49,6 +49,8 @@ Kondisi sosial geografis masyarakat di dalamnya sangat dipengaruhi oleh faktor-f
 Tropical forest atau hutan tropis adalah tipe vegetasi yang umumnya terdapat di daerah tropis, yaitu di sekitar khatulistiwa antara 23,5 derajat lintang utara dan 23,5 derajat lintang selatan. Hutan tropis umumnya ditandai dengan vegetasi yang sangat lebat dan beragam, seperti pohon-pohon besar yang saling tumpang tindih dan tumbuhan epifit seperti anggrek dan lumut. Hutan tropis juga memiliki tingkat keanekaragaman hayati yang sangat tinggi dan menjadi tempat hidup bagi banyak spesies fauna dan flora yang endemik.
 {{< adsense >}}
 
+### Hutan Hujan Tropis
+
 Tropical forest dapat dibagi menjadi dua jenis, yaitu hutan hujan tropis dan hutan musim tropis. Hutan hujan tropis adalah tipe hutan tropis yang terletak di daerah dengan curah hujan yang tinggi sepanjang tahun. Sebagian besar hutan tropis di wilayah Amazon, Afrika Tengah, dan Asia Tenggara termasuk dalam jenis hutan hujan tropis. Sementara itu, hutan musim tropis adalah tipe hutan tropis yang terletak di daerah dengan musim kemarau dan musim hujan yang jelas. Hutan musim tropis umumnya ditemukan di wilayah seperti India, Indochina, dan Australia utara.
 
 Hutan tropis sangat penting bagi keberlangsungan hidup manusia dan keanekaragaman hayati global. Hutan tropis menyediakan berbagai sumber daya alam seperti kayu, buah-buahan, dan bahan obat-obatan yang telah digunakan oleh manusia selama berabad-abad. Selain itu, hutan tropis juga berfungsi sebagai pengatur iklim global, menyerap karbon dioksida dari atmosfer dan menghasilkan oksigen yang penting bagi kehidupan di bumi.

@@ -10,7 +10,7 @@ tags:
     - Angka Penting
 description: >
     Angka penting (significant figures) adalah cara untuk mengekspresikan ketidakpastian dalam pengukuran atau hasil perhitungan.
-weight: 2
+weight: 3
 ---
 
 

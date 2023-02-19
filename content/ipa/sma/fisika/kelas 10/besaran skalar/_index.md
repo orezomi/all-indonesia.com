@@ -4,7 +4,7 @@ date: 2023-02-18T21:40:23+07:00
 draft: false
 type: docs
 toc_hide: false
-weight: 3
+weight: 4
 categories:
     - fisika
     - kelas 10
