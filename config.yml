@@ -1,7 +1,7 @@
 baseURL: "https://www.all-indonesia.com/"
 title: All-Indonesia.com
 theme: docsy
-description : "Info Rupa-Rupa"
+description : "Belajar & Tumbuh Bersama"
 contentDir : "content/"
 
 enableGitInfo: true
