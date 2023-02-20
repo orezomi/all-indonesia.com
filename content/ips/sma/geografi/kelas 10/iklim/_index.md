@@ -47,7 +47,7 @@ Iklim tropis juga dikenal dengan suhu yang tinggi dan curah hujan yang cukup tin
 Kondisi sosial geografis masyarakat di dalamnya sangat dipengaruhi oleh faktor-faktor lingkungan seperti curah hujan yang tinggi, suhu yang tinggi, serta pemanasan global yang memengaruhi ketersediaan air bersih dan ancaman terhadap keanekaragaman hayati.
 
 Tropical forest atau hutan tropis adalah tipe vegetasi yang umumnya terdapat di daerah tropis, yaitu di sekitar khatulistiwa antara 23,5 derajat lintang utara dan 23,5 derajat lintang selatan. Hutan tropis umumnya ditandai dengan vegetasi yang sangat lebat dan beragam, seperti pohon-pohon besar yang saling tumpang tindih dan tumbuhan epifit seperti anggrek dan lumut. Hutan tropis juga memiliki tingkat keanekaragaman hayati yang sangat tinggi dan menjadi tempat hidup bagi banyak spesies fauna dan flora yang endemik.
-{{< adsense >}}
+{{< adsense_grid >}}
 
 ### Hutan Hujan Tropis
 
