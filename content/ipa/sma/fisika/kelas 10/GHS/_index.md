@@ -13,6 +13,9 @@ tags:
     - GHS
 description: >
     Gerak Harmonik Sederhana (GHS) adalah gerakan benda yang mengikuti suatu pola pergerakan bolak-balik dengan frekuensi dan amplitudo tertentu.
+katex: true
+markup: mmark
+renderkatex: true
 ---
 {{< adsense >}}
 
@@ -37,3 +40,33 @@ Dalam Gerak Harmonik Sederhana (GHS), terdapat beberapa istilah penting yang ser
 4. Fase (phi) - Sifat posisi suatu benda dalam siklus gerakan bolak-balik pada waktu tertentu. Fase diukur dalam satuan radian (rad) atau derajat (°).
 
 Keempat istilah di atas sangat penting dalam menggambarkan sifat-sifat gerak harmonik sederhana dan digunakan dalam perhitungan matematis terkait gerakan tersebut.
+
+Contoh gerak harmonis sederhana yang sering ditemui dalam kehidupan sehari-hari adalah:
+
+1. ***Osilasi pegas:*** ketika pegas diregangkan dan kemudian dilepaskan, maka massa yang tergantung pada ujung pegas akan bergerak naik turun secara periodik sekitar posisi kesetimbangan.
+2. ***Gerakan bandul:*** ketika bandul diangkat dan kemudian dilepaskan, maka bola pada ujung bandul akan bergerak bolak-balik secara periodik.
+3. ***Gelombang suara:*** gelombang suara dapat dianggap sebagai gerakan harmonis sederhana karena getaran partikel di udara yang menghasilkan gelombang suara adalah gerakan bolak-balik yang periodik.
+4. ***Gerakan planet dan satelit:*** orbit planet dan satelit dapat dianggap sebagai gerakan harmonis sederhana karena benda tersebut bergerak bolak-balik secara periodik sekitar posisi kesetimbangan yaitu bintang yang menjadi pusat gravitasi.
+
+Persamaan gerak harmonik sederhana dituliskan sebagai berikut:
+$$x(t) = A\  sin(ωt + φ)$$
+
+dengan:
+
+\\(x(t)\\) adalah posisi benda pada saat \\(t\\)\
+\\(A\\) adalah amplitudo gerak, yaitu jarak maksimum perpindahan benda dari titik keseimbangan\
+\\(ω\\) adalah frekuensi sudut gerak, dinyatakan dalam \\(rad/s\\)\
+\\(t\\) adalah waktu dalam satuan detik\
+\\(φ\\) adalah fase awal gerak, yaitu fase saat \\(t = 0\\)
+
+Dalam bentuk persamaan, frekuensi sudut \\(ω\\) dapat dihitung dengan menggunakan persamaan berikut:
+
+$$ω = \frac{2π}{T}$$
+
+dengan \\(T\\) adalah periode gerak, yaitu waktu yang diperlukan oleh benda untuk menyelesaikan satu kali pergerakan bolak-balik. Frekuensi sudut dan periode gerak memiliki hubungan yang sebanding terbalik, sehingga frekuensi dan periode gerak dapat dihitung dengan persamaan berikut:
+
+$$f = \frac{1}{T} = \frac{ω}{2π}$$
+
+dengan \\(f\\) adalah frekuensi gerak dalam satuan ***Hz***.
+
+Persamaan gerak harmonik sederhana dapat dinyatakan sebagai \\(x(t) = A\ cos(ωt + φ)\\), di mana \\(x(t)\\) adalah posisi benda pada waktu \\(t\\), \\(A\\) adalah amplitudo (maksimum perpindahan benda dari titik kesetimbangan), \\(ω\\) adalah frekuensi sudut (*2π kali frekuensi*), \\(t\\) adalah waktu, dan \\(φ\\) adalah fase awal (fase pada waktu *t = 0*). Persamaan ini menggambarkan gerakan bolak-balik sebuah benda yang bergerak dengan periodik di sekitar titik kesetimbangan, karena adanya gaya restorasi yang memulihkan benda ke titik kesetimbangan.
