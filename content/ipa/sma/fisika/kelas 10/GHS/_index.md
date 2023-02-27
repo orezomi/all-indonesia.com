@@ -28,6 +28,7 @@ Contoh GHS yang paling umum adalah pergerakan pegas. Saat pegas ditarik dan dile
 Pada GHS, besaran-besaran seperti periode, frekuensi, amplitudo, dan fase dapat digunakan untuk menggambarkan pergerakan benda. Misalnya, periode adalah waktu yang dibutuhkan benda untuk menyelesaikan satu siklus pergerakan bolak-balik, sedangkan frekuensi adalah jumlah siklus per detik. Amplitudo mengukur seberapa jauh benda bergerak dari posisi kesetimbangan, sedangkan fase menggambarkan posisi benda pada suatu saat tertentu dalam siklus gerakan.
 
 Jadi, gerak harmonik sederhana merupakan gerakan periodik bolak-balik yang terjadi karena adanya gaya pemulih yang bekerja pada benda. Gaya pemulih ini berbentuk gaya restorasi yang besarnya sebanding dengan perpindahan dari titik keseimbangan dan arahnya berlawanan dengan arah perpindahan. Contoh dari gerak harmonik sederhana adalah gerakan pegas dan ayunan matematis. Gerakan ini memiliki persamaan gerak yang sederhana, yaitu ***x = A sin(wt + ϕ)***, di mana x adalah perpindahan dari titik keseimbangan, ***A*** adalah amplitudo, ***w*** adalah frekuensi sudut, ***t*** adalah waktu, dan ***ϕ*** adalah fase awal.
+{{< adsense >}}
 
 Dalam Gerak Harmonik Sederhana (GHS), terdapat beberapa istilah penting yang sering digunakan, antara lain:
 
@@ -70,3 +71,15 @@ $$f = \frac{1}{T} = \frac{ω}{2π}$$
 dengan \\(f\\) adalah frekuensi gerak dalam satuan ***Hz***.
 
 Persamaan gerak harmonik sederhana dapat dinyatakan sebagai \\(x(t) = A\ cos(ωt + φ)\\), di mana \\(x(t)\\) adalah posisi benda pada waktu \\(t\\), \\(A\\) adalah amplitudo (maksimum perpindahan benda dari titik kesetimbangan), \\(ω\\) adalah frekuensi sudut (*2π kali frekuensi*), \\(t\\) adalah waktu, dan \\(φ\\) adalah fase awal (fase pada waktu *t = 0*). Persamaan ini menggambarkan gerakan bolak-balik sebuah benda yang bergerak dengan periodik di sekitar titik kesetimbangan, karena adanya gaya restorasi yang memulihkan benda ke titik kesetimbangan.
+
+Persamaan Gerak Harmonik Sederhana juga dapat dinyatakan dalam bentuk sebagai berikut:
+
+$$x(t) = A cos(ωt + φ)$$
+
+dimana:
+
+\\(x(t)\\) = posisi benda pada waktu \\(t\\)\
+\\(A\\) = amplitudo, yaitu jarak maksimum perpindahan benda dari titik keseimbangan\
+\\(ω\\) = frekuensi sudut, yaitu kecepatan perubahan sudut dalam gerakan harmonik (dalam radian/detik)\
+\\(t\\) = waktu dalam detik\
+\\(φ\\) = fasa awal, yaitu posisi benda pada saat \\(t = 0\\) (dalam radian)

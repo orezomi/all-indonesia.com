@@ -2,7 +2,6 @@
 <div class="td-content">
   <main class="taxonomy-taxonomy-page">
     <h1>{{ with .Data.Singular }}{{ . | humanize }}: {{ end }}<span>{{ .Title }}</span></h1>
-    {{ partial "ads.html" . }}
 	{{ partial "safemarkup.html" .Content}}
     <div>
       {{ .Content }}
