@@ -45,7 +45,7 @@ dengan A merupakan amplitudo gerak harmonik sederhana, \\(\omega\\) merupakan fr
 $$\begin{equation}
 x = 0,1\cos\left(2\pi(5)(0,1) + 0\right) \approx 0,079 , m
 \end{equation}$$
-
+{{< adsense >}}
 2. Sebuah benda bermassa 0,2 kg tergantung pada pegas dengan tetapan pegas 40 N/m. Benda itu digoyang dengan frekuensi 5 Hz dan amplitudo 0,1 m.
 \
 ***a)*** Tentukan periode, frekuensi, dan amplitudo gerak harmonis sederhana benda tersebut.\
