@@ -104,7 +104,7 @@ Pada saat \\(t=0\\), benda berada pada posisi maksimum dan bergerak ke arah nega
 Gunakan persamaan gerak harmonik sederhana \\(x(t) = A \cos(\omega t + \phi)\\) untuk menghitung posisi benda pada waktu \\(t=3\ \mathrm{s}\\).
 $$\begin{aligned}
 x(t) &= A \cos(\omega t + \phi)
-&= 2\ \mathrm{cm} \cdot \cos(0.5\ \mathrm{s}^{-1} \cdot 3 , \mathrm{s} + \pi)
+&= 2\ \mathrm{cm} \cdot \cos(0.5\ \mathrm{s}^{-1} \cdot 3\ \mathrm{s} + \pi)
 &= -2\ \mathrm{cm}
 \end{aligned}$$
-Jadi, posisi benda pada waktu \\(t=3\ \mathrm{s}\\) adalah \\(-2 , \mathrm{cm}\\).
+Jadi, posisi benda pada waktu \\(t=3\ \mathrm{s}\\) adalah \\(-2\ \mathrm{cm}\\).
