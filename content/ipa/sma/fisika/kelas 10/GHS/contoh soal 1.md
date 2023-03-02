@@ -91,3 +91,20 @@ a_{\text{max}} &= A \omega^2
 &= 157,08 \text{ m/s}^2
 \end{aligned}$$
 Jadi, simpangan maksimum benda tersebut adalah 0,1 m, kecepatan maksimumnya adalah 3,14 m/s, dan percepatan maksimumnya adalah \\(157,08 m/s^2\\).
+{{< adsense >}}
+
+3. Sebuah benda bermassa \\(m\\) melakukan gerak harmonik sederhana dengan periode \\(T = 4\ \mathrm{s}\\) dan amplitudo \\(A = 2\  \mathrm{cm}\\). Pada saat \\(t=0\\), benda berada pada posisi maksimum dan bergerak ke arah negatif. Hitunglah posisi benda pada waktu \\(t=3\ \mathrm{s}\\).\
+\
+***Langkah penyelesaian:***\
+\
+Tentukan nilai frekuensi \\(\omega\\) menggunakan persamaan \\(T = \frac{2\pi}{\omega}\\).
+$$\omega = \frac{2\pi}{T} = \frac{2\pi}{4 , \mathrm{s}} = 0.5 , \mathrm{s}^{-1}$$
+Tentukan nilai fase awal \\(\phi\\) dengan menggunakan informasi pada soal.
+Pada saat \\(t=0\\), benda berada pada posisi maksimum dan bergerak ke arah negatif, sehingga \\(\phi = \pi\\).
+Gunakan persamaan gerak harmonik sederhana \\(x(t) = A \cos(\omega t + \phi)\\) untuk menghitung posisi benda pada waktu \\(t=3\ \mathrm{s}\\).
+$$\begin{aligned}
+x(t) &= A \cos(\omega t + \phi)
+&= 2\ \mathrm{cm} \cdot \cos(0.5\ \mathrm{s}^{-1} \cdot 3 , \mathrm{s} + \pi)
+&= -2\ \mathrm{cm}
+\end{aligned}$$
+Jadi, posisi benda pada waktu \\(t=3\ \mathrm{s}\\) adalah \\(-2 , \mathrm{cm}\\).
