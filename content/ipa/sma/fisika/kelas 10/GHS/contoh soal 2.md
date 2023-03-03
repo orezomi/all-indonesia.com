@@ -11,9 +11,9 @@ tags:
     - GHS
 description: >
     Contoh soal Gerak Harmonis Sederhana (GHS) - 2
-katex: true
-markup: mmark
-renderkatex: true
+# katex: true
+# markup: mmark
+# renderkatex: true
 weight: 2
 ---
 
