@@ -1,5 +1,5 @@
 ---
-title: "Contoh Soal Gerak Harmonis Sederhana (Part 1)"
+title: "Contoh Soal Gerak Harmonik Sederhana (Part 1)"
 linkTitle: "Soal GHS 1"
 date: 2023-02-25T23:21:19+09:00
 draft: false
@@ -11,7 +11,7 @@ tags:
     - Gerak Harmonik Sederhana
     - GHS
 description: >
-    Contoh soal Gerak Harmonis Sederhana (GHS) - 1
+    Contoh soal Gerak Harmonik Sederhana (GHS) - 1
 katex: true
 markup: mmark
 renderkatex: true
