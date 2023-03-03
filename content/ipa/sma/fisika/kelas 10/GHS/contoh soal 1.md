@@ -108,3 +108,36 @@ x(t) &= A \cos(\omega t + \phi)
 &= -2\ \mathrm{cm}
 \end{aligned}$$
 Jadi, posisi benda pada waktu \\(t=3\ \mathrm{s}\\) adalah \\(-2\ \mathrm{cm}\\).
+
+4. Sebuah benda yang tergantung pada pegas melakukan gerak harmonik sederhana dengan amplitudo sebesar ***0.05 m*** dan frekuensi sebesar ***2 Hz***. Jika benda berada pada posisi maksimum pada ***t = 0***, tentukan persamaan gerak harmonik sederhana benda tersebut.\
+\
+***Jawaban :***\
+\
+Untuk menyelesaikan soal ini, kita perlu mengingat rumus umum gerak harmonik sederhana:
+$$\begin{equation}
+x(t) = A \cos(\omega t + \phi)
+\end{equation}$$
+di mana ***A*** adalah amplitudo, \\(\omega\\) adalah frekuensi sudut, ***t*** adalah waktu, dan \\(\phi\\) adalah fasa awal.
+\
+Kita sudah diberikan nilai amplitudo ***A*** dan frekuensi ***f***. Kita perlu mengonversi frekuensi menjadi frekuensi sudut dengan rumus \\(\omega = 2\pi f\\). Karena benda berada pada posisi maksimum saat ***t=0***, maka \\(\phi=0\\).
+\
+Sehingga persamaan gerak harmonik sederhana untuk benda tersebut adalah:
+$$\begin{equation}
+x(t) = 0.05 \cos(4\pi t)
+\end{equation}$$
+{{< adsense >}}
+5. Sebuah benda melakukan gerak harmonik sederhana dengan amplitudo ***0.1 m*** dan frekuensi ***2 Hz***. Pada saat ***t=0***, benda berada pada posisi maksimum. Hitunglah persamaan gerak benda pada saat ***t=0.5*** detik.\
+\
+***Jawaban:***\
+\
+Diketahui:\
+\\(A = 0.1\ m\\)\
+\\(f = 2\ Hz\\)\
+\\(\omega = 2\pi\ f = 4\pi\ rad/s\\)\
+\\(t = 0.5\ s\\)\
+\\(\phi = 0\\) (karena benda berada pada posisi maksimum saat ***t=0***)\
+Maka persamaan gerak benda adalah:
+$$ x(t) = 0.1 \cos (4\pi t) $$
+Pada saat ***t=0.5*** detik, maka:
+$$ x(0.5) = 0.1 \cos (4\pi \times 0.5) \approx -0.1 $$
+Jadi, pada saat ***t=0.5*** detik, benda berada pada posisi ***-0.1 m*** dari posisi kesetimbangan.
