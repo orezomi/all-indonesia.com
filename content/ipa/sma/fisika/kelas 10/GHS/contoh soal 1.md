@@ -1,5 +1,5 @@
 ---
-title: "Contoh Soal Gerak Harmonis Sederhana 1"
+title: "Contoh Soal Gerak Harmonis Sederhana (Part 1)"
 linkTitle: "Soal GHS 1"
 date: 2023-02-25T23:21:19+09:00
 draft: false
@@ -15,6 +15,7 @@ description: >
 katex: true
 markup: mmark
 renderkatex: true
+weight: 1
 ---
 ## Contoh Soal GHS (1)
 
