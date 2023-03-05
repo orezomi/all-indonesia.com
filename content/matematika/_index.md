@@ -2,7 +2,8 @@
 title: "Matematika"
 date: 2022-05-14T19:29:11+07:00
 draft: false
-type: docs
+cascade :
+    type: "docs"
 weight: 2
 description: >
     Sebelum mereka-cipta pembelajaran matematika, tiap guru perlu mengenali muatan matematika apa saja yang penting di tiap kelas.

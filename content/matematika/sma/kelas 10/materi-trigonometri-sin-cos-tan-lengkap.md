@@ -5,13 +5,14 @@ draft: false
 ShowToc: true
 TocOpen: true
 type: docs
-weight: 1
+weight: 2
 description: >
   Materi Trigonometri lengkap, membahas rumus nilai sinus, cosinus, tangen,
   tabel sudut istimewa trigonometri, identitas trigonometri, dalil sinus, dalil
   cosinus dan lain-lain
 categories:
   - matematika
+  - kelas 10
 tags:
   - trigonometri
   - cos
