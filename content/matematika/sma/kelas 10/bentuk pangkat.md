@@ -100,3 +100,31 @@ Contoh-contoh penggunaan eksponen dalam matematika antara lain:
 20. Jika 1/10{^x} = 1000, maka nilai dari x adalah?
 ***Jawaban:*** x = {^10}log (1/1000) = {^10}log 10{^(-3)} = -3.
 {{< adsense >}}
+
+## Sifat bilangan berpangkat
+
+Berikut ini adalah beberapa sifat-sifat bilangan berpangkat:
+
+1. Sifat distributif perkalian terhadap pangkat, yaitu ***a{^(m+n)} = a{^m} x a{^n}***.\
+***Contoh:*** 2{^(3+4)} = 2{^3} x 2{^4} = 8 x 16 = 128.
+
+2. Sifat distributif pembagian terhadap pangkat, yaitu ***a{^(m-n)} = a{^m} ÷ a{^n}***.\
+***Contoh:*** 5{^(3-6)} = 5{^3} ÷ 5{^6} = 125 ÷ 15625 = 0,008.
+
+3. Sifat pangkat nol, yaitu ***a{^0} = 1***, untuk a ≠ 0.\
+***Contoh:*** 10{^0} = 1.
+
+4. Sifat pangkat satu, yaitu ***a{^1} = a***, untuk a ≠ 0.\
+***Contoh:*** 3{^1} = 3.
+
+5. Sifat pangkat negatif, yaitu ***a{^(-n)} = 1 ÷ a{^n}***, untuk a ≠ 0.\
+***Contoh:*** 2{^(-3)} = 1 ÷ 2{^3} = 1 ÷ 8 = 0,125.
+
+6. Sifat perpangkatan, yaitu ***(a{^m}){^n} = a{^(m x n)}***.\
+***Contoh:*** (4{^3}){^2} = 4{^(3 x 2)} = 4{^6} = 4096.
+
+7. Sifat akar pangkat n, yaitu ***(a{^n}){^(1/n)} = a***.\
+***Contoh:*** (16{^2}){^(1/2)} = 16{^(2 x 1/2)} = 16{^1} = 16.
+
+8. Sifat pangkat pecahan, yaitu \\(a^{\frac{m}{n}} = \sqrt[n]{a^m}\\), untuk m dan n bilangan bulat.\
+***Contoh:*** \\(27^{\frac{2}{3}} = \sqrt[3]{27^2} = \sqrt[3]{729} = 9\\).
