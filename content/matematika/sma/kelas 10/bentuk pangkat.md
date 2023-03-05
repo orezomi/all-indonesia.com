@@ -14,6 +14,8 @@ weight: 3
 katex: true
 markup: mmark
 renderkatex: true
+description: >
+    Eksponen atau pangkat bilangan adalah suatu bilangan yang menunjukkan seberapa banyak kali sebuah bilangan harus dikalikan dengan dirinya sendiri
 ---
 ## Bentuk Pangkat Bilangan
 
@@ -67,3 +69,34 @@ Contoh-contoh penggunaan eksponen dalam matematika antara lain:
 
 10. Jika 1/5{^x} = 25, maka nilai dari x adalah?
 ***Jawaban:*** x = {^5}log (1/25) = {^5}log 5{^(-2)} = -2.
+
+11. Hitung nilai dari 2{^3}.
+***Jawaban:*** 2{^3} = 2 x 2 x 2 = 8.
+
+12. Hitung nilai dari 10{^2}.
+***Jawaban:*** 10{^2} = 10 x 10 = 100.
+
+13. Hitung nilai dari 3{^4}.
+***Jawaban:*** 3{^4} = 3 x 3 x 3 x 3 = 81.
+
+14. Hitung nilai dari 2{^(-3)}.
+***Jawaban:*** 2{^(-3)} = 1 ÷ 2{^3} = 1 ÷ 8 = 0,125.
+
+15. Jika 2{^x} = 16, maka nilai dari x adalah?
+***Jawaban:*** x = {^2}log 16 = 4.
+
+16. Jika 10{^x} = 100, maka nilai dari x adalah?
+***Jawaban:*** x = {^10}log 100 = 2.
+
+17. Jika 5{^x} = 125, maka nilai dari x adalah?
+***Jawaban:*** x = {^5}log 125 = 3.
+
+18. Jika 3{^x} = 27, maka nilai dari x adalah?
+***Jawaban:*** x = {^3}log 27 = 3.
+
+19. Jika 2{^x} = 1/16, maka nilai dari x adalah?
+***Jawaban:*** x = {^2}log (1/16) = {^2}log 2{^(-4)} = -4.
+
+20. Jika 1/10{^x} = 1000, maka nilai dari x adalah?
+***Jawaban:*** x = {^10}log (1/1000) = {^10}log 10{^(-3)} = -3.
+{{< adsense >}}
