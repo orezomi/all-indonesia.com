@@ -67,3 +67,18 @@ Kecepatan cahaya dapat ditulis sebagai 2,99792458 x 10{^8} meter per detik dalam
 6,5 x 8,2 x 10{^(3+2)} = 53,3 x 10{^5}\
 \
 Maka hasil dari 6,5 x 10{^3} x 8,2 x 10{^2} adalah 53,3 x 10{^5}.
+
+8. Tuliskan 0,00000127 dalam notasi ilmiah!\
+***Jawaban:*** 1,27 x 10{^-6}
+
+9. Tuliskan 700.000 dalam notasi ilmiah!\
+***Jawaban:*** 7 x 10{^5}
+
+10. Tuliskan 0,000025 dalam notasi ilmiah!\
+***Jawaban:*** 2,5 x 10{^-5}
+
+11. Tuliskan 9.000.000.000 dalam notasi ilmiah!\
+***Jawaban:*** 9 x 10{^9}
+
+12. Tuliskan 0,0000000000845 dalam notasi ilmiah!\
+***Jawaban:*** 8,45 x 10{^-11}
