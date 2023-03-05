@@ -38,7 +38,7 @@ Contoh-contoh penggunaan eksponen dalam matematika antara lain:
 3. Perhitungan investasi pada bunga berbunga menggunakan rumus \\(A = P(1 + \frac{r}{n})^{nt}\\), di mana P adalah jumlah investasi awal, r adalah tingkat bunga, n adalah jumlah periode bunga per tahun, dan t adalah jumlah tahun investasi.
 {{< adsense >}}
 
-## Contoh Soal Bilangan Berpangkat
+### Contoh Soal Bilangan Berpangkat
 
 1. Hitung nilai dari 2{^3} x 3{^2}.
 ***Jawaban:*** 2{^3} x 3{^2} = 8 x 9 = 72.
@@ -101,7 +101,7 @@ Contoh-contoh penggunaan eksponen dalam matematika antara lain:
 ***Jawaban:*** x = {^10}log (1/1000) = {^10}log 10{^(-3)} = -3.
 {{< adsense >}}
 
-## Sifat bilangan berpangkat
+### Sifat bilangan berpangkat
 
 Berikut ini adalah beberapa sifat-sifat bilangan berpangkat:
 
