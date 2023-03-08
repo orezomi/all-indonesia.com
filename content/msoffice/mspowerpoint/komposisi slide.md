@@ -2,6 +2,8 @@
 title: "Komposisi Slide"
 date: 2023-03-09T00:10:20+07:00
 draft: false
+description: >
+    Komposisi slide PowerPoint adalah cara Anda mengatur elemen visual dan teks pada slide PowerPoint Anda
 ---
 
 Komposisi slide PowerPoint adalah cara Anda mengatur elemen visual dan teks pada slide PowerPoint Anda. Komposisi yang baik dapat membantu memperjelas pesan Anda dan membuat presentasi Anda lebih menarik dan mudah dipahami. Berikut adalah beberapa tips tentang bagaimana cara mengatur komposisi slide PowerPoint yang baik:
