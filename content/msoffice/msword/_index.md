@@ -2,6 +2,12 @@
 title: "Ms Word"
 date: 2023-03-08T23:45:25+07:00
 draft: false
+categories:
+    - msoffice
+    - msword
+tags:
+    - word
+    - ms word
 description: >
     Microsoft Word adalah program pengolah kata yang digunakan untuk membuat dan mengedit dokumen teks, seperti surat, memo, laporan, atau naskah
 ---

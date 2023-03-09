@@ -2,6 +2,12 @@
 title: "Ms PowerPoint"
 date: 2023-03-08T23:45:34+07:00
 draft: false
+categories:
+    - msoffice
+    - mspowerpoint
+tags:
+    - powerpoint
+    - ms powerpoint
 description: >
     Microsoft PowerPoint adalah sebuah program presentasi yang digunakan untuk membuat slide presentasi. PowerPoint adalah bagian dari Microsoft Office suite
 ---
