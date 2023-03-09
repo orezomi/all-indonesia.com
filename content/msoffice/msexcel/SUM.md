@@ -16,11 +16,15 @@ Formula SUM digunakan untuk menjumlahkan nilai-nilai dalam rentang sel atau dala
 
 ***Contoh 1:***
 Jumlahkan nilai dari sel A1 hingga A5.
+{{< highlight go >}}
 =SUM(A1:A5)
+{{< / highlight >}}
 
 ***Contoh 2:***
-Jumlahkan nilai dari sel A1, B1, C1 dan D1.
+Jumlahkan nilai dari sel A1, B1, C1 dan D1.\
+{{< highlight go >}}
 =SUM(A1, B1, C1, D1)
+{{< / highlight >}}
 
 Tips dalam menggunakan formula SUM:
 

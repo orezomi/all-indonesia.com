@@ -17,11 +17,15 @@ Formula SUMIF digunakan untuk menjumlahkan nilai-nilai dalam rentang sel yang me
 
 ***Contoh 1:***
 Jumlahkan nilai dari sel A1 hingga A5 yang nilainya lebih besar dari 10.
+{{< highlight go >}}
 =SUMIF(A1:A5, ">10")
+{{< / highlight >}}
 
 ***Contoh 2:***
 Jumlahkan nilai dari sel A1 hingga A5 yang memiliki teks "Produk A".
+{{< highlight go >}}
 =SUMIF(A1:A5, "Produk A", B1:B5)
+{{< / highlight >}}
 
 Tips dalam menggunakan formula SUMIF:
 

@@ -17,11 +17,15 @@ Formula SUMIFS digunakan untuk menjumlahkan nilai-nilai dalam rentang sel yang m
 
 ***Contoh 1:***
 Jumlahkan nilai dari sel A1 hingga A5 yang nilainya lebih besar dari 10 dan lebih kecil dari 20.
+{{< highlight go >}}
 =SUMIFS(A1:A5, A1:A5, ">10", A1:A5, "<20")
+{{< / highlight >}}
 
 ***Contoh 2:***
 Jumlahkan nilai dari sel A1 hingga A5 yang memiliki teks "Produk A" dan terjual lebih dari 50 unit.
+{{< highlight go >}}
 =SUMIFS(B1:B5, A1:A5, "Produk A", B1:B5, ">50")
+{{< / highlight >}}
 
 Tips dalam menggunakan formula SUMIFS:
 
