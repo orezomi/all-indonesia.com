@@ -2,7 +2,13 @@
 title: "CUSTOM FUNCTION"
 date: 2023-03-12T11:55:38+07:00
 draft: false
-weight: 0
+weight: 13
+categories:
+    - Microsoft Excel
+tags:
+    - CUSTOM FUNCTION
+description: >
+    Anda dapat membuat fungsi sendiri di Excel menggunakan Visual Basic for Applications (VBA). Berikut adalah langkah-langkahnya.
 ---
 
 ## Cara Membuat Rumus atau Function sendiri di Excel
