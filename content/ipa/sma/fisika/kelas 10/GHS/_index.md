@@ -1,5 +1,6 @@
 ---
 title: "Gerak Harmonik Sederhana (GHS)"
+linkTitle: "GHS"
 date: 2023-02-20T11:30:30+07:00
 draft: false
 weight: 10
@@ -19,7 +20,7 @@ renderkatex: true
 ---
 {{< adsense >}}
 
-## Pengertian
+## Pengertian GHS
 
 Gerak Harmonik Sederhana (GHS) adalah gerakan benda yang mengikuti suatu pola pergerakan bolak-balik dengan frekuensi dan amplitudo tertentu. Pada GHS, gaya yang bekerja pada benda selalu sebanding dengan jaraknya dari titik kesetimbangan.
 
