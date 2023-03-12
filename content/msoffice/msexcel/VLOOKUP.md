@@ -10,6 +10,7 @@ tags:
 description: >
     VLOOKUP digunakan untuk mencari nilai dalam range data berdasarkan kunci pencarian tertentu dan mengembalikan nilai yang sesuai dari kolom yang ditentukan.
 ---
+## Formula VLOOKUP
 
 Formula VLOOKUP (Vertical Lookup) pada Excel digunakan untuk mencari nilai dalam tabel atau range data berdasarkan kunci pencarian tertentu dan mengembalikan nilai yang sesuai dari kolom yang ditentukan. Formula ini berguna untuk mencari data dalam tabel atau range data yang besar.
 
