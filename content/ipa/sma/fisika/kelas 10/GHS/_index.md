@@ -84,3 +84,7 @@ dimana:
 \\(ω\\) = frekuensi sudut, yaitu kecepatan perubahan sudut dalam gerakan harmonik (dalam radian/detik)\
 \\(t\\) = waktu dalam detik\
 \\(φ\\) = fasa awal, yaitu posisi benda pada saat \\(t = 0\\) (dalam radian)
+
+{{< pendulum >}}
+
+{{< adsense >}}

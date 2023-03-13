@@ -37,3 +37,7 @@ Persamaan ini digunakan untuk menghitung waktu \\(t\\) yang diperlukan oleh bend
 
 4. Persamaan percepatan: \\(a = \frac{(v - v_0)}{t}\\)
 Persamaan ini digunakan untuk menghitung percepatan \\(a\\) benda pada waktu tertentu \\(t\\), dengan kecepatan awal \\(v_0\\) dan kecepatan \\(v\\) yang diketahui.
+
+Visualisasi GLBB dapat dilihat pada grafik berikut ini:
+
+{{< glbb >}}
