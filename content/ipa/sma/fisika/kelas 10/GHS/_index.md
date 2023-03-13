@@ -88,3 +88,5 @@ dimana:
 {{< pendulum >}}
 
 {{< adsense >}}
+
+{{< snakependulum >}}
