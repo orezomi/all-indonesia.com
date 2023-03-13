@@ -85,8 +85,40 @@ dimana:
 \\(t\\) = waktu dalam detik\
 \\(φ\\) = fasa awal, yaitu posisi benda pada saat \\(t = 0\\) (dalam radian)
 
+### GHS Pada Pendulum
+
+Gerak pendulum adalah gerakan sebuah benda yang tergantung pada suatu tali atau batang yang memungkinkan benda tersebut untuk berayun bebas di sekitar porosnya. Pada gerak pendulum, gaya gravitasi memiliki pengaruh besar terhadap gerakan benda. Semakin besar gaya gravitasi, semakin cepat ayunan benda.
+
+Panjang pendulum juga mempengaruhi gerakan pendulum. Semakin panjang pendulum, semakin lambat ayunan benda dan semakin besar periode ayunan benda. Persamaan untuk periode ayunan benda pada suatu pendulum adalah:
+
+$$ T = 2\pi \sqrt{\frac{l}{g}} $$
+
+di mana \\(T\\) adalah periode ayunan benda, \\(l\\) adalah panjang pendulum, dan \\(g\\) adalah percepatan gravitasi.
+
+Massa benda pada ujung tali atau batang biasanya tidak mempengaruhi periode ayunan benda, tetapi mempengaruhi amplitudo atau besarannya. Semakin besar massa benda, semakin kecil amplitudo atau ayunan maksimum benda.
+
 {{< pendulum >}}
 
 {{< adsense >}}
 
 {{< snakependulum >}}
+
+### GHS Pada Pegas
+
+Gerak Harmonik Sederhana (GHS) pada pegas adalah gerakan periodik yang dilakukan oleh suatu massa yang tergantung pada sebuah pegas dan hanya dipengaruhi oleh gaya restorasi (gaya yang timbul akibat peregangan atau penyusutan pegas). Faktor-faktor yang mempengaruhi GHS pada pegas antara lain:
+
+1. ***Konstanta pegas (k):*** Semakin besar konstanta pegas, semakin besar gaya restorasi yang ditimbulkan pada suatu peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.
+
+2. ***Massa (m):*** Semakin besar massa suatu benda yang digantung pada pegas, semakin besar pula gaya yang diperlukan untuk menghasilkan peregangan atau penyusutan pegas. Hal ini akan memperlambat gerakan massa dan memperpanjang periode GHS pada pegas.
+
+3. ***Amplitudo (A):*** Amplitudo adalah jarak maksimum yang ditempuh oleh massa dalam gerakan GHS pada pegas. Semakin besar amplitudo, semakin besar pula gaya restorasi yang ditimbulkan pada suatu peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.
+
+4. ***Gaya gravitasi (g):*** Gaya gravitasi adalah gaya yang menarik massa pada pegas ke arah bawah. Semakin besar nilai percepatan gravitasi, semakin cepat massa akan kembali ke posisi semula setelah mengalami peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.
+
+Dengan mempertimbangkan faktor-faktor di atas, periode GHS pada pegas dapat dihitung menggunakan rumus:
+
+$$T = 2π \sqrt{\frac{m}{k}}$$
+
+di mana \\(T\\) adalah periode (s), \\(m\\) adalah massa (kg), dan \\(k\\) adalah konstanta pegas (N/m).
+
+{{< spring >}}
