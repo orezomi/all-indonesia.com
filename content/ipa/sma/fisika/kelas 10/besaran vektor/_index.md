@@ -64,3 +64,18 @@ Beberapa contoh besaran vektor dalam fisika adalah:
 3. ***Momentum:*** Momentum adalah besaran vektor yang menyatakan kuantitas gerak suatu benda, yaitu massa benda dikalikan dengan kecepatannya. Momentum dinyatakan dalam satuan kilogram meter per detik (\\(\text{kg m/s}\\)) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, momentum sebuah bola dengan massa 0.5 kg yang bergerak dengan kecepatan 10 m/s ke arah timur dapat dituliskan sebagai \\(\vec{p} = (0.5\text{ kg})(10\text{ m/s})\ \hat{i} = 5\text{ kg m/s}\ \hat{i}\\).
 
 4. ***Percepatan:*** Percepatan adalah besaran vektor yang menyatakan perubahan kecepatan suatu benda dalam suatu waktu tertentu. Percepatan dinyatakan dalam satuan meter per detik kuadrat (\\(\text{m/s}^2\\)) dan memiliki arah yang sejajar dengan arah perubahan kecepatan. Contohnya, percepatan gravitasi yang bekerja pada benda di dekat permukaan bumi dapat dituliskan sebagai \\(\vec{a} = (0\ \text{m/s}^2)\ \hat{i} - (9.8\ \text{m/s}^2)\ \hat{j}\\), di mana \\(\hat{i}\\) dan \\(\hat{j}\\) adalah vektor satuan searah sumbu \\(x\\) dan \\(y\\) negatif.
+
+## Proyeksi Vektor
+
+Proyeksi vektor adalah hasil proyeksi suatu vektor pada suatu sumbu atau bidang tertentu. Proyeksi vektor dapat digunakan untuk menentukan komponen suatu vektor pada suatu sumbu atau bidang tertentu. Misalnya, proyeksi vektor pada sumbu x dapat digunakan untuk menentukan komponen vektor pada sumbu x, sedangkan proyeksi vektor pada bidang xy dapat digunakan untuk menentukan komponen vektor pada bidang xy.
+
+Secara matematis, proyeksi vektor pada suatu sumbu atau bidang dapat ditemukan dengan mengalikan panjang vektor dengan kosinus sudut antara vektor tersebut dan sumbu atau bidang yang dimaksud. Jika vektor yang akan diproyeksikan dinyatakan sebagai vektor \\(\vec{v}\\) dan sumbu atau bidang yang dimaksud dinyatakan sebagai
+\\(\hat{n}\\), maka proyeksi vektor dapat dinyatakan sebagai:
+
+$$\operatorname{proj}_{\hat{n}} \vec{v} = |\vec{v}| \cos \theta = |\vec{v}| \cos (\hat{n}, \vec{v})$$
+
+di mana \\(\theta\\) adalah sudut antara vektor \\(\vec{v}\\) dan sumbu atau bidang \\(\hat{n}\\).
+
+Ilustrasi proyeksi vektor dapat dilihat pada simulasi berikut:
+
+{{< proyeksi_vektor >}}
