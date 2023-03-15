@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Excel"
 date: 2023-03-15T16:04:44+07:00
-weight: 15
+weight: 16
 categories:
     - Microsoft Excel
 tags:
