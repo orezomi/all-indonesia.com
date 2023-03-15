@@ -22,7 +22,7 @@ DNA (Deoxyribonucleic Acid) adalah materi genetik yang ada pada sel. Struktur DN
 
 Kedua untaian ini terdiri dari beberapa unit dasar yang disebut basa. Ada empat jenis basa yang terdapat pada DNA yaitu adenin (A), timin (T), sitosin (C) dan guanin (G). Urutan basa yang berbeda di dalam DNA menyebabkan variasi sifat-sifat biologis yang berbeda pada makhluk hidup.
 
-### Replicasi DNA
+### Replikasi DNA
 
 Salah satu proses penting dalam genetika adalah replikasi DNA. Replikasi DNA terjadi ketika sel bereproduksi dan harus menggandakan materi genetiknya. Proses replikasi DNA sangat penting dalam menghasilkan salinan DNA yang sama dan memungkinkan sifat-sifat genetik yang diwariskan oleh orang tua diturunkan kepada keturunan mereka.
 
