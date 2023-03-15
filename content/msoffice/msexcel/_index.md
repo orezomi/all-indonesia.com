@@ -4,7 +4,7 @@ date: 2023-03-08T23:45:12+07:00
 draft: false
 categories:
     - msoffice
-    - msexcel
+    - Microsoft Excel
 tags:
     - excel
     - ms excel
