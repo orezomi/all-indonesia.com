@@ -9,8 +9,12 @@ tags:
     - Addins
     - Chat GPT
 description: >
-    Anda dapat membuat fungsi Chat GPT di Ms Excel, ikuti langkah-langkah berikut
+    Anda dapat membuat fungsi Chat GPT di Ms Excel ataupun di Google Spreadsheet, ikuti langkah-langkah berikut
 ---
+
+## API OpenAI di Excel dan Google Spreadsheet
+
+### Penggunaan API OpenAI di Excel
 
 Untuk menggunakan API OpenAI di Microsoft Excel, Anda dapat mengikuti langkah-langkah berikut:
 
@@ -66,3 +70,47 @@ Pastikan Anda mengganti nilai variabel `sApiKey` dengan kunci API OpenAI Anda se
 Setelah menulis kode VBA, jalankan prosedur tersebut dengan menekan tombol F5 atau pilih "Run" pada menu atas. Hasil dari API OpenAI akan ditampilkan di dalam sel di worksheet Excel yang aktif.
 
 Namun, perlu diingat bahwa penggunaan API OpenAI memerlukan pengetahuan tentang pemrograman dan koneksi internet yang stabil. Selain itu, Anda juga harus mematuhi aturan dan kebijakan penggunaan API OpenAI.
+
+### Penggunaan API OpenAI di Google Spreadsheet
+
+Untuk menggunakan API OpenAI di Google Spreadsheet, Anda dapat mengikuti langkah-langkah berikut:
+
+1. Buka Google Spreadsheet yang ingin Anda gunakan untuk mengakses API OpenAI.
+2. Buka menu "Tools" dan pilih "Script Editor".
+3. Di editor skrip, klik "File" dan pilih "New Project".
+4. Beri nama proyek dan klik "Create".
+5. Selanjutnya, masukkan kode untuk menggunakan API OpenAI. Berikut ini adalah contoh kode untuk mengambil respons dari GPT-3 API OpenAI:
+{{< highlight go >}}
+function getGpt3Response(prompt) {
+  var apiKey = 'YOUR_API_KEY_HERE';
+  var apiUrl = 'https://api.openai.com/v1/engines/davinci-codex/completions';
+
+  var headers = {
+    'Content-Type': 'application/json',
+    'Authorization': 'Bearer ' + apiKey
+  };
+
+  var data = {
+    'prompt': prompt,
+    'max_tokens': 10,
+    'n': 1,
+    'stop': '\n'
+  };
+
+  var options = {
+    'method': 'POST',
+    'headers': headers,
+    'payload': JSON.stringify(data)
+  };
+
+  var response = UrlFetchApp.fetch(apiUrl, options);
+  var json = JSON.parse(response.getContentText());
+
+  return json.choices[0].text;
+}
+{{< / highlight >}}
+6. Ganti `YOUR_API_KEY_HERE` dengan API key OpenAI Anda.
+7. Simpan kode dan kembali ke spreadsheet.
+8. Sekarang Anda dapat menggunakan fungsi `getGpt3Response()` di sel-sel spreadsheet untuk mengambil respons dari API OpenAI. Contohnya, Anda dapat mengetikkan `=getGpt3Response("What is the capital of Indonesia?")` di sel dan akan mengembalikan jawaban dari API.
+
+Harap dicatat bahwa penggunaan API OpenAI memerlukan biaya dan perlu memastikan bahwa penggunaan Anda mematuhi ketentuan layanan dan kebijakan privasi dari OpenAI.
