@@ -32,6 +32,16 @@ Bilangan bentuk akar adalah bilangan yang dinyatakan dalam bentuk akar atau pang
 5. Bilangan bulat atau pecahan yang tidak memiliki bentuk akar yang tepat dapat dinyatakan dalam bentuk desimal yang tak terhingga atau dalam bentuk pecahan campuran. Sebagai contoh, \\(\frac{5}{\sqrt{2}}\\) dapat dinyatakan dalam bentuk desimal 3,536..., atau dalam bentuk pecahan campuran \\(7\frac{1}{\sqrt{2}}\\).
 {{< adsense >}}
 
+### Perkalian Bilangan Bentuk Akar
+
+Perkalian bilangan bentuk akar dapat dilakukan dengan mengalikan koefisien (bilangan sebelum tanda akar) dan mengalikan radikal (akar) dengan akar yang serupa. Misalnya, untuk mengalikan \\(\sqrt{a}\\) dan \\(\sqrt{b}\\), dapat dilakukan dengan mengalikan keduanya sehingga menjadi \\(\sqrt{ab}\\). Contoh lainnya, untuk mengalikan \\(2\sqrt{3}\\) dengan \\(3\sqrt{5}\\), dapat dilakukan dengan mengalikan koefisien 2 dan 3 sehingga menjadi 6, dan mengalikan akar 3 dengan akar 5 sehingga menjadi \\(\sqrt{15}\\). Dengan demikian, hasil perkaliannya adalah \\(6\sqrt{15}\\).
+
+### Pembagian Bilangan Bentuk Akar
+
+Pembagian bilangan bentuk akar dapat dilakukan dengan membagi koefisien (bilangan sebelum tanda akar) dan membagi radikal (akar) dengan akar yang serupa. Misalnya, untuk membagi \\(\sqrt{a}\\) dan \\(\sqrt{b}\\), dapat dilakukan dengan membagi keduanya sehingga menjadi \\(\sqrt{\frac{a}{b}}\\). Contoh lainnya, untuk membagi \\(4\sqrt{10}\\) dengan \\(2\sqrt{5}\\), dapat dilakukan dengan membagi koefisien 4 dan 2 sehingga menjadi 2, dan membagi akar 10 dengan akar 5 sehingga menjadi \\(\sqrt{2}\\). Dengan demikian, hasil pembagiannya adalah \\(2\sqrt{2}\\).
+
+Namun, perlu diperhatikan bahwa dalam pembagian bilangan bentuk akar, harus dipastikan bahwa penyebutnya tidak sama dengan 0, karena bilangan akar tidak bisa dibagi dengan 0.
+
 ## Contoh Soal Bilangan Bentuk Akar
 
 1. Hitunglah nilai dari \\(\sqrt{75} - \sqrt{48}\\).
