@@ -13,6 +13,8 @@ markup: mmark
 renderkatex: true
 ---
 
+## Konsep Logaritma
+
 Logaritma merupakan sebuah konsep matematika yang digunakan untuk membalik operasi eksponensial. Logaritma adalah kebalikan dari eksponensial. Jika sebuah bilangan dipangkatkan dengan bilangan lain (misalnya \\(2^3 = 8\\)), maka bentuk logaritma dari bilangan tersebut dapat dinyatakan sebagai pangkat bilangan yang digunakan \\(^2 log\ 8 = 3\\).
 
 Secara umum, logaritma dapat didefinisikan sebagai suatu fungsi matematika yang mengukur banyaknya pangkat dari bilangan tertentu yang diperlukan untuk menghasilkan bilangan lainnya. Misalnya, logaritma basis 2 dari bilangan 8 adalah 3 karena 2 pangkat 3 sama dengan 8.
