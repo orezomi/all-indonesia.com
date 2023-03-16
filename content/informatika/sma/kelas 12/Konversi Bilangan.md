@@ -126,3 +126,173 @@ Maka, bilangan biner dari 25 adalah 11001.
 1 x 2{^4} = 16
 
 Maka, bilangan desimal dari 11001 adalah 25
+
+### Konversi Bilangan Desimal ke Bilangan dengan Basis Oktal
+
+Konversi bilangan desimal ke bilangan berbasis oktal melibatkan pembagian bilangan desimal dengan basis 8, kemudian mengambil sisa dari setiap pembagian dan menuliskannya secara berurutan dari bawah ke atas.
+
+Berikut adalah langkah-langkah konversi bilangan desimal ke bilangan berbasis oktal:
+
+1. Bagi bilangan desimal dengan 8 dan simpan hasil bagi serta sisanya.
+2. Jika hasil bagi lebih besar dari 0, ulangi proses pembagian dengan hasil bagi sebagai bilangan desimal. Jika tidak, proses konversi selesai.
+3. Urutkan sisa-sisa yang didapat dari bawah ke atas untuk membentuk bilangan oktal.
+
+Contoh:
+Konversi bilangan desimal 187 ke bilangan berbasis oktal:
+
+- 187 ÷ 8 = 23 sisa 3
+- 23 ÷ 8 = 2 sisa 7
+- 2 ÷ 8 = 0 sisa 2
+
+Sehingga, bilangan desimal 187 dalam basis oktal adalah 273.
+
+Dalam representasi bilangan oktal, setiap digit merepresentasikan kelipatan dari 8 mulai dari pangkat 0 pada digit paling kanan. Sebagai contoh, bilangan oktal 273 dapat dipecah menjadi:
+
+- 2 x 8{^2} = 128
+- 7 x 8{^1} = 56
+- 3 x 8{^0} = 3
+
+Sehingga, bilangan oktal 273 dapat dikonversi menjadi bilangan desimal 187.
+
+### Konversi Bilangan Berbasis Oktal ke Bilangan Desimal
+
+Konversi bilangan berbasis oktal ke bilangan desimal melibatkan perkalian digit-digit bilangan oktal dengan kelipatan dari basis 8 dan menjumlahkannya.
+
+Berikut adalah langkah-langkah konversi bilangan oktal ke bilangan desimal:
+
+1. Tentukan digit dan pangkat untuk setiap digit dalam bilangan oktal, mulai dari pangkat 0 pada digit paling kanan dan meningkatkan pangkat secara bertahap ke kiri.
+2. Untuk setiap digit, kalikan digit tersebut dengan 8 pangkat pangkatnya.
+3. Jumlahkan hasil perkalian pada langkah kedua untuk mendapatkan bilangan desimal.
+
+Contoh:
+Konversi bilangan oktal 273 ke bilangan desimal:
+
+Digit kanan adalah 3, yang memiliki pangkat 0. Digit kiri adalah 7, yang memiliki pangkat 1, dan digit paling kiri adalah 2, yang memiliki pangkat 2.
+
+Hitung nilai dari setiap digit dalam bilangan oktal, dengan mengalikannya dengan pangkat 8 yang sesuai:
+
+- 3 x 8{^0} = 3
+- 7 x 8{^1} = 56
+- 2 x 8{^2} = 128
+
+Jumlahkan hasil perkalian pada langkah kedua untuk mendapatkan bilangan desimal:
+
+3 + 56 + 128 = 187
+
+Sehingga, bilangan oktal 273 dapat dikonversi menjadi bilangan desimal 187.
+
+### Konversi Bilangan Desimal ke Bilangan Heksadesimal
+
+Konversi bilangan desimal ke bilangan heksadesimal melibatkan pembagian bilangan desimal dengan basis 16, kemudian mengambil sisa dari setiap pembagian dan menuliskannya secara berurutan dari bawah ke atas. Untuk digit heksadesimal dengan nilai lebih besar dari 9, digunakan huruf A hingga F sebagai pengganti.
+
+Berikut adalah langkah-langkah konversi bilangan desimal ke bilangan heksadesimal:
+
+1. Bagi bilangan desimal dengan 16 dan simpan hasil bagi serta sisanya.
+2. Jika hasil bagi lebih besar dari 0, ulangi proses pembagian dengan hasil bagi sebagai bilangan desimal. Jika tidak, proses konversi selesai.
+3. Untuk digit heksadesimal dengan nilai lebih besar dari 9, gunakan huruf A hingga F sebagai pengganti.
+4. Urutkan sisa-sisa yang didapat dari bawah ke atas untuk membentuk bilangan heksadesimal.
+
+Contoh:
+Konversi bilangan desimal 456 ke bilangan heksadesimal:
+
+- 456 ÷ 16 = 28 sisa 8
+- 28 ÷ 16 = 1 sisa 12 (menggunakan C sebagai pengganti)
+- 1 ÷ 16 = 0 sisa 1
+
+Sehingga, bilangan desimal 456 dalam basis heksadesimal adalah 1C8.
+
+Dalam representasi bilangan heksadesimal, setiap digit merepresentasikan kelipatan dari 16 mulai dari pangkat 0 pada digit paling kanan. Sebagai contoh, bilangan heksadesimal 1C8 dapat dipecah menjadi:
+
+- 1 x 16{^2} = 256
+- 12 x 16{^1} = 192
+- 8 x 16{^0} = 8
+
+Sehingga, bilangan heksadesimal 1C8 dapat dikonversi menjadi bilangan desimal 456.
+
+***Tabel Konversi Bilangan Desimal ke Heksadesimal***
+
+|Desimal|Heksadesimal|
+|:-----:|:-----------|
+|0  |  0 |
+|1  |  1 |
+|2  |  2 |
+|3  |  3 |
+|4  |  4 |
+|5  |  5 |
+|6  |  6 |
+|7  |  7 |
+|8  |  8 |
+|9  |  9 |
+|10 |  A |
+|11 |  B |
+|12 |  C |
+|13 |  D |
+|14 |  E |
+|15 |  F |
+
+### Konversi Bilangan Heksadesimal ke Bilangan Desimal
+
+Konversi bilangan heksadesimal ke bilangan desimal melibatkan mengalikan setiap digit heksadesimal dengan basis 16 yang dinaikkan ke pangkat yang sesuai, kemudian menjumlahkan hasil kali tersebut.
+
+Berikut adalah langkah-langkah konversi bilangan heksadesimal ke bilangan desimal:
+
+1. Identifikasi setiap digit heksadesimal dan tentukan nilai numeriknya. Untuk digit heksadesimal dengan nilai lebih besar dari 9, gunakan huruf A hingga F sebagai pengganti.
+2. Hitung nilai dari setiap digit heksadesimal dengan mengalikannya dengan basis 16 yang dinaikkan ke pangkat yang sesuai.
+3. Jumlahkan hasil kali tersebut untuk mendapatkan nilai bilangan desimal.
+
+Contoh:
+Konversi bilangan heksadesimal 1C8 ke bilangan desimal:
+
+1. Digit pertama adalah 1, yang merepresentasikan nilai 1.
+2. Digit kedua adalah C, yang merepresentasikan nilai 12.
+3. Digit ketiga adalah 8, yang merepresentasikan nilai 8.
+4. Hitung nilai setiap digit dengan mengalikannya dengan basis 16 yang dinaikkan ke pangkat yang sesuai:
+
+- 1 x 16{^2} = 256
+- 12 x 16{^1} = 192
+- 8 x 16{^0} = 8
+
+Jumlahkan hasil kali tersebut: 256 + 192 + 8 = 456.
+Sehingga, bilangan heksadesimal 1C8 dalam basis desimal adalah 456.
+
+### Konversi Bilangan Biner ke Bilangan Heksadesimal
+
+Untuk mengonversi bilangan biner 4 bit ke bilangan heksadesimal, kita perlu membagi bit biner menjadi kelompok-kelompok, yaitu per 4 bit, kemudian mengonversikan setiap kelompok bit menjadi bilangan heksadesimal.
+
+Berikut adalah langkah-langkah konversi bilangan biner 4 bit ke bilangan heksadesimal:
+
+1. Bagi bilangan biner menjadi kelompok per 4 bit dari kanan ke kiri.
+2. Konversikan setiap kelompok empat bit ke bilangan heksadesimal yang setara.
+3. Susun setiap bilangan heksadesimal dari kanan ke kiri untuk membentuk bilangan heksadesimal akhir.
+
+***Tabel Konversi Bilangan Biner (4 Bit) ke Heksadesimal***
+
+|Bilangan Biner|Bilangan Heksadesimal|
+|:---:|:---:|
+|0000|0|
+|0001|1|
+|0010|2|
+|0011|3|
+|0100|4|
+|0101|5|
+|0110|6|
+|0111|7|
+|1000|8|
+|1001|9|
+|1010|A|
+|1011|B|
+|1100|C|
+|1101|D|
+|1110|E|
+|1111|F|
+
+Contoh:
+
+1. Biner : 11111111 --> 1111 1111\
+Heksadesimal : FF
+2. Biner : 11111101 --> 1111 1101\
+Heksadesimal : FD
+3. Biner : 10011101 --> 1001 1101\
+Heksadesimal : 9D
+
+{{< adsense >}}
