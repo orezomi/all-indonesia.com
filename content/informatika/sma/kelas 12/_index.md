@@ -4,7 +4,8 @@ linkTitle: "Kelas 12"
 date: 2022-06-17T23:10:38+07:00
 draft: false
 weight: 3
-type: docs
+cascade:
+    type: docs
 categories:
     - kelas 12
     - informatika
