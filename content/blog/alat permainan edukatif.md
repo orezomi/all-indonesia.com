@@ -81,7 +81,7 @@ Waktu yang diperlukan untuk melihat hasil dari penggunaan alat permainan edukati
 Orang tua dapat mencari tahu apa yang menjadi minat anak dan mencari alat permainan edukatif yang sesuai dengan minat tersebut. Hal ini dapat meningkatkan minat anak dalam belajar dan membantu dalam meningkatkan kemampuan mereka. Selain itu, orang tua juga dapat mencoba untuk lebih terlibat dalam bermain bersama anak dan menciptakan suasana yang menyenangkan agar anak lebih tertarik dalam bermain.
 
 ***Apa saja manfaat yang bisa didapatkan dari bermain alat permainan edukatif?***\
-Manfaat yang bisa didapatkan dari bermain alat permainan edukatif antara lain meningkatkan kemampuan kognitif, motorik, dan sosial anak. Selain itu, bermain alat permainan edukatif juga dapat membantu meningkatkan kreativitas dan minat belajar anak.
+Manfaat yang bisa didapatkan dari bermain alat permainan edukatif antara lain meningkatkan kemampuan kognitif, motorik, dan sosial anak. Selain itu, bermain alat permainan edukatif juga dapat membantu meningkatkan kreativitas dan minat belajar anak
 
 ***Apakah semua alat permainan bisa dijadikan sebagai alat permainan edukatif?***\
 Tidak semua alat permainan dapat dijadikan sebagai alat permainan edukatif. Alat permainan edukatif harus memiliki unsur pendidikan yang bisa membantu meningkatkan kemampuan anak.
