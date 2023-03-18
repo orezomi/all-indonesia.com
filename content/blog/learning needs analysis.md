@@ -5,12 +5,10 @@ draft: false
 toc_hide: true
 type: blog
 description: >
-    Instructional Design adalah proses merancang pembelajaran yang efektif dan efisien. Artikel ini membahas definisi, prinsip-prinsip, dan manfaat Instructional Design bagi pembelajaran online.
+    Analisis kebutuhan pembelajaran sangat penting untuk mengetahui apa yang dibutuhkan siswa dalam proses belajar. Artikel ini akan membahas pentingnya melakukan analisis kebutuhan pembelajaran serta cara melakukannya.
 ---
 
 ## Analisis Kebutuhan Pembelajaran: Pentingnya Memahami Kebutuhan Siswa dalam Proses Pembelajaran
-
-Meta Description: Analisis kebutuhan pembelajaran sangat penting untuk mengetahui apa yang dibutuhkan siswa dalam proses belajar. Artikel ini akan membahas pentingnya melakukan analisis kebutuhan pembelajaran serta cara melakukannya.
 
 ### Pengantar
 
