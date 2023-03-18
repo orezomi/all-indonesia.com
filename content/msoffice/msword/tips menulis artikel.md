@@ -9,7 +9,7 @@ categories:
     - msoffice
     - msword
 description: >
-    Menulis artikel adalah seni yang memerlukan keterampilan dan teknik yang tepat. Dalam menggunakan MS Word, ada  kaidah penulisan artikel yang perlu diikuti
+    Menulis artikel adalah seni yang memerlukan keterampilan dan teknik yang tepat. Berikut kaidah penulisan artikel yang perlu diikuti.
 ---
 ## Kaidah Penulisan Artikel yang Baik Menggunakan MS Word: Tips Mudah Meningkatkan Kualitas Artikel
 

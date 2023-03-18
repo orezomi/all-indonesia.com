@@ -2,6 +2,7 @@
 title: "Ms Office"
 date: 2023-03-08T23:47:38+07:00
 draft: false
+weight: 50
 cascade :
     type: "docs"
 ---
