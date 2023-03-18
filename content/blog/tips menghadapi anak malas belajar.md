@@ -5,7 +5,7 @@ draft: false
 toc_hide: true
 type: blog
 description: >
-    Menentukan tujuan pembelajaran dengan metode S.M.A.R.T sangat penting agar siswa dapat mencapai hasil yang diinginkan. Pelajari bagaimana cara menetapkan tujuan yang cerdas dan efektif dengan metode S.M.A.R.T.
+    Ada banyak strategi yang bisa diterapkan untuk membantu anak yang malas belajar. Dalam artikel ini, kita akan membahas 15 tips efektif yang dapat membantu mengatasi anak malas belajar.
 ---
 
 ## Strategi Menghadapi Anak Malas Belajar: 15 Tips Efektif untuk Orang Tua
