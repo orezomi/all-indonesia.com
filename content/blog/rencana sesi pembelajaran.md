@@ -36,7 +36,7 @@ Setelah menganalisis konteks kelas, guru harus memilih strategi pembelajaran yan
 
 #### 4. Menyusun Rencana Sesi Pembelajaran
 
-Setelah menentukan strategi pembelajaran, guru harus menyusun rencana sesi Pembelajaran yang mencakup aktivitas pembelajaran, metode pembelajaran, materi pelajaran, dan penilaian pembelajaran. Rencana sesi Pembelajaran harus disusun dengan jelas dan terstruktur agar mudah dipahami oleh siswa dan dapat dijalankan dengan efektif.
+Setelah menentukan strategi pembelajaran, guru harus menyusun rencana sesi Pembelajaran yang mencakup aktivitas pembelajaran, metode pembelajaran, materi pelajaran, dan penilaian pembelajaran. Rencana sesi Pembelajaran harus disusun dengan jelas dan terstruktur agar mudah dipahami oleh siswa dan dapat dijalankan dengan efektif. 
 
 #### 5. Mengevaluasi Hasil Pembelajaran
 
