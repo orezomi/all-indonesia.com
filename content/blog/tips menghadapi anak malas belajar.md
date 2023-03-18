@@ -8,6 +8,8 @@ description: >
     Ada banyak strategi yang bisa diterapkan untuk membantu anak yang malas belajar. Dalam artikel ini, kita akan membahas 15 tips efektif yang dapat membantu mengatasi anak malas belajar.
 ---
 
+{{< figure src="/img/malas1.png" link="/img/malas1.png" width="400">}}
+
 ## Strategi Menghadapi Anak Malas Belajar: 15 Tips Efektif untuk Orang Tua
 
 Anak-anak seringkali malas belajar karena banyak alasan seperti bosan, tidak tertarik dengan pelajaran, atau bahkan kesulitan memahami materi. Namun, sebagai orang tua, ada banyak strategi yang bisa diterapkan untuk membantu anak yang malas belajar. Dalam artikel ini, kita akan membahas 15 tips efektif yang dapat membantu mengatasi anak malas belajar.
