@@ -62,6 +62,8 @@ Tujuan pembelajaran harus relevan dengan materi yang akan dipelajari dan tujuan 
 Tujuan yang tidak relevan: Siswa akan belajar tentang tata cara berpakaian di acara formal.\
 Tujuan yang relevan: Siswa akan belajar tentang tata cara berpakaian di acara formal yang berhubungan dengan karir masa depan.
 
+### Time-bound (Mempunyai Batas Waktu)
+
 Time-bound (Mempunyai Batas Waktu)
 Tujuan pembelajaran harus memiliki batas waktu yang jelas sehingga siswa tahu kapan mereka harus mencapai tujuan tersebut.
 
