@@ -11,6 +11,8 @@ description: >
     Benda cair adalah salah satu bentuk materi yang memiliki kemampuan untuk mengalir serta tidak memiliki bentuk yang tetap
 ---
 
+{{< figure src="/img/cair.png" link="/img/cair.png" width="600">}}
+
 ## Benda Cair: Pengertian, Sifat, dan Contohnya
 
 Benda cair adalah salah satu bentuk materi yang memiliki kemampuan untuk mengalir serta tidak memiliki bentuk yang tetap. Benda cair sendiri terdiri dari banyak jenis, dari yang berupa minyak hingga air. Sifat benda cair terkadang cukup unik, karena meskipun memiliki massa jenis dan volume tertentu, namun benda cair juga memiliki sifat-sifat yang sangat berbeda dari benda padat atau gas. Berikut adalah penjelasan lengkap mengenai benda cair, sifat-sifatnya, dan contohnya.

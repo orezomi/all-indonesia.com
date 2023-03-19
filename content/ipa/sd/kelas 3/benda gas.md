@@ -11,6 +11,8 @@ description: >
     Benda gas adalah salah satu bentuk zat yang ada di alam semesta. Benda gas ditemukan di mana-mana, dari udara yang kita hirup setiap hari hingga gas di atmosfer luar angkasa
 ---
 
+{{< figure src="/img/gas.png" link="/img/gas.png" width="600">}}
+
 ## Benda Gas: Pengertian, Sifat, dan Contohnya
 
 Benda gas adalah salah satu bentuk zat yang ada di alam semesta. Benda gas ditemukan di mana-mana, dari udara yang kita hirup setiap hari hingga gas di atmosfer luar angkasa. Dalam artikel ini, kita akan membahas pengertian, sifat, dan contoh dari benda gas secara lebih detail.

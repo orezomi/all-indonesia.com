@@ -11,6 +11,8 @@ description: >
     Benda padat adalah suatu zat yang memiliki bentuk dan volume yang tetap serta tidak mudah berubah bentuk atau volumenya ketika diberikan gaya dari luar
 ---
 
+{{< figure src="/img/padat.png" link="/img/padat.png" width="600">}}
+
 ## Benda Padat dan Sifat-sifat Benda Padat
 
 Benda padat adalah suatu zat yang memiliki bentuk dan volume yang tetap serta tidak mudah berubah bentuk atau volumenya ketika diberikan gaya dari luar. Benda padat memiliki sifat-sifat yang berbeda dengan zat cair atau zat gas, dan memiliki struktur yang kompleks.
