@@ -2,6 +2,7 @@
 title: "Benda Cair"
 date: 2023-03-19T11:23:07+07:00
 draft: false
+weight: 2
 categories:
     - kelas 3
     - ipa

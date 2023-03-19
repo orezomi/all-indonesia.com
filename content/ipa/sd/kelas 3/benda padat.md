@@ -2,6 +2,7 @@
 title: "Benda Padat"
 date: 2023-03-19T11:10:28+07:00
 draft: false
+weight: 1
 categories:
     - kelas 3
     - ipa
