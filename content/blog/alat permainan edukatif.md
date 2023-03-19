@@ -94,3 +94,5 @@ Ya, alat permainan edukatif dapat membantu meningkatkan kemampuan bahasa anak. C
 
 ***Apakah alat permainan edukatif hanya digunakan di rumah saja?***\
 Tidak, alat permainan edukatif juga dapat digunakan di lingkungan pendidikan seperti di sekolah atau lembaga kursus sebagai salah satu media pembelajaran.
+
+---
