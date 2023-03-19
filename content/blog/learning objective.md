@@ -64,7 +64,6 @@ Tujuan yang relevan: Siswa akan belajar tentang tata cara berpakaian di acara fo
 
 ### Time-bound (Mempunyai Batas Waktu)
 
-Time-bound (Mempunyai Batas Waktu)
 Tujuan pembelajaran harus memiliki batas waktu yang jelas sehingga siswa tahu kapan mereka harus mencapai tujuan tersebut.
 
 ***Contoh:***
