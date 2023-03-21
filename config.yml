@@ -21,6 +21,8 @@ taxonomies:
   tag: tags
   category: categories
 
+googleAnalytics: G-7WQNTFN7YH
+
 params:
   ShowShareButtons: true
   # github_repo: 'https://github.com/orezomi/all-indonesia.com'
