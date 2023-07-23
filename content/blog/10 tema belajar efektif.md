@@ -186,4 +186,4 @@ Evaluasi kemajuan Anda secara teratur dan tetapkan tujuan baru yang realistis ji
 
 Dengan menerapkan tema-tema belajar efektif ini, Anda dapat meningkatkan efektivitas belajar Anda dan mencapai tujuan pendidikan Anda dengan lebih cepat
 
-{{ template "_internal/disqus.html" . }}
+{{ partial "disqus.html" . }}
