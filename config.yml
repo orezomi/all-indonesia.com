@@ -6,7 +6,7 @@ contentDir : "content/"
 
 disqusShortname: https-www-all-indonesia-com
 
-enableGitInfo: true
+enableGitInfo: false
 frontmatter:
   lastmod:
     - lastmod
