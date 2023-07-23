@@ -1,5 +1,5 @@
 ---
-title: "Teorema Pitagoras"
+title: "Teorema Pythagoras"
 date: 2023-07-23T14:56:00+07:00
 draft: false
 toc_hide: false
