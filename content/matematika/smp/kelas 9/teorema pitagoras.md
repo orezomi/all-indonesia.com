@@ -59,3 +59,47 @@ Tidak hanya itu, dalam dunia desain interior, teorema ini membantu mengukur dime
 ## Kesimpulan
 
 Teorema Pythagoras adalah konsep matematika yang menarik dan berguna dalam banyak aspek kehidupan. Ia membantu kita memahami hubungan antara panjang sisi-sisi segitiga siku-siku dan telah membuktikan kebenarannya berulang kali melalui bukti matematis. Jadi, jangan meremehkan kekuatan Teorema Pythagoras dalam memecahkan masalah di sekitarmu!
+
+## Contoh Soal Teorema Pitagoras
+
+**Contoh Soal 1:**
+
+Sebuah segitiga siku-siku memiliki panjang sisi-sisi sebagai berikut: sisi pertama (a) = 5 cm, sisi kedua (b) = 12 cm. Berapakah panjang sisi miring (c) dari segitiga tersebut?
+
+**Contoh Soal 2:**
+
+Sebuah papan diukur memiliki panjang 8 meter dan lebar 6 meter. Berapakah panjang diagonal papan tersebut?
+
+**Contoh Soal 3:**
+
+Seorang petani ingin membuat pagar di sepanjang batas lahan persegi panjangnya. Jika panjang lahan 7 meter dan lebarnya 5 meter, berapa panjang pagar yang diperlukan?
+
+**Contoh Soal 4:**
+
+Diketahui segitiga siku-siku memiliki sisi a = 9 cm dan sisi c = 15 cm. Berapakah panjang sisi b dari segitiga tersebut?
+
+**Contoh Soal 5:**
+
+Sebuah tiang bendera berdiri tegak lurus di tanah. Jika jarak dari ujung tiang bendera ke tanah adalah 10 meter, dan tiang bendera membentuk sudut 60 derajat dengan tanah, berapakah panjang sebenarnya dari tiang bendera tersebut?
+
+**Contoh Soal 6:**
+
+Sebuah lapangan sepak bola berbentuk persegi panjang dengan panjang 90 meter dan lebar 60 meter. Berapa jarak terpendek yang harus ditempuh pemain dari pojok lapangan ke tengah lapangan?
+
+**Contoh Soal 7:**
+
+Sebuah taman berbentuk segitiga siku-siku dengan panjang sisi-sisi a dan b. Panjang sisi a adalah 5 meter lebih panjang daripada sisi b yang berukuran 12 meter. Berapakah panjang sisi miring (c) taman tersebut?
+
+**Contoh Soal 8:**
+
+Sebuah papan skateboard berbentuk segi empat sama kaki dengan panjang sisi 30 cm. Papan tersebut ingin digantungkan di dinding dengan tali pada salah satu sudutnya. Berapa panjang tali yang diperlukan?
+
+**Contoh Soal 9:**
+
+Diketahui sebuah segitiga siku-siku memiliki sisi a = 5 cm dan sisi b = 12 cm. Apakah segitiga tersebut merupakan segitiga siku-siku?
+
+**Contoh Soal 10:**
+
+Sebuah tangga berdiri di dinding dengan sudut 70 derajat terhadap lantai. Jika jarak kaki tangga ke dinding adalah 1 meter, berapa panjang tangga tersebut?
+
+***Catatan:*** Untuk menjawab soal-soal di atas, kamu dapat menggunakan rumus Teorema Pythagoras \\(c^2 = a^2 + b^2\\) ketika diberikan dua panjang sisi segitiga siku-siku, atau menggambarkan segitiga dan menggunakannya untuk menghitung jarak, panjang diagonal, atau tali yang diperlukan. Selamat mencoba!
