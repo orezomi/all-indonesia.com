@@ -185,3 +185,5 @@ Dalam bekerjasama dalam belajar, jangan lupa untuk memberikan apresiasi dan meng
 Evaluasi kemajuan Anda secara teratur dan tetapkan tujuan baru yang realistis jika perlu. Evaluasi kemajuan Anda dapat membantu Anda mengidentifikasi kekuatan dan kelemahan Anda serta menyesuaikan strategi belajar Anda untuk mencapai tujuan yang lebih besar.
 
 Dengan menerapkan tema-tema belajar efektif ini, Anda dapat meningkatkan efektivitas belajar Anda dan mencapai tujuan pendidikan Anda dengan lebih cepat
+
+{{ template "_internal/disqus.html" . }}
