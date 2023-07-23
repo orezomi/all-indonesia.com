@@ -81,7 +81,7 @@ params:
       - tags
       - categories
     taxonomyCloudTitle:
-      - Tag Cloud
+      - Tags Cloud
       - Categories
     taxonomyPageHeader:
       - tags
