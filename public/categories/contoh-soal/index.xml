@@ -1,0 +1,606 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – contoh soal</title><link>https://www.all-indonesia.com/categories/contoh-soal/</link><description>Recent content in contoh soal on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 18 Feb 2023 23:26:42 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/categories/contoh-soal/index.xml" rel="self" type="application/rss+xml"/><item><title>Ipa: Contoh Soal Besaran Skalar (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/contoh-soal-1/</link><pubDate>Sat, 18 Feb 2023 23:26:42 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/contoh-soal-1/</guid><description>
+&lt;h2 id="contoh-contoh-soal-besaran-skalar-part-1">Contoh-contoh soal besaran skalar (part 1)&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Jika suhu ruangan saat ini adalah 25 derajat Celsius, berapakah suhu dalam satuan Fahrenheit?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;em>Diketahui:&lt;/em>
+Suhu dalam derajat Celsius = 25
+&lt;em>Dicari:&lt;/em>
+Suhu dalam satuan Fahrenheit
+&lt;em>Langkah penyelesaian:&lt;/em>
+Rumus konversi suhu dari Celsius ke Fahrenheit adalah sebagai berikut:
+$$F = (C \times 9/5) + 32$$
+Substitusikan nilai suhu dalam derajat Celsius ke dalam rumus konversi:
+$$F = (25 \times 9/5) + 32 = 77^\circ F$$
+Jadi, suhu dalam satuan Fahrenheit adalah 77 derajat Fahrenheit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda memiliki massa 10 kg. Berapakah massa benda dalam satuan gram (g)?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;em>Diketahui:&lt;/em>
+Massa benda = 10 kg
+&lt;em>Dicari:&lt;/em>
+Massa benda dalam satuan gram (g)
+&lt;em>Langkah penyelesaian:&lt;/em>
+$$1 kg = 1000 g $$
+Massa benda dalam \(g = 10 \times 1000 = 10,000 g\)
+Jadi, massa benda dalam satuan gram adalah &lt;em>&lt;strong>10,000 g&lt;/strong>&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika suhu lingkungan saat ini adalah 30 derajat Celsius, berapa suhu yang tercatat dalam derajat Fahrenheit?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Suhu dalam derajat Fahrenheit dapat dihitung dengan menggunakan rumus \(F = (9/5)C + 32\), di mana \(C\) adalah suhu dalam derajat Celsius. Oleh karena itu, jika suhu lingkungan saat ini adalah 30 derajat Celsius, maka suhu dalam derajat Fahrenheit dapat dihitung sebagai berikut:
+$$F = (9/5) \times 30 + 32$$
+$$F = 86^\circ F$$
+Jadi, suhu lingkungan saat ini adalah &lt;em>&lt;strong>86 derajat Fahrenheit&lt;/strong>&lt;/em>.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran Vektor (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-1/</link><pubDate>Fri, 17 Feb 2023 16:16:39 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-1/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-besaran-vektor---part-1">Berikut adalah contoh soal terkait Besaran Vektor - Part 1&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kg bergerak dengan kecepatan \(5 m/s\) ke arah sumbu \(x\) positif dan kecepatan \(3 m/s\) ke arah sumbu \(y\) negatif. Hitunglah momentum total benda tersebut.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kita dapat menggunakan rumus momentum \(\vec{p} = m\vec{v}\), di mana \(\vec{p}\) adalah momentum, \(m\) adalah massa benda, dan \(\vec{v}\) adalah kecepatan benda. Kita dapat menuliskan kecepatan benda sebagai vektor \(\vec{v} = (v_x, v_y, v_z)\), di mana \(v_x\) adalah kecepatan pada sumbu \(x\), \(v_y\) adalah kecepatan pada sumbu \(y\), dan \(v_z\) adalah kecepatan pada sumbu \(z\) (dalam hal ini, tidak ada gerakan pada sumbu \(z\)). Oleh karena itu, momentum total dapat ditulis sebagai:&lt;br>
+$$\begin{align}\vec{p} &amp;amp;= m\vec{v} \newline
+&amp;amp;= (2\text{ kg})(5\text{ m/s}\ \hat{i} - 3\text{ m/s}\ \hat{j}) \newline
+&amp;amp;= 10\text{ kg m/s}\ \hat{i} - 6\text{ kg m/s}\ \hat{j}\end{align}$$
+Jadi, momentum total benda tersebut adalah 10 kg m/s ke arah sumbu x positif dan 6 kg m/s ke arah sumbu y negatif.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan konstan 20 m/s ke arah timur. Jika mobil tersebut melakukan pergantian arah dan bergerak dengan kecepatan 15 m/s ke arah barat, tentukan besar dan arah perubahan kecepatan mobil.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Perubahan kecepatan dapat dihitung sebagai selisih antara kecepatan akhir dan kecepatan awal, sehingga:
+$$\begin{align}\Delta \vec{v} &amp;amp;= \vec{v_f} - \vec{v_i} \newline
+&amp;amp;= (-15\text{ m/s})\ \hat{i} - (20\text{ m/s})\ \hat{i} \newline
+&amp;amp;= -35\text{ m/s}\ \hat{i}\end{align}$$
+Perubahan kecepatan memiliki arah ke arah barat dan besarnya 35 m/s.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dengan massa 0.2 kg dilempar ke atas dengan kecepatan awal 10 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan kecepatan dan posisi bola setelah 2 detik.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Pertama-tama, hitunglah kecepatan bola setelah 2 detik dengan menggunakan rumus kecepatan:
+$$\begin{align}\vec{v} &amp;amp;= \vec{v_0} + \vec{a}t \newline
+&amp;amp;= (10\text{ m/s})\ \hat{j} - (9.8\text{ m/s}^2)\ \hat{j}(2\text{ s}) \newline
+&amp;amp;= -9.6\text{ m/s}\ \hat{j}\end{align}$$
+Jadi, kecepatan bola setelah 2 detik adalah 9.6 m/s ke arah bawah. Selanjutnya, hitunglah posisi bola setelah 2 detik dengan menggunakan rumus posisi:
+$$\begin{align}\vec{r} &amp;amp;= \vec{r_0} + \vec{v_0}t + \frac{1}{2}\vec{a}t^2 \newline
+&amp;amp;= (0\text{ m})\ \hat{i} + (0\text{ m})\ \hat{j} + (10\text{ m/s})\ \hat{j}(2\text{ s}) + \frac{1}{2}(9.8\text{ m/s}^2)\ \hat{j}(2\text{ s})^2 \newline
+&amp;amp;= 0\text{ m}\ \hat{i} + 20.4\text{ m}\ \hat{j}\end{align}$$
+Jadi, posisi bola setelah 2 detik adalah 20.4 m di atas titik awal.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kapal bergerak dengan kecepatan 12 km/jam ke arah timur. Jika angin bertiup dengan kecepatan 5 km/jam ke arah barat laut, tentukan kecepatan dan arah kapal relatif terhadap daratan&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan kapal relatif terhadap daratan adalah hasil penjumlahan vektor antara kecepatan kapal dan kecepatan angin. Jadi, kecepatan kapal relatif terhadap daratan adalah:
+&lt;br>
+$$\begin{align}\vec{v_{rel}} &amp;amp;= \vec{v_{kapal}} + \vec{v_{angin}} \newline &amp;amp;= (12\text{ km/jam})\ \hat{i} - (5\text{ km/jam})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &amp;amp;\approx 11.2\text{ km/jam}\ \hat{i} - 3.5\text{ km/jam}\ \hat{j}\end{align}$$
+&lt;br>
+Jadi, kecepatan kapal relatif terhadap daratan adalah sekitar 11.2 km/jam ke arah timur dan 3.5 km/jam ke arah selatan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang pelari berlari dengan kecepatan 6 m/s ke arah utara. Jika ada angin bertiup dengan kecepatan 3 m/s ke arah barat laut, tentukan kecepatan dan arah pelari relatif terhadap angin.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan pelari relatif terhadap angin adalah hasil pengurangan vektor antara kecepatan pelari dan kecepatan angin. Jadi, kecepatan pelari relatif terhadap angin adalah:
+&lt;br>
+$$\begin{align}\vec{v_{rel}} &amp;amp;= \vec{v_{pelari}} - \vec{v_{angin}} \newline &amp;amp;= (6\text{ m/s})\ \hat{j} - (3\text{ m/s})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &amp;amp;\approx 5.1\text{ m/s}\ \hat{j} - 2.1\text{ m/s}\ \hat{i}\end{align}$$
+&lt;br>
+Jadi, kecepatan pelari relatif terhadap angin adalah sekitar 5.1 m/s ke arah utara dan 2.1 m/s ke arah barat.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Angka Penting (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-1/</link><pubDate>Thu, 16 Feb 2023 21:09:52 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-1/</guid><description>
+&lt;h3 id="contoh-soal-angka-penting-1">Contoh Soal Angka Penting (1)&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Hitunglah hasil dari (8,21 x 2,00) / 3,4 dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Langkah pertama adalah melakukan perhitungan matematika sesuai urutan prioritas operasi, yaitu perkalian terlebih dahulu, kemudian pembagian.&lt;br>
+&lt;br>
+&lt;em>(8,21 x 2,00) / 3,4 = 16,42 / 3,4 = 4,83529411765&lt;/em>&lt;br>
+&lt;br>
+Setelah itu, jumlah angka penting harus disesuaikan dengan angka yang memiliki jumlah angka penting terkecil dalam persamaan, yaitu 3,4 dengan dua angka penting. Oleh karena itu, hasil akhir harus dibulatkan menjadi dua angka penting, sehingga:&lt;br>
+&lt;br>
+&lt;em>(8,21 x 2,00) / 3,4 = 4,8&lt;/em>&lt;br>
+&lt;br>
+Jadi, hasilnya adalah 4,8 dengan jumlah angka penting yang tepat.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah balok memiliki panjang 2,345 m, lebar 1,2 m, dan tinggi 0,0250 m. Hitunglah volumenya dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Volume balok adalah hasil perkalian panjang, lebar, dan tinggi, yaitu:&lt;br>
+&lt;br>
+{$V} = 2,345 m x 1,2 m x 0,0250 m = 0,07074 m{^3}&lt;br>
+&lt;br>
+Karena nilai 0,0250 m memiliki tiga angka penting, dan nilai lainnya memiliki empat angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, volume balok adalah:&lt;br>
+&lt;br>
+{$V} = 0,0707 m{^3}
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang siswa mengukur waktu yang diperlukan oleh sebuah benda untuk jatuh bebas dari ketinggian 10,0 m. Hasil pengukuran adalah 2,35 s. Hitunglah kecepatan benda saat mencapai tanah dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan benda saat jatuh bebas dapat dihitung menggunakan rumus berikut:&lt;br>
+&lt;br>
+{$v = sqrt(2gh)}&lt;br>
+&lt;br>
+dengan g adalah percepatan gravitasi (9,81 m/s²) dan h adalah ketinggian benda saat awal. Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+{$v} = sqrt(2 x 9,81 m/s{^2} x 10,0 m) = 14,0 m/s&lt;br>
+&lt;br>
+Karena nilai 2,35 s hanya memiliki dua angka penting, maka hasil akhir harus dibulatkan menjadi dua angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, kecepatan benda saat mencapai tanah adalah:&lt;br>
+&lt;br>
+{$v} = 14 m/s&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-1/</link><pubDate>Wed, 15 Feb 2023 23:13:07 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-1/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-tentang-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal tentang besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan 25 meter per detik. Berapa jarak yang ditempuh mobil setelah 10 detik?&lt;br>
+&lt;em>&lt;strong>Jawab :&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$v} = 25 m/s, {$t} = 10 s&lt;br>
+Rumus: {$s = vt}&lt;br>
+Substitusi: {$s} = (25 m/s) x (10 s)&lt;br>
+Hasil: {$s} = 250 m&lt;br>
+Jadi, jarak yang ditempuh mobil setelah 10 detik adalah 250 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kilogram dilemparkan ke atas dengan kecepatan awal 20 meter per detik. Berapa ketinggian maksimum yang dapat dicapai benda tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab :&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 2 kg, v = 20 m/s, g = 9,8 m/s{^2}&lt;br>
+Rumus: {$h} = ({$v}{^2})/(2g)&lt;br>
+Substitusi: {$h} = (20 m/s){^2} / (2 x 9,8 m/s{^2})&lt;br>
+Hasil: {$h} = 20,4 meter&lt;br>
+Jadi, ketinggian maksimum yang dapat dicapai benda tersebut adalah 20,4 meter.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah arus listrik sebesar 2 ampere mengalir melalui suatu kawat. Jika hambatan kawat tersebut adalah 4 ohm, berapa tegangan listrik yang diperlukan untuk menghasilkan arus tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$I} = 2 A, {$R} = 4 ohm&lt;br>
+Rumus: {$V = IR}&lt;br>
+Substitusi: {$V} = (2 A) x (4 ohm)&lt;br>
+Hasil: {$V} = 8 volt&lt;br>
+Jadi, tegangan listrik yang diperlukan untuk menghasilkan arus listrik sebesar 2 ampere adalah 8 volt.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah balok kayu memiliki dimensi 2 meter x 0,5 meter x 0,5 meter dan memiliki massa 200 kilogram. Berapakah densitas kayu tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 200 kg, {$V} = 2 m x 0,5 m x 0,5 m = 0,5 m{^3}&lt;br>
+Rumus: {$p = m/V}&lt;br>
+Substitusi: {$p} = 200 kg / 0,5 m{^3}&lt;br>
+Hasil: {$p} = 400 kg/m{^3}&lt;br>
+Jadi, densitas kayu tersebut adalah 400 kilogram per meter kubik.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola memiliki massa 0,1 kilogram dan bergerak dengan kecepatan 5 meter per detik. Berapa energi kinetik bola tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 0,1 kg, {$v} = 5 m/s&lt;br>
+Rumus: {$EK} = (1/2)mv{^2}&lt;br>
+Substitusi: {$EK} = (1/2) x 0,1 kg x (5 m/s){^2}&lt;br>
+Hasil: {$EK} = 1,25 joule&lt;br>
+Jadi, energi kinetik bola tersebut adalah 1,25 joule.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran Vektor (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-2/</link><pubDate>Sat, 18 Feb 2023 18:15:24 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-2/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-besaran-vektor---part-2">Berikut adalah contoh soal terkait Besaran Vektor - Part 2&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kg diletakkan pada permukaan licin dan diberi gaya sebesar 10 N pada arah 30 derajat ke atas dari sumbu x positif. Tentukan akselerasi benda dan perpindahan setelah 2 detik.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Faktor-faktor yang diberikan:&lt;br>
+massa \(m\) = 2 kg&lt;br>
+gaya \(F\) = 10 N&lt;br>
+sudut \(θ\) = 30°&lt;br>
+waktu \(t\) = 2 s&lt;br>
+keadaan permukaan = licin&lt;br>
+&lt;br>
+Untuk menyelesaikan soal ini, perlu dicari komponen gaya pada sumbu \(x\) dan \(y\) dan kemudian dihitung akselerasinya. Setelah itu, dapat dihitung perpindahan benda setelah 2 detik.&lt;br>
+&lt;br>
+Komponen gaya pada sumbu x dan y dapat dicari dengan menggunakan trigonometri:&lt;br>
+$$F_x = F\cos\theta = 10\text{ N}\cos 30^\circ = 8.66\text{ N}$$
+$$F_y = F\sin\theta = 10\text{ N}\sin 30^\circ = 5\text{ N}$$
+Karena permukaan licin, maka tidak ada gaya gesekan. Sehingga, gaya total pada sumbu \(x\) sama dengan massa dikalikan dengan percepatan pada sumbu \(x\):&lt;br>
+$$F_x = ma_x \rightarrow a_x = \frac{F_x}{m} = \frac{8.66\text{ N}}{2\text{ kg}} = 4.33\text{ m/s}^2$$
+Gaya total pada sumbu y sama dengan massa dikalikan dengan percepatan pada sumbu \(y\), sehingga:
+$$F_y = ma_y \rightarrow a_y = \frac{F_y}{m} = \frac{5\text{ N}}{2\text{ kg}} = 2.5\text{ m/s}^2$$
+Akselerasi total dapat dicari dengan menggunakan teorema Pythagoras:
+$$a = \sqrt{a_x^2 + a_y^2} = \sqrt{(4.33\text{ m/s}^2)^2 + (2.5\text{ m/s}^2)^2} = 4.98\text{ m/s}^2$$
+Perpindahan dapat dicari dengan menggunakan rumus:
+$$x = x_0 + v_0t + \frac{1}{2}at^2$$
+Karena benda awalnya diam dan hanya dipengaruhi oleh gaya, maka kecepatan awal adalah 0 m/s dan perpindahan pada sumbu \(x\) adalah:
+$$x = \frac{1}{2}at^2 = \frac{1}{2}(4.98\text{ m/s}^2)(2\text{ s})^2 = 9.96\text{ m}$$
+Jadi, akselerasi benda adalah 4.98 m/s{^2} dan perpindahan setelah 2 detik adalah 9.96 m pada sumbu \(x\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah pesawat terbang bergerak dengan kecepatan 400 km/jam dan membentuk sudut 30 derajat terhadap arah utara. Tentukan komponen horizontal dan vertikal dari kecepatan pesawat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Komponen horizontal dari kecepatan pesawat dapat dihitung dengan rumus \(v_h = v \cos \theta\), sedangkan komponen vertikal dapat dihitung dengan rumus \(v_v = v \sin \theta\), di mana \(v\) adalah kecepatan pesawat dan \(\theta\) adalah sudut yang dibentuk oleh kecepatan pesawat dengan arah utara. Dalam satuan SI, &lt;em>400 km/jam&lt;/em> sama dengan &lt;em>111.1 m/s&lt;/em>. Dengan demikian,
+$$v_h = 111.1 \text{ m/s} \cos 30^\circ = 96.2 \text{ m/s}$$
+$$v_v = 111.1 \text{ m/s} \sin 30^\circ = 55.6 \text{ m/s}$$
+Jadi, kecepatan horizontal pesawat adalah &lt;em>&lt;strong>96.2 m/s&lt;/strong>&lt;/em> dan kecepatan vertikal pesawat adalah &lt;em>&lt;strong>55.6 m/s&lt;/strong>&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dilempar ke atas dengan kecepatan awal 20 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan waktu yang dibutuhkan bola untuk mencapai ketinggian maksimum dan ketinggian maksimum tersebut.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Pertama-tama, kita dapat menggunakan rumus kecepatan untuk menghitung waktu yang dibutuhkan bola untuk mencapai titik tertinggi. Pada titik tertinggi, kecepatan bola sama dengan nol, sehingga kita dapat menggunakan persamaan \(v = v_0 + at\) dengan \(v = 0\), \(v_0 = 20 m/s\) dan \(a = -9.8 m/s^2\), maka:
+$$0 = 20 - 9.8t$$
+$$t = \frac{20}{9.8} \approx 2.04 \text{ s}$$
+Jadi, waktu yang dibutuhkan bola untuk mencapai ketinggian maksimum adalah sekitar &lt;em>&lt;strong>2.04&lt;/strong>&lt;/em> detik.
+Ketinggian maksimum dapat dihitung menggunakan rumus posisi pada titik tertinggi :
+$$h = h_0 + v_0 t + \frac{1}{2}at^2$$
+Dalam hal ini, \(h_0 = 0\), \(v_0 = 20 m/s\), dan \(a = -9.8 m/s^2\), sehingga
+$$h = 0 + 20 \times 2.04 - \frac{1}{2} \times 9.8 \times (2.04)^2 \approx 20.2 \text{ m}$$
+Jadi, ketinggian maksimum bola adalah sekitar &lt;em>&lt;strong>20.2&lt;/strong>&lt;/em> meter.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan 50 km/jam ke arah timur. Kemudian, mobil tersebut belok ke arah utara dan bergerak dengan kecepatan 40 km/jam. Tentukan besar dan arah vektor perubahan kecepatan mobil.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Perubahan kecepatan adalah selisih antara kecepatan akhir dan kecepatan awal mobil:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i}$$
+Kecepatan awal mobil adalah 50 km/jam ke arah timur, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_i} = 50\text{ km/jam}\ \hat{i}$$
+Kecepatan akhir mobil adalah 40 km/jam ke arah utara, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_f} = 40\text{ km/jam}\ \hat{j}$$
+Maka, perubahan kecepatan dapat dihitung sebagai berikut:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i} = 40\text{ km/jam}\ \hat{j} - 50\text{ km/jam}\ \hat{i}$$
+Untuk mengetahui besarnya perubahan kecepatan, kita dapat menggunakan teorema Pythagoras:
+$$|\Delta \vec{v}| = \sqrt{(40\text{ km/jam})^2 + (-50\text{ km/jam})^2} = 64.03\text{ km/jam}$$
+Untuk mengetahui arah perubahan kecepatan, kita dapat menggunakan trigonometri dan menghitung sudut antara vektor perubahan kecepatan dan sumbu &lt;strong>\(x\)&lt;/strong> positif:
+$$\theta = \tan^{-1} \left(\frac{-50\text{ km/jam}}{40\text{ km/jam}}\right) = -51.34^\circ$$
+Jadi, besar perubahan kecepatan adalah &lt;em>&lt;strong>64.03 km/jam&lt;/strong>&lt;/em>, dan arah perubahan kecepatan membentuk sudut sebesar &lt;em>&lt;strong>51.34 derajat&lt;/strong>&lt;/em> di bawah sumbu &lt;em>&lt;strong>\(x\)&lt;/strong>&lt;/em> positif.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Angka Penting (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-2/</link><pubDate>Thu, 16 Feb 2023 21:23:30 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-2/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-yang-sederhana-terkait-angka-penting-dalam-ilmu-fisika">Berikut adalah contoh soal yang sederhana terkait angka penting dalam ilmu fisika&lt;/h3>
+&lt;ol>
+&lt;li>Sebuah objek dengan massa 10,0 kg ditarik oleh gaya sebesar 25,0 N. Hitunglah percepatan objek dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Percepatan objek dapat dihitung menggunakan hukum kedua Newton:&lt;br>
+&lt;br>
+{$F = ma}&lt;br>
+&lt;br>
+dengan {$F} adalah gaya, {$m} adalah massa, dan {$a} adalah percepatan.&lt;br>
+&lt;br>
+Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+&lt;em>25,0 N = 10,0 kg x a&lt;/em>&lt;br>
+&lt;br>
+&lt;em>a = 2,50 m/s{^2}&lt;/em>&lt;br>
+&lt;br>
+Karena nilai 10,0 kg dan 25,0 N memiliki tiga angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, percepatan objek adalah:&lt;br>
+&lt;br>
+&lt;em>a = 2,50 m/s{^2}&lt;/em>&lt;br>
+&lt;br>
+Jadi, percepatannya adalah 2,50 m/s² dengan jumlah angka penting yang tepat.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/li>
+&lt;li>Sebuah roda berputar dengan kecepatan 120 rpm. Hitunglah frekuensi putaran roda dalam Hz dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Frekuensi putaran roda dapat dihitung menggunakan rumus berikut:&lt;br>
+&lt;br>
+&lt;em>f = n / T&lt;/em>&lt;br>
+&lt;br>
+dengan &lt;em>f&lt;/em> adalah frekuensi, &lt;em>n&lt;/em> adalah jumlah putaran, dan &lt;em>T&lt;/em> adalah waktu.&lt;br>
+&lt;br>
+Dalam satu putaran, roda berputar sebanyak &lt;em>360&lt;/em> derajat atau &lt;em>2π&lt;/em> radian. Oleh karena itu, jumlah putaran &lt;em>n&lt;/em> dalam waktu &lt;em>T&lt;/em> dapat dihitung sebagai:&lt;br>
+&lt;br>
+&lt;em>n&lt;/em> = (120 rpm) x (1 min / 60 s) x (2π radian / 1 putaran) x T&lt;br>
+&lt;br>
+Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+&lt;em>n = 4πT&lt;/em>&lt;br>
+&lt;br>
+Untuk mengubah satuan rpm menjadi Hz, diperlukan konversi satuan dari menit ke detik, yaitu:&lt;br>
+&lt;br>
+1 min = 60 s&lt;br>
+&lt;br>
+Sehingga:&lt;br>
+&lt;br>
+&lt;em>f = n / T = 4π / T&lt;/em>&lt;br>
+&lt;br>
+Karena waktu &lt;em>T&lt;/em> hanya diberikan secara umum dan tidak spesifik, maka tidak ada satuan waktu yang dapat digunakan untuk mengubah frekuensi menjadi Hz. Oleh karena itu, hasil akhir tidak perlu dibulatkan. Frekuensi putaran roda adalah:&lt;br>
+&lt;br>
+&lt;em>f = 4π / T&lt;/em>&lt;br>
+&lt;br>
+Jadi, frekuensi putarannya dalam Hz adalah 4π / T dengan jumlah angka penting yang tepat.&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-2/</link><pubDate>Thu, 16 Feb 2023 00:08:12 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-2/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda bergerak dengan kecepatan 5 m/s selama 10 detik. Berapa jarak yang ditempuh oleh benda tersebut?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan = 5 m/s&lt;br>
+Waktu = 10 detik&lt;br>
+Jarak = kecepatan × waktu&lt;br>
+Jarak = 5 m/s × 10 detik = 50 meter&lt;br>
+Jadi, jarak yang ditempuh oleh benda tersebut adalah 50 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah beban memiliki massa 2 kg. Berapa gaya yang diperlukan untuk mengangkat beban tersebut?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Massa = 2 kg&lt;br>
+Gaya = massa × percepatan gravitasi&lt;br>
+Percepatan gravitasi = 9,8 m/s{^2}&lt;br>
+Gaya = 2 kg × 9,8 m/s{^2} = 19,6 N&lt;br>
+Jadi, gaya yang diperlukan untuk mengangkat beban tersebut adalah 19,6 N.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kawat tembaga memiliki panjang 10 m dan luas penampang 2 mm{^2}. Berapa resistansi kawat tersebut?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Panjang = 10 m&lt;br>
+Luas penampang = 2 mm{^2} = 2 × 10{^-6} m{^2}&lt;br>
+Hambatan spesifik tembaga = 1,72 × 10{^-8} ohm·m&lt;br>
+Resistansi = (hambatan spesifik × panjang) / luas penampang&lt;br>
+Resistansi = (1,72 × 10{^-8} ohm·m × 10 m) / (2 × 10{^-6} m{^2}) = 86 ohm&lt;br>
+Jadi, resistansi kawat tersebut adalah 86 ohm.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah ruangan memiliki suhu 25°C. Berapa suhu ruangan tersebut dalam skala Kelvin?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Suhu dalam skala Kelvin = suhu dalam skala Celsius + 273,15&lt;br>
+Suhu dalam skala Kelvin = 25°C + 273,15 = 298,15 K&lt;br>
+Jadi, suhu ruangan tersebut dalam skala Kelvin adalah 298,15 K.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan percepatan 3 m/s{^2} selama 8 detik. Berapa kecepatan mobil setelah 8 detik?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Percepatan = 3 m/s{^2}&lt;br>
+Waktu = 8 detik&lt;br>
+Kecepatan awal = 0 m/s&lt;br>
+Kecepatan akhir = kecepatan awal + percepatan × waktu&lt;br>
+Kecepatan akhir = 0 m/s + 3 m/s{^2} × 8 detik = 24 m/s&lt;br>
+Jadi, kecepatan mobil setelah 8 detik adalah 24 m/s.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Angka Penting (3)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-3/</link><pubDate>Thu, 16 Feb 2023 21:36:23 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-3/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-angka-penting-dalam-ilmu-fisika">Berikut adalah contoh soal terkait Angka Penting, dalam ilmu fisika&lt;/h3>
+&lt;ol>
+&lt;li>Sebuah benda dengan massa 2,55 kg bergerak dengan kecepatan 5,25 m/s. Hitunglah momentum benda dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Momentum benda dapat dihitung menggunakan rumus berikut:&lt;br>
+&lt;br>
+&lt;em>p = mv&lt;/em>&lt;br>
+&lt;br>
+dengan p adalah momentum, m adalah massa, dan v adalah kecepatan.&lt;br>
+&lt;br>
+Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+&lt;em>p = (2,55 kg) x (5,25 m/s)&lt;/em>
+&lt;br>
+&lt;em>p = 13,3875 kg.m/s&lt;/em>
+&lt;br>
+Karena nilai 2,55 kg dan 5,25 m/s memiliki tiga angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, momentum benda adalah:&lt;br>
+&lt;br>
+&lt;em>p = 13,4 kg.m/s&lt;/em>&lt;br>
+&lt;br>
+Jadi, momentum benda adalah 13,4 kg.m/s dengan jumlah angka penting yang tepat.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/li>
+&lt;li>Sebuah mobil bergerak dengan kecepatan rata-rata 65,2 km/jam selama 3,5 jam. Berapa jarak yang ditempuh mobil tersebut dengan jumlah angka penting yang tepat?&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Jarak yang ditempuh oleh mobil dapat dihitung menggunakan rumus berikut:&lt;br>
+&lt;br>
+&lt;em>d = v.t&lt;/em>&lt;br>
+&lt;br>
+dengan &lt;em>d&lt;/em> adalah jarak, &lt;em>v&lt;/em> adalah kecepatan, dan &lt;em>t&lt;/em> adalah waktu.&lt;br>
+&lt;br>
+Sebelumnya, kecepatan rata-rata yang diberikan dalam satuan km/jam perlu dikonversi menjadi satuan m/s. Untuk itu, digunakan konversi satuan sebagai berikut:&lt;br>
+&lt;br>
+&lt;em>1 km/jam = 1000 m / 3600 s = 0,2777778 m/s&lt;/em>&lt;br>
+&lt;br>
+Sehingga kecepatan rata-rata mobil dalam satuan m/s adalah:&lt;br>
+&lt;br>
+&lt;em>v = (65,2 km/jam) x (1000 m / 3600 s)&lt;/em>&lt;br>
+&lt;br>
+&lt;em>v = 18,1111111 m/s&lt;/em>&lt;br>
+&lt;br>
+Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+&lt;em>d = (18,1111111 m/s) x (3,5 jam)&lt;/em>&lt;br>
+&lt;br>
+&lt;em>d = 63,3888889 km&lt;/em>&lt;br>
+&lt;br>
+Karena nilai 65,2 km/jam dan 3,5 jam memiliki tiga angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, jarak yang ditempuh mobil tersebut adalah:&lt;br>
+&lt;br>
+&lt;em>d = 63,4 km&lt;/em>&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (3)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-3/</link><pubDate>Thu, 16 Feb 2023 17:24:23 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-3/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah balok dengan massa 10 kg didorong dengan gaya 20 N. Berapa percepatan yang dialami oleh balok tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+massa ({$m}) = 10 kg&lt;br>
+gaya ({$F}) = 20 N&lt;br>
+Ditanyakan: percepatan ({$a})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$a = F/m}&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$a} = 20 N / 10 kg = 2 m/s{^2}&lt;br>
+Jadi, percepatan yang dialami oleh balok tersebut adalah 2 m/s{^2}.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang pelari berlari dengan kecepatan rata-rata 5 m/s selama 20 detik. Berapa jarak yang ditempuh oleh pelari tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+kecepatan rata-rata ({$v}) = 5 m/s&lt;br>
+waktu ({$t}) = 20 s&lt;br>
+Ditanyakan: jarak ({$s})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$s = v x t}&lt;br>
+Substitusi nilai:&lt;br>
+{$s} = 5 m/s x 20 s = 100 m&lt;br>
+Jadi, jarak yang ditempuh oleh pelari tersebut adalah 100 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kabel listrik memiliki hambatan 5 ohm. Jika arus listrik yang mengalir melalui kabel tersebut sebesar 2 A, berapa tegangan listrik yang diperlukan?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+hambatan ({$R}) = 5 ohm&lt;br>
+arus ({$I}) = 2 A&lt;br>
+Ditanyakan: tegangan ({$V})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{*V = R x I}&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$V} = 5 ohm x 2 A = 10 V&lt;br>
+Jadi, tegangan listrik yang diperlukan adalah 10 volt.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dilemparkan ke atas dengan kecepatan awal 10 m/s. Berapa tinggi maksimum yang dapat dicapai oleh bola tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+kecepatan awal ({$v}) = 10 m/s&lt;br>
+&lt;em>&lt;strong>Ditanyakan:&lt;/strong>&lt;/em>&lt;br>
+tinggi maksimum (h)&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$h} = {$v}{^2}/2{$g}&lt;br>
+Di mana {$g} adalah percepatan gravitasi bumi, yaitu sebesar 9,8 m/s{^2}.&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$h} = (10 m/s){^2} / 2 x 9,8 m/s{^2} = 5,1 m
+Jadi, tinggi maksimum yang dapat dicapai oleh bola tersebut adalah sekitar 5,1 meter.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item></channel></rss>

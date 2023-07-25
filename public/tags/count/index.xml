@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – count</title><link>https://www.all-indonesia.com/tags/count/</link><description>Recent content in count on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Mar 2023 22:43:14 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/count/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: COUNT</title><link>https://www.all-indonesia.com/msoffice/msexcel/count/</link><pubDate>Thu, 09 Mar 2023 22:43:14 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/count/</guid><description>
+&lt;h2 id="formula-count">Formula COUNT&lt;/h2>
+&lt;p>Formula COUNT pada Excel digunakan untuk menghitung jumlah sel dalam sebuah range yang memiliki nilai numerik atau teks. Formula ini berguna untuk menghitung data dalam sebuah tabel atau daftar.&lt;/p>
+&lt;p>Berikut adalah sintaks dari formula COUNT pada Excel:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">COUNT&lt;/span>(&lt;span style="color:#a6e22e">value1&lt;/span>, [&lt;span style="color:#a6e22e">value2&lt;/span>], &lt;span style="color:#f92672">...&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>value1&lt;/code> adalah nilai atau range pertama yang ingin dihitung jumlah selnya.&lt;/li>
+&lt;li>&lt;code>[value2]&lt;/code> adalah nilai atau range kedua (opsional) yang ingin dihitung jumlah selnya.&lt;/li>
+&lt;/ul>
+&lt;p>Tips penggunaan formula COUNT pada Excel:&lt;/p>
+&lt;ol>
+&lt;li>Gunakan tanda $ pada range nilai yang ingin dihitung jumlah selnya agar dapat digunakan pada sel yang berbeda.&lt;/li>
+&lt;li>Pastikan range nilai yang ingin dihitung hanya terdiri dari nilai numerik atau teks, jika tidak maka formula akan menghasilkan error.&lt;/li>
+&lt;li>Formula COUNT juga dapat digunakan pada sel yang mengandung formula atau nilai hasil perhitungan.&lt;/li>
+&lt;/ol>
+&lt;p>Contoh penggunaan formula COUNT pada Excel:&lt;/p>
+&lt;p>Misalnya, kita ingin menghitung jumlah sel dalam range nilai A1:A10 yang memiliki nilai numerik atau teks, maka sintaks yang digunakan adalah sebagai berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">COUNT&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A10&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Jika kita ingin menghitung jumlah sel dalam dua range nilai yaitu A1:A10 dan B1:B10 yang memiliki nilai numerik atau teks, maka sintaks yang digunakan adalah sebagai berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">COUNT&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A10&lt;/span>, &lt;span style="color:#a6e22e">B1&lt;/span>:&lt;span style="color:#a6e22e">B10&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Selain itu, kita juga dapat menggunakan formula COUNT pada sel yang mengandung formula atau nilai hasil perhitungan seperti contoh berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">COUNT&lt;/span>(&lt;span style="color:#ae81ff">10&lt;/span>, &lt;span style="color:#ae81ff">5&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Tes&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">A1&lt;/span>, &lt;span style="color:#a6e22e">B2&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Formula tersebut akan menghitung jumlah sel yang memiliki nilai numerik atau teks dari angka 10, angka 5, teks &amp;ldquo;Tes&amp;rdquo;, nilai pada sel A1, dan nilai pada sel B2.&lt;/p></description></item></channel></rss>

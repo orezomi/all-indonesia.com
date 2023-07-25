@@ -1,0 +1,457 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – GHS</title><link>https://www.all-indonesia.com/tags/ghs/</link><description>Recent content in GHS on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 12 Mar 2023 18:50:11 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/ghs/index.xml" rel="self" type="application/rss+xml"/><item><title>Ipa: Contoh Soal Gerak Harmonik Sederhana (Part 1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-1/</link><pubDate>Sat, 25 Feb 2023 23:21:19 +0900</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-1/</guid><description>
+&lt;h2 id="contoh-soal-ghs-1">Contoh Soal GHS (1)&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,5 kg mengalami gerak harmonik sederhana pada pegas dengan periode 0,2 detik Amplitudo maksimum perpindahan benda adalah 0,1 meter.
+&lt;br>
+(a) Tentukan frekuensi gerak harmonik sederhana pada pegas tersebut.&lt;br>
+(b) Tentukan persamaan perpindahan benda pada waktu t = 0,1 detik.
+&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;br>
+&lt;br>
+&lt;em>&lt;strong>(a)&lt;/strong>&lt;/em> Frekuensi gerak harmonik sederhana dapat ditentukan dengan rumus:
+$$\begin{equation}
+f = \frac{1}{T}
+\end{equation}$$
+&lt;br>
+dengan T merupakan periode gerak harmonik sederhana. Oleh karena itu,
+\begin{equation}
+f = \frac{1}{0,2} = 5,Hz
+\end{equation}
+&lt;br>
+&lt;em>&lt;strong>(b)&lt;/strong>&lt;/em> Persamaan perpindahan benda dapat ditentukan dengan rumus:
+$$\begin{equation}
+x = A\cos(\omega t + \phi)
+\end{equation}$$
+dengan A merupakan amplitudo gerak harmonik sederhana, \(\omega\) merupakan frekuensi sudut gerak harmonik sederhana, dan \(\phi\) merupakan fase awal gerak. Karena waktu yang diberikan adalah 0,1 detik, maka
+$$\begin{equation}
+x = 0,1\cos\left(2\pi(5)(0,1) + 0\right) \approx 0,079 , m
+\end{equation}$$
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,2 kg tergantung pada pegas dengan tetapan pegas 40 N/m. Benda itu digoyang dengan frekuensi 5 Hz dan amplitudo 0,1 m.
+&lt;br>
+&lt;em>&lt;strong>a)&lt;/strong>&lt;/em> Tentukan periode, frekuensi, dan amplitudo gerak harmonis sederhana benda tersebut.&lt;br>
+&lt;em>&lt;strong>b)&lt;/strong>&lt;/em> Tentukan simpangan, kecepatan, dan percepatan maksimum benda tersebut.
+&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;br>
+&lt;br>
+&lt;em>&lt;strong>a)&lt;/strong>&lt;/em> Diketahui:&lt;br>
+\(m\) = 0,2 kg&lt;br>
+\(k\) = 40 N/m&lt;br>
+\(f\) = 5 Hz&lt;br>
+\(A\) = 0,1 m&lt;br>
+&lt;br>
+Frekuensi, f:&lt;br>
+&lt;br>
+$$\begin{align}
+f &amp;amp;= \frac{1}{T}
+&amp;amp;= \frac{1}{0,2}
+&amp;amp;= 5 \text{ Hz}
+\end{align}$$
+&lt;br>
+Amplitudo, A:
+$$\begin{align}A = 0,1 \text{ m}\end{align}$$
+&lt;br>
+Jadi, periode gerak harmonis sederhana benda tersebut adalah 0,2 detik, frekuensinya adalah 5 Hz, dan amplitudonya adalah 0,1 m.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>b)&lt;/strong>&lt;/em> Simpangan maksimum, x:
+$$x = A = 0,1 \text{ m}$$
+Kecepatan maksimum, v:
+$$\begin{aligned}
+v_{\text{max}} &amp;amp;= A \omega
+&amp;amp;= A (2 \pi f)
+&amp;amp;= 0,1 \times 2 \times \pi \times 5
+&amp;amp;= 3,14 \text{ m/s}
+\end{aligned}$$
+Percepatan maksimum, a:
+$$\begin{aligned}
+a_{\text{max}} &amp;amp;= A \omega^2
+&amp;amp;= A (2 \pi f)^2
+&amp;amp;= 0,1 \times (2 \times \pi \times 5)^2
+&amp;amp;= 157,08 \text{ m/s}^2
+\end{aligned}$$
+Jadi, simpangan maksimum benda tersebut adalah 0,1 m, kecepatan maksimumnya adalah 3,14 m/s, dan percepatan maksimumnya adalah \(157,08 m/s^2\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa \(m\) melakukan gerak harmonik sederhana dengan periode \(T = 4\ \mathrm{s}\) dan amplitudo \(A = 2\ \mathrm{cm}\). Pada saat \(t=0\), benda berada pada posisi maksimum dan bergerak ke arah negatif. Hitunglah posisi benda pada waktu \(t=3\ \mathrm{s}\).&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Langkah penyelesaian:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Tentukan nilai frekuensi \(\omega\) menggunakan persamaan \(T = \frac{2\pi}{\omega}\).
+$$\omega = \frac{2\pi}{T} = \frac{2\pi}{4 , \mathrm{s}} = 0.5 , \mathrm{s}^{-1}$$
+Tentukan nilai fase awal \(\phi\) dengan menggunakan informasi pada soal.
+Pada saat \(t=0\), benda berada pada posisi maksimum dan bergerak ke arah negatif, sehingga \(\phi = \pi\).
+Gunakan persamaan gerak harmonik sederhana \(x(t) = A \cos(\omega t + \phi)\) untuk menghitung posisi benda pada waktu \(t=3\ \mathrm{s}\).
+$$\begin{aligned}
+x(t) &amp;amp;= A \cos(\omega t + \phi)
+&amp;amp;= 2\ \mathrm{cm} \cdot \cos(0.5\ \mathrm{s}^{-1} \cdot 3\ \mathrm{s} + \pi)
+&amp;amp;= -2\ \mathrm{cm}
+\end{aligned}$$
+Jadi, posisi benda pada waktu \(t=3\ \mathrm{s}\) adalah \(-2\ \mathrm{cm}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda yang tergantung pada pegas melakukan gerak harmonik sederhana dengan amplitudo sebesar &lt;em>&lt;strong>0.05 m&lt;/strong>&lt;/em> dan frekuensi sebesar &lt;em>&lt;strong>2 Hz&lt;/strong>&lt;/em>. Jika benda berada pada posisi maksimum pada &lt;em>&lt;strong>t = 0&lt;/strong>&lt;/em>, tentukan persamaan gerak harmonik sederhana benda tersebut.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban :&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Untuk menyelesaikan soal ini, kita perlu mengingat rumus umum gerak harmonik sederhana:
+$$\begin{equation}
+x(t) = A \cos(\omega t + \phi)
+\end{equation}$$
+di mana &lt;em>&lt;strong>A&lt;/strong>&lt;/em> adalah amplitudo, \(\omega\) adalah frekuensi sudut, &lt;em>&lt;strong>t&lt;/strong>&lt;/em> adalah waktu, dan \(\phi\) adalah fasa awal.
+&lt;br>
+Kita sudah diberikan nilai amplitudo &lt;em>&lt;strong>A&lt;/strong>&lt;/em> dan frekuensi &lt;em>&lt;strong>f&lt;/strong>&lt;/em>. Kita perlu mengonversi frekuensi menjadi frekuensi sudut dengan rumus \(\omega = 2\pi f\). Karena benda berada pada posisi maksimum saat &lt;em>&lt;strong>t=0&lt;/strong>&lt;/em>, maka \(\phi=0\).
+&lt;br>
+Sehingga persamaan gerak harmonik sederhana untuk benda tersebut adalah:
+$$\begin{equation}
+x(t) = 0.05 \cos(4\pi t)
+\end{equation}$$
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda melakukan gerak harmonik sederhana dengan amplitudo &lt;em>&lt;strong>0.1 m&lt;/strong>&lt;/em> dan frekuensi &lt;em>&lt;strong>2 Hz&lt;/strong>&lt;/em>. Pada saat &lt;em>&lt;strong>t=0&lt;/strong>&lt;/em>, benda berada pada posisi maksimum. Hitunglah persamaan gerak benda pada saat &lt;em>&lt;strong>t=0.5&lt;/strong>&lt;/em> detik.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Diketahui:&lt;br>
+\(A = 0.1\ m\)&lt;br>
+\(f = 2\ Hz\)&lt;br>
+\(\omega = 2\pi\ f = 4\pi\ rad/s\)&lt;br>
+\(t = 0.5\ s\)&lt;br>
+\(\phi = 0\) (karena benda berada pada posisi maksimum saat &lt;em>&lt;strong>t=0&lt;/strong>&lt;/em>)&lt;br>
+Maka persamaan gerak benda adalah:
+$$ x(t) = 0.1 \cos (4\pi t) $$
+Pada saat &lt;em>&lt;strong>t=0.5&lt;/strong>&lt;/em> detik, maka:
+$$ x(0.5) = 0.1 \cos (4\pi \times 0.5) \approx -0.1 $$
+Jadi, pada saat &lt;em>&lt;strong>t=0.5&lt;/strong>&lt;/em> detik, benda berada pada posisi &lt;em>&lt;strong>-0.1 m&lt;/strong>&lt;/em> dari posisi kesetimbangan.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Gerak Harmonik Sederhana (Part 2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-2/</link><pubDate>Thu, 02 Mar 2023 22:55:29 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-2/</guid><description>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah pegas dengan konstanta pegas 10 N/m digantungkan sebuah massa 0,5 kg. Jika pegas ditarik 5 cm dari posisi keseimbangan dan dilepaskan, tentukanlah periode dan frekuensi ayunan!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bandul sederhana memiliki panjang tali 50 cm. Jika bandul ditarik 10 cm dari posisi keseimbangan dan dilepaskan, tentukanlah amplitudo, periode, dan frekuensi ayunan!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,2 kg digantungkan pada sebuah pegas dengan konstanta pegas 20 N/m. Jika benda ditarik 8 cm dari posisi keseimbangan dan dilepaskan, tentukanlah persamaan gerak harmonik sederhana dan periode ayunan!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil sedang melaju dengan kecepatan 20 m/s. Jika mobil mendapat getaran harmonik sederhana dengan frekuensi 2 Hz, tentukanlah amplitudo gerak mobil!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola bermassa 0,3 kg digantungkan pada sebuah tali dengan panjang 1 m. Jika bola ditarik 10 cm dari posisi keseimbangan dan dilepaskan, tentukanlah persamaan gerak harmonik sederhana dan periode ayunan!
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda melakukan gerak harmonik sederhana dengan amplitudo 5 cm dan periode 2 s. Tentukan persamaan gerak benda tersebut.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah pegas memiliki konstanta pegas sebesar 100 N/m. Jika pegas ditarik sejauh 8 cm dari posisi awal dan dilepaskan, tentukan amplitudo dan frekuensi dari gerakan harmonik sederhana yang dihasilkan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,5 kg melakukan gerak harmonik sederhana dengan amplitudo 10 cm dan frekuensi 5 Hz. Tentukan periode dan konstanta pegas yang menyebabkan gerakan tersebut.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 2 kg melakukan gerak harmonik sederhana dengan periode 4 s. Jika amplitudonya adalah 0,5 m, tentukan kecepatan maksimum dan percepatan maksimum benda tersebut.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,2 kg melakukan gerak harmonik sederhana dengan amplitudo 20 cm dan frekuensi 10 Hz. Tentukan energi kinetik maksimum dan energi potensial maksimum yang dimiliki benda tersebut.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Gerak Harmonik Sederhana (Part 3)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-3/</link><pubDate>Fri, 03 Mar 2023 22:09:50 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-3/</guid><description>
+&lt;ol>
+&lt;li>
+&lt;p>Gerak harmonis sederhana didefinisikan sebagai gerak periodik bolak-balik di sekitar suatu titik keseimbangan. Apa yang menjadi titik keseimbangan pada gerak harmonis sederhana?&lt;br>
+A. Puncak&lt;br>
+B. Amplitudo&lt;br>
+C. Titik terendah&lt;br>
+D. Titik pusat&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> D. Titik pusat.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gaya pemulih adalah penyebab suatu benda menempuh gerak harmonik sederhana. Apa yang menjadi ciri dari gaya pemulih?&lt;br>
+A. Bersifat tarik-menarik&lt;br>
+B. Besarnya sebanding dengan kecepatan benda&lt;br>
+C. Besarnya sebanding dengan massa benda&lt;br>
+D. Besarnya sebanding dengan perpindahan benda dan arahnya berlawanan dengan arah perpindahannya&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> D. Besarnya sebanding dengan perpindahan benda dan arahnya berlawanan dengan arah perpindahannya.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Berapa periode ayunan pendulum yang memiliki panjang tali sebesar 1 meter?&lt;br>
+A. 1 detik&lt;br>
+B. 2 detik&lt;br>
+C. 3 detik&lt;br>
+D. 4 detik&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> B. 2 detik.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dalam gerak harmonik sederhana, amplitudo adalah besarnya maksimum perpindahan benda dari posisi keseimbangan. Apa satuan dari amplitudo?&lt;br>
+A. Meter&lt;br>
+B. Meter per detik&lt;br>
+C. Meter per detik kuadrat&lt;br>
+D. Radian&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> A. Meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Persamaan gerak harmonik sederhana dituliskan sebagai x(t) = A cos(ωt + φ). Apa yang menjadi variabel independen pada persamaan ini?&lt;br>
+A. A&lt;br>
+B. ω&lt;br>
+C. t&lt;br>
+D. φ&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> C. t.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gerak harmonik sederhana didefinisikan sebagai gerak periodik bolak-balik di sekitar suatu titik. Apa penyebab gerak tersebut?&lt;br>
+A. Gaya berat&lt;br>
+B. Gaya gesek&lt;br>
+C. Gaya pemulih&lt;br>
+D. Gaya sentripetal&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> C&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Periode dalam gerak harmonik sederhana didefinisikan sebagai&amp;hellip;&lt;br>
+A. Jarak antara kedua puncak gelombang&lt;br>
+B. Waktu yang dibutuhkan untuk melakukan satu siklus&lt;br>
+C. Kecepatan benda pada titik tertentu&lt;br>
+D. Jarak dari titik keseimbangan ke puncak gelombang&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> B&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Suatu benda melakukan gerak harmonik sederhana dengan amplitudo 5 cm dan frekuensi 2 Hz. Apa persamaan gerak benda tersebut?&lt;br>
+A. x(t) = 5 sin(2πt)&lt;br>
+B. x(t) = 5 cos(2πt)&lt;br>
+C. x(t) = 5 sin(4πt)&lt;br>
+D. x(t) = 5 cos(4πt)&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> B&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah pegas memiliki konstanta pegas sebesar 200 N/m. Benda yang tergantung pada pegas tersebut memiliki massa 0,5 kg. Jika benda ditarik ke bawah sejauh 10 cm dan dilepaskan, apa amplitudo gerakan harmonik sederhana dari benda tersebut?&lt;br>
+A. 0,05 m&lt;br>
+B. 0,1 m&lt;br>
+C. 0,2 m&lt;br>
+D. 0,5 m&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> C&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dalam gerak harmonik sederhana, pada titik tertentu, kecepatan benda maksimum saat&amp;hellip;&lt;br>
+A. Benda berada di titik keseimbangan&lt;br>
+B. Benda berada di titik puncak gelombang&lt;br>
+C. Benda berada di tengah jarak antara titik keseimbangan dan puncak gelombang&lt;br>
+D. Benda berada di ujung amplitudo&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> A&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Gerak Harmonik Sederhana (Part 4)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-4/</link><pubDate>Sun, 12 Mar 2023 18:50:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-4/</guid><description>
+&lt;ol>
+&lt;li>Sebuah bandul digantung dengan tali yang panjangnya &lt;code>169 cm&lt;/code>. Saat dilepas dari simpangan awal tertentu, bandul akan berayun dengan periode \(T_1\). Apabila tali bandul dipotong &lt;code>25 cm&lt;/code>, periode ayunan bandul menjadi \(T₂\). Selisih \(T_1\) dan \(T_2\), sekitar &amp;hellip;. &lt;em>&lt;strong>(SBMPTN 2007)&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Kita dapat menggunakan rumus periode pada bandul sederhana untuk menyelesaikan masalah ini. Rumus periode bandul sederhana adalah sebagai berikut:
+$$T=2\pi\sqrt{\frac{l}{g}}$$
+Di mana \(T\) adalah periode ayunan bandul, \(l\) adalah panjang tali bandul, dan \(g\) adalah percepatan gravitasi. Jika tali bandul dipotong menjadi &lt;code>25 cm&lt;/code>, maka panjang tali bandul menjadi &lt;code>144 cm&lt;/code>.
+Maka, periode \(T_1\) adalah:
+$$T₁=2\pi\sqrt{\frac{169\text{ cm}}{g}}$$
+Periode \(T_2\) adalah:
+$$T₂=2\pi\sqrt{\frac{144\text{ cm}}{g}}$$
+Kita ingin mencari selisih antara \(T_1\) dan \(T_2\), yaitu \(T_1-T_2\).
+$$T₁ - T₂ = 2\pi\sqrt{\frac{169\text{ cm}}{g}} - 2\pi\sqrt{\frac{144\text{ cm}}{g}}$$
+$$T₁ - T₂ = 2\pi\sqrt{\frac{169}{g}} - 2\pi\sqrt{\frac{144}{g}}$$
+$$T₁ - T₂ = 2\pi\left(\sqrt{\frac{169}{g}} - \sqrt{\frac{144}{g}}\right)$$
+$$T₁ - T₂ = 2\pi\left(\frac{13}{\sqrt{g}} - \frac{12}{\sqrt{g}}\right)$$
+$$T₁ - T₂ = 2\pi\frac{1}{\sqrt{g}}$$
+Untuk mencari nilai selisih T₁ dan T₂, kita perlu mengetahui nilai percepatan gravitasi g. Di mana percepatan gravitasi di bumi adalah sekitar 9,8 m/s².
+$$T₁ - T₂ = 2\pi\frac{1}{\sqrt{9,8\text{ m/s²}}}$$
+$$T₁ - T₂ \approx 0,21 \text{ detik}$$
+Jadi, selisih antara \(T_1\) dan \(T_2\) sekitar &lt;code>0,21 detik&lt;/code>.&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Gerak Harmonik Sederhana (GHS)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/</link><pubDate>Mon, 20 Feb 2023 11:30:30 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="pengertian-ghs">Pengertian GHS&lt;/h2>
+&lt;p>Gerak Harmonik Sederhana (GHS) adalah gerakan benda yang mengikuti suatu pola pergerakan bolak-balik dengan frekuensi dan amplitudo tertentu. Pada GHS, gaya yang bekerja pada benda selalu sebanding dengan jaraknya dari titik kesetimbangan.&lt;/p>
+&lt;p>Contoh GHS yang paling umum adalah pergerakan pegas. Saat pegas ditarik dan dilepaskan, ia akan bergetar ke atas dan ke bawah, mengikuti pola GHS. GHS juga dapat diamati pada banyak sistem fisika lainnya, seperti gelombang suara, getaran molekul, dan gerakan planet.&lt;/p>
+&lt;p>Pada GHS, besaran-besaran seperti periode, frekuensi, amplitudo, dan fase dapat digunakan untuk menggambarkan pergerakan benda. Misalnya, periode adalah waktu yang dibutuhkan benda untuk menyelesaikan satu siklus pergerakan bolak-balik, sedangkan frekuensi adalah jumlah siklus per detik. Amplitudo mengukur seberapa jauh benda bergerak dari posisi kesetimbangan, sedangkan fase menggambarkan posisi benda pada suatu saat tertentu dalam siklus gerakan.&lt;/p>
+&lt;p>Jadi, gerak harmonik sederhana merupakan gerakan periodik bolak-balik yang terjadi karena adanya gaya pemulih yang bekerja pada benda. Gaya pemulih ini berbentuk gaya restorasi yang besarnya sebanding dengan perpindahan dari titik keseimbangan dan arahnya berlawanan dengan arah perpindahan. Contoh dari gerak harmonik sederhana adalah gerakan pegas dan ayunan matematis. Gerakan ini memiliki persamaan gerak yang sederhana, yaitu &lt;em>&lt;strong>x = A sin(wt + ϕ)&lt;/strong>&lt;/em>, di mana x adalah perpindahan dari titik keseimbangan, &lt;em>&lt;strong>A&lt;/strong>&lt;/em> adalah amplitudo, &lt;em>&lt;strong>w&lt;/strong>&lt;/em> adalah frekuensi sudut, &lt;em>&lt;strong>t&lt;/strong>&lt;/em> adalah waktu, dan &lt;em>&lt;strong>ϕ&lt;/strong>&lt;/em> adalah fase awal.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;p>Dalam Gerak Harmonik Sederhana (GHS), terdapat beberapa istilah penting yang sering digunakan, antara lain:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Periode (T) - Waktu yang dibutuhkan oleh suatu benda untuk menyelesaikan satu siklus gerakan bolak-balik. Satuan periode adalah detik (s).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Frekuensi (f) - Jumlah siklus gerakan bolak-balik dalam satu satuan waktu. Frekuensi dapat dihitung dengan rumus f = 1/T. Satuan frekuensi adalah hertz (Hz).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Amplitudo (A) - Besar maksimum perpindahan suatu benda dalam gerak harmonik sederhana. Amplitudo diukur dalam satuan meter (m).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Fase (phi) - Sifat posisi suatu benda dalam siklus gerakan bolak-balik pada waktu tertentu. Fase diukur dalam satuan radian (rad) atau derajat (°).&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Keempat istilah di atas sangat penting dalam menggambarkan sifat-sifat gerak harmonik sederhana dan digunakan dalam perhitungan matematis terkait gerakan tersebut.&lt;/p>
+&lt;p>Contoh gerak harmonis sederhana yang sering ditemui dalam kehidupan sehari-hari adalah:&lt;/p>
+&lt;ol>
+&lt;li>&lt;em>&lt;strong>Osilasi pegas:&lt;/strong>&lt;/em> ketika pegas diregangkan dan kemudian dilepaskan, maka massa yang tergantung pada ujung pegas akan bergerak naik turun secara periodik sekitar posisi kesetimbangan.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Gerakan bandul:&lt;/strong>&lt;/em> ketika bandul diangkat dan kemudian dilepaskan, maka bola pada ujung bandul akan bergerak bolak-balik secara periodik.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Gelombang suara:&lt;/strong>&lt;/em> gelombang suara dapat dianggap sebagai gerakan harmonis sederhana karena getaran partikel di udara yang menghasilkan gelombang suara adalah gerakan bolak-balik yang periodik.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Gerakan planet dan satelit:&lt;/strong>&lt;/em> orbit planet dan satelit dapat dianggap sebagai gerakan harmonis sederhana karena benda tersebut bergerak bolak-balik secara periodik sekitar posisi kesetimbangan yaitu bintang yang menjadi pusat gravitasi.&lt;/li>
+&lt;/ol>
+&lt;p>Persamaan gerak harmonik sederhana dituliskan sebagai berikut:
+$$x(t) = A\ sin(ωt + φ)$$&lt;/p>
+&lt;p>dengan:&lt;/p>
+&lt;p>\(x(t)\) adalah posisi benda pada saat \(t\)&lt;br>
+\(A\) adalah amplitudo gerak, yaitu jarak maksimum perpindahan benda dari titik keseimbangan&lt;br>
+\(ω\) adalah frekuensi sudut gerak, dinyatakan dalam \(rad/s\)&lt;br>
+\(t\) adalah waktu dalam satuan detik&lt;br>
+\(φ\) adalah fase awal gerak, yaitu fase saat \(t = 0\)&lt;/p>
+&lt;p>Dalam bentuk persamaan, frekuensi sudut \(ω\) dapat dihitung dengan menggunakan persamaan berikut:&lt;/p>
+&lt;p>$$ω = \frac{2π}{T}$$&lt;/p>
+&lt;p>dengan \(T\) adalah periode gerak, yaitu waktu yang diperlukan oleh benda untuk menyelesaikan satu kali pergerakan bolak-balik. Frekuensi sudut dan periode gerak memiliki hubungan yang sebanding terbalik, sehingga frekuensi dan periode gerak dapat dihitung dengan persamaan berikut:&lt;/p>
+&lt;p>$$f = \frac{1}{T} = \frac{ω}{2π}$$&lt;/p>
+&lt;p>dengan \(f\) adalah frekuensi gerak dalam satuan &lt;em>&lt;strong>Hz&lt;/strong>&lt;/em>.&lt;/p>
+&lt;p>Persamaan gerak harmonik sederhana dapat dinyatakan sebagai \(x(t) = A\ cos(ωt + φ)\), di mana \(x(t)\) adalah posisi benda pada waktu \(t\), \(A\) adalah amplitudo (maksimum perpindahan benda dari titik kesetimbangan), \(ω\) adalah frekuensi sudut (&lt;em>2π kali frekuensi&lt;/em>), \(t\) adalah waktu, dan \(φ\) adalah fase awal (fase pada waktu &lt;em>t = 0&lt;/em>). Persamaan ini menggambarkan gerakan bolak-balik sebuah benda yang bergerak dengan periodik di sekitar titik kesetimbangan, karena adanya gaya restorasi yang memulihkan benda ke titik kesetimbangan.&lt;/p>
+&lt;p>Persamaan Gerak Harmonik Sederhana juga dapat dinyatakan dalam bentuk sebagai berikut:&lt;/p>
+&lt;p>$$x(t) = A cos(ωt + φ)$$&lt;/p>
+&lt;p>dimana:&lt;/p>
+&lt;p>\(x(t)\) = posisi benda pada waktu \(t\)&lt;br>
+\(A\) = amplitudo, yaitu jarak maksimum perpindahan benda dari titik keseimbangan&lt;br>
+\(ω\) = frekuensi sudut, yaitu kecepatan perubahan sudut dalam gerakan harmonik (dalam radian/detik)&lt;br>
+\(t\) = waktu dalam detik&lt;br>
+\(φ\) = fasa awal, yaitu posisi benda pada saat \(t = 0\) (dalam radian)&lt;/p>
+&lt;h3 id="ghs-pada-pendulum">GHS Pada Pendulum&lt;/h3>
+&lt;p>Gerak pendulum adalah gerakan sebuah benda yang tergantung pada suatu tali atau batang yang memungkinkan benda tersebut untuk berayun bebas di sekitar porosnya. Pada gerak pendulum, gaya gravitasi memiliki pengaruh besar terhadap gerakan benda. Semakin besar gaya gravitasi, semakin cepat ayunan benda.&lt;/p>
+&lt;p>Panjang pendulum juga mempengaruhi gerakan pendulum. Semakin panjang pendulum, semakin lambat ayunan benda dan semakin besar periode ayunan benda. Persamaan untuk periode ayunan benda pada suatu pendulum adalah:&lt;/p>
+&lt;p>$$ T = 2\pi \sqrt{\frac{l}{g}} $$&lt;/p>
+&lt;p>di mana \(T\) adalah periode ayunan benda, \(l\) adalah panjang pendulum, dan \(g\) adalah percepatan gravitasi.&lt;/p>
+&lt;p>Massa benda pada ujung tali atau batang biasanya tidak mempengaruhi periode ayunan benda, tetapi mempengaruhi amplitudo atau besarannya. Semakin besar massa benda, semakin kecil amplitudo atau ayunan maksimum benda.&lt;/p>
+&lt;div class="container">
+&lt;iframe class="responsive-iframe" scrolling="no" title="Simple Pendulum" src="https://www.geogebra.org/material/iframe/id/fwgsd2ut/width/703/height/556/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" style="border:0px;"> &lt;/iframe>
+&lt;/div>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;div class="container">
+&lt;iframe scrolling="no" title="Snake Pendulum" src="https://www.geogebra.org/material/iframe/id/pF4ZGbVt/width/835/height/631/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" class="responsive-iframe" style="border:0px;"> &lt;/iframe>
+&lt;/div>
+&lt;h3 id="ghs-pada-pegas">GHS Pada Pegas&lt;/h3>
+&lt;p>Gerak Harmonik Sederhana (GHS) pada pegas adalah gerakan periodik yang dilakukan oleh suatu massa yang tergantung pada sebuah pegas dan hanya dipengaruhi oleh gaya restorasi (gaya yang timbul akibat peregangan atau penyusutan pegas). Faktor-faktor yang mempengaruhi GHS pada pegas antara lain:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Konstanta pegas (k):&lt;/strong>&lt;/em> Semakin besar konstanta pegas, semakin besar gaya restorasi yang ditimbulkan pada suatu peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Massa (m):&lt;/strong>&lt;/em> Semakin besar massa suatu benda yang digantung pada pegas, semakin besar pula gaya yang diperlukan untuk menghasilkan peregangan atau penyusutan pegas. Hal ini akan memperlambat gerakan massa dan memperpanjang periode GHS pada pegas.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Amplitudo (A):&lt;/strong>&lt;/em> Amplitudo adalah jarak maksimum yang ditempuh oleh massa dalam gerakan GHS pada pegas. Semakin besar amplitudo, semakin besar pula gaya restorasi yang ditimbulkan pada suatu peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Gaya gravitasi (g):&lt;/strong>&lt;/em> Gaya gravitasi adalah gaya yang menarik massa pada pegas ke arah bawah. Semakin besar nilai percepatan gravitasi, semakin cepat massa akan kembali ke posisi semula setelah mengalami peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Dengan mempertimbangkan faktor-faktor di atas, periode GHS pada pegas dapat dihitung menggunakan rumus:&lt;/p>
+&lt;p>$$T = 2π \sqrt{\frac{m}{k}}$$&lt;/p>
+&lt;p>di mana \(T\) adalah periode (s), \(m\) adalah massa (kg), dan \(k\) adalah konstanta pegas (N/m).&lt;/p>
+&lt;div class="container">
+&lt;iframe scrolling="no" title="Spring-Mass Motion LAB" src="https://www.geogebra.org/material/iframe/id/WJtR3PkW/width/900/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" class="responsive-iframe" style="border:0px;"> &lt;/iframe>
+&lt;/div></description></item></channel></rss>

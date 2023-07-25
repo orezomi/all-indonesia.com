@@ -1,0 +1,135 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – VLOOKUP</title><link>https://www.all-indonesia.com/tags/vlookup/</link><description>Recent content in VLOOKUP on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 Mar 2023 22:19:11 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/vlookup/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: VLOOKUP</title><link>https://www.all-indonesia.com/msoffice/msexcel/vlookup/</link><pubDate>Sat, 11 Mar 2023 22:19:11 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/vlookup/</guid><description>
+&lt;h2 id="formula-vlookup">Formula VLOOKUP&lt;/h2>
+&lt;p>Formula VLOOKUP (Vertical Lookup) pada Excel digunakan untuk mencari nilai dalam tabel atau range data berdasarkan kunci pencarian tertentu dan mengembalikan nilai yang sesuai dari kolom yang ditentukan. Formula ini berguna untuk mencari data dalam tabel atau range data yang besar.&lt;/p>
+&lt;p>Berikut adalah sintaks dari formula VLOOKUP pada Excel:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">VLOOKUP&lt;/span>(&lt;span style="color:#a6e22e">lookup_value&lt;/span>, &lt;span style="color:#a6e22e">table_array&lt;/span>, &lt;span style="color:#a6e22e">col_index_num&lt;/span>, [&lt;span style="color:#a6e22e">range_lookup&lt;/span>])&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>lookup_value&lt;/code> adalah nilai atau kunci pencarian yang ingin dicari dalam tabel atau range data.&lt;/li>
+&lt;li>&lt;code>table_array&lt;/code> adalah range data atau tabel yang ingin dicari nilai berdasarkan kunci pencarian.&lt;/li>
+&lt;li>&lt;code>col_index_num&lt;/code> adalah nomor kolom pada tabel atau range data yang ingin diambil nilainya.&lt;/li>
+&lt;li>&lt;code>[range_lookup]&lt;/code> adalah nilai opsional yang menentukan apakah nilai yang dicari harus benar-benar cocok atau hanya cocok dengan nilai terdekat dalam tabel atau range data. Jika nilai range_lookup bernilai TRUE atau tidak diisi, maka akan dicari nilai yang cocok dengan kunci pencarian, dan jika nilai range_lookup bernilai FALSE, maka akan dicari nilai yang benar-benar cocok dengan kunci pencarian.&lt;/li>
+&lt;/ul>
+&lt;p>Tips penggunaan formula VLOOKUP pada Excel:&lt;/p>
+&lt;ol>
+&lt;li>Pastikan nilai yang dicari dalam kunci pencarian telah sesuai dengan format data dalam tabel atau range data.&lt;/li>
+&lt;li>Gunakan tanda &lt;code>$&lt;/code> pada range data atau tabel yang ingin dicari nilainya agar dapat digunakan pada sel yang berbeda.&lt;/li>
+&lt;li>Gunakan nomor kolom yang benar-benar mengandung nilai yang ingin diambil, dan pastikan nomor kolom tersebut terhitung dari kolom pertama pada tabel atau range data yang digunakan dalam formula.&lt;/li>
+&lt;li>Jika nilai &lt;code>range_lookup&lt;/code> tidak diisi atau bernilai TRUE, pastikan tabel atau range data telah diurutkan secara benar berdasarkan kunci pencarian.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan formula VLOOKUP pada Excel:&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Misalnya, kita memiliki tabel berikut:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Nama&lt;/th>
+&lt;th style="text-align:center">Nilai&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Budi&lt;/td>
+&lt;td style="text-align:center">80&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ani&lt;/td>
+&lt;td style="text-align:center">90&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Candra&lt;/td>
+&lt;td style="text-align:center">75&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Diah&lt;/td>
+&lt;td style="text-align:center">85&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Eko&lt;/td>
+&lt;td style="text-align:center">70&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Kita ingin mencari nilai dari nama &amp;ldquo;Budi&amp;rdquo; pada tabel tersebut. Maka sintaks yang digunakan adalah sebagai berikut:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">VLOOKUP&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Budi&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">B6&lt;/span>, &lt;span style="color:#ae81ff">2&lt;/span>, &lt;span style="color:#a6e22e">FALSE&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Formula tersebut akan mencari nilai &amp;ldquo;Budi&amp;rdquo; dalam kolom pertama (A) pada tabel, dan mengembalikan nilai 80 pada kolom kedua (B).&lt;/p>
+&lt;p>Selain itu, kita juga dapat menggunakan formula VLOOKUP untuk mencari nilai berdasarkan kunci pencarian yang ditemukan di dalam sel lain seperti contoh berikut:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Nama&lt;/th>
+&lt;th style="text-align:center">Nilai&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Budi&lt;/td>
+&lt;td style="text-align:center">80&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ani&lt;/td>
+&lt;td style="text-align:center">90&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Candra&lt;/td>
+&lt;td style="text-align:center">75&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Diah&lt;/td>
+&lt;td style="text-align:center">85&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Eko&lt;/td>
+&lt;td style="text-align:center">70&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Misalkan kita menggunakan sel F7 sebagai tempat kata kunci pencarian data. Kita ingin mencari nilai dari nama yang terdapat dalam sel F7 pada tabel tersebut, misalkan cel F7 ini berisi nama &amp;ldquo;Ani&amp;rdquo;. Maka sintaks yang digunakan adalah sebagai berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">VLOOKUP&lt;/span>(&lt;span style="color:#a6e22e">F7&lt;/span>, &lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">B6&lt;/span>, &lt;span style="color:#ae81ff">2&lt;/span>, &lt;span style="color:#a6e22e">FALSE&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;p>Formula tersebut akan mencari nilai dari nama yang terdapat dalam sel F7, yaitu &amp;ldquo;Ani&amp;rdquo; dalam kolom pertama (A) pada tabel, dan mengembalikan nilai 90 pada kolom kedua (B).&lt;/p>
+&lt;p>Kita juga dapat menggunakan formula VLOOKUP untuk mencari nilai berdasarkan kunci pencarian yang hampir cocok dengan nilai dalam tabel atau range data dengan menggunakan nilai &lt;code>[range_lookup]&lt;/code> bernilai &lt;code>TRUE&lt;/code>. Misalnya, kita memiliki tabel berikut:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Nama&lt;/th>
+&lt;th style="text-align:center">Nilai&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Budi&lt;/td>
+&lt;td style="text-align:center">80&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ani&lt;/td>
+&lt;td style="text-align:center">90&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Candra&lt;/td>
+&lt;td style="text-align:center">75&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Diah&lt;/td>
+&lt;td style="text-align:center">85&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Eko&lt;/td>
+&lt;td style="text-align:center">70&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Kita ingin mencari nilai dari nama &amp;ldquo;Ani&amp;rdquo; yang hampir cocok pada tabel tersebut. Maka sintaks yang digunakan adalah sebagai berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">VLOOKUP&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Any&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">B6&lt;/span>, &lt;span style="color:#ae81ff">2&lt;/span>, &lt;span style="color:#a6e22e">TRUE&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Karena nilai &lt;code>[range_lookup]&lt;/code> bernilai &lt;code>TRUE&lt;/code>, maka formula akan mencari nilai &amp;ldquo;Any&amp;rdquo; yang hampir cocok pada kolom pertama (A) pada tabel, dan mengembalikan nilai yang cocok terdekat pada kolom kedua (B), yaitu nilai 90 dari nama &amp;ldquo;Ani&amp;rdquo;.&lt;/p>
+&lt;p>Demikianlah penjelasan tentang formula VLOOKUP pada Excel beserta contoh dan tips penggunaannya.&lt;/p></description></item></channel></rss>

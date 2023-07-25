@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – min</title><link>https://www.all-indonesia.com/tags/min/</link><description>Recent content in min on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Mar 2023 22:33:13 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/min/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: MIN</title><link>https://www.all-indonesia.com/msoffice/msexcel/min/</link><pubDate>Thu, 09 Mar 2023 22:33:13 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/min/</guid><description>
+&lt;h2 id="formula-min">Formula MIN&lt;/h2>
+&lt;p>Formula MIN pada Excel digunakan untuk menemukan nilai minimum dalam sebuah range atau daftar nilai numerik. Formula ini berguna untuk menganalisis data numerik dan mengambil nilai terkecil dalam range tersebut.&lt;/p>
+&lt;p>Berikut adalah sintaks dari formula MIN pada Excel:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">MIN&lt;/span>(&lt;span style="color:#a6e22e">value1&lt;/span>, [&lt;span style="color:#a6e22e">value2&lt;/span>], &lt;span style="color:#f92672">...&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>value1&lt;/code> adalah nilai atau range pertama yang ingin dicari nilai minimumnya.&lt;/li>
+&lt;li>&lt;code>[value2]&lt;/code> adalah nilai atau range kedua (opsional) yang ingin dicari nilai minimumnya.&lt;/li>
+&lt;/ul>
+&lt;p>Tips penggunaan formula MIN pada Excel:&lt;/p>
+&lt;ol>
+&lt;li>Gunakan tanda &lt;code>$&lt;/code> pada range nilai yang ingin dicari nilai minimumnya agar dapat digunakan pada sel yang berbeda.&lt;/li>
+&lt;li>Jika menggunakan range nilai, pastikan range tersebut hanya terdiri dari nilai numerik, jika tidak maka formula akan menghasilkan error.&lt;/li>
+&lt;li>Formula MIN juga dapat digunakan pada sel yang mengandung formula atau nilai hasil perhitungan.
+Contoh penggunaan formula MIN pada Excel:&lt;/li>
+&lt;/ol>
+&lt;p>Misalnya, kita ingin mencari nilai minimum dari range nilai A1:A10, maka sintaks yang digunakan adalah sebagai berikut:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">MIN&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A10&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Jika kita ingin mencari nilai minimum dari dua range nilai yaitu A1:A10 dan B1:B10, maka sintaks yang digunakan adalah sebagai berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">MIN&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A10&lt;/span>, &lt;span style="color:#a6e22e">B1&lt;/span>:&lt;span style="color:#a6e22e">B10&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Selain itu, kita juga dapat menggunakan formula MIN pada sel yang mengandung formula atau nilai hasil perhitungan seperti contoh berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">MIN&lt;/span>(&lt;span style="color:#ae81ff">10&lt;/span>, &lt;span style="color:#ae81ff">5&lt;/span>, &lt;span style="color:#ae81ff">20&lt;/span>, &lt;span style="color:#a6e22e">A1&lt;/span>, &lt;span style="color:#a6e22e">B2&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Formula tersebut akan mencari nilai minimum dari angka 10, 5, 20, nilai pada sel A1, dan nilai pada sel B2.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,16 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – sum</title><link>https://www.all-indonesia.com/tags/sum/</link><description>Recent content in sum on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Mar 2023 07:42:00 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/sum/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: SUM</title><link>https://www.all-indonesia.com/msoffice/msexcel/sum/</link><pubDate>Thu, 09 Mar 2023 07:42:00 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/sum/</guid><description>
+&lt;h2 id="formula-sum">Formula SUM&lt;/h2>
+&lt;p>Formula SUM digunakan untuk menjumlahkan nilai-nilai dalam rentang sel atau dalam beberapa sel yang dipilih. Berikut adalah contoh penggunaan formula SUM:&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh 1:&lt;/strong>&lt;/em>
+Jumlahkan nilai dari sel A1 hingga A5.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">SUM&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A5&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh 2:&lt;/strong>&lt;/em>
+Jumlahkan nilai dari sel A1, B1, C1 dan D1.&lt;br>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">SUM&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>, &lt;span style="color:#a6e22e">B1&lt;/span>, &lt;span style="color:#a6e22e">C1&lt;/span>, &lt;span style="color:#a6e22e">D1&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Tips dalam menggunakan formula SUM:&lt;/p>
+&lt;ol>
+&lt;li>Pastikan rentang atau sel-sel yang akan dijumlahkan sudah benar dan sesuai dengan kebutuhan Anda.&lt;/li>
+&lt;li>Pastikan format sel-sel tersebut adalah format angka, jika tidak, maka Excel tidak akan dapat menjumlahkan nilai-nilai tersebut.&lt;/li>
+&lt;li>Jika Anda ingin menambahkan nilai yang berasal dari berbagai sheet di dalam satu workbook, Anda dapat menggunakan formula SUMIF atau SUMIFS dengan memasukkan range dari sheet-sheet tersebut.&lt;/li>
+&lt;/ol>
+&lt;p>Dalam penggunaan formula SUM, Anda dapat menyesuaikan dengan kebutuhan Anda untuk menjumlahkan nilai-nilai dalam rentang sel atau beberapa sel yang dipilih. Dengan menggunakan formula SUM, Anda dapat menjumlahkan nilai dengan cepat dan akurat.&lt;/p></description></item></channel></rss>

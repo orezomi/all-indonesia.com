@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – average</title><link>https://www.all-indonesia.com/tags/average/</link><description>Recent content in average on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Mar 2023 17:17:01 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/average/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: AVERAGE</title><link>https://www.all-indonesia.com/msoffice/msexcel/average/</link><pubDate>Thu, 09 Mar 2023 17:17:01 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/average/</guid><description>
+&lt;h2 id="formula-average">Formula AVERAGE&lt;/h2>
+&lt;p>Formula AVERAGE digunakan untuk menghitung rata-rata dari sejumlah angka yang diberikan dalam rentang sel tertentu pada Microsoft Excel.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em>
+Misalkan Anda memiliki beberapa data berikut pada kolom A pada spreadsheet Anda: 10, 20, 30, 40, dan 50. Anda ingin menghitung rata-rata dari data tersebut. Untuk melakukan hal ini, Anda dapat menggunakan formula AVERAGE seperti di bawah ini:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">AVERAGE&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A5&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+Formula ini akan menghitung rata-rata dari nilai dalam sel A1 hingga A5, yang dalam contoh ini akan menghasilkan nilai 30.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Tips:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Pastikan bahwa rentang sel yang dipilih untuk formula AVERAGE hanya berisi angka. Jika ada sel kosong atau sel dengan teks, formula tersebut akan menghasilkan nilai kesalahan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anda dapat menggunakan formula AVERAGE pada seluruh kolom atau baris dengan menentukan rentang sel yang lebih besar. Misalnya, jika Anda ingin menghitung rata-rata dari seluruh kolom A, Anda dapat menggunakan formula AVERAGE seperti di bawah ini:&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">AVERAGE&lt;/span>(&lt;span style="color:#a6e22e">A&lt;/span>:&lt;span style="color:#a6e22e">A&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;ol start="3">
+&lt;li>Formula AVERAGE dapat digunakan bersama dengan formula lainnya seperti SUM atau COUNT untuk menghitung total atau jumlah data yang dihitung rata-ratanya.&lt;/li>
+&lt;/ol></description></item></channel></rss>

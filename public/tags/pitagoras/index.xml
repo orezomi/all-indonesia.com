@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – Pitagoras</title><link>https://www.all-indonesia.com/tags/pitagoras/</link><description>Recent content in Pitagoras on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 23 Jul 2023 14:56:00 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/pitagoras/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Teorema Pythagoras</title><link>https://www.all-indonesia.com/matematika/smp/kelas-9/teorema-pythagoras/</link><pubDate>Sun, 23 Jul 2023 14:56:00 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/smp/kelas-9/teorema-pythagoras/</guid><description>
+&lt;p>Apakah kamu pernah melihat segitiga yang satu sisi-nya lebih panjang daripada dua sisi lainnya? Segitiga seperti itu disebut segitiga siku-siku, dan ada rahasia menarik di baliknya yang disebut Teorema Pythagoras. Jangan khawatir, meskipun namanya terdengar rumit, konsepnya sebenarnya sangat sederhana dan mudah dimengerti.&lt;/p>
+&lt;h2 id="apa-itu-teorema-pythagoras">Apa Itu Teorema Pythagoras?&lt;/h2>
+&lt;p>Teorema Pythagoras adalah salah satu prinsip dasar dalam matematika yang menghubungkan panjang sisi-sisi dari segitiga siku-siku. Disebut &amp;ldquo;teorema&amp;rdquo; karena pernyataan ini telah terbukti benar melalui bukti matematis. Teorema Pythagoras menyatakan bahwa dalam segitiga siku-siku, kuadrat dari panjang sisi miring (sisi yang berlawanan dengan sudut siku-siku) adalah sama dengan jumlah kuadrat dari panjang sisi-sisi yang membentuk sudut siku-siku tersebut.&lt;/p>
+&lt;h2 id="bagaimana-rumusnya">Bagaimana Rumusnya?&lt;/h2>
+&lt;p>Mari kita sebut sisi miring sebagai c dan sisi-sisi yang membentuk sudut siku-siku sebagai a dan b. Rumus Teorema Pythagoras dapat ditulis sebagai:&lt;/p>
+&lt;p>$$c^2 = a^2 + b^2$$&lt;/p>
+&lt;p>Atau jika ingin mencari panjang salah satu sisi, misalnya sisi miring (c), maka rumusnya akan menjadi:&lt;/p>
+&lt;p>$$c = \sqrt{a^2 + b^2}$$&lt;/p>
+&lt;h2 id="contoh-penerapan-teorema-pythagoras">Contoh Penerapan Teorema Pythagoras&lt;/h2>
+&lt;p>Pahami konsep ini dengan contoh berikut. Bayangkan sebuah kebun yang membentuk segitiga siku-siku seperti gambar di bawah ini:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/pitagoras.png">&lt;img src="https://www.all-indonesia.com/img/pitagoras.png" alt="Teorema Pitagoras" title="Teorema Pitagoras">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Segitiga Siku-Siku Teorema Pitagoras&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Jika panjang sisi a = 4 dan panjang sisi b = 3, maka kita bisa menggunakan Teorema Pythagoras untuk mencari panjang sisi miring (c):&lt;/p>
+&lt;p>$$c = \sqrt{4^2 + 3^2} = \sqrt{16 + 9} = \sqrt{25} = 5$$&lt;/p>
+&lt;p>Jadi, panjang sisi miringnya adalah 5.&lt;/p>
+&lt;h2 id="penerapan-lain-teorema-pythagoras">Penerapan Lain Teorema Pythagoras&lt;/h2>
+&lt;p>Teorema Pythagoras tidak hanya berlaku untuk segitiga siku-siku dalam satu dimensi. Kamu juga dapat menggunakannya di dunia nyata, misalnya dalam permasalahan arsitektur, astronomi, atau dalam perhitungan jarak antara dua titik pada bidang kartesian.&lt;/p>
+&lt;h2 id="teorema-pythagoras-dalam-kehidupan-sehari-hari">Teorema Pythagoras dalam Kehidupan Sehari-hari&lt;/h2>
+&lt;p>Kamu mungkin bertanya, &amp;ldquo;Apakah Teorema Pythagoras ini benar-benar berguna dalam kehidupan sehari-hari?&amp;rdquo; Jawabannya adalah &amp;ldquo;iya!&amp;rdquo; Misalnya, ketika kamu ingin mengetahui jarak terdekat dari rumahmu ke sekolah atau temanmu, kamu dapat menggunakan Teorema Pythagoras untuk menghitung jaraknya secara langsung.&lt;/p>
+&lt;p>Tidak hanya itu, dalam dunia desain interior, teorema ini membantu mengukur dimensi ruangan dan memastikan bahwa furnitur yang akan ditempatkan sesuai ukuran.&lt;/p>
+&lt;h2 id="kesimpulan">Kesimpulan&lt;/h2>
+&lt;p>Teorema Pythagoras adalah konsep matematika yang menarik dan berguna dalam banyak aspek kehidupan. Ia membantu kita memahami hubungan antara panjang sisi-sisi segitiga siku-siku dan telah membuktikan kebenarannya berulang kali melalui bukti matematis. Jadi, jangan meremehkan kekuatan Teorema Pythagoras dalam memecahkan masalah di sekitarmu!&lt;/p>
+&lt;h2 id="contoh-soal-teorema-pitagoras">Contoh Soal Teorema Pitagoras&lt;/h2>
+&lt;p>&lt;strong>Contoh Soal 1:&lt;/strong>&lt;/p>
+&lt;p>Sebuah segitiga siku-siku memiliki panjang sisi-sisi sebagai berikut: sisi pertama (a) = 5 cm, sisi kedua (b) = 12 cm. Berapakah panjang sisi miring (c) dari segitiga tersebut?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 2:&lt;/strong>&lt;/p>
+&lt;p>Sebuah papan diukur memiliki panjang 8 meter dan lebar 6 meter. Berapakah panjang diagonal papan tersebut?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 3:&lt;/strong>&lt;/p>
+&lt;p>Seorang petani ingin membuat pagar di sepanjang batas lahan persegi panjangnya. Jika panjang lahan 7 meter dan lebarnya 5 meter, berapa panjang pagar yang diperlukan?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 4:&lt;/strong>&lt;/p>
+&lt;p>Diketahui segitiga siku-siku memiliki sisi a = 9 cm dan sisi c = 15 cm. Berapakah panjang sisi b dari segitiga tersebut?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 5:&lt;/strong>&lt;/p>
+&lt;p>Sebuah tiang bendera berdiri tegak lurus di tanah. Jika jarak dari ujung tiang bendera ke tanah adalah 10 meter, dan tiang bendera membentuk sudut 60 derajat dengan tanah, berapakah panjang sebenarnya dari tiang bendera tersebut?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 6:&lt;/strong>&lt;/p>
+&lt;p>Sebuah lapangan sepak bola berbentuk persegi panjang dengan panjang 90 meter dan lebar 60 meter. Berapa jarak terpendek yang harus ditempuh pemain dari pojok lapangan ke tengah lapangan?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 7:&lt;/strong>&lt;/p>
+&lt;p>Sebuah taman berbentuk segitiga siku-siku dengan panjang sisi-sisi a dan b. Panjang sisi a adalah 5 meter lebih panjang daripada sisi b yang berukuran 12 meter. Berapakah panjang sisi miring (c) taman tersebut?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 8:&lt;/strong>&lt;/p>
+&lt;p>Sebuah papan skateboard berbentuk segi empat sama kaki dengan panjang sisi 30 cm. Papan tersebut ingin digantungkan di dinding dengan tali pada salah satu sudutnya. Berapa panjang tali yang diperlukan?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 9:&lt;/strong>&lt;/p>
+&lt;p>Diketahui sebuah segitiga siku-siku memiliki sisi a = 5 cm dan sisi b = 12 cm. Apakah segitiga tersebut merupakan segitiga siku-siku?&lt;/p>
+&lt;p>&lt;strong>Contoh Soal 10:&lt;/strong>&lt;/p>
+&lt;p>Sebuah tangga berdiri di dinding dengan sudut 70 derajat terhadap lantai. Jika jarak kaki tangga ke dinding adalah 1 meter, berapa panjang tangga tersebut?&lt;/p>
+&lt;p>&lt;em>&lt;strong>Catatan:&lt;/strong>&lt;/em> Untuk menjawab soal-soal di atas, kamu dapat menggunakan rumus Teorema Pythagoras \(c^2 = a^2 + b^2\) ketika diberikan dua panjang sisi segitiga siku-siku, atau menggambarkan segitiga dan menggunakannya untuk menghitung jarak, panjang diagonal, atau tali yang diperlukan. Selamat mencoba!&lt;/p></description></item></channel></rss>

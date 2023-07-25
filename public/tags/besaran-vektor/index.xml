@@ -1,0 +1,240 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – Besaran Vektor</title><link>https://www.all-indonesia.com/tags/besaran-vektor/</link><description>Recent content in Besaran Vektor on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 18 Feb 2023 18:15:24 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/besaran-vektor/index.xml" rel="self" type="application/rss+xml"/><item><title>Ipa: Contoh Soal Besaran Vektor (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-1/</link><pubDate>Fri, 17 Feb 2023 16:16:39 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-1/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-besaran-vektor---part-1">Berikut adalah contoh soal terkait Besaran Vektor - Part 1&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kg bergerak dengan kecepatan \(5 m/s\) ke arah sumbu \(x\) positif dan kecepatan \(3 m/s\) ke arah sumbu \(y\) negatif. Hitunglah momentum total benda tersebut.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kita dapat menggunakan rumus momentum \(\vec{p} = m\vec{v}\), di mana \(\vec{p}\) adalah momentum, \(m\) adalah massa benda, dan \(\vec{v}\) adalah kecepatan benda. Kita dapat menuliskan kecepatan benda sebagai vektor \(\vec{v} = (v_x, v_y, v_z)\), di mana \(v_x\) adalah kecepatan pada sumbu \(x\), \(v_y\) adalah kecepatan pada sumbu \(y\), dan \(v_z\) adalah kecepatan pada sumbu \(z\) (dalam hal ini, tidak ada gerakan pada sumbu \(z\)). Oleh karena itu, momentum total dapat ditulis sebagai:&lt;br>
+$$\begin{align}\vec{p} &amp;amp;= m\vec{v} \newline
+&amp;amp;= (2\text{ kg})(5\text{ m/s}\ \hat{i} - 3\text{ m/s}\ \hat{j}) \newline
+&amp;amp;= 10\text{ kg m/s}\ \hat{i} - 6\text{ kg m/s}\ \hat{j}\end{align}$$
+Jadi, momentum total benda tersebut adalah 10 kg m/s ke arah sumbu x positif dan 6 kg m/s ke arah sumbu y negatif.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan konstan 20 m/s ke arah timur. Jika mobil tersebut melakukan pergantian arah dan bergerak dengan kecepatan 15 m/s ke arah barat, tentukan besar dan arah perubahan kecepatan mobil.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Perubahan kecepatan dapat dihitung sebagai selisih antara kecepatan akhir dan kecepatan awal, sehingga:
+$$\begin{align}\Delta \vec{v} &amp;amp;= \vec{v_f} - \vec{v_i} \newline
+&amp;amp;= (-15\text{ m/s})\ \hat{i} - (20\text{ m/s})\ \hat{i} \newline
+&amp;amp;= -35\text{ m/s}\ \hat{i}\end{align}$$
+Perubahan kecepatan memiliki arah ke arah barat dan besarnya 35 m/s.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dengan massa 0.2 kg dilempar ke atas dengan kecepatan awal 10 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan kecepatan dan posisi bola setelah 2 detik.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Pertama-tama, hitunglah kecepatan bola setelah 2 detik dengan menggunakan rumus kecepatan:
+$$\begin{align}\vec{v} &amp;amp;= \vec{v_0} + \vec{a}t \newline
+&amp;amp;= (10\text{ m/s})\ \hat{j} - (9.8\text{ m/s}^2)\ \hat{j}(2\text{ s}) \newline
+&amp;amp;= -9.6\text{ m/s}\ \hat{j}\end{align}$$
+Jadi, kecepatan bola setelah 2 detik adalah 9.6 m/s ke arah bawah. Selanjutnya, hitunglah posisi bola setelah 2 detik dengan menggunakan rumus posisi:
+$$\begin{align}\vec{r} &amp;amp;= \vec{r_0} + \vec{v_0}t + \frac{1}{2}\vec{a}t^2 \newline
+&amp;amp;= (0\text{ m})\ \hat{i} + (0\text{ m})\ \hat{j} + (10\text{ m/s})\ \hat{j}(2\text{ s}) + \frac{1}{2}(9.8\text{ m/s}^2)\ \hat{j}(2\text{ s})^2 \newline
+&amp;amp;= 0\text{ m}\ \hat{i} + 20.4\text{ m}\ \hat{j}\end{align}$$
+Jadi, posisi bola setelah 2 detik adalah 20.4 m di atas titik awal.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kapal bergerak dengan kecepatan 12 km/jam ke arah timur. Jika angin bertiup dengan kecepatan 5 km/jam ke arah barat laut, tentukan kecepatan dan arah kapal relatif terhadap daratan&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan kapal relatif terhadap daratan adalah hasil penjumlahan vektor antara kecepatan kapal dan kecepatan angin. Jadi, kecepatan kapal relatif terhadap daratan adalah:
+&lt;br>
+$$\begin{align}\vec{v_{rel}} &amp;amp;= \vec{v_{kapal}} + \vec{v_{angin}} \newline &amp;amp;= (12\text{ km/jam})\ \hat{i} - (5\text{ km/jam})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &amp;amp;\approx 11.2\text{ km/jam}\ \hat{i} - 3.5\text{ km/jam}\ \hat{j}\end{align}$$
+&lt;br>
+Jadi, kecepatan kapal relatif terhadap daratan adalah sekitar 11.2 km/jam ke arah timur dan 3.5 km/jam ke arah selatan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang pelari berlari dengan kecepatan 6 m/s ke arah utara. Jika ada angin bertiup dengan kecepatan 3 m/s ke arah barat laut, tentukan kecepatan dan arah pelari relatif terhadap angin.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan pelari relatif terhadap angin adalah hasil pengurangan vektor antara kecepatan pelari dan kecepatan angin. Jadi, kecepatan pelari relatif terhadap angin adalah:
+&lt;br>
+$$\begin{align}\vec{v_{rel}} &amp;amp;= \vec{v_{pelari}} - \vec{v_{angin}} \newline &amp;amp;= (6\text{ m/s})\ \hat{j} - (3\text{ m/s})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &amp;amp;\approx 5.1\text{ m/s}\ \hat{j} - 2.1\text{ m/s}\ \hat{i}\end{align}$$
+&lt;br>
+Jadi, kecepatan pelari relatif terhadap angin adalah sekitar 5.1 m/s ke arah utara dan 2.1 m/s ke arah barat.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran Vektor (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-2/</link><pubDate>Sat, 18 Feb 2023 18:15:24 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-2/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-besaran-vektor---part-2">Berikut adalah contoh soal terkait Besaran Vektor - Part 2&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kg diletakkan pada permukaan licin dan diberi gaya sebesar 10 N pada arah 30 derajat ke atas dari sumbu x positif. Tentukan akselerasi benda dan perpindahan setelah 2 detik.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Faktor-faktor yang diberikan:&lt;br>
+massa \(m\) = 2 kg&lt;br>
+gaya \(F\) = 10 N&lt;br>
+sudut \(θ\) = 30°&lt;br>
+waktu \(t\) = 2 s&lt;br>
+keadaan permukaan = licin&lt;br>
+&lt;br>
+Untuk menyelesaikan soal ini, perlu dicari komponen gaya pada sumbu \(x\) dan \(y\) dan kemudian dihitung akselerasinya. Setelah itu, dapat dihitung perpindahan benda setelah 2 detik.&lt;br>
+&lt;br>
+Komponen gaya pada sumbu x dan y dapat dicari dengan menggunakan trigonometri:&lt;br>
+$$F_x = F\cos\theta = 10\text{ N}\cos 30^\circ = 8.66\text{ N}$$
+$$F_y = F\sin\theta = 10\text{ N}\sin 30^\circ = 5\text{ N}$$
+Karena permukaan licin, maka tidak ada gaya gesekan. Sehingga, gaya total pada sumbu \(x\) sama dengan massa dikalikan dengan percepatan pada sumbu \(x\):&lt;br>
+$$F_x = ma_x \rightarrow a_x = \frac{F_x}{m} = \frac{8.66\text{ N}}{2\text{ kg}} = 4.33\text{ m/s}^2$$
+Gaya total pada sumbu y sama dengan massa dikalikan dengan percepatan pada sumbu \(y\), sehingga:
+$$F_y = ma_y \rightarrow a_y = \frac{F_y}{m} = \frac{5\text{ N}}{2\text{ kg}} = 2.5\text{ m/s}^2$$
+Akselerasi total dapat dicari dengan menggunakan teorema Pythagoras:
+$$a = \sqrt{a_x^2 + a_y^2} = \sqrt{(4.33\text{ m/s}^2)^2 + (2.5\text{ m/s}^2)^2} = 4.98\text{ m/s}^2$$
+Perpindahan dapat dicari dengan menggunakan rumus:
+$$x = x_0 + v_0t + \frac{1}{2}at^2$$
+Karena benda awalnya diam dan hanya dipengaruhi oleh gaya, maka kecepatan awal adalah 0 m/s dan perpindahan pada sumbu \(x\) adalah:
+$$x = \frac{1}{2}at^2 = \frac{1}{2}(4.98\text{ m/s}^2)(2\text{ s})^2 = 9.96\text{ m}$$
+Jadi, akselerasi benda adalah 4.98 m/s{^2} dan perpindahan setelah 2 detik adalah 9.96 m pada sumbu \(x\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah pesawat terbang bergerak dengan kecepatan 400 km/jam dan membentuk sudut 30 derajat terhadap arah utara. Tentukan komponen horizontal dan vertikal dari kecepatan pesawat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Komponen horizontal dari kecepatan pesawat dapat dihitung dengan rumus \(v_h = v \cos \theta\), sedangkan komponen vertikal dapat dihitung dengan rumus \(v_v = v \sin \theta\), di mana \(v\) adalah kecepatan pesawat dan \(\theta\) adalah sudut yang dibentuk oleh kecepatan pesawat dengan arah utara. Dalam satuan SI, &lt;em>400 km/jam&lt;/em> sama dengan &lt;em>111.1 m/s&lt;/em>. Dengan demikian,
+$$v_h = 111.1 \text{ m/s} \cos 30^\circ = 96.2 \text{ m/s}$$
+$$v_v = 111.1 \text{ m/s} \sin 30^\circ = 55.6 \text{ m/s}$$
+Jadi, kecepatan horizontal pesawat adalah &lt;em>&lt;strong>96.2 m/s&lt;/strong>&lt;/em> dan kecepatan vertikal pesawat adalah &lt;em>&lt;strong>55.6 m/s&lt;/strong>&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dilempar ke atas dengan kecepatan awal 20 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan waktu yang dibutuhkan bola untuk mencapai ketinggian maksimum dan ketinggian maksimum tersebut.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Pertama-tama, kita dapat menggunakan rumus kecepatan untuk menghitung waktu yang dibutuhkan bola untuk mencapai titik tertinggi. Pada titik tertinggi, kecepatan bola sama dengan nol, sehingga kita dapat menggunakan persamaan \(v = v_0 + at\) dengan \(v = 0\), \(v_0 = 20 m/s\) dan \(a = -9.8 m/s^2\), maka:
+$$0 = 20 - 9.8t$$
+$$t = \frac{20}{9.8} \approx 2.04 \text{ s}$$
+Jadi, waktu yang dibutuhkan bola untuk mencapai ketinggian maksimum adalah sekitar &lt;em>&lt;strong>2.04&lt;/strong>&lt;/em> detik.
+Ketinggian maksimum dapat dihitung menggunakan rumus posisi pada titik tertinggi :
+$$h = h_0 + v_0 t + \frac{1}{2}at^2$$
+Dalam hal ini, \(h_0 = 0\), \(v_0 = 20 m/s\), dan \(a = -9.8 m/s^2\), sehingga
+$$h = 0 + 20 \times 2.04 - \frac{1}{2} \times 9.8 \times (2.04)^2 \approx 20.2 \text{ m}$$
+Jadi, ketinggian maksimum bola adalah sekitar &lt;em>&lt;strong>20.2&lt;/strong>&lt;/em> meter.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan 50 km/jam ke arah timur. Kemudian, mobil tersebut belok ke arah utara dan bergerak dengan kecepatan 40 km/jam. Tentukan besar dan arah vektor perubahan kecepatan mobil.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Perubahan kecepatan adalah selisih antara kecepatan akhir dan kecepatan awal mobil:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i}$$
+Kecepatan awal mobil adalah 50 km/jam ke arah timur, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_i} = 50\text{ km/jam}\ \hat{i}$$
+Kecepatan akhir mobil adalah 40 km/jam ke arah utara, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_f} = 40\text{ km/jam}\ \hat{j}$$
+Maka, perubahan kecepatan dapat dihitung sebagai berikut:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i} = 40\text{ km/jam}\ \hat{j} - 50\text{ km/jam}\ \hat{i}$$
+Untuk mengetahui besarnya perubahan kecepatan, kita dapat menggunakan teorema Pythagoras:
+$$|\Delta \vec{v}| = \sqrt{(40\text{ km/jam})^2 + (-50\text{ km/jam})^2} = 64.03\text{ km/jam}$$
+Untuk mengetahui arah perubahan kecepatan, kita dapat menggunakan trigonometri dan menghitung sudut antara vektor perubahan kecepatan dan sumbu &lt;strong>\(x\)&lt;/strong> positif:
+$$\theta = \tan^{-1} \left(\frac{-50\text{ km/jam}}{40\text{ km/jam}}\right) = -51.34^\circ$$
+Jadi, besar perubahan kecepatan adalah &lt;em>&lt;strong>64.03 km/jam&lt;/strong>&lt;/em>, dan arah perubahan kecepatan membentuk sudut sebesar &lt;em>&lt;strong>51.34 derajat&lt;/strong>&lt;/em> di bawah sumbu &lt;em>&lt;strong>\(x\)&lt;/strong>&lt;/em> positif.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Besaran Vektor</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/</link><pubDate>Fri, 17 Feb 2023 06:22:36 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="dasar-pemahaman">Dasar Pemahaman&lt;/h2>
+&lt;p>Besaran vektor adalah besaran yang memiliki magnitudo (besar) dan arah yang ditentukan dalam ruang tiga dimensi. Contoh besaran vektor adalah percepatan, gaya, kecepatan, dan momentum. Besaran vektor biasanya direpresentasikan dengan panah di atas huruf yang merepresentasikan besarnya. Misalnya, vektor percepatan direpresentasikan dengan panah di atas huruf &amp;ldquo;a&amp;rdquo;, yaitu \(\vec{a}\).&lt;/p>
+&lt;p>Dalam koordinat kartesian, besaran vektor dinyatakan dengan tiga komponen, masing-masing menunjukkan kontribusi besaran pada sumbu \(x\), \(y\), dan \(z\). Vektor posisi, misalnya, dapat ditulis sebagai \(\vec{r} = (x, y, z)\), di mana \(x\), \(y\), dan \(z\) adalah koordinat pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;p>Selain itu, besaran vektor juga dapat dioperasikan menggunakan operasi matematika seperti penjumlahan vektor, pengurangan vektor, dan perkalian skalar. Operasi ini memungkinkan kita untuk melakukan perhitungan yang kompleks dalam fisika dan matematika, seperti menghitung resultan gaya pada suatu benda atau menghitung arah dan besarnya momentum sebuah objek.&lt;/p>
+&lt;h3 id="berikut-beberapa-contoh-sederhana-dari-besaran-vektor">Berikut beberapa contoh sederhana dari besaran vektor&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Kecepatan:&lt;/strong>&lt;/em> kecepatan adalah besaran vektor yang menyatakan seberapa cepat suatu objek bergerak dan ke arah mana objek itu bergerak. Kecepatan dapat ditulis sebagai \(\vec{v} = (v_x, v_y, v_z)\), di mana \(v_x\), \(v_y\), dan \(v_z\) adalah kecepatan pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Gaya:&lt;/strong>&lt;/em> gaya adalah besaran vektor yang menyatakan seberapa kuat suatu benda ditarik atau didorong dan arah gaya tersebut. Gaya dapat ditulis sebagai \(\vec{F} = (F_x, F_y, F_z)\), di mana \(F_x\), \(F_y\), dan \(F_z\) adalah gaya pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Percepatan:&lt;/strong>&lt;/em> percepatan adalah besaran vektor yang menyatakan perubahan kecepatan suatu objek dalam suatu periode waktu tertentu dan arah percepatan tersebut. Percepatan dapat ditulis sebagai \(\vec{a} = (a_x, a_y, a_z)\), di mana \(a_x\), \(a_y\), dan \(a_z\) adalah percepatan pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Momentum:&lt;/strong>&lt;/em> momentum adalah besaran vektor yang menyatakan seberapa berat suatu objek dan seberapa cepat objek tersebut bergerak dan arah momentum tersebut. Momentum dapat ditulis sebagai \(\vec{p} = (p_x, p_y, p_z)\), di mana \(p_x\), \(p_y\), dan \(p_z\) adalah momentum pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Vektor posisi:&lt;/strong>&lt;/em> vektor posisi adalah besaran vektor yang menyatakan posisi suatu objek dalam suatu sistem koordinat tertentu. Vektor posisi dapat ditulis sebagai \(\vec{r} = (x, y, z)\), di mana \(x\), \(y\), dan \(z\) adalah koordinat pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="gambar-besaran-vektor-dalam-ruang-tiga-dimensi">Gambar besaran vektor dalam ruang tiga dimensi&lt;/h3>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/vektorabc.png">
+&lt;img src="https://www.all-indonesia.com/img/vektorabc.png"
+alt="Gambar Konsep Besaran Vektor"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>Gambar Konsep Besaran Vektor&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Gambar tersebut menunjukkan tiga buah besaran vektor, yaitu \(\vec{a}\), \(\vec{b}\), dan \(\vec{c}\) yang dinyatakan dalam koordinat kartesian \((x, y, z)\). Setiap besaran vektor direpresentasikan oleh sebuah panah dengan panjang (magnitudo) dan arah yang ditentukan oleh koordinat \((x, y, z)\). Panjang panah merepresentasikan besar (magnitudo) dari besaran vektor, sedangkan arah dari panah merepresentasikan arah besaran vektor.&lt;/p>
+&lt;p>Dalam contoh gambar tersebut, \(\vec{a}\) dan \(\vec{b}\) memiliki arah yang sama, yaitu searah sumbu \(x\), sedangkan \(\vec{c}\) memiliki arah yang berbeda dari \(\vec{a}\) dan \(\vec{b}\). Selain itu, panjang dari \(\vec{b}\) lebih panjang dibandingkan dengan \(\vec{a}\) dan \(\vec{c}\), sehingga magnitudo \(\vec{b}\) lebih besar dibandingkan dengan \(\vec{a}\) dan \(\vec{c}\).&lt;/p>
+&lt;h3 id="contoh-lainnya-dari-besaran-vektor">Contoh lainnya dari besaran vektor&lt;/h3>
+&lt;p>Beberapa contoh besaran vektor dalam fisika adalah:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Kecepatan:&lt;/strong>&lt;/em> Kecepatan adalah besaran vektor yang menyatakan perubahan posisi suatu benda dalam suatu waktu tertentu. Kecepatan dinyatakan dalam satuan meter per detik \((\text{m/s})\) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, kecepatan mobil yang bergerak ke arah timur dengan kecepatan 50 km/jam dapat dituliskan sebagai \(\vec{v} = (50\text{ km/jam})\ \hat{i}\), di mana \(\hat{i}\) adalah vektor satuan searah sumbu \(x\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Gaya:&lt;/strong>&lt;/em> Gaya adalah besaran vektor yang menyatakan pengaruh suatu benda terhadap benda lain dalam hal perubahan kecepatan atau bentuk benda tersebut. Gaya dinyatakan dalam satuan newton (\(\text{N}\)) dan memiliki arah yang sejajar dengan arah pengaruh tersebut. Contohnya, gaya gravitasi yang bekerja pada sebuah benda dengan massa 2 kg di dekat permukaan bumi dapat dituliskan sebagai \(\vec{F_g} = (2\text{ kg})(9.8\text{ m/s}^2)\ \hat{j} = 19.6\text{ N}\ \hat{j}\), di mana \(\hat{j}\) adalah vektor satuan searah sumbu \(y\) negatif.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Momentum:&lt;/strong>&lt;/em> Momentum adalah besaran vektor yang menyatakan kuantitas gerak suatu benda, yaitu massa benda dikalikan dengan kecepatannya. Momentum dinyatakan dalam satuan kilogram meter per detik (\(\text{kg m/s}\)) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, momentum sebuah bola dengan massa 0.5 kg yang bergerak dengan kecepatan 10 m/s ke arah timur dapat dituliskan sebagai \(\vec{p} = (0.5\text{ kg})(10\text{ m/s})\ \hat{i} = 5\text{ kg m/s}\ \hat{i}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Percepatan:&lt;/strong>&lt;/em> Percepatan adalah besaran vektor yang menyatakan perubahan kecepatan suatu benda dalam suatu waktu tertentu. Percepatan dinyatakan dalam satuan meter per detik kuadrat (\(\text{m/s}^2\)) dan memiliki arah yang sejajar dengan arah perubahan kecepatan. Contohnya, percepatan gravitasi yang bekerja pada benda di dekat permukaan bumi dapat dituliskan sebagai \(\vec{a} = (0\ \text{m/s}^2)\ \hat{i} - (9.8\ \text{m/s}^2)\ \hat{j}\), di mana \(\hat{i}\) dan \(\hat{j}\) adalah vektor satuan searah sumbu \(x\) dan \(y\) negatif.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="proyeksi-vektor">Proyeksi Vektor&lt;/h2>
+&lt;p>Proyeksi vektor adalah hasil proyeksi suatu vektor pada suatu sumbu atau bidang tertentu. Proyeksi vektor dapat digunakan untuk menentukan komponen suatu vektor pada suatu sumbu atau bidang tertentu. Misalnya, proyeksi vektor pada sumbu x dapat digunakan untuk menentukan komponen vektor pada sumbu x, sedangkan proyeksi vektor pada bidang xy dapat digunakan untuk menentukan komponen vektor pada bidang xy.&lt;/p>
+&lt;p>Secara matematis, proyeksi vektor pada suatu sumbu atau bidang dapat ditemukan dengan mengalikan panjang vektor dengan kosinus sudut antara vektor tersebut dan sumbu atau bidang yang dimaksud. Jika vektor yang akan diproyeksikan dinyatakan sebagai vektor \(\vec{v}\) dan sumbu atau bidang yang dimaksud dinyatakan sebagai
+\(\hat{n}\), maka proyeksi vektor dapat dinyatakan sebagai:&lt;/p>
+&lt;p>$$\operatorname{proj}_{\hat{n}} \vec{v} = |\vec{v}| \cos \theta = |\vec{v}| \cos (\hat{n}, \vec{v})$$&lt;/p>
+&lt;p>di mana \(\theta\) adalah sudut antara vektor \(\vec{v}\) dan sumbu atau bidang \(\hat{n}\).&lt;/p>
+&lt;p>Ilustrasi proyeksi vektor dapat dilihat pada simulasi berikut:&lt;/p>
+&lt;div class="container">
+&lt;iframe scrolling="no" title="Vector Projection" src="https://www.geogebra.org/material/iframe/id/mkV7F8Jf/width/900/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" class="responsive-iframe" style="border:0px;"> &lt;/iframe>
+&lt;/div></description></item></channel></rss>

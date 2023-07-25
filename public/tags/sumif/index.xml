@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – sumif</title><link>https://www.all-indonesia.com/tags/sumif/</link><description>Recent content in sumif on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Mar 2023 07:48:31 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/sumif/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: SUMIF</title><link>https://www.all-indonesia.com/msoffice/msexcel/sumif/</link><pubDate>Thu, 09 Mar 2023 07:48:31 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/sumif/</guid><description>
+&lt;h2 id="formula-sumif">Formula SUMIF&lt;/h2>
+&lt;p>Formula SUMIF digunakan untuk menjumlahkan nilai-nilai dalam rentang sel yang memenuhi kriteria tertentu. Berikut adalah contoh penggunaan formula SUMIF:&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh 1:&lt;/strong>&lt;/em>
+Jumlahkan nilai dari sel A1 hingga A5 yang nilainya lebih besar dari 10.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">SUMIF&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A5&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;&amp;gt;10&amp;#34;&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh 2:&lt;/strong>&lt;/em>
+Jumlahkan nilai dari sel A1 hingga A5 yang memiliki teks &amp;ldquo;Produk A&amp;rdquo;.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">SUMIF&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A5&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Produk A&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">B1&lt;/span>:&lt;span style="color:#a6e22e">B5&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Tips dalam menggunakan formula SUMIF:&lt;/p>
+&lt;ol>
+&lt;li>Pastikan rentang sel dan kriteria yang Anda gunakan sudah benar dan sesuai dengan kebutuhan Anda.&lt;/li>
+&lt;li>Jangan lupa untuk memasukkan range dari sel-sel yang ingin dijumlahkan di dalam rumus.&lt;/li>
+&lt;li>Anda dapat menggunakan operator perbandingan seperti &amp;gt;, &amp;lt;, =, dan lain-lain untuk memfilter nilai-nilai yang akan dijumlahkan.&lt;/li>
+&lt;li>Anda juga dapat menggunakan formula SUMIFS untuk menjumlahkan nilai-nilai dengan lebih dari satu kriteria.&lt;/li>
+&lt;/ol>
+&lt;p>Dalam penggunaan formula SUMIF, Anda dapat memfilter nilai-nilai yang ingin dijumlahkan berdasarkan kriteria tertentu. Dengan menggunakan formula SUMIF, Anda dapat melakukan analisis data yang lebih spesifik dan akurat.&lt;/p></description></item></channel></rss>

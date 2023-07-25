@@ -1,0 +1,16 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – CONCATENATE</title><link>https://www.all-indonesia.com/tags/concatenate/</link><description>Recent content in CONCATENATE on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 12 Mar 2023 11:40:44 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/concatenate/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: CONCATENATE</title><link>https://www.all-indonesia.com/msoffice/msexcel/concatenate/</link><pubDate>Sun, 12 Mar 2023 11:40:44 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/concatenate/</guid><description>
+&lt;h2 id="formula-concatenate">Formula CONCATENATE&lt;/h2>
+&lt;p>Formula CONCATENATE di Excel digunakan untuk menggabungkan beberapa teks atau nilai dari beberapa sel menjadi satu sel atau string. Berikut adalah contoh penggunaan formula CONCATENATE:&lt;/p>
+&lt;p>Contoh 1:
+Gabungkan teks &amp;ldquo;Produk A&amp;rdquo; dan &amp;ldquo;Harga: &amp;quot; sehingga menjadi &amp;ldquo;Produk A Harga: &amp;ldquo;.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">CONCATENATE&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Produk A&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34; Harga: &amp;#34;&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Contoh 2:
+Gabungkan teks dari sel A1 dan B1 sehingga menjadi satu sel.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">CONCATENATE&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>, &lt;span style="color:#e6db74">&amp;#34; &amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">B1&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Tips dalam menggunakan formula CONCATENATE:&lt;/p>
+&lt;ol>
+&lt;li>Pastikan tanda kutip di awal dan akhir teks yang ingin digabungkan sudah benar.&lt;/li>
+&lt;li>Pastikan urutan sel atau teks yang ingin digabungkan sudah benar sesuai dengan kebutuhan Anda.&lt;/li>
+&lt;li>Anda juga dapat menggunakan simbol &amp;amp; untuk menggabungkan beberapa teks atau nilai. Misalnya &lt;code>=A1&amp;amp;&amp;quot; &amp;quot;&amp;amp;B1&lt;/code> akan menggabungkan teks dari sel A1 dan B1 dengan spasi di antaranya.&lt;/li>
+&lt;/ol>
+&lt;p>Dalam penggunaan formula &lt;code>CONCATENATE&lt;/code>, Anda dapat menggabungkan beberapa teks atau nilai dari beberapa sel menjadi satu sel atau string. Dengan menggunakan formula &lt;code>CONCATENATE&lt;/code>, Anda dapat mempersiapkan data yang dibutuhkan untuk analisis atau presentasi dengan lebih efektif dan efisien.&lt;/p></description></item></channel></rss>

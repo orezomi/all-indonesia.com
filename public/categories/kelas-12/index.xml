@@ -1,4 +1,376 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – kelas 12</title><link>https://www.all-indonesia.com/categories/kelas-12/</link><description>Recent content in kelas 12 on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 17 Jun 2022 23:10:38 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/categories/kelas-12/index.xml" rel="self" type="application/rss+xml"/><item><title>Informatika: Informatika Kelas 12</title><link>https://www.all-indonesia.com/informatika/sma/kelas-12/</link><pubDate>Fri, 17 Jun 2022 23:10:38 +0700</pubDate><guid>https://www.all-indonesia.com/informatika/sma/kelas-12/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – kelas 12</title><link>https://www.all-indonesia.com/categories/kelas-12/</link><description>Recent content in kelas 12 on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 16 Mar 2023 08:44:04 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/categories/kelas-12/index.xml" rel="self" type="application/rss+xml"/><item><title>Informatika: Konversi Bilangan</title><link>https://www.all-indonesia.com/informatika/sma/kelas-12/konversi-bilangan/</link><pubDate>Thu, 16 Mar 2023 08:44:04 +0700</pubDate><guid>https://www.all-indonesia.com/informatika/sma/kelas-12/konversi-bilangan/</guid><description>
+&lt;h2 id="pengertian-konversi-bilangan">Pengertian Konversi Bilangan&lt;/h2>
+&lt;p>Konversi bilangan adalah proses mengubah bilangan dari satu sistem bilangan ke sistem bilangan lainnya. Sistem bilangan yang paling umum digunakan adalah sistem bilangan desimal (basis 10), di mana setiap digit dapat bernilai dari 0 hingga 9. Namun, dalam dunia teknologi informasi, sistem bilangan biner (basis 2) lebih umum digunakan karena berhubungan dengan representasi data dalam sistem komputer yang menggunakan bilangan biner sebagai bahasa mesinnya.&lt;/p>
+&lt;p>Konversi bilangan dapat dilakukan antara sistem bilangan yang berbeda, seperti desimal ke biner, biner ke oktal, atau heksadesimal ke desimal. Konversi bilangan sangat penting dalam pemrograman komputer dan pengolahan data karena sering kali data harus diubah dari satu format ke format lainnya agar dapat digunakan secara efektif dalam suatu program atau sistem. Pemahaman dasar tentang konversi bilangan juga diperlukan untuk dapat memahami bagaimana data diolah dan disimpan dalam sistem komputer.&lt;/p>
+&lt;h3 id="bilangan-desimal">Bilangan Desimal&lt;/h3>
+&lt;p>Bilangan desimal adalah sistem bilangan yang paling umum digunakan dalam kehidupan sehari-hari. Sistem bilangan desimal menggunakan basis &lt;em>10&lt;/em>, dan terdiri dari sepuluh digit, yaitu &lt;em>0, 1, 2, 3, 4, 5, 6, 7, 8,&lt;/em> dan &lt;em>9&lt;/em>.&lt;/p>
+&lt;p>Bilangan desimal memiliki tempat nilai yang meningkat dari kanan ke kiri, dengan nilai tempat terendah adalah 10 pangkat 0, dan setiap nilai tempat yang lebih tinggi merupakan pangkat 10 yang lebih tinggi. Misalnya, bilangan desimal 123 dapat dipecah menjadi:&lt;/p>
+&lt;ul>
+&lt;li>1 x 10{^2} = 100&lt;/li>
+&lt;li>2 x 10{^1} = 20&lt;/li>
+&lt;li>3 x 10{^0} = 3&lt;/li>
+&lt;/ul>
+&lt;p>Sehingga, bilangan desimal 123 dapat dikonversi menjadi jumlah dari 100 + 20 + 3 = 123.&lt;/p>
+&lt;p>Bilangan desimal banyak digunakan dalam kehidupan sehari-hari dan dalam pemrograman komputer. Dalam pemrograman komputer, bilangan desimal digunakan untuk merepresentasikan data numerik, seperti nilai-nilai pengukuran atau hasil perhitungan matematika. Namun, bilangan desimal sulit dikonversi menjadi bilangan biner, yang digunakan dalam sistem komputer. Oleh karena itu, sistem bilangan lain, seperti bilangan oktal dan bilangan heksadesimal, sering digunakan dalam pemrograman komputer untuk mewakili nilai numerik dalam bentuk yang mudah dikonversi menjadi bilangan biner.&lt;/p>
+&lt;h3 id="bilangan-biner">Bilangan Biner&lt;/h3>
+&lt;p>Bilangan biner adalah sistem bilangan yang menggunakan hanya dua simbol atau angka, yaitu 0 dan 1. Sistem bilangan biner sering digunakan dalam bidang teknologi informasi, komputer, dan elektronik karena sistem ini dapat dengan mudah diterjemahkan ke dalam kode biner atau digital yang dapat dipahami oleh komputer.&lt;/p>
+&lt;p>Setiap digit pada bilangan biner mewakili nilai yang berbeda, tergantung pada posisinya dalam bilangan. Misalnya, digit paling kanan mewakili nilai 2 pangkat 0 (atau 1), sedangkan digit kedua dari kanan mewakili nilai 2 pangkat 1 (atau 2), digit ketiga mewakili nilai 2 pangkat 2 (atau 4), dan seterusnya.&lt;/p>
+&lt;p>Contoh bilangan biner adalah 1010, yang dapat diterjemahkan ke dalam bilangan desimal dengan cara:&lt;/p>
+&lt;p>1 x 2{^3} + 0 x 2{^2} + 1 x 2{^1} + 0 x 2{^0} = 8 + 0 + 2 + 0 = 10&lt;/p>
+&lt;p>Begitu pula, bilangan desimal dapat diubah menjadi bilangan biner dengan cara mengkonversi angka desimal menjadi bentuk biner, yaitu dengan membagi angka desimal dengan 2 secara berulang-ulang hingga diperoleh hasil 0. Sisa dari setiap pembagian digunakan sebagai digit biner, mulai dari digit paling kanan hingga digit paling kiri.&lt;/p>
+&lt;p>Misalnya, untuk mengkonversi angka desimal 10 menjadi bentuk biner, dapat dilakukan sebagai berikut:&lt;/p>
+&lt;ul>
+&lt;li>10 / 2 = 5 sisa 0&lt;/li>
+&lt;li>5 / 2 = 2 sisa 1&lt;/li>
+&lt;li>2 / 2 = 1 sisa 0&lt;/li>
+&lt;li>1 / 2 = 0 sisa 1&lt;/li>
+&lt;/ul>
+&lt;p>Maka, bentuk biner dari 10 adalah 1010.&lt;/p>
+&lt;h3 id="bilangan-oktal">Bilangan Oktal&lt;/h3>
+&lt;p>Bilangan oktal adalah sistem bilangan yang menggunakan basis 8. Sistem bilangan oktal menggunakan delapan digit, yaitu &lt;em>0, 1, 2, 3, 4, 5, 6,&lt;/em> dan &lt;em>7&lt;/em>. Mirip dengan sistem bilangan desimal, sistem bilangan oktal memiliki tempat nilai yang meningkat dari kanan ke kiri, dengan nilai tempat terendah adalah 8 pangkat 0, dan setiap nilai tempat yang lebih tinggi merupakan pangkat 8 yang lebih tinggi.&lt;/p>
+&lt;p>Contohnya, bilangan oktal 63 dapat dipecah menjadi:&lt;/p>
+&lt;ul>
+&lt;li>6 x 8{^1} = 48&lt;/li>
+&lt;li>3 x 8{^0} = 3&lt;/li>
+&lt;/ul>
+&lt;p>Sehingga, bilangan oktal 63 dapat dikonversi menjadi bilangan desimal 51.&lt;/p>
+&lt;p>Bilangan oktal banyak digunakan dalam pengolahan data dan pemrograman komputer karena dapat dengan mudah dikonversi ke dalam bilangan biner, yang digunakan dalam sistem komputer. Setiap digit oktal dapat diubah menjadi tiga digit biner yang terkait, dengan pola 1 digit oktal = 3 digit biner. Misalnya, oktal 6 (dalam biner 110) dapat diubah menjadi oktal 60 (dalam biner 110000).&lt;/p>
+&lt;h3 id="bilangan-heksadesimal">Bilangan Heksadesimal&lt;/h3>
+&lt;p>Bilangan heksadesimal adalah sistem bilangan yang menggunakan basis 16. Sistem bilangan heksadesimal menggunakan 16 digit, yaitu &lt;em>0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E,&lt;/em> dan &lt;em>F&lt;/em>. Digit A hingga F merepresentasikan bilangan desimal 10 hingga 15, dengan A merepresentasikan 10, B merepresentasikan 11, dan seterusnya hingga F yang merepresentasikan 15.&lt;/p>
+&lt;p>Seperti halnya sistem bilangan desimal, bilangan heksadesimal memiliki tempat nilai yang meningkat dari kanan ke kiri, dengan nilai tempat terendah adalah 16 pangkat 0, dan setiap nilai tempat yang lebih tinggi merupakan pangkat 16 yang lebih tinggi.&lt;/p>
+&lt;p>Contohnya, bilangan heksadesimal 3F dapat dipecah menjadi:&lt;/p>
+&lt;ul>
+&lt;li>3 x 16{^1} = 48&lt;/li>
+&lt;li>F x 16{^0} = 15&lt;/li>
+&lt;/ul>
+&lt;p>Sehingga, bilangan heksadesimal 3F dapat dikonversi menjadi bilangan desimal 63.&lt;/p>
+&lt;p>Bilangan heksadesimal banyak digunakan dalam pengolahan data dan pemrograman komputer karena dapat dengan mudah dikonversi ke dalam bilangan biner. Setiap digit heksadesimal dapat diubah menjadi empat digit biner yang terkait, dengan pola 1 digit heksadesimal = 4 digit biner. Misalnya, heksadesimal 6F (dalam biner 01101111) dapat diubah menjadi heksadesimal 60F (dalam biner 011000001111).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;hr>
+&lt;p>Konversi bilangan desimal ke bilangan biner dan sebaliknya merupakan dasar-dasar yang penting dalam pemrograman dan komputasi. Berikut ini adalah cara dasar untuk melakukan konversi bilangan desimal ke bilangan biner atau sebaliknya:&lt;/p>
+&lt;h3 id="konversi-bilangan-desimal-ke-bilangan-biner">Konversi Bilangan Desimal ke Bilangan Biner&lt;/h3>
+&lt;ol>
+&lt;li>Tuliskan bilangan desimal yang ingin dikonversi dan tuliskan nilai biner 1 di sebelah kiri.&lt;/li>
+&lt;li>Bagi bilangan desimal dengan 2 dan tuliskan hasilnya serta sisanya.&lt;/li>
+&lt;li>Bagi hasil pembagian sebelumnya dengan 2 dan tuliskan hasilnya serta sisanya.&lt;/li>
+&lt;li>Lakukan langkah 3 terus menerus hingga hasil bagi sudah mencapai 0.&lt;/li>
+&lt;li>Baca bilangan biner dari bawah ke atas, hasil dari tiap sisa pembagian merupakan digit biner.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;em>&lt;strong>Contoh: Konversi bilangan desimal 25 ke bilangan biner&lt;/strong>&lt;/em>&lt;/p>
+&lt;ol>
+&lt;li>Tuliskan bilangan desimal 25 dan nilai biner 1&lt;/li>
+&lt;li>25/2 = 12, sisanya 1. Tuliskan 1 di sebelah kanan nilai biner 1.&lt;/li>
+&lt;li>12/2 = 6, sisanya 0. Tuliskan 0 di sebelah kanan 1.&lt;/li>
+&lt;li>6/2 = 3, sisanya 0. Tuliskan 0 di sebelah kanan 0.&lt;/li>
+&lt;li>3/2 = 1, sisanya 1. Tuliskan 1 di sebelah kanan 0.&lt;/li>
+&lt;li>1/2 = 0, sisanya 1. Tuliskan 1 di sebelah kanan 1.&lt;/li>
+&lt;/ol>
+&lt;p>Maka, bilangan biner dari 25 adalah 11001.&lt;/p>
+&lt;h3 id="konversi-bilangan-biner-ke-bilangan-desimal">Konversi Bilangan Biner ke Bilangan Desimal&lt;/h3>
+&lt;ol>
+&lt;li>Tuliskan bilangan biner yang ingin dikonversi.&lt;/li>
+&lt;li>Mulai dari digit terkiri (digit terkecil), tuliskan nilai digit biner 1.&lt;/li>
+&lt;li>Kalikan nilai digit biner dengan 2 pangkat yang sesuai dengan posisinya dalam bilangan biner.&lt;/li>
+&lt;li>Lakukan langkah 2 dan 3 untuk setiap digit biner dalam bilangan biner.&lt;/li>
+&lt;li>Jumlahkan hasil perkalian dari setiap digit biner.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;em>&lt;strong>Contoh: Konversi bilangan biner 11001 ke bilangan desimal&lt;/strong>&lt;/em>&lt;/p>
+&lt;ol>
+&lt;li>Tuliskan bilangan biner 11001.&lt;/li>
+&lt;li>Mulai dari digit terakhir, tuliskan nilai digit biner 1, yaitu 1.&lt;br>
+1 x 2{^0} = 1&lt;/li>
+&lt;li>Lanjutkan ke digit berikutnya, tuliskan nilai digit biner 0, yaitu 0.&lt;br>
+0 x 2{^1} = 0&lt;/li>
+&lt;li>Lanjutkan ke digit berikutnya, tuliskan nilai digit biner 0, yaitu 0.&lt;br>
+0 x 2{^2} = 0&lt;/li>
+&lt;li>Lanjutkan ke digit berikutnya, tuliskan nilai digit biner 1, yaitu 1.&lt;br>
+1 x 2{^3} = 8&lt;/li>
+&lt;li>Lanjutkan ke digit berikutnya, tuliskan nilai digit biner 1, yaitu 1.&lt;br>
+1 x 2{^4} = 16&lt;/li>
+&lt;/ol>
+&lt;p>Maka, bilangan desimal dari 11001 adalah 25&lt;/p>
+&lt;h3 id="konversi-bilangan-desimal-ke-bilangan-dengan-basis-oktal">Konversi Bilangan Desimal ke Bilangan dengan Basis Oktal&lt;/h3>
+&lt;p>Konversi bilangan desimal ke bilangan berbasis oktal melibatkan pembagian bilangan desimal dengan basis 8, kemudian mengambil sisa dari setiap pembagian dan menuliskannya secara berurutan dari bawah ke atas.&lt;/p>
+&lt;p>Berikut adalah langkah-langkah konversi bilangan desimal ke bilangan berbasis oktal:&lt;/p>
+&lt;ol>
+&lt;li>Bagi bilangan desimal dengan 8 dan simpan hasil bagi serta sisanya.&lt;/li>
+&lt;li>Jika hasil bagi lebih besar dari 0, ulangi proses pembagian dengan hasil bagi sebagai bilangan desimal. Jika tidak, proses konversi selesai.&lt;/li>
+&lt;li>Urutkan sisa-sisa yang didapat dari bawah ke atas untuk membentuk bilangan oktal.&lt;/li>
+&lt;/ol>
+&lt;p>Contoh:
+Konversi bilangan desimal 187 ke bilangan berbasis oktal:&lt;/p>
+&lt;ul>
+&lt;li>187 ÷ 8 = 23 sisa 3&lt;/li>
+&lt;li>23 ÷ 8 = 2 sisa 7&lt;/li>
+&lt;li>2 ÷ 8 = 0 sisa 2&lt;/li>
+&lt;/ul>
+&lt;p>Sehingga, bilangan desimal 187 dalam basis oktal adalah 273.&lt;/p>
+&lt;p>Dalam representasi bilangan oktal, setiap digit merepresentasikan kelipatan dari 8 mulai dari pangkat 0 pada digit paling kanan. Sebagai contoh, bilangan oktal 273 dapat dipecah menjadi:&lt;/p>
+&lt;ul>
+&lt;li>2 x 8{^2} = 128&lt;/li>
+&lt;li>7 x 8{^1} = 56&lt;/li>
+&lt;li>3 x 8{^0} = 3&lt;/li>
+&lt;/ul>
+&lt;p>Sehingga, bilangan oktal 273 dapat dikonversi menjadi bilangan desimal 187.&lt;/p>
+&lt;h3 id="konversi-bilangan-berbasis-oktal-ke-bilangan-desimal">Konversi Bilangan Berbasis Oktal ke Bilangan Desimal&lt;/h3>
+&lt;p>Konversi bilangan berbasis oktal ke bilangan desimal melibatkan perkalian digit-digit bilangan oktal dengan kelipatan dari basis 8 dan menjumlahkannya.&lt;/p>
+&lt;p>Berikut adalah langkah-langkah konversi bilangan oktal ke bilangan desimal:&lt;/p>
+&lt;ol>
+&lt;li>Tentukan digit dan pangkat untuk setiap digit dalam bilangan oktal, mulai dari pangkat 0 pada digit paling kanan dan meningkatkan pangkat secara bertahap ke kiri.&lt;/li>
+&lt;li>Untuk setiap digit, kalikan digit tersebut dengan 8 pangkat pangkatnya.&lt;/li>
+&lt;li>Jumlahkan hasil perkalian pada langkah kedua untuk mendapatkan bilangan desimal.&lt;/li>
+&lt;/ol>
+&lt;p>Contoh:
+Konversi bilangan oktal 273 ke bilangan desimal:&lt;/p>
+&lt;p>Digit kanan adalah 3, yang memiliki pangkat 0. Digit kiri adalah 7, yang memiliki pangkat 1, dan digit paling kiri adalah 2, yang memiliki pangkat 2.&lt;/p>
+&lt;p>Hitung nilai dari setiap digit dalam bilangan oktal, dengan mengalikannya dengan pangkat 8 yang sesuai:&lt;/p>
+&lt;ul>
+&lt;li>3 x 8{^0} = 3&lt;/li>
+&lt;li>7 x 8{^1} = 56&lt;/li>
+&lt;li>2 x 8{^2} = 128&lt;/li>
+&lt;/ul>
+&lt;p>Jumlahkan hasil perkalian pada langkah kedua untuk mendapatkan bilangan desimal:&lt;/p>
+&lt;p>3 + 56 + 128 = 187&lt;/p>
+&lt;p>Sehingga, bilangan oktal 273 dapat dikonversi menjadi bilangan desimal 187.&lt;/p>
+&lt;h3 id="konversi-bilangan-desimal-ke-bilangan-heksadesimal">Konversi Bilangan Desimal ke Bilangan Heksadesimal&lt;/h3>
+&lt;p>Konversi bilangan desimal ke bilangan heksadesimal melibatkan pembagian bilangan desimal dengan basis 16, kemudian mengambil sisa dari setiap pembagian dan menuliskannya secara berurutan dari bawah ke atas. Untuk digit heksadesimal dengan nilai lebih besar dari 9, digunakan huruf A hingga F sebagai pengganti.&lt;/p>
+&lt;p>Berikut adalah langkah-langkah konversi bilangan desimal ke bilangan heksadesimal:&lt;/p>
+&lt;ol>
+&lt;li>Bagi bilangan desimal dengan 16 dan simpan hasil bagi serta sisanya.&lt;/li>
+&lt;li>Jika hasil bagi lebih besar dari 0, ulangi proses pembagian dengan hasil bagi sebagai bilangan desimal. Jika tidak, proses konversi selesai.&lt;/li>
+&lt;li>Untuk digit heksadesimal dengan nilai lebih besar dari 9, gunakan huruf A hingga F sebagai pengganti.&lt;/li>
+&lt;li>Urutkan sisa-sisa yang didapat dari bawah ke atas untuk membentuk bilangan heksadesimal.&lt;/li>
+&lt;/ol>
+&lt;p>Contoh:
+Konversi bilangan desimal 456 ke bilangan heksadesimal:&lt;/p>
+&lt;ul>
+&lt;li>456 ÷ 16 = 28 sisa 8&lt;/li>
+&lt;li>28 ÷ 16 = 1 sisa 12 (menggunakan C sebagai pengganti)&lt;/li>
+&lt;li>1 ÷ 16 = 0 sisa 1&lt;/li>
+&lt;/ul>
+&lt;p>Sehingga, bilangan desimal 456 dalam basis heksadesimal adalah 1C8.&lt;/p>
+&lt;p>Dalam representasi bilangan heksadesimal, setiap digit merepresentasikan kelipatan dari 16 mulai dari pangkat 0 pada digit paling kanan. Sebagai contoh, bilangan heksadesimal 1C8 dapat dipecah menjadi:&lt;/p>
+&lt;ul>
+&lt;li>1 x 16{^2} = 256&lt;/li>
+&lt;li>12 x 16{^1} = 192&lt;/li>
+&lt;li>8 x 16{^0} = 8&lt;/li>
+&lt;/ul>
+&lt;p>Sehingga, bilangan heksadesimal 1C8 dapat dikonversi menjadi bilangan desimal 456.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Tabel Konversi Bilangan Desimal ke Heksadesimal&lt;/strong>&lt;/em>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Desimal&lt;/th>
+&lt;th style="text-align:left">Heksadesimal&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">0&lt;/td>
+&lt;td style="text-align:left">0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;td style="text-align:left">1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;td style="text-align:left">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">3&lt;/td>
+&lt;td style="text-align:left">3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">4&lt;/td>
+&lt;td style="text-align:left">4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">5&lt;/td>
+&lt;td style="text-align:left">5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">6&lt;/td>
+&lt;td style="text-align:left">6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7&lt;/td>
+&lt;td style="text-align:left">7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">8&lt;/td>
+&lt;td style="text-align:left">8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">9&lt;/td>
+&lt;td style="text-align:left">9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:left">A&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:left">B&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:left">C&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:left">D&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">14&lt;/td>
+&lt;td style="text-align:left">E&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">15&lt;/td>
+&lt;td style="text-align:left">F&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="konversi-bilangan-heksadesimal-ke-bilangan-desimal">Konversi Bilangan Heksadesimal ke Bilangan Desimal&lt;/h3>
+&lt;p>Konversi bilangan heksadesimal ke bilangan desimal melibatkan mengalikan setiap digit heksadesimal dengan basis 16 yang dinaikkan ke pangkat yang sesuai, kemudian menjumlahkan hasil kali tersebut.&lt;/p>
+&lt;p>Berikut adalah langkah-langkah konversi bilangan heksadesimal ke bilangan desimal:&lt;/p>
+&lt;ol>
+&lt;li>Identifikasi setiap digit heksadesimal dan tentukan nilai numeriknya. Untuk digit heksadesimal dengan nilai lebih besar dari 9, gunakan huruf A hingga F sebagai pengganti.&lt;/li>
+&lt;li>Hitung nilai dari setiap digit heksadesimal dengan mengalikannya dengan basis 16 yang dinaikkan ke pangkat yang sesuai.&lt;/li>
+&lt;li>Jumlahkan hasil kali tersebut untuk mendapatkan nilai bilangan desimal.&lt;/li>
+&lt;/ol>
+&lt;p>Contoh:
+Konversi bilangan heksadesimal 1C8 ke bilangan desimal:&lt;/p>
+&lt;ol>
+&lt;li>Digit pertama adalah 1, yang merepresentasikan nilai 1.&lt;/li>
+&lt;li>Digit kedua adalah C, yang merepresentasikan nilai 12.&lt;/li>
+&lt;li>Digit ketiga adalah 8, yang merepresentasikan nilai 8.&lt;/li>
+&lt;li>Hitung nilai setiap digit dengan mengalikannya dengan basis 16 yang dinaikkan ke pangkat yang sesuai:&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>1 x 16{^2} = 256&lt;/li>
+&lt;li>12 x 16{^1} = 192&lt;/li>
+&lt;li>8 x 16{^0} = 8&lt;/li>
+&lt;/ul>
+&lt;p>Jumlahkan hasil kali tersebut: 256 + 192 + 8 = 456.
+Sehingga, bilangan heksadesimal 1C8 dalam basis desimal adalah 456.&lt;/p>
+&lt;h3 id="konversi-bilangan-biner-ke-bilangan-heksadesimal">Konversi Bilangan Biner ke Bilangan Heksadesimal&lt;/h3>
+&lt;p>Untuk mengonversi bilangan biner 4 bit ke bilangan heksadesimal, kita perlu membagi bit biner menjadi kelompok-kelompok, yaitu per 4 bit, kemudian mengonversikan setiap kelompok bit menjadi bilangan heksadesimal.&lt;/p>
+&lt;p>Berikut adalah langkah-langkah konversi bilangan biner 4 bit ke bilangan heksadesimal:&lt;/p>
+&lt;ol>
+&lt;li>Bagi bilangan biner menjadi kelompok per 4 bit dari kanan ke kiri.&lt;/li>
+&lt;li>Konversikan setiap kelompok empat bit ke bilangan heksadesimal yang setara.&lt;/li>
+&lt;li>Susun setiap bilangan heksadesimal dari kanan ke kiri untuk membentuk bilangan heksadesimal akhir.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;em>&lt;strong>Tabel Konversi Bilangan Biner (4 Bit) ke Heksadesimal&lt;/strong>&lt;/em>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Bilangan Biner&lt;/th>
+&lt;th style="text-align:center">Bilangan Heksadesimal&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">0000&lt;/td>
+&lt;td style="text-align:center">0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">0001&lt;/td>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">0010&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">0011&lt;/td>
+&lt;td style="text-align:center">3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">0100&lt;/td>
+&lt;td style="text-align:center">4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">0101&lt;/td>
+&lt;td style="text-align:center">5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">0110&lt;/td>
+&lt;td style="text-align:center">6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">0111&lt;/td>
+&lt;td style="text-align:center">7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1000&lt;/td>
+&lt;td style="text-align:center">8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1001&lt;/td>
+&lt;td style="text-align:center">9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1010&lt;/td>
+&lt;td style="text-align:center">A&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1011&lt;/td>
+&lt;td style="text-align:center">B&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1100&lt;/td>
+&lt;td style="text-align:center">C&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1101&lt;/td>
+&lt;td style="text-align:center">D&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1110&lt;/td>
+&lt;td style="text-align:center">E&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1111&lt;/td>
+&lt;td style="text-align:center">F&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Contoh:&lt;/p>
+&lt;ol>
+&lt;li>Biner : 11111111 &amp;ndash;&amp;gt; 1111 1111&lt;br>
+Heksadesimal : FF&lt;/li>
+&lt;li>Biner : 11111101 &amp;ndash;&amp;gt; 1111 1101&lt;br>
+Heksadesimal : FD&lt;/li>
+&lt;li>Biner : 10011101 &amp;ndash;&amp;gt; 1001 1101&lt;br>
+Heksadesimal : 9D&lt;/li>
+&lt;/ol>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div></description></item><item><title>Informatika: Informatika Kelas 12</title><link>https://www.all-indonesia.com/informatika/sma/kelas-12/</link><pubDate>Fri, 17 Jun 2022 23:10:38 +0700</pubDate><guid>https://www.all-indonesia.com/informatika/sma/kelas-12/</guid><description>
 &lt;h2 id="fokus-pembelajaran-informatika-kelas-12">Fokus Pembelajaran Informatika Kelas 12&lt;/h2>
 &lt;h3 id="etika-dan-kesadaran">Etika dan Kesadaran&lt;/h3>
 &lt;p>&lt;em>&lt;strong>Mendiskusikan progresi teknologi dan dampaknya pada cara hidup masyarakat, serta kesadaran data sensitif&lt;/strong>&lt;/em>&lt;/p>
@@ -182,6 +554,19 @@ Jika memungkinkan, siswa dapat mengenal pemrograman visual untuk membuat aplikas
 &lt;li>Menunjukkan kemampuan berkomunikasi dalam bahasa Asing lainnya melalui membaca teks.&lt;/li>
 &lt;li>Menunjukkan kemampuan berkomunikasi dalam bahasa Asing lainnya melalui menulis paragraf sederhana.&lt;/li>
 &lt;/ul></description></item><item><title>Ipa: Biologi Kelas 12</title><link>https://www.all-indonesia.com/ipa/sma/biologi/kelas-12/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/biologi/kelas-12/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
 &lt;h2 id="fokus-pembelajaran-biologi-kelas-12">Fokus Pembelajaran Biologi Kelas 12&lt;/h2>
 &lt;h3 id="struktur-dan-fungsi-jaringan">Struktur dan fungsi jaringan&lt;/h3>
 &lt;p>&lt;em>&lt;strong>Memahami struktur dan fungsi jaringan pada tumbuhan, hewan vertebrata dan manusia, serta memahami organ dan sistem organ&lt;/strong>&lt;/em>&lt;/p>

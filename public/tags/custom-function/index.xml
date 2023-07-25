@@ -1,0 +1,218 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – CUSTOM FUNCTION</title><link>https://www.all-indonesia.com/tags/custom-function/</link><description>Recent content in CUSTOM FUNCTION on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 15 Mar 2023 16:04:44 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/custom-function/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: CUSTOM FUNCTION</title><link>https://www.all-indonesia.com/msoffice/msexcel/custom-function/</link><pubDate>Sun, 12 Mar 2023 11:55:38 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/custom-function/</guid><description>
+&lt;h2 id="cara-membuat-rumus-atau-function-sendiri-di-excel">Cara Membuat Rumus atau Function sendiri di Excel&lt;/h2>
+&lt;p>Anda dapat membuat fungsi sendiri di Excel menggunakan Visual Basic for Applications (VBA). Berikut adalah langkah-langkahnya:&lt;/p>
+&lt;ol>
+&lt;li>Buka Excel dan tekan Alt + F11 untuk membuka Editor VBA.&lt;/li>
+&lt;li>Di jendela Project Explorer, klik kanan pada nama workbook Anda dan pilih Insert &amp;gt; Module untuk menambahkan modul baru.&lt;/li>
+&lt;li>Mulailah menulis kode VBA Anda di dalam modul.&lt;/li>
+&lt;li>Beri nama fungsi Anda dengan menggunakan sintaks Function dan End Function, dan masukkan kode di antara keduanya. Pastikan untuk menyertakan deskripsi fungsi di awal kode menggunakan sintaks Comment.&lt;/li>
+&lt;li>Simpan modul dan kembali ke workbook Excel Anda.&lt;/li>
+&lt;li>Panggil fungsi yang baru saja Anda buat di dalam sel atau dalam formula di sel lain.&lt;/li>
+&lt;/ol>
+&lt;p>Berikut adalah contoh pembuatan fungsi sederhana menggunakan VBA di Excel:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Buka Excel dan tekan Alt + F11 untuk membuka Editor VBA.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di jendela Project Explorer, klik kanan pada nama workbook Anda dan pilih Insert &amp;gt; Module.
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/excel%201%20vba%20new%20module.png">
+&lt;img src="https://www.all-indonesia.com/img/excel%201%20vba%20new%20module.png"
+alt="VBA New Module"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>VBA New Module&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ketik kode berikut ini di dalam modul:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">Function&lt;/span> &lt;span style="color:#a6e22e">LuasPersegiPanjang&lt;/span>(&lt;span style="color:#a6e22e">p&lt;/span>, &lt;span style="color:#a6e22e">l&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">LuasPersegiPanjang&lt;/span> = &lt;span style="color:#a6e22e">p&lt;/span> &lt;span style="color:#f92672">*&lt;/span> &lt;span style="color:#a6e22e">l&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">End&lt;/span> &lt;span style="color:#a6e22e">Function&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/excel%202%20vba%20function.png">
+&lt;img src="https://www.all-indonesia.com/img/excel%202%20vba%20function.png"
+alt="Module Function"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>VBA New Module&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Simpan modul dan kembali ke workbook Excel Anda.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di dalam sel, ketik &lt;code>=LuasPersegiPanjang(5, 10)&lt;/code> untuk menghitung luas persegi panjang dengan panjang 5 dan lebar 10.
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/excel%204%20rumus%202.png">
+&lt;img src="https://www.all-indonesia.com/img/excel%204%20rumus%202.png"
+alt="Module Function"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>VBA New Module&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tekan Enter, maka hasilnya akan muncul di dalam sel.
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/excel%205%20hasil.png">
+&lt;img src="https://www.all-indonesia.com/img/excel%205%20hasil.png"
+alt="Module Function"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>VBA New Module&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Msoffice: TERBILANG</title><link>https://www.all-indonesia.com/msoffice/msexcel/terbilang/</link><pubDate>Wed, 15 Mar 2023 13:11:32 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/terbilang/</guid><description>
+&lt;p>Anda dapat membuat custom function di Excel untuk mengubah angka menjadi terbilang menggunakan VBA (Visual Basic for Applications). Berikut ini adalah contoh kode VBA untuk custom function Excel untuk terbilang:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">Function&lt;/span> &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">ByVal&lt;/span> &lt;span style="color:#a6e22e">X&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">Double&lt;/span>) &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">String&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">bilangan&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">Variant&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">temp&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">Variant&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">String&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">Integer&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">j&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">Integer&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">hasil&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">String&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#a6e22e">To&lt;/span> &lt;span style="color:#ae81ff">11&lt;/span>) &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">String&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">0&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">1&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;satu&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">2&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;dua&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">3&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;tiga&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">4&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;empat&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">5&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;lima&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">6&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;enam&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">7&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;tujuh&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">8&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;delapan&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">9&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;sembilan&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">10&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;sepuluh&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#ae81ff">11&lt;/span>) = &lt;span style="color:#e6db74">&amp;#34;sebelas&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">xstr&lt;/span> = &lt;span style="color:#a6e22e">CStr&lt;/span>(&lt;span style="color:#a6e22e">X&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">bilangan&lt;/span> = &lt;span style="color:#a6e22e">Split&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;.&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">If&lt;/span> (&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#a6e22e">And&lt;/span> &lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">11&lt;/span>) &lt;span style="color:#a6e22e">Then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">hasil&lt;/span> = &lt;span style="color:#a6e22e">Angka&lt;/span>(&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ElseIf&lt;/span> (&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">12&lt;/span> &lt;span style="color:#a6e22e">And&lt;/span> &lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">19&lt;/span>) &lt;span style="color:#a6e22e">Then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">hasil&lt;/span> = &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">-&lt;/span> &lt;span style="color:#ae81ff">10&lt;/span>) &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#e6db74">&amp;#34; belas &amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ElseIf&lt;/span> (&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">20&lt;/span> &lt;span style="color:#a6e22e">And&lt;/span> &lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">99&lt;/span>) &lt;span style="color:#a6e22e">Then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">hasil&lt;/span> = &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">Int&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#f92672">/&lt;/span> &lt;span style="color:#ae81ff">10&lt;/span>)) &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#e6db74">&amp;#34; puluh &amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#a6e22e">Mod&lt;/span> &lt;span style="color:#ae81ff">10&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ElseIf&lt;/span> (&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">100&lt;/span> &lt;span style="color:#a6e22e">And&lt;/span> &lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">199&lt;/span>) &lt;span style="color:#a6e22e">Then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">hasil&lt;/span> = &lt;span style="color:#e6db74">&amp;#34;seratus &amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#a6e22e">Mod&lt;/span> &lt;span style="color:#ae81ff">100&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ElseIf&lt;/span> (&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">200&lt;/span> &lt;span style="color:#a6e22e">And&lt;/span> &lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">999&lt;/span>) &lt;span style="color:#a6e22e">Then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">hasil&lt;/span> = &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">Int&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#f92672">/&lt;/span> &lt;span style="color:#ae81ff">100&lt;/span>)) &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#e6db74">&amp;#34; ratus &amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#a6e22e">Mod&lt;/span> &lt;span style="color:#ae81ff">100&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ElseIf&lt;/span> (&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">1000&lt;/span> &lt;span style="color:#a6e22e">And&lt;/span> &lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">1999&lt;/span>) &lt;span style="color:#a6e22e">Then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">hasil&lt;/span> = &lt;span style="color:#e6db74">&amp;#34;seribu &amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#a6e22e">Mod&lt;/span> &lt;span style="color:#ae81ff">1000&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ElseIf&lt;/span> (&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">2000&lt;/span> &lt;span style="color:#a6e22e">And&lt;/span> &lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">999999&lt;/span>) &lt;span style="color:#a6e22e">Then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">hasil&lt;/span> = &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">Int&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#f92672">/&lt;/span> &lt;span style="color:#ae81ff">1000&lt;/span>)) &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#e6db74">&amp;#34; ribu &amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#a6e22e">Mod&lt;/span> &lt;span style="color:#ae81ff">1000&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ElseIf&lt;/span> (&lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">1000000&lt;/span> &lt;span style="color:#a6e22e">And&lt;/span> &lt;span style="color:#a6e22e">Val&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span>) &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">999999999&lt;/span>) &lt;span style="color:#a6e22e">Then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">hasil&lt;/span> = &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">Int&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#f92672">/&lt;/span> &lt;span style="color:#ae81ff">1000000&lt;/span>)) &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#e6db74">&amp;#34; juta &amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#a6e22e">Terbilang&lt;/span>(&lt;span style="color:#a6e22e">xstr&lt;/span> &lt;span style="color:#a6e22e">Mod&lt;/span> &lt;span style="color:#ae81ff">1000000&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">End&lt;/span> &lt;span style="color:#a6e22e">If&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Terbilang&lt;/span> = &lt;span style="color:#a6e22e">hasil&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">End&lt;/span> &lt;span style="color:#a6e22e">Function&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Setelah kode tersebut ditambahkan, Anda dapat menggunakan fungsi &lt;code>Terbilang&lt;/code> di dalam rumus Excel untuk mengubah angka menjadi terbilang. Misalnya, untuk mengubah angka 1234 menjadi terbilang, cukup gunakan rumus &lt;code>=Terbilang(1234)&lt;/code> di sel Excel.&lt;/p></description></item><item><title>Msoffice: ADDINS</title><link>https://www.all-indonesia.com/msoffice/msexcel/addins/</link><pubDate>Wed, 15 Mar 2023 13:45:20 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/addins/</guid><description>
+&lt;p>Membuat add-ins di Excel adalah cara yang berguna untuk mengotomatiskan tugas-tugas berulang atau menambahkan fungsi khusus ke Excel Anda. Anda dapat membuat add-ins dengan menggunakan bahasa pemrograman seperti Visual Basic untuk Aplikasi (VBA) atau C#. Berikut adalah langkah-langkah umum untuk membuat add-ins di Excel menggunakan VBA:&lt;/p>
+&lt;ol>
+&lt;li>Buka file Excel yang ingin Anda gunakan untuk membuat add-ins.&lt;/li>
+&lt;li>Klik menu &amp;ldquo;Developer&amp;rdquo; di toolbar Excel. Jika menu &amp;ldquo;Developer&amp;rdquo; tidak muncul, klik kanan pada toolbar Excel dan pilih &amp;ldquo;Customize Ribbon&amp;rdquo;. Kemudian, pilih kotak centang &amp;ldquo;Developer&amp;rdquo; di bawah tab &amp;ldquo;Main Tabs&amp;rdquo; dan klik &amp;ldquo;OK&amp;rdquo;.&lt;/li>
+&lt;li>Pilih &amp;ldquo;Visual Basic&amp;rdquo; dari menu &amp;ldquo;Developer&amp;rdquo;.&lt;/li>
+&lt;li>Pilih &amp;ldquo;Insert&amp;rdquo; dan pilih &amp;ldquo;Module&amp;rdquo; untuk membuat modul baru.&lt;/li>
+&lt;li>Masukkan kode VBA yang ingin Anda gunakan untuk add-ins Anda di dalam modul.&lt;/li>
+&lt;li>Pilih &amp;ldquo;File&amp;rdquo; dan pilih &amp;ldquo;Save As&amp;rdquo;.&lt;/li>
+&lt;li>Pilih &amp;ldquo;Excel Add-In (*.xlam)&amp;rdquo; pada kotak dropdown &amp;ldquo;Save as type&amp;rdquo;.&lt;/li>
+&lt;li>Beri nama add-ins Anda dan klik &amp;ldquo;Save&amp;rdquo;. Excel akan secara otomatis menyimpan add-ins Anda di direktori default untuk add-ins Excel.&lt;/li>
+&lt;li>Tutup jendela Visual Basic dan kembali ke Excel.&lt;/li>
+&lt;li>Aktifkan add-ins Anda dengan memilih &amp;ldquo;File&amp;rdquo; &amp;gt; &amp;ldquo;Options&amp;rdquo; &amp;gt; &amp;ldquo;Add-Ins&amp;rdquo;. Pilih &amp;ldquo;Excel Add-Ins&amp;rdquo; pada dropdown &amp;ldquo;Manage&amp;rdquo; dan klik &amp;ldquo;Go&amp;rdquo;. Aktifkan kotak centang untuk add-ins Anda dan klik &amp;ldquo;OK&amp;rdquo;.&lt;/li>
+&lt;li>Gunakan add-ins Anda dengan memanggil fungsi yang ada di dalamnya dari rumus Excel atau panggil kode VBA-nya dari makro.&lt;/li>
+&lt;/ol>
+&lt;p>Sekarang add-ins Anda sudah siap digunakan dan akan tersedia di setiap file Excel yang Anda buka di komputer Anda. Anda dapat mengedit atau memperbarui add-ins Anda dengan membuka file Excel asli dan melakukan perubahan pada kode VBA-nya, lalu menyimpan ulang add-ins dengan format .xlam.&lt;/p></description></item><item><title>Msoffice: ChatGPT Excel</title><link>https://www.all-indonesia.com/msoffice/msexcel/chatgpt-excel/</link><pubDate>Wed, 15 Mar 2023 16:04:44 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/chatgpt-excel/</guid><description>
+&lt;h2 id="api-openai-di-excel-dan-google-spreadsheet">API OpenAI di Excel dan Google Spreadsheet&lt;/h2>
+&lt;h3 id="penggunaan-api-openai-di-excel">Penggunaan API OpenAI di Excel&lt;/h3>
+&lt;p>Untuk menggunakan API OpenAI di Microsoft Excel, Anda dapat mengikuti langkah-langkah berikut:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Pastikan Anda memiliki akun OpenAI dan mengaktifkan API OpenAI.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Buka Microsoft Excel dan buat lembar kerja baru.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih tab &amp;ldquo;Developer&amp;rdquo; di menu atas. Jika tab &amp;ldquo;Developer&amp;rdquo; tidak muncul, aktifkan terlebih dahulu dengan cara klik &amp;ldquo;File&amp;rdquo; &amp;gt; &amp;ldquo;Options&amp;rdquo; &amp;gt; &amp;ldquo;Customize Ribbon&amp;rdquo; &amp;gt; pilih &amp;ldquo;Developer&amp;rdquo; pada pilihan &amp;ldquo;Main Tabs&amp;rdquo; &amp;gt; klik &amp;ldquo;OK&amp;rdquo;.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih opsi &amp;ldquo;Visual Basic&amp;rdquo; pada grup &amp;ldquo;Code&amp;rdquo; di tab &amp;ldquo;Developer&amp;rdquo; untuk membuka editor VBA.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di editor VBA, pilih menu &amp;ldquo;Tools&amp;rdquo; &amp;gt; &amp;ldquo;References&amp;rdquo;.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih &amp;ldquo;Microsoft WinHTTP Services, version 5.1&amp;rdquo; pada daftar referensi dan klik &amp;ldquo;OK&amp;rdquo;.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Di dalam editor VBA, buat fungsi atau prosedur VBA yang memanggil API OpenAI menggunakan koneksi HTTP. Misalnya, Anda dapat membuat prosedur VBA yang memanggil API OpenAI untuk menghasilkan teks yang dihasilkan oleh model bahasa GPT-3.&lt;/p>
+&lt;p>Berikut adalah contoh kode VBA yang dapat Anda gunakan untuk memanggil API OpenAI:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">Sub&lt;/span> &lt;span style="color:#a6e22e">callOpenAI&lt;/span>()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">sURL&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">String&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">sApiKey&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">String&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">oRequest&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">Object&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">Dim&lt;/span> &lt;span style="color:#a6e22e">sResult&lt;/span> &lt;span style="color:#a6e22e">As&lt;/span> &lt;span style="color:#a6e22e">String&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//Replace with your OpenAI API key
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">sApiKey&lt;/span> = &lt;span style="color:#e6db74">&amp;#34;your-api-key-here&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//Replace with your preferred API endpoint
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">sURL&lt;/span> = &lt;span style="color:#e6db74">&amp;#34;https://api.openai.com/v1/engines/davinci-codex/completions&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//Set up HTTP request object
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">Set&lt;/span> &lt;span style="color:#a6e22e">oRequest&lt;/span> = &lt;span style="color:#a6e22e">CreateObject&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;WinHttp.WinHttpRequest.5.1&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//Set request headers
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">oRequest&lt;/span>.&lt;span style="color:#a6e22e">Open&lt;/span> &lt;span style="color:#e6db74">&amp;#34;POST&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">sURL&lt;/span>, &lt;span style="color:#a6e22e">False&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">oRequest&lt;/span>.&lt;span style="color:#a6e22e">SetRequestHeader&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Content-Type&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;application/json&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">oRequest&lt;/span>.&lt;span style="color:#a6e22e">SetRequestHeader&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Authorization&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Bearer &amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#a6e22e">sApiKey&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//Set request body with parameters for GPT-3 model
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">oRequest&lt;/span>.&lt;span style="color:#a6e22e">Send&lt;/span> &lt;span style="color:#e6db74">&amp;#34;{&amp;#34;&amp;#34;prompt&amp;#34;&amp;#34;:&amp;#34;&amp;#34;Hello, I&amp;#39;m testing GPT-3 API.&amp;#34;&amp;#34;,&amp;#34;&amp;#34;max_tokens&amp;#34;&amp;#34;:100,&amp;#34;&amp;#34;temperature&amp;#34;&amp;#34;:0.5}&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//Get response from API endpoint
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">sResult&lt;/span> = &lt;span style="color:#a6e22e">oRequest&lt;/span>.&lt;span style="color:#a6e22e">ResponseText&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//Output result to cell A1 in current sheet
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">Range&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;A1&amp;#34;&lt;/span>).&lt;span style="color:#a6e22e">Value&lt;/span> = &lt;span style="color:#a6e22e">sResult&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">End&lt;/span> &lt;span style="color:#a6e22e">Sub&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Pastikan Anda mengganti nilai variabel &lt;code>sApiKey&lt;/code> dengan kunci API OpenAI Anda sendiri, dan variabel &lt;code>sURL&lt;/code> dengan URL API OpenAI yang ingin Anda panggil.&lt;/p>
+&lt;p>Setelah menulis kode VBA, jalankan prosedur tersebut dengan menekan tombol F5 atau pilih &amp;ldquo;Run&amp;rdquo; pada menu atas. Hasil dari API OpenAI akan ditampilkan di dalam sel di worksheet Excel yang aktif.&lt;/p>
+&lt;p>Namun, perlu diingat bahwa penggunaan API OpenAI memerlukan pengetahuan tentang pemrograman dan koneksi internet yang stabil. Selain itu, Anda juga harus mematuhi aturan dan kebijakan penggunaan API OpenAI.&lt;/p>
+&lt;h3 id="penggunaan-api-openai-di-google-spreadsheet">Penggunaan API OpenAI di Google Spreadsheet&lt;/h3>
+&lt;p>Untuk menggunakan API OpenAI di Google Spreadsheet, Anda dapat mengikuti langkah-langkah berikut:&lt;/p>
+&lt;ol>
+&lt;li>Buka Google Spreadsheet yang ingin Anda gunakan untuk mengakses API OpenAI.&lt;/li>
+&lt;li>Buka menu &amp;ldquo;Tools&amp;rdquo; dan pilih &amp;ldquo;Script Editor&amp;rdquo;.&lt;/li>
+&lt;li>Di editor skrip, klik &amp;ldquo;File&amp;rdquo; dan pilih &amp;ldquo;New Project&amp;rdquo;.&lt;/li>
+&lt;li>Beri nama proyek dan klik &amp;ldquo;Create&amp;rdquo;.&lt;/li>
+&lt;li>Selanjutnya, masukkan kode untuk menggunakan API OpenAI. Berikut ini adalah contoh kode untuk mengambil respons dari GPT-3 API OpenAI:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">function&lt;/span> &lt;span style="color:#a6e22e">getGpt3Response&lt;/span>(&lt;span style="color:#a6e22e">prompt&lt;/span>) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">apiKey&lt;/span> = &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">YOUR_API_KEY_HERE&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">apiUrl&lt;/span> = &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">https&lt;/span>:&lt;span style="color:#75715e">//api.openai.com/v1/engines/davinci-codex/completions&amp;#39;;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">headers&lt;/span> = {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">Content&lt;/span>&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#a6e22e">Type&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>: &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">application&lt;/span>&lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">json&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">Authorization&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>: &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">Bearer&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#a6e22e">apiKey&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> };
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">data&lt;/span> = {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">prompt&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>: &lt;span style="color:#a6e22e">prompt&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">max_tokens&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>: &lt;span style="color:#ae81ff">10&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#39;n&amp;#39;&lt;/span>: &lt;span style="color:#ae81ff">1&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">stop&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>: &lt;span style="color:#e6db74">&amp;#39;\n&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> };
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">options&lt;/span> = {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">method&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>: &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">POST&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">headers&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>: &lt;span style="color:#a6e22e">headers&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>&lt;span style="color:#a6e22e">payload&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">&amp;#39;&lt;/span>: &lt;span style="color:#a6e22e">JSON&lt;/span>.&lt;span style="color:#a6e22e">stringify&lt;/span>(&lt;span style="color:#a6e22e">data&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> };
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">response&lt;/span> = &lt;span style="color:#a6e22e">UrlFetchApp&lt;/span>.&lt;span style="color:#a6e22e">fetch&lt;/span>(&lt;span style="color:#a6e22e">apiUrl&lt;/span>, &lt;span style="color:#a6e22e">options&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">json&lt;/span> = &lt;span style="color:#a6e22e">JSON&lt;/span>.&lt;span style="color:#a6e22e">parse&lt;/span>(&lt;span style="color:#a6e22e">response&lt;/span>.&lt;span style="color:#a6e22e">getContentText&lt;/span>());
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#a6e22e">json&lt;/span>.&lt;span style="color:#a6e22e">choices&lt;/span>[&lt;span style="color:#ae81ff">0&lt;/span>].&lt;span style="color:#a6e22e">text&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Ganti &lt;code>YOUR_API_KEY_HERE&lt;/code> dengan API key OpenAI Anda.&lt;/li>
+&lt;li>Simpan kode dan kembali ke spreadsheet.&lt;/li>
+&lt;li>Sekarang Anda dapat menggunakan fungsi &lt;code>getGpt3Response()&lt;/code> di sel-sel spreadsheet untuk mengambil respons dari API OpenAI. Contohnya, Anda dapat mengetikkan &lt;code>=getGpt3Response(&amp;quot;What is the capital of Indonesia?&amp;quot;)&lt;/code> di sel dan akan mengembalikan jawaban dari API.&lt;/li>
+&lt;/ol>
+&lt;p>Harap dicatat bahwa penggunaan API OpenAI memerlukan biaya dan perlu memastikan bahwa penggunaan Anda mematuhi ketentuan layanan dan kebijakan privasi dari OpenAI.&lt;/p></description></item></channel></rss>

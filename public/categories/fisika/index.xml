@@ -1,4 +1,1635 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – fisika</title><link>https://www.all-indonesia.com/categories/fisika/</link><description>Recent content in fisika on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 14 May 2022 19:29:11 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/categories/fisika/index.xml" rel="self" type="application/rss+xml"/><item><title>Ipa: Fisika Kelas 10</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – fisika</title><link>https://www.all-indonesia.com/categories/fisika/</link><description>Recent content in fisika on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 12 Mar 2023 21:50:03 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/categories/fisika/index.xml" rel="self" type="application/rss+xml"/><item><title>Ipa: Contoh Soal Gerak Harmonik Sederhana (Part 1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-1/</link><pubDate>Sat, 25 Feb 2023 23:21:19 +0900</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-1/</guid><description>
+&lt;h2 id="contoh-soal-ghs-1">Contoh Soal GHS (1)&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,5 kg mengalami gerak harmonik sederhana pada pegas dengan periode 0,2 detik Amplitudo maksimum perpindahan benda adalah 0,1 meter.
+&lt;br>
+(a) Tentukan frekuensi gerak harmonik sederhana pada pegas tersebut.&lt;br>
+(b) Tentukan persamaan perpindahan benda pada waktu t = 0,1 detik.
+&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;br>
+&lt;br>
+&lt;em>&lt;strong>(a)&lt;/strong>&lt;/em> Frekuensi gerak harmonik sederhana dapat ditentukan dengan rumus:
+$$\begin{equation}
+f = \frac{1}{T}
+\end{equation}$$
+&lt;br>
+dengan T merupakan periode gerak harmonik sederhana. Oleh karena itu,
+\begin{equation}
+f = \frac{1}{0,2} = 5,Hz
+\end{equation}
+&lt;br>
+&lt;em>&lt;strong>(b)&lt;/strong>&lt;/em> Persamaan perpindahan benda dapat ditentukan dengan rumus:
+$$\begin{equation}
+x = A\cos(\omega t + \phi)
+\end{equation}$$
+dengan A merupakan amplitudo gerak harmonik sederhana, \(\omega\) merupakan frekuensi sudut gerak harmonik sederhana, dan \(\phi\) merupakan fase awal gerak. Karena waktu yang diberikan adalah 0,1 detik, maka
+$$\begin{equation}
+x = 0,1\cos\left(2\pi(5)(0,1) + 0\right) \approx 0,079 , m
+\end{equation}$$
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,2 kg tergantung pada pegas dengan tetapan pegas 40 N/m. Benda itu digoyang dengan frekuensi 5 Hz dan amplitudo 0,1 m.
+&lt;br>
+&lt;em>&lt;strong>a)&lt;/strong>&lt;/em> Tentukan periode, frekuensi, dan amplitudo gerak harmonis sederhana benda tersebut.&lt;br>
+&lt;em>&lt;strong>b)&lt;/strong>&lt;/em> Tentukan simpangan, kecepatan, dan percepatan maksimum benda tersebut.
+&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;br>
+&lt;br>
+&lt;em>&lt;strong>a)&lt;/strong>&lt;/em> Diketahui:&lt;br>
+\(m\) = 0,2 kg&lt;br>
+\(k\) = 40 N/m&lt;br>
+\(f\) = 5 Hz&lt;br>
+\(A\) = 0,1 m&lt;br>
+&lt;br>
+Frekuensi, f:&lt;br>
+&lt;br>
+$$\begin{align}
+f &amp;amp;= \frac{1}{T}
+&amp;amp;= \frac{1}{0,2}
+&amp;amp;= 5 \text{ Hz}
+\end{align}$$
+&lt;br>
+Amplitudo, A:
+$$\begin{align}A = 0,1 \text{ m}\end{align}$$
+&lt;br>
+Jadi, periode gerak harmonis sederhana benda tersebut adalah 0,2 detik, frekuensinya adalah 5 Hz, dan amplitudonya adalah 0,1 m.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>b)&lt;/strong>&lt;/em> Simpangan maksimum, x:
+$$x = A = 0,1 \text{ m}$$
+Kecepatan maksimum, v:
+$$\begin{aligned}
+v_{\text{max}} &amp;amp;= A \omega
+&amp;amp;= A (2 \pi f)
+&amp;amp;= 0,1 \times 2 \times \pi \times 5
+&amp;amp;= 3,14 \text{ m/s}
+\end{aligned}$$
+Percepatan maksimum, a:
+$$\begin{aligned}
+a_{\text{max}} &amp;amp;= A \omega^2
+&amp;amp;= A (2 \pi f)^2
+&amp;amp;= 0,1 \times (2 \times \pi \times 5)^2
+&amp;amp;= 157,08 \text{ m/s}^2
+\end{aligned}$$
+Jadi, simpangan maksimum benda tersebut adalah 0,1 m, kecepatan maksimumnya adalah 3,14 m/s, dan percepatan maksimumnya adalah \(157,08 m/s^2\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa \(m\) melakukan gerak harmonik sederhana dengan periode \(T = 4\ \mathrm{s}\) dan amplitudo \(A = 2\ \mathrm{cm}\). Pada saat \(t=0\), benda berada pada posisi maksimum dan bergerak ke arah negatif. Hitunglah posisi benda pada waktu \(t=3\ \mathrm{s}\).&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Langkah penyelesaian:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Tentukan nilai frekuensi \(\omega\) menggunakan persamaan \(T = \frac{2\pi}{\omega}\).
+$$\omega = \frac{2\pi}{T} = \frac{2\pi}{4 , \mathrm{s}} = 0.5 , \mathrm{s}^{-1}$$
+Tentukan nilai fase awal \(\phi\) dengan menggunakan informasi pada soal.
+Pada saat \(t=0\), benda berada pada posisi maksimum dan bergerak ke arah negatif, sehingga \(\phi = \pi\).
+Gunakan persamaan gerak harmonik sederhana \(x(t) = A \cos(\omega t + \phi)\) untuk menghitung posisi benda pada waktu \(t=3\ \mathrm{s}\).
+$$\begin{aligned}
+x(t) &amp;amp;= A \cos(\omega t + \phi)
+&amp;amp;= 2\ \mathrm{cm} \cdot \cos(0.5\ \mathrm{s}^{-1} \cdot 3\ \mathrm{s} + \pi)
+&amp;amp;= -2\ \mathrm{cm}
+\end{aligned}$$
+Jadi, posisi benda pada waktu \(t=3\ \mathrm{s}\) adalah \(-2\ \mathrm{cm}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda yang tergantung pada pegas melakukan gerak harmonik sederhana dengan amplitudo sebesar &lt;em>&lt;strong>0.05 m&lt;/strong>&lt;/em> dan frekuensi sebesar &lt;em>&lt;strong>2 Hz&lt;/strong>&lt;/em>. Jika benda berada pada posisi maksimum pada &lt;em>&lt;strong>t = 0&lt;/strong>&lt;/em>, tentukan persamaan gerak harmonik sederhana benda tersebut.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban :&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Untuk menyelesaikan soal ini, kita perlu mengingat rumus umum gerak harmonik sederhana:
+$$\begin{equation}
+x(t) = A \cos(\omega t + \phi)
+\end{equation}$$
+di mana &lt;em>&lt;strong>A&lt;/strong>&lt;/em> adalah amplitudo, \(\omega\) adalah frekuensi sudut, &lt;em>&lt;strong>t&lt;/strong>&lt;/em> adalah waktu, dan \(\phi\) adalah fasa awal.
+&lt;br>
+Kita sudah diberikan nilai amplitudo &lt;em>&lt;strong>A&lt;/strong>&lt;/em> dan frekuensi &lt;em>&lt;strong>f&lt;/strong>&lt;/em>. Kita perlu mengonversi frekuensi menjadi frekuensi sudut dengan rumus \(\omega = 2\pi f\). Karena benda berada pada posisi maksimum saat &lt;em>&lt;strong>t=0&lt;/strong>&lt;/em>, maka \(\phi=0\).
+&lt;br>
+Sehingga persamaan gerak harmonik sederhana untuk benda tersebut adalah:
+$$\begin{equation}
+x(t) = 0.05 \cos(4\pi t)
+\end{equation}$$
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda melakukan gerak harmonik sederhana dengan amplitudo &lt;em>&lt;strong>0.1 m&lt;/strong>&lt;/em> dan frekuensi &lt;em>&lt;strong>2 Hz&lt;/strong>&lt;/em>. Pada saat &lt;em>&lt;strong>t=0&lt;/strong>&lt;/em>, benda berada pada posisi maksimum. Hitunglah persamaan gerak benda pada saat &lt;em>&lt;strong>t=0.5&lt;/strong>&lt;/em> detik.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Diketahui:&lt;br>
+\(A = 0.1\ m\)&lt;br>
+\(f = 2\ Hz\)&lt;br>
+\(\omega = 2\pi\ f = 4\pi\ rad/s\)&lt;br>
+\(t = 0.5\ s\)&lt;br>
+\(\phi = 0\) (karena benda berada pada posisi maksimum saat &lt;em>&lt;strong>t=0&lt;/strong>&lt;/em>)&lt;br>
+Maka persamaan gerak benda adalah:
+$$ x(t) = 0.1 \cos (4\pi t) $$
+Pada saat &lt;em>&lt;strong>t=0.5&lt;/strong>&lt;/em> detik, maka:
+$$ x(0.5) = 0.1 \cos (4\pi \times 0.5) \approx -0.1 $$
+Jadi, pada saat &lt;em>&lt;strong>t=0.5&lt;/strong>&lt;/em> detik, benda berada pada posisi &lt;em>&lt;strong>-0.1 m&lt;/strong>&lt;/em> dari posisi kesetimbangan.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Metode Ilmiah</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/metode-ilmiah/</link><pubDate>Sun, 19 Feb 2023 20:56:57 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/metode-ilmiah/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="pengertian-metode-ilmiah">Pengertian Metode Ilmiah&lt;/h2>
+&lt;p>metode ilmiah adalah suatu proses yang sistematis dan logis dalam mengembangkan pengetahuan baru atau menjawab pertanyaan yang belum terjawab dalam suatu bidang. Proses tersebut terdiri dari beberapa langkah seperti pengamatan, merumuskan hipotesis, mendesain dan melakukan eksperimen, menganalisis data, dan menyimpulkan hasil dari eksperimen tersebut. Siklus tersebut dapat berulang dan mengarah pada penemuan pengetahuan baru atau pengujian dan pengembangan pengetahuan yang sudah ada.&lt;/p>
+&lt;h2 id="langkah-langkah-metode-ilmiah">Langkah-langkah Metode Ilmiah&lt;/h2>
+&lt;p>Berikut adalah langkah-langkah metode ilmiah yang umumnya diterapkan untuk menjawab suatu pertanyaan atau menyelesaikan masalah dalam bidang ilmiah:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Pengamatan: Mengamati fenomena atau objek secara saksama dan mengumpulkan data terkait.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Merumuskan pertanyaan: Menetapkan pertanyaan atau masalah yang ingin dipecahkan berdasarkan hasil pengamatan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hipotesis: Merumuskan hipotesis atau dugaan yang berdasarkan pada pengetahuan yang ada dan dapat diuji dengan eksperimen.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Eksperimen: Merancang dan melakukan eksperimen untuk menguji hipotesis.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Analisis data: Mengumpulkan dan menganalisis data yang dihasilkan dari eksperimen.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kesimpulan: Menarik kesimpulan dari hasil analisis data dan membandingkan dengan hipotesis yang telah diajukan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Publikasi: Menyampaikan hasil penelitian atau eksperimen dalam bentuk publikasi atau presentasi agar dapat dikaji dan diverifikasi oleh rekan-rekan sejawat.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Siklus tersebut dapat berulang dan memperdalam pengetahuan dalam bidang ilmiah atau mengarah pada pengembangan hipotesis yang baru.&lt;/p>
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/scientific_observation.png">
+&lt;img src="https://www.all-indonesia.com/img/scientific_observation.png"
+alt="Gambar Ilustrai Observasi"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>Gambar Ilustrai Observasi&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="pengamatan-atau-observasi">Pengamatan atau observasi&lt;/h3>
+&lt;p>Pengamatan merupakan salah satu langkah penting dalam metode ilmiah. Dalam pengamatan, seorang peneliti mengumpulkan data atau informasi tentang objek atau fenomena yang sedang diteliti. Beberapa hal yang perlu diperhatikan dalam pengamatan adalah sebagai berikut:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Objek pengamatan: Peneliti harus memilih objek atau fenomena yang akan diamati dan memastikan objek tersebut dapat diamati dengan jelas dan terukur.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Variabel: Peneliti harus menentukan variabel-variabel yang akan diobservasi dan mencatat data secara sistematis.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alat pengamatan: Peneliti harus memilih alat pengamatan yang sesuai untuk mengukur variabel yang diamati. Alat tersebut harus akurat dan dapat diandalkan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Teknik pengamatan: Peneliti harus menentukan teknik pengamatan yang akan digunakan, seperti pengamatan langsung, pengamatan tidak langsung, atau pengamatan partisipatif.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Konteks pengamatan: Peneliti harus memperhatikan konteks pengamatan, seperti waktu, tempat, dan kondisi lingkungan, yang dapat memengaruhi hasil pengamatan.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Dengan melakukan pengamatan yang teliti dan sistematis, seorang peneliti dapat mengumpulkan data atau informasi yang akurat dan dapat diandalkan untuk mengembangkan hipotesis dan merancang eksperimen lebih lanjut dalam metode ilmiah.&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h3 id="perumusan-pertanyaan">Perumusan Pertanyaan&lt;/h3>
+&lt;p>Merumuskan pertanyaan dalam metode ilmiah merupakan langkah awal yang penting untuk menentukan tujuan dan fokus penelitian. Beberapa strategi yang dapat digunakan dalam merumuskan pertanyaan antara lain:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Mencari informasi dan kajian literatur terkait dengan topik yang akan diteliti, sehingga dapat menentukan fokus dan arah penelitian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Menggunakan pertanyaan yang dapat dijawab secara spesifik, jelas, dan terukur, sehingga dapat menghasilkan jawaban yang objektif dan mengarah ke tujuan penelitian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Menggunakan pertanyaan yang menggugah rasa ingin tahu dan memiliki nilai penting dalam ilmu pengetahuan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Membuat beberapa pertanyaan yang berkaitan dengan topik penelitian, kemudian memilih pertanyaan yang paling relevan dan memiliki potensi untuk diuji.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Menggunakan pendekatan kualitatif atau kuantitatif dalam merumuskan pertanyaan, tergantung pada jenis penelitian yang akan dilakukan.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="strategi-perumusan-masalah">Strategi Perumusan Masalah&lt;/h3>
+&lt;p>Dalam perumusan masalah dalam metode ilmiah, terdapat beberapa metode dan strategi yang dapat digunakan, di antaranya:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Brainstorming: Dalam brainstorming, ide-ide dikumpulkan secara spontan tanpa penilaian. Kemudian, ide-ide tersebut diorganisasi dan dianalisis untuk menemukan solusi masalah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Analisis Fishbone (Ishikawa diagram): Ishikawa diagram digunakan untuk mengidentifikasi akar masalah dengan memetakan faktor-faktor yang mempengaruhi masalah. Dalam diagram ini, masalah ditempatkan pada tulang ikan, dan faktor-faktor yang mempengaruhi masalah ditempatkan pada cabang-cabang tulang ikan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mind mapping: Mind mapping adalah metode visual untuk mengorganisasi informasi dan ide-ide. Dalam mind mapping, ide-ide disusun dalam bentuk diagram dengan satu ide utama di tengah dan cabang-cabang yang mewakili ide-ide terkait.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Survei: Survei dapat dilakukan untuk mengumpulkan data atau informasi tentang masalah tertentu. Survei ini dapat dilakukan dengan cara mengirimkan kuesioner atau wawancara dengan responden.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Studi literatur: Studi literatur melibatkan pencarian dan analisis literatur terkait masalah yang akan dipecahkan. Studi literatur ini dapat dilakukan dengan cara membaca buku, artikel, jurnal, dan publikasi ilmiah lainnya.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="hipotesis">Hipotesis&lt;/h3>
+&lt;p>Hipotesis dalam metode ilmiah adalah suatu dugaan atau prediksi sementara yang dirumuskan untuk menjawab pertanyaan atau menjelaskan fenomena yang diamati. Hipotesis biasanya didasarkan pada pengetahuan dan informasi yang sudah ada, serta dapat diuji melalui eksperimen atau observasi lebih lanjut.&lt;/p>
+&lt;p>Tujuan dari merumuskan hipotesis adalah untuk mengembangkan dan menguji suatu penjelasan awal terhadap fenomena yang diamati. Jika hipotesis terbukti benar, maka dapat digunakan sebagai dasar untuk mengembangkan teori atau prinsip yang lebih luas. Namun, jika hipotesis tidak terbukti benar, maka perlu dilakukan revisi atau pengembangan hipotesis yang lebih sesuai berdasarkan hasil pengujian yang diperoleh.&lt;/p>
+&lt;p>Berikut ini adalah beberapa contoh hipotesis:&lt;/p>
+&lt;ol>
+&lt;li>Bumi berotasi terhadap sumbunya sendiri setiap 24 jam sehingga secara bergantian memberikan salah satu sisinya untuk terkena sinar matahari;&lt;/li>
+&lt;li>Matahari berevolusi mengitari bumi satu kali dalam 36 jam.&lt;/li>
+&lt;li>Di daerah kutub waktu siang lebih lama daripada malam.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/li>
+&lt;/ol>
+&lt;h3 id="eksperimen">Eksperimen&lt;/h3>
+&lt;p>Eksperimen dalam metode ilmiah adalah langkah yang dilakukan untuk menguji hipotesis dengan cara mengumpulkan data dan informasi yang dapat diobservasi atau diukur dengan teliti. Eksperimen harus didesain dengan cermat dan terkendali, sehingga hasilnya dapat diandalkan dan dapat dipertanggungjawabkan.&lt;/p>
+&lt;p>Dalam melakukan eksperimen, perlu dipersiapkan alat dan bahan yang dibutuhkan, serta dilakukan pengukuran yang teliti dan teratur. Selain itu, perlu juga dilakukan kontrol terhadap variabel lain yang tidak menjadi fokus dari eksperimen tersebut agar tidak mempengaruhi hasil pengamatan.&lt;/p>
+&lt;p>Setelah eksperimen selesai dilakukan, data yang diperoleh perlu dianalisis dan diinterpretasikan dengan tepat. Hasil dari analisis dan interpretasi ini kemudian dapat digunakan untuk menarik kesimpulan dan membuktikan atau menolak hipotesis yang diuji.&lt;/p>
+&lt;h3 id="analisis-data">Analisis Data&lt;/h3>
+&lt;p>Analisis data merupakan tahap penting dalam metode ilmiah untuk mengambil kesimpulan dari eksperimen yang telah dilakukan. Beberapa permasalahan yang mungkin dihadapi dalam analisis data adalah data yang tidak konsisten, data yang tidak lengkap, atau adanya anomali atau outlier.&lt;/p>
+&lt;p>Untuk mengatasi masalah ini, beberapa metode analisis data dapat digunakan, di antaranya:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Statistik Deskriptif: Metode ini digunakan untuk memberikan deskripsi dan visualisasi data yang telah dikumpulkan, seperti diagram batang atau diagram lingkaran.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regresi: Metode ini digunakan untuk mempelajari hubungan antara dua variabel, seperti apakah terdapat korelasi positif atau negatif antara variabel.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Uji Hipotesis: Metode ini digunakan untuk menguji hipotesis dan menentukan signifikansi statistik antara dua kelompok data.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Analisis Varians (ANOVA): Metode ini digunakan untuk membandingkan rata-rata dari dua kelompok data atau lebih.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Analisis Komponen Utama: Metode ini digunakan untuk mengurangi dimensi data dengan mempertahankan sebagian besar variasi dalam data.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Dalam analisis data, penting juga untuk memastikan keandalan dan keakuratan data yang digunakan. Salah satu cara untuk memastikan keandalan data adalah dengan melakukan replikasi eksperimen, di mana eksperimen diulang untuk memastikan hasil yang sama diperoleh. Selain itu, dapat juga dilakukan verifikasi melalui uji kontrol, di mana eksperimen dibandingkan dengan kelompok kontrol yang tidak diberikan perlakuan tertentu.&lt;/p>
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/data_analysis_illustration_2.png">
+&lt;img src="https://www.all-indonesia.com/img/data_analysis_illustration_2.png"
+alt="Gambar Ilustrai Analisis Data"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>Gambar Ilustrai Analisis Data&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="pengambilan-kesimpulan">Pengambilan Kesimpulan&lt;/h3>
+&lt;p>Pengambilan kesimpulan merupakan tahap penting dalam metode ilmiah yang dilakukan setelah dilakukan pengolahan dan analisis data. Dalam tahap ini, peneliti menginterpretasikan hasil yang diperoleh dari eksperimen atau pengamatan dan menarik kesimpulan apakah hipotesis yang telah dirumuskan sebelumnya dapat diterima atau ditolak.&lt;/p>
+&lt;p>Kesimpulan yang diambil harus didasarkan pada data yang diperoleh dan harus obyektif. Jika hasil yang diperoleh tidak konsisten dengan hipotesis yang diajukan, maka hipotesis tersebut harus ditolak atau direvisi. Jika hasil konsisten dengan hipotesis, maka hipotesis tersebut dapat diterima.&lt;/p>
+&lt;p>Pengambilan kesimpulan dapat juga disertai dengan saran untuk penelitian selanjutnya atau implikasi praktis dari hasil penelitian. Kesimpulan harus dapat menjawab pertanyaan penelitian dan memberikan sumbangsih bagi perkembangan ilmu pengetahuan.&lt;/p>
+&lt;h3 id="publikasi-hasil-penelitian">Publikasi Hasil Penelitian&lt;/h3>
+&lt;p>Publikasi hasil penelitian merupakan salah satu tahapan penting dalam metode ilmiah. Setelah penelitian selesai dilakukan dan hasil data telah dianalisis dengan benar, peneliti perlu mempublikasikan hasil penelitiannya agar dapat diketahui oleh masyarakat ilmiah dan dunia luas. Publikasi hasil penelitian dapat dilakukan melalui berbagai media, seperti jurnal ilmiah, buku, seminar, dan konferensi ilmiah.&lt;/p>
+&lt;p>Dalam publikasi hasil penelitian, peneliti harus menyajikan data dan informasi secara jelas dan akurat, serta menyertakan detail mengenai metode dan prosedur yang digunakan. Hal ini berguna untuk memudahkan orang lain untuk mengetahui secara tepat bagaimana penelitian dilakukan dan bagaimana hasilnya didapatkan. Selain itu, publikasi juga memungkinkan peneliti lain untuk mereplikasi atau menguji ulang penelitian tersebut.&lt;/p>
+&lt;p>Sebelum publikasi, hasil penelitian biasanya akan melalui proses peer review atau penelaahan oleh para ahli yang independen. Proses ini dilakukan untuk memastikan bahwa hasil penelitian memiliki kualitas yang baik dan benar secara ilmiah. Setelah melewati proses ini, hasil penelitian dapat diterbitkan dan dibagikan kepada publik.&lt;/p></description></item><item><title>Ipa: Contoh Soal Besaran Skalar (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/contoh-soal-1/</link><pubDate>Sat, 18 Feb 2023 23:26:42 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/contoh-soal-1/</guid><description>
+&lt;h2 id="contoh-contoh-soal-besaran-skalar-part-1">Contoh-contoh soal besaran skalar (part 1)&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Jika suhu ruangan saat ini adalah 25 derajat Celsius, berapakah suhu dalam satuan Fahrenheit?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;em>Diketahui:&lt;/em>
+Suhu dalam derajat Celsius = 25
+&lt;em>Dicari:&lt;/em>
+Suhu dalam satuan Fahrenheit
+&lt;em>Langkah penyelesaian:&lt;/em>
+Rumus konversi suhu dari Celsius ke Fahrenheit adalah sebagai berikut:
+$$F = (C \times 9/5) + 32$$
+Substitusikan nilai suhu dalam derajat Celsius ke dalam rumus konversi:
+$$F = (25 \times 9/5) + 32 = 77^\circ F$$
+Jadi, suhu dalam satuan Fahrenheit adalah 77 derajat Fahrenheit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda memiliki massa 10 kg. Berapakah massa benda dalam satuan gram (g)?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;em>Diketahui:&lt;/em>
+Massa benda = 10 kg
+&lt;em>Dicari:&lt;/em>
+Massa benda dalam satuan gram (g)
+&lt;em>Langkah penyelesaian:&lt;/em>
+$$1 kg = 1000 g $$
+Massa benda dalam \(g = 10 \times 1000 = 10,000 g\)
+Jadi, massa benda dalam satuan gram adalah &lt;em>&lt;strong>10,000 g&lt;/strong>&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika suhu lingkungan saat ini adalah 30 derajat Celsius, berapa suhu yang tercatat dalam derajat Fahrenheit?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Suhu dalam derajat Fahrenheit dapat dihitung dengan menggunakan rumus \(F = (9/5)C + 32\), di mana \(C\) adalah suhu dalam derajat Celsius. Oleh karena itu, jika suhu lingkungan saat ini adalah 30 derajat Celsius, maka suhu dalam derajat Fahrenheit dapat dihitung sebagai berikut:
+$$F = (9/5) \times 30 + 32$$
+$$F = 86^\circ F$$
+Jadi, suhu lingkungan saat ini adalah &lt;em>&lt;strong>86 derajat Fahrenheit&lt;/strong>&lt;/em>.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran Vektor (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-1/</link><pubDate>Fri, 17 Feb 2023 16:16:39 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-1/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-besaran-vektor---part-1">Berikut adalah contoh soal terkait Besaran Vektor - Part 1&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kg bergerak dengan kecepatan \(5 m/s\) ke arah sumbu \(x\) positif dan kecepatan \(3 m/s\) ke arah sumbu \(y\) negatif. Hitunglah momentum total benda tersebut.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kita dapat menggunakan rumus momentum \(\vec{p} = m\vec{v}\), di mana \(\vec{p}\) adalah momentum, \(m\) adalah massa benda, dan \(\vec{v}\) adalah kecepatan benda. Kita dapat menuliskan kecepatan benda sebagai vektor \(\vec{v} = (v_x, v_y, v_z)\), di mana \(v_x\) adalah kecepatan pada sumbu \(x\), \(v_y\) adalah kecepatan pada sumbu \(y\), dan \(v_z\) adalah kecepatan pada sumbu \(z\) (dalam hal ini, tidak ada gerakan pada sumbu \(z\)). Oleh karena itu, momentum total dapat ditulis sebagai:&lt;br>
+$$\begin{align}\vec{p} &amp;amp;= m\vec{v} \newline
+&amp;amp;= (2\text{ kg})(5\text{ m/s}\ \hat{i} - 3\text{ m/s}\ \hat{j}) \newline
+&amp;amp;= 10\text{ kg m/s}\ \hat{i} - 6\text{ kg m/s}\ \hat{j}\end{align}$$
+Jadi, momentum total benda tersebut adalah 10 kg m/s ke arah sumbu x positif dan 6 kg m/s ke arah sumbu y negatif.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan konstan 20 m/s ke arah timur. Jika mobil tersebut melakukan pergantian arah dan bergerak dengan kecepatan 15 m/s ke arah barat, tentukan besar dan arah perubahan kecepatan mobil.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Perubahan kecepatan dapat dihitung sebagai selisih antara kecepatan akhir dan kecepatan awal, sehingga:
+$$\begin{align}\Delta \vec{v} &amp;amp;= \vec{v_f} - \vec{v_i} \newline
+&amp;amp;= (-15\text{ m/s})\ \hat{i} - (20\text{ m/s})\ \hat{i} \newline
+&amp;amp;= -35\text{ m/s}\ \hat{i}\end{align}$$
+Perubahan kecepatan memiliki arah ke arah barat dan besarnya 35 m/s.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dengan massa 0.2 kg dilempar ke atas dengan kecepatan awal 10 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan kecepatan dan posisi bola setelah 2 detik.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Pertama-tama, hitunglah kecepatan bola setelah 2 detik dengan menggunakan rumus kecepatan:
+$$\begin{align}\vec{v} &amp;amp;= \vec{v_0} + \vec{a}t \newline
+&amp;amp;= (10\text{ m/s})\ \hat{j} - (9.8\text{ m/s}^2)\ \hat{j}(2\text{ s}) \newline
+&amp;amp;= -9.6\text{ m/s}\ \hat{j}\end{align}$$
+Jadi, kecepatan bola setelah 2 detik adalah 9.6 m/s ke arah bawah. Selanjutnya, hitunglah posisi bola setelah 2 detik dengan menggunakan rumus posisi:
+$$\begin{align}\vec{r} &amp;amp;= \vec{r_0} + \vec{v_0}t + \frac{1}{2}\vec{a}t^2 \newline
+&amp;amp;= (0\text{ m})\ \hat{i} + (0\text{ m})\ \hat{j} + (10\text{ m/s})\ \hat{j}(2\text{ s}) + \frac{1}{2}(9.8\text{ m/s}^2)\ \hat{j}(2\text{ s})^2 \newline
+&amp;amp;= 0\text{ m}\ \hat{i} + 20.4\text{ m}\ \hat{j}\end{align}$$
+Jadi, posisi bola setelah 2 detik adalah 20.4 m di atas titik awal.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kapal bergerak dengan kecepatan 12 km/jam ke arah timur. Jika angin bertiup dengan kecepatan 5 km/jam ke arah barat laut, tentukan kecepatan dan arah kapal relatif terhadap daratan&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan kapal relatif terhadap daratan adalah hasil penjumlahan vektor antara kecepatan kapal dan kecepatan angin. Jadi, kecepatan kapal relatif terhadap daratan adalah:
+&lt;br>
+$$\begin{align}\vec{v_{rel}} &amp;amp;= \vec{v_{kapal}} + \vec{v_{angin}} \newline &amp;amp;= (12\text{ km/jam})\ \hat{i} - (5\text{ km/jam})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &amp;amp;\approx 11.2\text{ km/jam}\ \hat{i} - 3.5\text{ km/jam}\ \hat{j}\end{align}$$
+&lt;br>
+Jadi, kecepatan kapal relatif terhadap daratan adalah sekitar 11.2 km/jam ke arah timur dan 3.5 km/jam ke arah selatan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang pelari berlari dengan kecepatan 6 m/s ke arah utara. Jika ada angin bertiup dengan kecepatan 3 m/s ke arah barat laut, tentukan kecepatan dan arah pelari relatif terhadap angin.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan pelari relatif terhadap angin adalah hasil pengurangan vektor antara kecepatan pelari dan kecepatan angin. Jadi, kecepatan pelari relatif terhadap angin adalah:
+&lt;br>
+$$\begin{align}\vec{v_{rel}} &amp;amp;= \vec{v_{pelari}} - \vec{v_{angin}} \newline &amp;amp;= (6\text{ m/s})\ \hat{j} - (3\text{ m/s})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &amp;amp;\approx 5.1\text{ m/s}\ \hat{j} - 2.1\text{ m/s}\ \hat{i}\end{align}$$
+&lt;br>
+Jadi, kecepatan pelari relatif terhadap angin adalah sekitar 5.1 m/s ke arah utara dan 2.1 m/s ke arah barat.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Angka Penting (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-1/</link><pubDate>Thu, 16 Feb 2023 21:09:52 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-1/</guid><description>
+&lt;h3 id="contoh-soal-angka-penting-1">Contoh Soal Angka Penting (1)&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Hitunglah hasil dari (8,21 x 2,00) / 3,4 dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Langkah pertama adalah melakukan perhitungan matematika sesuai urutan prioritas operasi, yaitu perkalian terlebih dahulu, kemudian pembagian.&lt;br>
+&lt;br>
+&lt;em>(8,21 x 2,00) / 3,4 = 16,42 / 3,4 = 4,83529411765&lt;/em>&lt;br>
+&lt;br>
+Setelah itu, jumlah angka penting harus disesuaikan dengan angka yang memiliki jumlah angka penting terkecil dalam persamaan, yaitu 3,4 dengan dua angka penting. Oleh karena itu, hasil akhir harus dibulatkan menjadi dua angka penting, sehingga:&lt;br>
+&lt;br>
+&lt;em>(8,21 x 2,00) / 3,4 = 4,8&lt;/em>&lt;br>
+&lt;br>
+Jadi, hasilnya adalah 4,8 dengan jumlah angka penting yang tepat.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah balok memiliki panjang 2,345 m, lebar 1,2 m, dan tinggi 0,0250 m. Hitunglah volumenya dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Volume balok adalah hasil perkalian panjang, lebar, dan tinggi, yaitu:&lt;br>
+&lt;br>
+{$V} = 2,345 m x 1,2 m x 0,0250 m = 0,07074 m{^3}&lt;br>
+&lt;br>
+Karena nilai 0,0250 m memiliki tiga angka penting, dan nilai lainnya memiliki empat angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, volume balok adalah:&lt;br>
+&lt;br>
+{$V} = 0,0707 m{^3}
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang siswa mengukur waktu yang diperlukan oleh sebuah benda untuk jatuh bebas dari ketinggian 10,0 m. Hasil pengukuran adalah 2,35 s. Hitunglah kecepatan benda saat mencapai tanah dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan benda saat jatuh bebas dapat dihitung menggunakan rumus berikut:&lt;br>
+&lt;br>
+{$v = sqrt(2gh)}&lt;br>
+&lt;br>
+dengan g adalah percepatan gravitasi (9,81 m/s²) dan h adalah ketinggian benda saat awal. Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+{$v} = sqrt(2 x 9,81 m/s{^2} x 10,0 m) = 14,0 m/s&lt;br>
+&lt;br>
+Karena nilai 2,35 s hanya memiliki dua angka penting, maka hasil akhir harus dibulatkan menjadi dua angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, kecepatan benda saat mencapai tanah adalah:&lt;br>
+&lt;br>
+{$v} = 14 m/s&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-1/</link><pubDate>Wed, 15 Feb 2023 23:13:07 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-1/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-tentang-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal tentang besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan 25 meter per detik. Berapa jarak yang ditempuh mobil setelah 10 detik?&lt;br>
+&lt;em>&lt;strong>Jawab :&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$v} = 25 m/s, {$t} = 10 s&lt;br>
+Rumus: {$s = vt}&lt;br>
+Substitusi: {$s} = (25 m/s) x (10 s)&lt;br>
+Hasil: {$s} = 250 m&lt;br>
+Jadi, jarak yang ditempuh mobil setelah 10 detik adalah 250 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kilogram dilemparkan ke atas dengan kecepatan awal 20 meter per detik. Berapa ketinggian maksimum yang dapat dicapai benda tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab :&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 2 kg, v = 20 m/s, g = 9,8 m/s{^2}&lt;br>
+Rumus: {$h} = ({$v}{^2})/(2g)&lt;br>
+Substitusi: {$h} = (20 m/s){^2} / (2 x 9,8 m/s{^2})&lt;br>
+Hasil: {$h} = 20,4 meter&lt;br>
+Jadi, ketinggian maksimum yang dapat dicapai benda tersebut adalah 20,4 meter.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah arus listrik sebesar 2 ampere mengalir melalui suatu kawat. Jika hambatan kawat tersebut adalah 4 ohm, berapa tegangan listrik yang diperlukan untuk menghasilkan arus tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$I} = 2 A, {$R} = 4 ohm&lt;br>
+Rumus: {$V = IR}&lt;br>
+Substitusi: {$V} = (2 A) x (4 ohm)&lt;br>
+Hasil: {$V} = 8 volt&lt;br>
+Jadi, tegangan listrik yang diperlukan untuk menghasilkan arus listrik sebesar 2 ampere adalah 8 volt.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah balok kayu memiliki dimensi 2 meter x 0,5 meter x 0,5 meter dan memiliki massa 200 kilogram. Berapakah densitas kayu tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 200 kg, {$V} = 2 m x 0,5 m x 0,5 m = 0,5 m{^3}&lt;br>
+Rumus: {$p = m/V}&lt;br>
+Substitusi: {$p} = 200 kg / 0,5 m{^3}&lt;br>
+Hasil: {$p} = 400 kg/m{^3}&lt;br>
+Jadi, densitas kayu tersebut adalah 400 kilogram per meter kubik.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola memiliki massa 0,1 kilogram dan bergerak dengan kecepatan 5 meter per detik. Berapa energi kinetik bola tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 0,1 kg, {$v} = 5 m/s&lt;br>
+Rumus: {$EK} = (1/2)mv{^2}&lt;br>
+Substitusi: {$EK} = (1/2) x 0,1 kg x (5 m/s){^2}&lt;br>
+Hasil: {$EK} = 1,25 joule&lt;br>
+Jadi, energi kinetik bola tersebut adalah 1,25 joule.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Gerak Harmonik Sederhana (Part 2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-2/</link><pubDate>Thu, 02 Mar 2023 22:55:29 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-2/</guid><description>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah pegas dengan konstanta pegas 10 N/m digantungkan sebuah massa 0,5 kg. Jika pegas ditarik 5 cm dari posisi keseimbangan dan dilepaskan, tentukanlah periode dan frekuensi ayunan!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bandul sederhana memiliki panjang tali 50 cm. Jika bandul ditarik 10 cm dari posisi keseimbangan dan dilepaskan, tentukanlah amplitudo, periode, dan frekuensi ayunan!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,2 kg digantungkan pada sebuah pegas dengan konstanta pegas 20 N/m. Jika benda ditarik 8 cm dari posisi keseimbangan dan dilepaskan, tentukanlah persamaan gerak harmonik sederhana dan periode ayunan!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil sedang melaju dengan kecepatan 20 m/s. Jika mobil mendapat getaran harmonik sederhana dengan frekuensi 2 Hz, tentukanlah amplitudo gerak mobil!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola bermassa 0,3 kg digantungkan pada sebuah tali dengan panjang 1 m. Jika bola ditarik 10 cm dari posisi keseimbangan dan dilepaskan, tentukanlah persamaan gerak harmonik sederhana dan periode ayunan!
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda melakukan gerak harmonik sederhana dengan amplitudo 5 cm dan periode 2 s. Tentukan persamaan gerak benda tersebut.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah pegas memiliki konstanta pegas sebesar 100 N/m. Jika pegas ditarik sejauh 8 cm dari posisi awal dan dilepaskan, tentukan amplitudo dan frekuensi dari gerakan harmonik sederhana yang dihasilkan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,5 kg melakukan gerak harmonik sederhana dengan amplitudo 10 cm dan frekuensi 5 Hz. Tentukan periode dan konstanta pegas yang menyebabkan gerakan tersebut.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 2 kg melakukan gerak harmonik sederhana dengan periode 4 s. Jika amplitudonya adalah 0,5 m, tentukan kecepatan maksimum dan percepatan maksimum benda tersebut.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda bermassa 0,2 kg melakukan gerak harmonik sederhana dengan amplitudo 20 cm dan frekuensi 10 Hz. Tentukan energi kinetik maksimum dan energi potensial maksimum yang dimiliki benda tersebut.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran Vektor (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-2/</link><pubDate>Sat, 18 Feb 2023 18:15:24 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-2/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-besaran-vektor---part-2">Berikut adalah contoh soal terkait Besaran Vektor - Part 2&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kg diletakkan pada permukaan licin dan diberi gaya sebesar 10 N pada arah 30 derajat ke atas dari sumbu x positif. Tentukan akselerasi benda dan perpindahan setelah 2 detik.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Faktor-faktor yang diberikan:&lt;br>
+massa \(m\) = 2 kg&lt;br>
+gaya \(F\) = 10 N&lt;br>
+sudut \(θ\) = 30°&lt;br>
+waktu \(t\) = 2 s&lt;br>
+keadaan permukaan = licin&lt;br>
+&lt;br>
+Untuk menyelesaikan soal ini, perlu dicari komponen gaya pada sumbu \(x\) dan \(y\) dan kemudian dihitung akselerasinya. Setelah itu, dapat dihitung perpindahan benda setelah 2 detik.&lt;br>
+&lt;br>
+Komponen gaya pada sumbu x dan y dapat dicari dengan menggunakan trigonometri:&lt;br>
+$$F_x = F\cos\theta = 10\text{ N}\cos 30^\circ = 8.66\text{ N}$$
+$$F_y = F\sin\theta = 10\text{ N}\sin 30^\circ = 5\text{ N}$$
+Karena permukaan licin, maka tidak ada gaya gesekan. Sehingga, gaya total pada sumbu \(x\) sama dengan massa dikalikan dengan percepatan pada sumbu \(x\):&lt;br>
+$$F_x = ma_x \rightarrow a_x = \frac{F_x}{m} = \frac{8.66\text{ N}}{2\text{ kg}} = 4.33\text{ m/s}^2$$
+Gaya total pada sumbu y sama dengan massa dikalikan dengan percepatan pada sumbu \(y\), sehingga:
+$$F_y = ma_y \rightarrow a_y = \frac{F_y}{m} = \frac{5\text{ N}}{2\text{ kg}} = 2.5\text{ m/s}^2$$
+Akselerasi total dapat dicari dengan menggunakan teorema Pythagoras:
+$$a = \sqrt{a_x^2 + a_y^2} = \sqrt{(4.33\text{ m/s}^2)^2 + (2.5\text{ m/s}^2)^2} = 4.98\text{ m/s}^2$$
+Perpindahan dapat dicari dengan menggunakan rumus:
+$$x = x_0 + v_0t + \frac{1}{2}at^2$$
+Karena benda awalnya diam dan hanya dipengaruhi oleh gaya, maka kecepatan awal adalah 0 m/s dan perpindahan pada sumbu \(x\) adalah:
+$$x = \frac{1}{2}at^2 = \frac{1}{2}(4.98\text{ m/s}^2)(2\text{ s})^2 = 9.96\text{ m}$$
+Jadi, akselerasi benda adalah 4.98 m/s{^2} dan perpindahan setelah 2 detik adalah 9.96 m pada sumbu \(x\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah pesawat terbang bergerak dengan kecepatan 400 km/jam dan membentuk sudut 30 derajat terhadap arah utara. Tentukan komponen horizontal dan vertikal dari kecepatan pesawat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Komponen horizontal dari kecepatan pesawat dapat dihitung dengan rumus \(v_h = v \cos \theta\), sedangkan komponen vertikal dapat dihitung dengan rumus \(v_v = v \sin \theta\), di mana \(v\) adalah kecepatan pesawat dan \(\theta\) adalah sudut yang dibentuk oleh kecepatan pesawat dengan arah utara. Dalam satuan SI, &lt;em>400 km/jam&lt;/em> sama dengan &lt;em>111.1 m/s&lt;/em>. Dengan demikian,
+$$v_h = 111.1 \text{ m/s} \cos 30^\circ = 96.2 \text{ m/s}$$
+$$v_v = 111.1 \text{ m/s} \sin 30^\circ = 55.6 \text{ m/s}$$
+Jadi, kecepatan horizontal pesawat adalah &lt;em>&lt;strong>96.2 m/s&lt;/strong>&lt;/em> dan kecepatan vertikal pesawat adalah &lt;em>&lt;strong>55.6 m/s&lt;/strong>&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dilempar ke atas dengan kecepatan awal 20 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan waktu yang dibutuhkan bola untuk mencapai ketinggian maksimum dan ketinggian maksimum tersebut.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Pertama-tama, kita dapat menggunakan rumus kecepatan untuk menghitung waktu yang dibutuhkan bola untuk mencapai titik tertinggi. Pada titik tertinggi, kecepatan bola sama dengan nol, sehingga kita dapat menggunakan persamaan \(v = v_0 + at\) dengan \(v = 0\), \(v_0 = 20 m/s\) dan \(a = -9.8 m/s^2\), maka:
+$$0 = 20 - 9.8t$$
+$$t = \frac{20}{9.8} \approx 2.04 \text{ s}$$
+Jadi, waktu yang dibutuhkan bola untuk mencapai ketinggian maksimum adalah sekitar &lt;em>&lt;strong>2.04&lt;/strong>&lt;/em> detik.
+Ketinggian maksimum dapat dihitung menggunakan rumus posisi pada titik tertinggi :
+$$h = h_0 + v_0 t + \frac{1}{2}at^2$$
+Dalam hal ini, \(h_0 = 0\), \(v_0 = 20 m/s\), dan \(a = -9.8 m/s^2\), sehingga
+$$h = 0 + 20 \times 2.04 - \frac{1}{2} \times 9.8 \times (2.04)^2 \approx 20.2 \text{ m}$$
+Jadi, ketinggian maksimum bola adalah sekitar &lt;em>&lt;strong>20.2&lt;/strong>&lt;/em> meter.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan 50 km/jam ke arah timur. Kemudian, mobil tersebut belok ke arah utara dan bergerak dengan kecepatan 40 km/jam. Tentukan besar dan arah vektor perubahan kecepatan mobil.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Perubahan kecepatan adalah selisih antara kecepatan akhir dan kecepatan awal mobil:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i}$$
+Kecepatan awal mobil adalah 50 km/jam ke arah timur, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_i} = 50\text{ km/jam}\ \hat{i}$$
+Kecepatan akhir mobil adalah 40 km/jam ke arah utara, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_f} = 40\text{ km/jam}\ \hat{j}$$
+Maka, perubahan kecepatan dapat dihitung sebagai berikut:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i} = 40\text{ km/jam}\ \hat{j} - 50\text{ km/jam}\ \hat{i}$$
+Untuk mengetahui besarnya perubahan kecepatan, kita dapat menggunakan teorema Pythagoras:
+$$|\Delta \vec{v}| = \sqrt{(40\text{ km/jam})^2 + (-50\text{ km/jam})^2} = 64.03\text{ km/jam}$$
+Untuk mengetahui arah perubahan kecepatan, kita dapat menggunakan trigonometri dan menghitung sudut antara vektor perubahan kecepatan dan sumbu &lt;strong>\(x\)&lt;/strong> positif:
+$$\theta = \tan^{-1} \left(\frac{-50\text{ km/jam}}{40\text{ km/jam}}\right) = -51.34^\circ$$
+Jadi, besar perubahan kecepatan adalah &lt;em>&lt;strong>64.03 km/jam&lt;/strong>&lt;/em>, dan arah perubahan kecepatan membentuk sudut sebesar &lt;em>&lt;strong>51.34 derajat&lt;/strong>&lt;/em> di bawah sumbu &lt;em>&lt;strong>\(x\)&lt;/strong>&lt;/em> positif.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Angka Penting (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-2/</link><pubDate>Thu, 16 Feb 2023 21:23:30 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-2/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-yang-sederhana-terkait-angka-penting-dalam-ilmu-fisika">Berikut adalah contoh soal yang sederhana terkait angka penting dalam ilmu fisika&lt;/h3>
+&lt;ol>
+&lt;li>Sebuah objek dengan massa 10,0 kg ditarik oleh gaya sebesar 25,0 N. Hitunglah percepatan objek dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Percepatan objek dapat dihitung menggunakan hukum kedua Newton:&lt;br>
+&lt;br>
+{$F = ma}&lt;br>
+&lt;br>
+dengan {$F} adalah gaya, {$m} adalah massa, dan {$a} adalah percepatan.&lt;br>
+&lt;br>
+Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+&lt;em>25,0 N = 10,0 kg x a&lt;/em>&lt;br>
+&lt;br>
+&lt;em>a = 2,50 m/s{^2}&lt;/em>&lt;br>
+&lt;br>
+Karena nilai 10,0 kg dan 25,0 N memiliki tiga angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, percepatan objek adalah:&lt;br>
+&lt;br>
+&lt;em>a = 2,50 m/s{^2}&lt;/em>&lt;br>
+&lt;br>
+Jadi, percepatannya adalah 2,50 m/s² dengan jumlah angka penting yang tepat.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/li>
+&lt;li>Sebuah roda berputar dengan kecepatan 120 rpm. Hitunglah frekuensi putaran roda dalam Hz dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Frekuensi putaran roda dapat dihitung menggunakan rumus berikut:&lt;br>
+&lt;br>
+&lt;em>f = n / T&lt;/em>&lt;br>
+&lt;br>
+dengan &lt;em>f&lt;/em> adalah frekuensi, &lt;em>n&lt;/em> adalah jumlah putaran, dan &lt;em>T&lt;/em> adalah waktu.&lt;br>
+&lt;br>
+Dalam satu putaran, roda berputar sebanyak &lt;em>360&lt;/em> derajat atau &lt;em>2π&lt;/em> radian. Oleh karena itu, jumlah putaran &lt;em>n&lt;/em> dalam waktu &lt;em>T&lt;/em> dapat dihitung sebagai:&lt;br>
+&lt;br>
+&lt;em>n&lt;/em> = (120 rpm) x (1 min / 60 s) x (2π radian / 1 putaran) x T&lt;br>
+&lt;br>
+Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+&lt;em>n = 4πT&lt;/em>&lt;br>
+&lt;br>
+Untuk mengubah satuan rpm menjadi Hz, diperlukan konversi satuan dari menit ke detik, yaitu:&lt;br>
+&lt;br>
+1 min = 60 s&lt;br>
+&lt;br>
+Sehingga:&lt;br>
+&lt;br>
+&lt;em>f = n / T = 4π / T&lt;/em>&lt;br>
+&lt;br>
+Karena waktu &lt;em>T&lt;/em> hanya diberikan secara umum dan tidak spesifik, maka tidak ada satuan waktu yang dapat digunakan untuk mengubah frekuensi menjadi Hz. Oleh karena itu, hasil akhir tidak perlu dibulatkan. Frekuensi putaran roda adalah:&lt;br>
+&lt;br>
+&lt;em>f = 4π / T&lt;/em>&lt;br>
+&lt;br>
+Jadi, frekuensi putarannya dalam Hz adalah 4π / T dengan jumlah angka penting yang tepat.&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-2/</link><pubDate>Thu, 16 Feb 2023 00:08:12 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-2/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda bergerak dengan kecepatan 5 m/s selama 10 detik. Berapa jarak yang ditempuh oleh benda tersebut?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan = 5 m/s&lt;br>
+Waktu = 10 detik&lt;br>
+Jarak = kecepatan × waktu&lt;br>
+Jarak = 5 m/s × 10 detik = 50 meter&lt;br>
+Jadi, jarak yang ditempuh oleh benda tersebut adalah 50 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah beban memiliki massa 2 kg. Berapa gaya yang diperlukan untuk mengangkat beban tersebut?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Massa = 2 kg&lt;br>
+Gaya = massa × percepatan gravitasi&lt;br>
+Percepatan gravitasi = 9,8 m/s{^2}&lt;br>
+Gaya = 2 kg × 9,8 m/s{^2} = 19,6 N&lt;br>
+Jadi, gaya yang diperlukan untuk mengangkat beban tersebut adalah 19,6 N.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kawat tembaga memiliki panjang 10 m dan luas penampang 2 mm{^2}. Berapa resistansi kawat tersebut?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Panjang = 10 m&lt;br>
+Luas penampang = 2 mm{^2} = 2 × 10{^-6} m{^2}&lt;br>
+Hambatan spesifik tembaga = 1,72 × 10{^-8} ohm·m&lt;br>
+Resistansi = (hambatan spesifik × panjang) / luas penampang&lt;br>
+Resistansi = (1,72 × 10{^-8} ohm·m × 10 m) / (2 × 10{^-6} m{^2}) = 86 ohm&lt;br>
+Jadi, resistansi kawat tersebut adalah 86 ohm.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah ruangan memiliki suhu 25°C. Berapa suhu ruangan tersebut dalam skala Kelvin?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Suhu dalam skala Kelvin = suhu dalam skala Celsius + 273,15&lt;br>
+Suhu dalam skala Kelvin = 25°C + 273,15 = 298,15 K&lt;br>
+Jadi, suhu ruangan tersebut dalam skala Kelvin adalah 298,15 K.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan percepatan 3 m/s{^2} selama 8 detik. Berapa kecepatan mobil setelah 8 detik?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Percepatan = 3 m/s{^2}&lt;br>
+Waktu = 8 detik&lt;br>
+Kecepatan awal = 0 m/s&lt;br>
+Kecepatan akhir = kecepatan awal + percepatan × waktu&lt;br>
+Kecepatan akhir = 0 m/s + 3 m/s{^2} × 8 detik = 24 m/s&lt;br>
+Jadi, kecepatan mobil setelah 8 detik adalah 24 m/s.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Besaran &amp; Satuan</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/</link><pubDate>Tue, 14 Feb 2023 22:14:08 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="besaran-dan-satuan">Besaran dan Satuan&lt;/h2>
+&lt;p>Besaran dalam ilmu fisika dapat dibagi menjadi dua jenis yaitu besaran fundamental dan besaran turunan. Besaran fundamental adalah besaran yang tidak dapat diuraikan lebih lanjut dalam hal besaran fisika lainnya, misalnya massa, waktu, dan panjang. Sedangkan besaran turunan adalah besaran yang dapat dihitung atau diuraikan dari besaran fundamental, misalnya kecepatan, percepatan, dan momentum.&lt;/p>
+&lt;p>Setiap besaran memiliki satuan yang digunakan untuk mengukurnya, seperti meter (m) untuk panjang, kilogram (kg) untuk massa, dan detik (s) untuk waktu. Selain itu, terdapat juga dimensi besaran, seperti dimensi panjang, dimensi massa, dan dimensi waktu, yang digunakan untuk menganalisis hubungan antar besaran dalam suatu persamaan fisika.&lt;/p>
+&lt;h3 id="besaran-fundamental">Besaran Fundamental&lt;/h3>
+&lt;p>Besaran fundamental dalam ilmu fisika adalah besaran yang tidak dapat diuraikan lagi menjadi kombinasi dari besaran fisika lainnya. Terdapat 7 besaran fundamental dalam Sistem Satuan Internasional (SI), yaitu:&lt;/p>
+&lt;ul>
+&lt;li>Panjang (meter)&lt;/li>
+&lt;li>Massa (kilogram)&lt;/li>
+&lt;li>Waktu (detik)&lt;/li>
+&lt;li>Arus listrik (ampere)&lt;/li>
+&lt;li>Suhu termodinamika (kelvin)&lt;/li>
+&lt;li>Intensitas cahaya (kandela)&lt;/li>
+&lt;li>Jumlah zat (mol)&lt;/li>
+&lt;/ul>
+&lt;p>Ketujuh besaran ini digunakan sebagai dasar untuk menentukan satuan pengukuran yang lainnya dalam SI, dan banyak juga digunakan dalam berbagai cabang fisika seperti mekanika, termodinamika, listrik dan magnetisme, optik, dan lain-lain.&lt;/p>
+&lt;h4 id="panjang">Panjang&lt;/h4>
+&lt;p>Besaran satuan panjang dalam SI adalah meter (m). Satuan ini didefinisikan sebagai jarak yang ditempuh cahaya dalam ruang hampa selama 1/299.792.458 detik. Meter digunakan untuk mengukur panjang atau jarak suatu benda atau ruang dalam sistem metrik.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan meter:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Panjang meja di ruangan tersebut adalah 2 meter.&lt;/li>
+&lt;li>Jarak antara dua kota tersebut adalah 150 kilometer.&lt;/li>
+&lt;li>Diameter bola sepak adalah sekitar 22 sentimeter.&lt;/li>
+&lt;li>Lebar lintasan atletik adalah 400 meter.&lt;/li>
+&lt;li>Ketinggian gedung pencakar langit tersebut adalah 828 meter.&lt;/li>
+&lt;/ul>
+&lt;h4 id="massa">Massa&lt;/h4>
+&lt;p>Besaran satuan massa dalam SI adalah kilogram (kg). Satuan ini didefinisikan sebagai massa dari prototipe internasional kilogram, yang disimpan di markas Bureau International des Poids et Mesures (BIPM) di Sèvres, Prancis. Kilogram digunakan untuk mengukur massa suatu benda atau zat dalam sistem metrik.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan kilogram:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Massa badan seseorang adalah 70 kilogram.&lt;/li>
+&lt;li>Massa beras yang dibeli adalah 5 kilogram.&lt;/li>
+&lt;li>Massa atom karbon-12 adalah sekitar 1,99 x 10{^-26} kg.&lt;/li>
+&lt;li>Massa satu butir pasir adalah sekitar 0,01 gram atau 10 miligram.&lt;/li>
+&lt;li>Massa bumi adalah sekitar 5,97 x 10^24 kilogram.&lt;/li>
+&lt;/ul>
+&lt;h4 id="waktu">Waktu&lt;/h4>
+&lt;p>Waktu adalah besaran fisika yang mengukur urutan peristiwa atau durasi antara peristiwa. Dalam Sistem Satuan Internasional (SI), satuan untuk besaran waktu adalah detik (s). Detik didefinisikan sebagai durasi 9.192.631.770 periode radiasi terkait dengan transisi antara dua level hiperhalus dari keadaan dasar atom cesium-133.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan detik:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Waktu tempuh pesawat dari New York ke London adalah sekitar 7.5 jam atau 27.000 detik.&lt;/li>
+&lt;li>Waktu yang dibutuhkan bola untuk jatuh ke tanah adalah sekitar 3 detik.&lt;/li>
+&lt;li>Usia alam semesta diperkirakan sekitar 13,8 miliar tahun atau 4,35 x 10^17 detik.&lt;/li>
+&lt;li>Periode rotasi bumi pada sumbunya adalah sekitar 86.400 detik atau 1 hari.&lt;/li>
+&lt;li>Waktu setiap putaran bumi mengelilingi matahari adalah sekitar 31.536.000 detik atau 1 tahun.&lt;/li>
+&lt;/ul>
+&lt;h4 id="arus-listrik">Arus Listrik&lt;/h4>
+&lt;p>Arus listrik adalah besaran fisika yang mengukur muatan listrik yang mengalir dalam suatu penghantar atau kawat listrik dalam satu satuan waktu. Satuan untuk besaran arus listrik dalam Sistem Satuan Internasional (SI) adalah ampere (A). Satu ampere didefinisikan sebagai arus listrik yang mengalir melalui dua konduktor sejajar tak berujung dan lurus dengan jarak antara keduanya adalah 1 meter, dengan gaya antara keduanya adalah 2 x 10^-7 newton per meter.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan ampere:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Arus listrik pada setrika adalah sekitar 10 ampere.&lt;/li>
+&lt;li>Arus listrik pada lampu pijar 60 watt yang terhubung ke sumber listrik 220 volt adalah sekitar 0,27 ampere.&lt;/li>
+&lt;li>Arus listrik pada baterai AA adalah sekitar 0,02 - 0,03 ampere.&lt;/li>
+&lt;li>Arus listrik pada kabel listrik yang menyalurkan listrik ke rumah-rumah adalah sekitar 100-200 ampere.&lt;/li>
+&lt;li>Arus listrik yang dihasilkan oleh alat elektrokardiogram (EKG) pada jantung manusia adalah sekitar 0,5-1,0 miliampere.&lt;/li>
+&lt;/ul>
+&lt;h4 id="suhu-termodinamika">Suhu Termodinamika&lt;/h4>
+&lt;p>Suhu termodinamika adalah besaran fisika yang mengukur intensitas rata-rata dari energi kinetik partikel-partikel dalam suatu sistem. Satuan untuk besaran suhu dalam Sistem Satuan Internasional (SI) adalah Kelvin (K), yang merupakan satuan interval dari suhu termodinamika.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan Kelvin:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Suhu ruangan normal adalah sekitar 298 K atau 25°C.&lt;/li>
+&lt;li>Suhu beku air pada tekanan standar adalah 273,15 K atau 0°C.&lt;/li>
+&lt;li>Suhu didih air pada tekanan standar adalah 373,15 K atau 100°C.&lt;/li>
+&lt;li>Suhu pada permukaan matahari dapat mencapai sekitar 5.500 K.&lt;/li>
+&lt;li>Suhu kosmik mikro gelombang, sisa radiasi dari awal alam semesta, adalah sekitar 2,7 K.&lt;/li>
+&lt;/ul>
+&lt;h4 id="intensitas-cahaya">Intensitas Cahaya&lt;/h4>
+&lt;p>Intensitas cahaya, atau kadang disebut kecerahan, adalah besaran fisika yang mengukur kekuatan cahaya pada suatu arah dalam satu satuan waktu. Satuan untuk besaran intensitas cahaya dalam Sistem Satuan Internasional (SI) adalah kandela (cd).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan kandela:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Intensitas cahaya lampu pijar 60 watt yang ditempatkan pada jarak 1 meter dari pengamat adalah sekitar 60 kandela.&lt;/li>
+&lt;li>Intensitas cahaya lilin tunggal pada jarak 1 meter dari pengamat adalah sekitar 1 kandela.&lt;/li>
+&lt;li>Intensitas cahaya layar televisi atau komputer dapat mencapai ratusan hingga ribuan kandela.&lt;/li>
+&lt;li>Intensitas cahaya pada siang hari dapat mencapai sekitar 10^4 hingga 10^5 kandela tergantung dari kondisi cuaca dan lokasi.&lt;/li>
+&lt;li>Intensitas cahaya di malam hari atau dalam keadaan gelap dapat mencapai sekitar 10^-3 kandela atau kurang.&lt;/li>
+&lt;/ul>
+&lt;h4 id="jumlah-zat">Jumlah Zat&lt;/h4>
+&lt;p>Jumlah zat atau mol adalah besaran fisika yang mengukur jumlah partikel atau molekul dalam suatu benda atau sistem. Satuan untuk besaran jumlah zat dalam Sistem Satuan Internasional (SI) adalah mol.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan mol:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Jumlah zat air dalam satu mol adalah sekitar 18 gram, yang terdiri dari sekitar 6,02 x 10^23 molekul air.&lt;/li>
+&lt;li>Jumlah zat natrium klorida (NaCl) dalam satu mol adalah sekitar 58,44 gram, yang terdiri dari sekitar 6,02 x 10^23 molekul NaCl.&lt;/li>
+&lt;li>Jumlah zat gas ideal yang diukur dalam kondisi standar (25 derajat Celsius dan 1 atmosfer) adalah sekitar 24,45 liter per mol.&lt;/li>
+&lt;li>Jumlah zat oksigen yang diperlukan untuk membakar 1 mol glukosa dalam proses respirasi seluler adalah 6 mol oksigen.&lt;/li>
+&lt;li>Jumlah zat klorin yang dilepaskan oleh elektrolisis 1 mol larutan natrium klorida (NaCl) adalah 1 mol klorin dan 1 mol natrium.&lt;/li>
+&lt;/ul>
+&lt;h3 id="besaran-turunan">Besaran Turunan&lt;/h3>
+&lt;p>Besaran turunan dalam ilmu fisika adalah besaran yang dinyatakan sebagai kombinasi dari satu atau lebih besaran fisika fundamental. Besaran turunan ini didefinisikan untuk mengukur suatu sifat atau karakteristik suatu sistem fisika yang lebih kompleks. Beberapa contoh besaran turunan dalam SI adalah:&lt;/p>
+&lt;ul>
+&lt;li>Kecepatan (meter per detik)&lt;/li>
+&lt;li>Akselerasi (meter per detik kuadrat)&lt;/li>
+&lt;li>Gaya (newton)&lt;/li>
+&lt;li>Energi (joule)&lt;/li>
+&lt;li>Tekanan (pascal)&lt;/li>
+&lt;li>Medan listrik (volt per meter)&lt;/li>
+&lt;li>Resistansi (ohm)&lt;/li>
+&lt;li>Kapasitansi (farad)&lt;/li>
+&lt;/ul>
+&lt;p>Besaran turunan ini memiliki satuan pengukuran yang tergantung pada satuan dari besaran fundamental yang digunakan dalam definisinya. Besaran turunan ini banyak digunakan dalam berbagai cabang fisika, seperti mekanika, termodinamika, listrik dan magnetisme, optik, dan lain-lain.&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h4 id="kecepatan-meter-per-detik">Kecepatan (meter per detik)&lt;/h4>
+&lt;p>Kecepatan adalah besaran fisika yang mengukur perubahan posisi suatu benda dalam satu satuan waktu. Satuan untuk besaran kecepatan dalam Sistem Satuan Internasional (SI) adalah meter per detik (m/s).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan m/s:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Kecepatan rata-rata mobil yang berjalan sejauh 100 km dalam waktu 2 jam adalah sekitar 27,8 m/s.&lt;/li>
+&lt;li>Kecepatan suara di udara pada suhu 20 derajat Celsius adalah sekitar 343 m/s.&lt;/li>
+&lt;li>Kecepatan pesawat terbang komersial saat mengudara sekitar 900 km/jam atau sekitar 250 m/s.&lt;/li>
+&lt;li>Kecepatan bola yang dilemparkan ke atas dengan kecepatan awal 20 m/s dan di bumi tanpa hambatan adalah sekitar 0 m/s pada ketinggian tertentu sebelum jatuh kembali ke bumi.&lt;/li>
+&lt;li>Kecepatan elektron yang bergerak dalam suatu medan listrik dapat mencapai jutaan m/s, tergantung pada kuatnya medan listrik dan massa elektron tersebut.&lt;/li>
+&lt;/ul>
+&lt;h4 id="akselerasi-meter-per-detik-kuadrat">Akselerasi (meter per detik kuadrat)&lt;/h4>
+&lt;p>Akselerasi adalah besaran fisika yang mengukur perubahan kecepatan suatu benda dalam satu satuan waktu. Satuan untuk besaran akselerasi dalam Sistem Satuan Internasional (SI) adalah meter per detik kuadrat (m/s²).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan m/s²:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Akselerasi gravitasi bumi pada permukaan bumi adalah sekitar 9,81 m/s², yang berarti setiap detik kecepatan benda yang jatuh bebas di permukaan bumi bertambah sebesar 9,81 m/s.&lt;/li>
+&lt;li>Akselerasi mobil yang berhenti dari kecepatan 100 km/jam dalam waktu 5 detik adalah sekitar 5,6 m/s².&lt;/li>
+&lt;li>Akselerasi pesawat terbang pada saat lepas landas dan mendarat dapat mencapai beberapa meter per detik kuadrat, tergantung pada jenis pesawat dan kondisi penerbangan.&lt;/li>
+&lt;li>Akselerasi gerak harmonik sederhana pada pegas yang bergantung pada massa pegas dan massa yang digantung pada pegas tersebut.&lt;/li>
+&lt;li>Akselerasi benda yang bergerak pada lintasan melingkar seperti roda gigi, mesin cuci, dan mesin pengering dapat dihitung menggunakan persamaan a = v²/r, di mana v adalah kecepatan benda dan r adalah jari-jari lintasan.&lt;/li>
+&lt;/ul>
+&lt;h4 id="gaya-newton">Gaya (newton)&lt;/h4>
+&lt;p>Gaya adalah besaran fisika yang mengukur interaksi antara dua objek yang menghasilkan perubahan gerak atau bentuk suatu objek. Satuan untuk besaran gaya dalam Sistem Satuan Internasional (SI) adalah newton (N).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan N:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Gaya gravitasi bumi pada benda dengan massa 1 kg adalah sekitar 9,81 N pada permukaan bumi.&lt;/li>
+&lt;li>Gaya tarik atau dorong pada benda yang digerakkan dengan mesin, seperti mobil, kapal, dan pesawat terbang, diukur dalam newton.&lt;/li>
+&lt;li>Gaya gesekan antara permukaan benda juga diukur dalam newton, misalnya gesekan antara ban mobil dan jalan.&lt;/li>
+&lt;li>Gaya yang diberikan pada bola ketika memukulnya dalam permainan sepak bola atau tenis adalah sekitar beberapa newton, tergantung pada gaya dan kekuatan pemukul.&lt;/li>
+&lt;li>Gaya magnet pada benda yang berinteraksi dengan medan magnetik dapat diukur dalam newton, misalnya pada penggunaan magnet di mesin-mesin atau peralatan medis.&lt;/li>
+&lt;/ul>
+&lt;h4 id="energi-joule">Energi (Joule)&lt;/h4>
+&lt;p>Energi adalah besaran fisika yang mengukur kemampuan suatu benda untuk melakukan kerja atau menyebabkan perubahan pada suatu sistem fisika. Satuan untuk besaran energi dalam Sistem Satuan Internasional (SI) adalah joule (J).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan J:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Energi kinetik suatu benda dapat dihitung menggunakan persamaan E = 1/2 mv², di mana m adalah massa benda dan v adalah kecepatan benda. Jadi, jika sebuah benda bergerak dengan kecepatan 10 m/s dan memiliki massa 2 kg, maka energi kinetiknya adalah 100 J.&lt;/li>
+&lt;li>Energi potensial gravitasi suatu benda dapat dihitung menggunakan persamaan E = mgh, di mana m adalah massa benda, g adalah percepatan gravitasi bumi, dan h adalah ketinggian benda dari permukaan bumi. Jadi, jika sebuah benda dengan massa 1 kg berada pada ketinggian 10 meter di atas permukaan bumi, maka energi potensial gravitasinya adalah sekitar 98 J.&lt;/li>
+&lt;li>Energi listrik yang dihasilkan oleh alat-alat elektronik seperti baterai, generator, dan panel surya diukur dalam joule.&lt;/li>
+&lt;li>Energi yang dihasilkan oleh bahan bakar seperti bensin dan minyak diukur dalam joule per liter atau joule per kilogram.&lt;/li>
+&lt;li>Energi yang dilepaskan dalam ledakan atau reaksi kimia juga diukur dalam joule.&lt;/li>
+&lt;/ul>
+&lt;h4 id="tekanan-pascal">Tekanan (Pascal)&lt;/h4>
+&lt;p>Tekanan adalah besaran fisika yang mengukur gaya per satuan luas yang bekerja pada suatu permukaan. Satuan untuk besaran tekanan dalam Sistem Satuan Internasional (SI) adalah pascal (Pa), yang setara dengan satu newton per meter persegi (N/m²).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan Pa:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Tekanan atmosfer di permukaan laut adalah sekitar 101.325 Pa atau sekitar 1 atm (atmosfer).&lt;/li>
+&lt;li>Tekanan pada cairan di dalam wadah tertutup seperti tabung Bourdon yang digunakan dalam pengukuran tekanan pada mesin atau alat-alat industri, diukur dalam satuan Pa.&lt;/li>
+&lt;li>Tekanan pada gas dalam tabung tertutup atau dalam balon udara atau gas helium dalam balon selang, juga diukur dalam satuan Pa.&lt;/li>
+&lt;li>Tekanan darah manusia diukur dalam satuan mmHg (milimeter raksa) atau kPa (kiloPascal).&lt;/li>
+&lt;li>Tekanan pada aliran fluida dalam pipa atau saluran air atau udara diukur dalam satuan Pa.&lt;/li>
+&lt;li>Tekanan yang dihasilkan oleh benda yang diletakkan pada permukaan padat atau cair seperti ban mobil atau kaki meja juga diukur dalam satuan Pa.&lt;/li>
+&lt;/ul>
+&lt;h4 id="medan-listrik-volt-per-meter">Medan Listrik (Volt per Meter)&lt;/h4>
+&lt;p>Medan listrik adalah besaran fisika yang mengukur kekuatan suatu medan listrik di suatu tempat dalam ruang. Satuan untuk besaran medan listrik dalam Sistem Satuan Internasional (SI) adalah volt per meter (V/m), yang setara dengan satu volt per meter.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan V/m:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Medan listrik yang dihasilkan oleh benda-benda listrik seperti muatan listrik positif dan negatif diukur dalam satuan V/m.&lt;/li>
+&lt;li>Medan listrik yang dihasilkan oleh sebuah baterai atau sumber listrik lainnya dapat diukur dalam satuan V/m.&lt;/li>
+&lt;li>Medan listrik juga dapat dihasilkan oleh sinyal listrik seperti dalam antena, dan dapat diukur dalam satuan V/m.&lt;/li>
+&lt;li>Medan listrik juga digunakan dalam teknologi touchscreen, yang mengukur perubahan medan listrik di permukaan layar sentuh. Besaran medan listrik yang dihasilkan diukur dalam satuan V/m.&lt;/li>
+&lt;li>Medan listrik juga dapat dihasilkan oleh medan elektromagnetik, dan diukur dalam satuan V/m.&lt;/li>
+&lt;/ul>
+&lt;p>Satuan V/m juga dapat digunakan untuk mengukur besaran medan listrik dalam suatu medium atau bahan isolator seperti kaca atau plastik, yang dapat digunakan dalam teknologi isolasi atau insulasi listrik.&lt;/p>
+&lt;h4 id="resistansi-ohm">Resistansi (Ohm)&lt;/h4>
+&lt;p>Resistansi adalah besaran fisika yang mengukur tingkat resistansi suatu bahan atau komponen listrik terhadap aliran arus listrik. Satuan untuk besaran resistansi dalam Sistem Satuan Internasional (SI) adalah ohm (Ω).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan Ω:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Resistansi merupakan parameter kunci dalam hukum Ohm, yang menyatakan bahwa arus listrik yang mengalir melalui suatu bahan atau komponen listrik sebanding dengan resistansi bahan atau komponen tersebut, dan sebaliknya.&lt;/li>
+&lt;li>Nilai resistansi juga dapat digunakan untuk mengukur kekuatan sinyal listrik dalam sistem elektronik seperti amplifier atau filter, di mana nilai resistansi suatu komponen dapat digunakan untuk mengontrol tegangan atau arus yang melewatinya.&lt;/li>
+&lt;li>Nilai resistansi juga digunakan dalam pengukuran suhu melalui sensor termistor, yang mengukur perubahan resistansi bahan dengan perubahan suhu.&lt;/li>
+&lt;li>Nilai resistansi juga penting dalam perhitungan daya listrik atau daya hantar suatu kabel atau jaringan listrik.&lt;/li>
+&lt;li>Nilai resistansi juga digunakan dalam pengukuran arus dan tegangan dalam sirkuit listrik atau perangkat listrik lainnya.&lt;/li>
+&lt;/ul>
+&lt;p>Satuan Ω juga digunakan dalam pengukuran resistansi pada berbagai jenis bahan dan komponen listrik, seperti kawat tembaga, resistor, transistor, dioda, dan kapasitor.&lt;/p>
+&lt;h4 id="kapasitansi-farad">Kapasitansi (Farad)&lt;/h4>
+&lt;p>Kapasitansi adalah besaran fisika yang mengukur kemampuan suatu benda atau sistem untuk menyimpan muatan listrik. Satuan untuk besaran kapasitansi dalam Sistem Satuan Internasional (SI) adalah farad (F).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan F:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Kapasitansi digunakan dalam perhitungan dan desain rangkaian elektronik seperti kapasitor, yang menyimpan muatan listrik dalam medan listrik antara dua konduktor terpisah.&lt;/li>
+&lt;li>Nilai kapasitansi juga digunakan dalam perhitungan dan analisis sistem elektronik seperti filter, osilator, dan rangkaian penyimpan energi seperti baterai.&lt;/li>
+&lt;li>Kapasitansi juga penting dalam pemahaman dan pengukuran parameter elektrik dari material isolator seperti kapasitor atau dielektrik, yang menyimpan muatan listrik tanpa mengalirkan arus.&lt;/li>
+&lt;li>Nilai kapasitansi juga digunakan dalam pengukuran dan analisis sirkuit listrik, seperti dalam pengukuran nilai resonansi atau dalam perhitungan waktu konstan pada rangkaian RC (resistor-kapasitor).&lt;/li>
+&lt;li>Nilai kapasitansi juga digunakan dalam sistem pembangkit tenaga listrik, seperti kapasitor pembangkit listrik tenaga surya atau pembangkit listrik tenaga angin, yang menyimpan energi listrik dari sumber daya terbarukan sebelum dialirkan ke jaringan listrik.&lt;/li>
+&lt;/ul>
+&lt;p>Satuan F juga digunakan dalam pengukuran kapasitansi pada berbagai jenis kapasitor, seperti kapasitor film, kapasitor elektrolit, kapasitor tantalum, dan kapasitor keramik.&lt;/p></description></item><item><title>Ipa: Contoh Soal Gerak Harmonik Sederhana (Part 3)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-3/</link><pubDate>Fri, 03 Mar 2023 22:09:50 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-3/</guid><description>
+&lt;ol>
+&lt;li>
+&lt;p>Gerak harmonis sederhana didefinisikan sebagai gerak periodik bolak-balik di sekitar suatu titik keseimbangan. Apa yang menjadi titik keseimbangan pada gerak harmonis sederhana?&lt;br>
+A. Puncak&lt;br>
+B. Amplitudo&lt;br>
+C. Titik terendah&lt;br>
+D. Titik pusat&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> D. Titik pusat.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gaya pemulih adalah penyebab suatu benda menempuh gerak harmonik sederhana. Apa yang menjadi ciri dari gaya pemulih?&lt;br>
+A. Bersifat tarik-menarik&lt;br>
+B. Besarnya sebanding dengan kecepatan benda&lt;br>
+C. Besarnya sebanding dengan massa benda&lt;br>
+D. Besarnya sebanding dengan perpindahan benda dan arahnya berlawanan dengan arah perpindahannya&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> D. Besarnya sebanding dengan perpindahan benda dan arahnya berlawanan dengan arah perpindahannya.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Berapa periode ayunan pendulum yang memiliki panjang tali sebesar 1 meter?&lt;br>
+A. 1 detik&lt;br>
+B. 2 detik&lt;br>
+C. 3 detik&lt;br>
+D. 4 detik&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> B. 2 detik.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dalam gerak harmonik sederhana, amplitudo adalah besarnya maksimum perpindahan benda dari posisi keseimbangan. Apa satuan dari amplitudo?&lt;br>
+A. Meter&lt;br>
+B. Meter per detik&lt;br>
+C. Meter per detik kuadrat&lt;br>
+D. Radian&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> A. Meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Persamaan gerak harmonik sederhana dituliskan sebagai x(t) = A cos(ωt + φ). Apa yang menjadi variabel independen pada persamaan ini?&lt;br>
+A. A&lt;br>
+B. ω&lt;br>
+C. t&lt;br>
+D. φ&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> C. t.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gerak harmonik sederhana didefinisikan sebagai gerak periodik bolak-balik di sekitar suatu titik. Apa penyebab gerak tersebut?&lt;br>
+A. Gaya berat&lt;br>
+B. Gaya gesek&lt;br>
+C. Gaya pemulih&lt;br>
+D. Gaya sentripetal&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> C&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Periode dalam gerak harmonik sederhana didefinisikan sebagai&amp;hellip;&lt;br>
+A. Jarak antara kedua puncak gelombang&lt;br>
+B. Waktu yang dibutuhkan untuk melakukan satu siklus&lt;br>
+C. Kecepatan benda pada titik tertentu&lt;br>
+D. Jarak dari titik keseimbangan ke puncak gelombang&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> B&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Suatu benda melakukan gerak harmonik sederhana dengan amplitudo 5 cm dan frekuensi 2 Hz. Apa persamaan gerak benda tersebut?&lt;br>
+A. x(t) = 5 sin(2πt)&lt;br>
+B. x(t) = 5 cos(2πt)&lt;br>
+C. x(t) = 5 sin(4πt)&lt;br>
+D. x(t) = 5 cos(4πt)&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> B&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah pegas memiliki konstanta pegas sebesar 200 N/m. Benda yang tergantung pada pegas tersebut memiliki massa 0,5 kg. Jika benda ditarik ke bawah sejauh 10 cm dan dilepaskan, apa amplitudo gerakan harmonik sederhana dari benda tersebut?&lt;br>
+A. 0,05 m&lt;br>
+B. 0,1 m&lt;br>
+C. 0,2 m&lt;br>
+D. 0,5 m&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> C&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dalam gerak harmonik sederhana, pada titik tertentu, kecepatan benda maksimum saat&amp;hellip;&lt;br>
+A. Benda berada di titik keseimbangan&lt;br>
+B. Benda berada di titik puncak gelombang&lt;br>
+C. Benda berada di tengah jarak antara titik keseimbangan dan puncak gelombang&lt;br>
+D. Benda berada di ujung amplitudo&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> A&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Angka Penting (3)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-3/</link><pubDate>Thu, 16 Feb 2023 21:36:23 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/contoh-soal-3/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-angka-penting-dalam-ilmu-fisika">Berikut adalah contoh soal terkait Angka Penting, dalam ilmu fisika&lt;/h3>
+&lt;ol>
+&lt;li>Sebuah benda dengan massa 2,55 kg bergerak dengan kecepatan 5,25 m/s. Hitunglah momentum benda dengan jumlah angka penting yang tepat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Momentum benda dapat dihitung menggunakan rumus berikut:&lt;br>
+&lt;br>
+&lt;em>p = mv&lt;/em>&lt;br>
+&lt;br>
+dengan p adalah momentum, m adalah massa, dan v adalah kecepatan.&lt;br>
+&lt;br>
+Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+&lt;em>p = (2,55 kg) x (5,25 m/s)&lt;/em>
+&lt;br>
+&lt;em>p = 13,3875 kg.m/s&lt;/em>
+&lt;br>
+Karena nilai 2,55 kg dan 5,25 m/s memiliki tiga angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, momentum benda adalah:&lt;br>
+&lt;br>
+&lt;em>p = 13,4 kg.m/s&lt;/em>&lt;br>
+&lt;br>
+Jadi, momentum benda adalah 13,4 kg.m/s dengan jumlah angka penting yang tepat.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/li>
+&lt;li>Sebuah mobil bergerak dengan kecepatan rata-rata 65,2 km/jam selama 3,5 jam. Berapa jarak yang ditempuh mobil tersebut dengan jumlah angka penting yang tepat?&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Jarak yang ditempuh oleh mobil dapat dihitung menggunakan rumus berikut:&lt;br>
+&lt;br>
+&lt;em>d = v.t&lt;/em>&lt;br>
+&lt;br>
+dengan &lt;em>d&lt;/em> adalah jarak, &lt;em>v&lt;/em> adalah kecepatan, dan &lt;em>t&lt;/em> adalah waktu.&lt;br>
+&lt;br>
+Sebelumnya, kecepatan rata-rata yang diberikan dalam satuan km/jam perlu dikonversi menjadi satuan m/s. Untuk itu, digunakan konversi satuan sebagai berikut:&lt;br>
+&lt;br>
+&lt;em>1 km/jam = 1000 m / 3600 s = 0,2777778 m/s&lt;/em>&lt;br>
+&lt;br>
+Sehingga kecepatan rata-rata mobil dalam satuan m/s adalah:&lt;br>
+&lt;br>
+&lt;em>v = (65,2 km/jam) x (1000 m / 3600 s)&lt;/em>&lt;br>
+&lt;br>
+&lt;em>v = 18,1111111 m/s&lt;/em>&lt;br>
+&lt;br>
+Substitusi nilai yang diberikan menghasilkan:&lt;br>
+&lt;br>
+&lt;em>d = (18,1111111 m/s) x (3,5 jam)&lt;/em>&lt;br>
+&lt;br>
+&lt;em>d = 63,3888889 km&lt;/em>&lt;br>
+&lt;br>
+Karena nilai 65,2 km/jam dan 3,5 jam memiliki tiga angka penting, maka hasil akhir harus dibulatkan menjadi tiga angka penting untuk menjaga konsistensi angka penting dalam perhitungan. Oleh karena itu, jarak yang ditempuh mobil tersebut adalah:&lt;br>
+&lt;br>
+&lt;em>d = 63,4 km&lt;/em>&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Angka Penting</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/</link><pubDate>Thu, 16 Feb 2023 17:44:05 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/angka-penting/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="angka-penting">Angka Penting&lt;/h2>
+&lt;p>Angka penting (&lt;em>significant figures&lt;/em>) adalah cara untuk mengekspresikan ketidakpastian dalam pengukuran atau hasil perhitungan. Dalam ilmu fisika, angka penting sangat penting untuk memastikan bahwa hasil pengukuran atau perhitungan tepat dan konsisten dengan tingkat ketidakpastian yang diharapkan.&lt;/p>
+&lt;p>Aturan umum untuk menentukan angka penting adalah sebagai berikut:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Semua angka yang bukan nol dianggap signifikan. Contohnya, dalam angka 123, ketiga angka dianggap signifikan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nol pada awal bilangan bukan termasuk angka penting. Contohnya, dalam angka 0,00123, hanya tiga angka dianggap signifikan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nol pada akhir bilangan yang memiliki titik desimal dianggap signifikan. Contohnya, dalam angka 12,30, ada empat angka signifikan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nol pada akhir bilangan tanpa titik desimal mungkin atau mungkin tidak dianggap signifikan, tergantung pada keadaan. Misalnya, jika bilangan tersebut merupakan hasil dari pengukuran, nol pada akhir bilangan dianggap signifikan. Namun, jika bilangan tersebut merupakan hasil dari perhitungan, nol pada akhir bilangan tidak dianggap signifikan.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Pemahaman yang baik tentang angka penting sangat penting dalam ilmu fisika karena hasil perhitungan atau pengukuran yang tidak akurat dapat mengarah pada kesalahan dalam kesimpulan yang ditarik dari data tersebut. Oleh karena itu, penting untuk selalu memperhatikan angka penting dalam setiap perhitungan dan pengukuran dalam ilmu fisika.&lt;/p>
+&lt;h3 id="setiap-angka-bukan-nol-adalah-angka-penting">Setiap angka bukan nol adalah angka penting&lt;/h3>
+&lt;p>Ya, setiap angka yang bukan nol dalam sebuah bilangan dianggap sebagai angka penting. Misalnya, dalam bilangan 567, ketiga angka (5, 6, dan 7) dianggap sebagai angka penting. Ini karena setiap angka tersebut memberikan informasi tentang bilangan dan kesalahan pengukuran atau perhitungan dapat mengubah bilangan tersebut secara signifikan. Oleh karena itu, angka-angka tersebut dianggap penting dalam menentukan jumlah angka signifikan (significant figures) dalam suatu bilangan.&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h3 id="setiap-angka-nol-di-depan-angka-bukan-nol-bukanlah-angka-penting">Setiap angka nol di depan angka bukan nol bukanlah angka penting&lt;/h3>
+&lt;p>Ya, aturan umum adalah bahwa angka nol di depan angka bukan nol biasanya tidak dianggap sebagai angka penting. Contohnya, dalam bilangan 0,00123, hanya tiga angka dianggap signifikan karena angka nol di depan 1 dan 2 tidak memberikan informasi tambahan tentang besarnya bilangan.&lt;/p>
+&lt;p>Sebaliknya, mereka hanya menunjukkan posisi desimal pada bilangan tersebut. Namun, jika angka tersebut diukur atau ditentukan dengan tingkat ketelitian tertentu, angka nol di depan angka bukan nol dapat dianggap sebagai angka penting. Oleh karena itu, konteks penggunaan angka tersebut dapat mempengaruhi jumlah angka signifikan dalam suatu bilangan.&lt;/p>
+&lt;h3 id="setiap-angka-nol-di-belakang-tanda-desimal-adalah-angka-penting">Setiap angka nol di belakang tanda desimal adalah angka penting&lt;/h3>
+&lt;p>Ya, aturan umum adalah bahwa angka nol yang terletak di belakang tanda desimal dalam suatu bilangan biasanya dianggap sebagai angka penting. Contohnya, dalam bilangan 3.40, kedua angka (3 dan 4) dianggap signifikan karena keduanya memberikan informasi tentang besarnya bilangan. Angka nol pada akhir bilangan menunjukkan bahwa bilangan tersebut telah diukur atau ditentukan dengan tingkat ketelitian yang cukup tinggi.&lt;/p>
+&lt;p>Namun, jika angka nol tersebut tidak diukur atau ditentukan dengan tingkat ketelitian tertentu, maka angka nol tersebut mungkin tidak dianggap sebagai angka penting. Oleh karena itu, konteks penggunaan angka tersebut dapat mempengaruhi jumlah angka signifikan dalam suatu bilangan.&lt;/p></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (3)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-3/</link><pubDate>Thu, 16 Feb 2023 17:24:23 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-3/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah balok dengan massa 10 kg didorong dengan gaya 20 N. Berapa percepatan yang dialami oleh balok tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+massa ({$m}) = 10 kg&lt;br>
+gaya ({$F}) = 20 N&lt;br>
+Ditanyakan: percepatan ({$a})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$a = F/m}&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$a} = 20 N / 10 kg = 2 m/s{^2}&lt;br>
+Jadi, percepatan yang dialami oleh balok tersebut adalah 2 m/s{^2}.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang pelari berlari dengan kecepatan rata-rata 5 m/s selama 20 detik. Berapa jarak yang ditempuh oleh pelari tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+kecepatan rata-rata ({$v}) = 5 m/s&lt;br>
+waktu ({$t}) = 20 s&lt;br>
+Ditanyakan: jarak ({$s})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$s = v x t}&lt;br>
+Substitusi nilai:&lt;br>
+{$s} = 5 m/s x 20 s = 100 m&lt;br>
+Jadi, jarak yang ditempuh oleh pelari tersebut adalah 100 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kabel listrik memiliki hambatan 5 ohm. Jika arus listrik yang mengalir melalui kabel tersebut sebesar 2 A, berapa tegangan listrik yang diperlukan?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+hambatan ({$R}) = 5 ohm&lt;br>
+arus ({$I}) = 2 A&lt;br>
+Ditanyakan: tegangan ({$V})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{*V = R x I}&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$V} = 5 ohm x 2 A = 10 V&lt;br>
+Jadi, tegangan listrik yang diperlukan adalah 10 volt.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dilemparkan ke atas dengan kecepatan awal 10 m/s. Berapa tinggi maksimum yang dapat dicapai oleh bola tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+kecepatan awal ({$v}) = 10 m/s&lt;br>
+&lt;em>&lt;strong>Ditanyakan:&lt;/strong>&lt;/em>&lt;br>
+tinggi maksimum (h)&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$h} = {$v}{^2}/2{$g}&lt;br>
+Di mana {$g} adalah percepatan gravitasi bumi, yaitu sebesar 9,8 m/s{^2}.&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$h} = (10 m/s){^2} / 2 x 9,8 m/s{^2} = 5,1 m
+Jadi, tinggi maksimum yang dapat dicapai oleh bola tersebut adalah sekitar 5,1 meter.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Gerak Harmonik Sederhana (Part 4)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-4/</link><pubDate>Sun, 12 Mar 2023 18:50:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/contoh-soal-4/</guid><description>
+&lt;ol>
+&lt;li>Sebuah bandul digantung dengan tali yang panjangnya &lt;code>169 cm&lt;/code>. Saat dilepas dari simpangan awal tertentu, bandul akan berayun dengan periode \(T_1\). Apabila tali bandul dipotong &lt;code>25 cm&lt;/code>, periode ayunan bandul menjadi \(T₂\). Selisih \(T_1\) dan \(T_2\), sekitar &amp;hellip;. &lt;em>&lt;strong>(SBMPTN 2007)&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Kita dapat menggunakan rumus periode pada bandul sederhana untuk menyelesaikan masalah ini. Rumus periode bandul sederhana adalah sebagai berikut:
+$$T=2\pi\sqrt{\frac{l}{g}}$$
+Di mana \(T\) adalah periode ayunan bandul, \(l\) adalah panjang tali bandul, dan \(g\) adalah percepatan gravitasi. Jika tali bandul dipotong menjadi &lt;code>25 cm&lt;/code>, maka panjang tali bandul menjadi &lt;code>144 cm&lt;/code>.
+Maka, periode \(T_1\) adalah:
+$$T₁=2\pi\sqrt{\frac{169\text{ cm}}{g}}$$
+Periode \(T_2\) adalah:
+$$T₂=2\pi\sqrt{\frac{144\text{ cm}}{g}}$$
+Kita ingin mencari selisih antara \(T_1\) dan \(T_2\), yaitu \(T_1-T_2\).
+$$T₁ - T₂ = 2\pi\sqrt{\frac{169\text{ cm}}{g}} - 2\pi\sqrt{\frac{144\text{ cm}}{g}}$$
+$$T₁ - T₂ = 2\pi\sqrt{\frac{169}{g}} - 2\pi\sqrt{\frac{144}{g}}$$
+$$T₁ - T₂ = 2\pi\left(\sqrt{\frac{169}{g}} - \sqrt{\frac{144}{g}}\right)$$
+$$T₁ - T₂ = 2\pi\left(\frac{13}{\sqrt{g}} - \frac{12}{\sqrt{g}}\right)$$
+$$T₁ - T₂ = 2\pi\frac{1}{\sqrt{g}}$$
+Untuk mencari nilai selisih T₁ dan T₂, kita perlu mengetahui nilai percepatan gravitasi g. Di mana percepatan gravitasi di bumi adalah sekitar 9,8 m/s².
+$$T₁ - T₂ = 2\pi\frac{1}{\sqrt{9,8\text{ m/s²}}}$$
+$$T₁ - T₂ \approx 0,21 \text{ detik}$$
+Jadi, selisih antara \(T_1\) dan \(T_2\) sekitar &lt;code>0,21 detik&lt;/code>.&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Besaran Skalar</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/</link><pubDate>Sat, 18 Feb 2023 21:40:23 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/</guid><description>
+&lt;h2 id="pengertian-besaran-skalar">Pengertian Besaran Skalar&lt;/h2>
+&lt;p>Besaran skalar adalah jenis besaran fisika yang hanya memiliki nilai numerik atau magnitudo saja, tanpa arah atau orientasi tertentu. Contoh besaran skalar meliputi massa, waktu dan suhu.&lt;/p>
+&lt;p>Berikut adalah beberapa konsep dasar tentang besaran skalar:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Besaran skalar hanya memiliki nilai numerik, tanpa arah atau orientasi tertentu. Misalnya, massa sebuah benda memiliki nilai 5 kg, dan tidak ada arah atau orientasi yang terkait dengan besaran ini.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Besaran skalar dapat diukur menggunakan satuan standar yang berlaku secara internasional. Misalnya, massa dapat diukur dalam kilogram (kg), waktu dalam detik (s) dan suhu dalam Kelvin (K).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Besaran skalar dapat dioperasikan menggunakan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Misalnya, jika Anda memiliki dua besaran skalar, seperti massa 5 kg dan massa 3 kg, Anda dapat menambahkannya untuk mendapatkan total massa 8 kg.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Besaran skalar dapat direpresentasikan dengan menggunakan bilangan atau angka saja, tanpa tanda panah atau vektor. Misalnya, jika Anda ingin merepresentasikan suhu 25 derajat Celsius, Anda cukup menuliskan angka 25, tanpa perlu menggunakan tanda panah atau vektor.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Besaran skalar dapat digunakan untuk mengukur atau menentukan kuantitas fisika yang terkait dengan nilai numeriknya. Misalnya, massa dapat digunakan untuk mengukur inersia benda, waktu dapat digunakan untuk mengukur periode suatu fenomena dan suhu dapat digunakan untuk menentukan tingkat energi dalam sistem.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Besaran Vektor</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/</link><pubDate>Fri, 17 Feb 2023 06:22:36 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="dasar-pemahaman">Dasar Pemahaman&lt;/h2>
+&lt;p>Besaran vektor adalah besaran yang memiliki magnitudo (besar) dan arah yang ditentukan dalam ruang tiga dimensi. Contoh besaran vektor adalah percepatan, gaya, kecepatan, dan momentum. Besaran vektor biasanya direpresentasikan dengan panah di atas huruf yang merepresentasikan besarnya. Misalnya, vektor percepatan direpresentasikan dengan panah di atas huruf &amp;ldquo;a&amp;rdquo;, yaitu \(\vec{a}\).&lt;/p>
+&lt;p>Dalam koordinat kartesian, besaran vektor dinyatakan dengan tiga komponen, masing-masing menunjukkan kontribusi besaran pada sumbu \(x\), \(y\), dan \(z\). Vektor posisi, misalnya, dapat ditulis sebagai \(\vec{r} = (x, y, z)\), di mana \(x\), \(y\), dan \(z\) adalah koordinat pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;p>Selain itu, besaran vektor juga dapat dioperasikan menggunakan operasi matematika seperti penjumlahan vektor, pengurangan vektor, dan perkalian skalar. Operasi ini memungkinkan kita untuk melakukan perhitungan yang kompleks dalam fisika dan matematika, seperti menghitung resultan gaya pada suatu benda atau menghitung arah dan besarnya momentum sebuah objek.&lt;/p>
+&lt;h3 id="berikut-beberapa-contoh-sederhana-dari-besaran-vektor">Berikut beberapa contoh sederhana dari besaran vektor&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Kecepatan:&lt;/strong>&lt;/em> kecepatan adalah besaran vektor yang menyatakan seberapa cepat suatu objek bergerak dan ke arah mana objek itu bergerak. Kecepatan dapat ditulis sebagai \(\vec{v} = (v_x, v_y, v_z)\), di mana \(v_x\), \(v_y\), dan \(v_z\) adalah kecepatan pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Gaya:&lt;/strong>&lt;/em> gaya adalah besaran vektor yang menyatakan seberapa kuat suatu benda ditarik atau didorong dan arah gaya tersebut. Gaya dapat ditulis sebagai \(\vec{F} = (F_x, F_y, F_z)\), di mana \(F_x\), \(F_y\), dan \(F_z\) adalah gaya pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Percepatan:&lt;/strong>&lt;/em> percepatan adalah besaran vektor yang menyatakan perubahan kecepatan suatu objek dalam suatu periode waktu tertentu dan arah percepatan tersebut. Percepatan dapat ditulis sebagai \(\vec{a} = (a_x, a_y, a_z)\), di mana \(a_x\), \(a_y\), dan \(a_z\) adalah percepatan pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Momentum:&lt;/strong>&lt;/em> momentum adalah besaran vektor yang menyatakan seberapa berat suatu objek dan seberapa cepat objek tersebut bergerak dan arah momentum tersebut. Momentum dapat ditulis sebagai \(\vec{p} = (p_x, p_y, p_z)\), di mana \(p_x\), \(p_y\), dan \(p_z\) adalah momentum pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Vektor posisi:&lt;/strong>&lt;/em> vektor posisi adalah besaran vektor yang menyatakan posisi suatu objek dalam suatu sistem koordinat tertentu. Vektor posisi dapat ditulis sebagai \(\vec{r} = (x, y, z)\), di mana \(x\), \(y\), dan \(z\) adalah koordinat pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="gambar-besaran-vektor-dalam-ruang-tiga-dimensi">Gambar besaran vektor dalam ruang tiga dimensi&lt;/h3>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/vektorabc.png">
+&lt;img src="https://www.all-indonesia.com/img/vektorabc.png"
+alt="Gambar Konsep Besaran Vektor"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>Gambar Konsep Besaran Vektor&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Gambar tersebut menunjukkan tiga buah besaran vektor, yaitu \(\vec{a}\), \(\vec{b}\), dan \(\vec{c}\) yang dinyatakan dalam koordinat kartesian \((x, y, z)\). Setiap besaran vektor direpresentasikan oleh sebuah panah dengan panjang (magnitudo) dan arah yang ditentukan oleh koordinat \((x, y, z)\). Panjang panah merepresentasikan besar (magnitudo) dari besaran vektor, sedangkan arah dari panah merepresentasikan arah besaran vektor.&lt;/p>
+&lt;p>Dalam contoh gambar tersebut, \(\vec{a}\) dan \(\vec{b}\) memiliki arah yang sama, yaitu searah sumbu \(x\), sedangkan \(\vec{c}\) memiliki arah yang berbeda dari \(\vec{a}\) dan \(\vec{b}\). Selain itu, panjang dari \(\vec{b}\) lebih panjang dibandingkan dengan \(\vec{a}\) dan \(\vec{c}\), sehingga magnitudo \(\vec{b}\) lebih besar dibandingkan dengan \(\vec{a}\) dan \(\vec{c}\).&lt;/p>
+&lt;h3 id="contoh-lainnya-dari-besaran-vektor">Contoh lainnya dari besaran vektor&lt;/h3>
+&lt;p>Beberapa contoh besaran vektor dalam fisika adalah:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Kecepatan:&lt;/strong>&lt;/em> Kecepatan adalah besaran vektor yang menyatakan perubahan posisi suatu benda dalam suatu waktu tertentu. Kecepatan dinyatakan dalam satuan meter per detik \((\text{m/s})\) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, kecepatan mobil yang bergerak ke arah timur dengan kecepatan 50 km/jam dapat dituliskan sebagai \(\vec{v} = (50\text{ km/jam})\ \hat{i}\), di mana \(\hat{i}\) adalah vektor satuan searah sumbu \(x\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Gaya:&lt;/strong>&lt;/em> Gaya adalah besaran vektor yang menyatakan pengaruh suatu benda terhadap benda lain dalam hal perubahan kecepatan atau bentuk benda tersebut. Gaya dinyatakan dalam satuan newton (\(\text{N}\)) dan memiliki arah yang sejajar dengan arah pengaruh tersebut. Contohnya, gaya gravitasi yang bekerja pada sebuah benda dengan massa 2 kg di dekat permukaan bumi dapat dituliskan sebagai \(\vec{F_g} = (2\text{ kg})(9.8\text{ m/s}^2)\ \hat{j} = 19.6\text{ N}\ \hat{j}\), di mana \(\hat{j}\) adalah vektor satuan searah sumbu \(y\) negatif.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Momentum:&lt;/strong>&lt;/em> Momentum adalah besaran vektor yang menyatakan kuantitas gerak suatu benda, yaitu massa benda dikalikan dengan kecepatannya. Momentum dinyatakan dalam satuan kilogram meter per detik (\(\text{kg m/s}\)) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, momentum sebuah bola dengan massa 0.5 kg yang bergerak dengan kecepatan 10 m/s ke arah timur dapat dituliskan sebagai \(\vec{p} = (0.5\text{ kg})(10\text{ m/s})\ \hat{i} = 5\text{ kg m/s}\ \hat{i}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Percepatan:&lt;/strong>&lt;/em> Percepatan adalah besaran vektor yang menyatakan perubahan kecepatan suatu benda dalam suatu waktu tertentu. Percepatan dinyatakan dalam satuan meter per detik kuadrat (\(\text{m/s}^2\)) dan memiliki arah yang sejajar dengan arah perubahan kecepatan. Contohnya, percepatan gravitasi yang bekerja pada benda di dekat permukaan bumi dapat dituliskan sebagai \(\vec{a} = (0\ \text{m/s}^2)\ \hat{i} - (9.8\ \text{m/s}^2)\ \hat{j}\), di mana \(\hat{i}\) dan \(\hat{j}\) adalah vektor satuan searah sumbu \(x\) dan \(y\) negatif.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="proyeksi-vektor">Proyeksi Vektor&lt;/h2>
+&lt;p>Proyeksi vektor adalah hasil proyeksi suatu vektor pada suatu sumbu atau bidang tertentu. Proyeksi vektor dapat digunakan untuk menentukan komponen suatu vektor pada suatu sumbu atau bidang tertentu. Misalnya, proyeksi vektor pada sumbu x dapat digunakan untuk menentukan komponen vektor pada sumbu x, sedangkan proyeksi vektor pada bidang xy dapat digunakan untuk menentukan komponen vektor pada bidang xy.&lt;/p>
+&lt;p>Secara matematis, proyeksi vektor pada suatu sumbu atau bidang dapat ditemukan dengan mengalikan panjang vektor dengan kosinus sudut antara vektor tersebut dan sumbu atau bidang yang dimaksud. Jika vektor yang akan diproyeksikan dinyatakan sebagai vektor \(\vec{v}\) dan sumbu atau bidang yang dimaksud dinyatakan sebagai
+\(\hat{n}\), maka proyeksi vektor dapat dinyatakan sebagai:&lt;/p>
+&lt;p>$$\operatorname{proj}_{\hat{n}} \vec{v} = |\vec{v}| \cos \theta = |\vec{v}| \cos (\hat{n}, \vec{v})$$&lt;/p>
+&lt;p>di mana \(\theta\) adalah sudut antara vektor \(\vec{v}\) dan sumbu atau bidang \(\hat{n}\).&lt;/p>
+&lt;p>Ilustrasi proyeksi vektor dapat dilihat pada simulasi berikut:&lt;/p>
+&lt;div class="container">
+&lt;iframe scrolling="no" title="Vector Projection" src="https://www.geogebra.org/material/iframe/id/mkV7F8Jf/width/900/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" class="responsive-iframe" style="border:0px;"> &lt;/iframe>
+&lt;/div></description></item><item><title>Ipa: Gerak Harmonik Sederhana (GHS)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/</link><pubDate>Mon, 20 Feb 2023 11:30:30 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/ghs/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="pengertian-ghs">Pengertian GHS&lt;/h2>
+&lt;p>Gerak Harmonik Sederhana (GHS) adalah gerakan benda yang mengikuti suatu pola pergerakan bolak-balik dengan frekuensi dan amplitudo tertentu. Pada GHS, gaya yang bekerja pada benda selalu sebanding dengan jaraknya dari titik kesetimbangan.&lt;/p>
+&lt;p>Contoh GHS yang paling umum adalah pergerakan pegas. Saat pegas ditarik dan dilepaskan, ia akan bergetar ke atas dan ke bawah, mengikuti pola GHS. GHS juga dapat diamati pada banyak sistem fisika lainnya, seperti gelombang suara, getaran molekul, dan gerakan planet.&lt;/p>
+&lt;p>Pada GHS, besaran-besaran seperti periode, frekuensi, amplitudo, dan fase dapat digunakan untuk menggambarkan pergerakan benda. Misalnya, periode adalah waktu yang dibutuhkan benda untuk menyelesaikan satu siklus pergerakan bolak-balik, sedangkan frekuensi adalah jumlah siklus per detik. Amplitudo mengukur seberapa jauh benda bergerak dari posisi kesetimbangan, sedangkan fase menggambarkan posisi benda pada suatu saat tertentu dalam siklus gerakan.&lt;/p>
+&lt;p>Jadi, gerak harmonik sederhana merupakan gerakan periodik bolak-balik yang terjadi karena adanya gaya pemulih yang bekerja pada benda. Gaya pemulih ini berbentuk gaya restorasi yang besarnya sebanding dengan perpindahan dari titik keseimbangan dan arahnya berlawanan dengan arah perpindahan. Contoh dari gerak harmonik sederhana adalah gerakan pegas dan ayunan matematis. Gerakan ini memiliki persamaan gerak yang sederhana, yaitu &lt;em>&lt;strong>x = A sin(wt + ϕ)&lt;/strong>&lt;/em>, di mana x adalah perpindahan dari titik keseimbangan, &lt;em>&lt;strong>A&lt;/strong>&lt;/em> adalah amplitudo, &lt;em>&lt;strong>w&lt;/strong>&lt;/em> adalah frekuensi sudut, &lt;em>&lt;strong>t&lt;/strong>&lt;/em> adalah waktu, dan &lt;em>&lt;strong>ϕ&lt;/strong>&lt;/em> adalah fase awal.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;p>Dalam Gerak Harmonik Sederhana (GHS), terdapat beberapa istilah penting yang sering digunakan, antara lain:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Periode (T) - Waktu yang dibutuhkan oleh suatu benda untuk menyelesaikan satu siklus gerakan bolak-balik. Satuan periode adalah detik (s).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Frekuensi (f) - Jumlah siklus gerakan bolak-balik dalam satu satuan waktu. Frekuensi dapat dihitung dengan rumus f = 1/T. Satuan frekuensi adalah hertz (Hz).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Amplitudo (A) - Besar maksimum perpindahan suatu benda dalam gerak harmonik sederhana. Amplitudo diukur dalam satuan meter (m).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Fase (phi) - Sifat posisi suatu benda dalam siklus gerakan bolak-balik pada waktu tertentu. Fase diukur dalam satuan radian (rad) atau derajat (°).&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Keempat istilah di atas sangat penting dalam menggambarkan sifat-sifat gerak harmonik sederhana dan digunakan dalam perhitungan matematis terkait gerakan tersebut.&lt;/p>
+&lt;p>Contoh gerak harmonis sederhana yang sering ditemui dalam kehidupan sehari-hari adalah:&lt;/p>
+&lt;ol>
+&lt;li>&lt;em>&lt;strong>Osilasi pegas:&lt;/strong>&lt;/em> ketika pegas diregangkan dan kemudian dilepaskan, maka massa yang tergantung pada ujung pegas akan bergerak naik turun secara periodik sekitar posisi kesetimbangan.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Gerakan bandul:&lt;/strong>&lt;/em> ketika bandul diangkat dan kemudian dilepaskan, maka bola pada ujung bandul akan bergerak bolak-balik secara periodik.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Gelombang suara:&lt;/strong>&lt;/em> gelombang suara dapat dianggap sebagai gerakan harmonis sederhana karena getaran partikel di udara yang menghasilkan gelombang suara adalah gerakan bolak-balik yang periodik.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Gerakan planet dan satelit:&lt;/strong>&lt;/em> orbit planet dan satelit dapat dianggap sebagai gerakan harmonis sederhana karena benda tersebut bergerak bolak-balik secara periodik sekitar posisi kesetimbangan yaitu bintang yang menjadi pusat gravitasi.&lt;/li>
+&lt;/ol>
+&lt;p>Persamaan gerak harmonik sederhana dituliskan sebagai berikut:
+$$x(t) = A\ sin(ωt + φ)$$&lt;/p>
+&lt;p>dengan:&lt;/p>
+&lt;p>\(x(t)\) adalah posisi benda pada saat \(t\)&lt;br>
+\(A\) adalah amplitudo gerak, yaitu jarak maksimum perpindahan benda dari titik keseimbangan&lt;br>
+\(ω\) adalah frekuensi sudut gerak, dinyatakan dalam \(rad/s\)&lt;br>
+\(t\) adalah waktu dalam satuan detik&lt;br>
+\(φ\) adalah fase awal gerak, yaitu fase saat \(t = 0\)&lt;/p>
+&lt;p>Dalam bentuk persamaan, frekuensi sudut \(ω\) dapat dihitung dengan menggunakan persamaan berikut:&lt;/p>
+&lt;p>$$ω = \frac{2π}{T}$$&lt;/p>
+&lt;p>dengan \(T\) adalah periode gerak, yaitu waktu yang diperlukan oleh benda untuk menyelesaikan satu kali pergerakan bolak-balik. Frekuensi sudut dan periode gerak memiliki hubungan yang sebanding terbalik, sehingga frekuensi dan periode gerak dapat dihitung dengan persamaan berikut:&lt;/p>
+&lt;p>$$f = \frac{1}{T} = \frac{ω}{2π}$$&lt;/p>
+&lt;p>dengan \(f\) adalah frekuensi gerak dalam satuan &lt;em>&lt;strong>Hz&lt;/strong>&lt;/em>.&lt;/p>
+&lt;p>Persamaan gerak harmonik sederhana dapat dinyatakan sebagai \(x(t) = A\ cos(ωt + φ)\), di mana \(x(t)\) adalah posisi benda pada waktu \(t\), \(A\) adalah amplitudo (maksimum perpindahan benda dari titik kesetimbangan), \(ω\) adalah frekuensi sudut (&lt;em>2π kali frekuensi&lt;/em>), \(t\) adalah waktu, dan \(φ\) adalah fase awal (fase pada waktu &lt;em>t = 0&lt;/em>). Persamaan ini menggambarkan gerakan bolak-balik sebuah benda yang bergerak dengan periodik di sekitar titik kesetimbangan, karena adanya gaya restorasi yang memulihkan benda ke titik kesetimbangan.&lt;/p>
+&lt;p>Persamaan Gerak Harmonik Sederhana juga dapat dinyatakan dalam bentuk sebagai berikut:&lt;/p>
+&lt;p>$$x(t) = A cos(ωt + φ)$$&lt;/p>
+&lt;p>dimana:&lt;/p>
+&lt;p>\(x(t)\) = posisi benda pada waktu \(t\)&lt;br>
+\(A\) = amplitudo, yaitu jarak maksimum perpindahan benda dari titik keseimbangan&lt;br>
+\(ω\) = frekuensi sudut, yaitu kecepatan perubahan sudut dalam gerakan harmonik (dalam radian/detik)&lt;br>
+\(t\) = waktu dalam detik&lt;br>
+\(φ\) = fasa awal, yaitu posisi benda pada saat \(t = 0\) (dalam radian)&lt;/p>
+&lt;h3 id="ghs-pada-pendulum">GHS Pada Pendulum&lt;/h3>
+&lt;p>Gerak pendulum adalah gerakan sebuah benda yang tergantung pada suatu tali atau batang yang memungkinkan benda tersebut untuk berayun bebas di sekitar porosnya. Pada gerak pendulum, gaya gravitasi memiliki pengaruh besar terhadap gerakan benda. Semakin besar gaya gravitasi, semakin cepat ayunan benda.&lt;/p>
+&lt;p>Panjang pendulum juga mempengaruhi gerakan pendulum. Semakin panjang pendulum, semakin lambat ayunan benda dan semakin besar periode ayunan benda. Persamaan untuk periode ayunan benda pada suatu pendulum adalah:&lt;/p>
+&lt;p>$$ T = 2\pi \sqrt{\frac{l}{g}} $$&lt;/p>
+&lt;p>di mana \(T\) adalah periode ayunan benda, \(l\) adalah panjang pendulum, dan \(g\) adalah percepatan gravitasi.&lt;/p>
+&lt;p>Massa benda pada ujung tali atau batang biasanya tidak mempengaruhi periode ayunan benda, tetapi mempengaruhi amplitudo atau besarannya. Semakin besar massa benda, semakin kecil amplitudo atau ayunan maksimum benda.&lt;/p>
+&lt;div class="container">
+&lt;iframe class="responsive-iframe" scrolling="no" title="Simple Pendulum" src="https://www.geogebra.org/material/iframe/id/fwgsd2ut/width/703/height/556/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" style="border:0px;"> &lt;/iframe>
+&lt;/div>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;div class="container">
+&lt;iframe scrolling="no" title="Snake Pendulum" src="https://www.geogebra.org/material/iframe/id/pF4ZGbVt/width/835/height/631/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" class="responsive-iframe" style="border:0px;"> &lt;/iframe>
+&lt;/div>
+&lt;h3 id="ghs-pada-pegas">GHS Pada Pegas&lt;/h3>
+&lt;p>Gerak Harmonik Sederhana (GHS) pada pegas adalah gerakan periodik yang dilakukan oleh suatu massa yang tergantung pada sebuah pegas dan hanya dipengaruhi oleh gaya restorasi (gaya yang timbul akibat peregangan atau penyusutan pegas). Faktor-faktor yang mempengaruhi GHS pada pegas antara lain:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Konstanta pegas (k):&lt;/strong>&lt;/em> Semakin besar konstanta pegas, semakin besar gaya restorasi yang ditimbulkan pada suatu peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Massa (m):&lt;/strong>&lt;/em> Semakin besar massa suatu benda yang digantung pada pegas, semakin besar pula gaya yang diperlukan untuk menghasilkan peregangan atau penyusutan pegas. Hal ini akan memperlambat gerakan massa dan memperpanjang periode GHS pada pegas.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Amplitudo (A):&lt;/strong>&lt;/em> Amplitudo adalah jarak maksimum yang ditempuh oleh massa dalam gerakan GHS pada pegas. Semakin besar amplitudo, semakin besar pula gaya restorasi yang ditimbulkan pada suatu peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Gaya gravitasi (g):&lt;/strong>&lt;/em> Gaya gravitasi adalah gaya yang menarik massa pada pegas ke arah bawah. Semakin besar nilai percepatan gravitasi, semakin cepat massa akan kembali ke posisi semula setelah mengalami peregangan atau penyusutan pegas. Hal ini akan mempercepat gerakan massa dan memperpendek periode GHS pada pegas.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Dengan mempertimbangkan faktor-faktor di atas, periode GHS pada pegas dapat dihitung menggunakan rumus:&lt;/p>
+&lt;p>$$T = 2π \sqrt{\frac{m}{k}}$$&lt;/p>
+&lt;p>di mana \(T\) adalah periode (s), \(m\) adalah massa (kg), dan \(k\) adalah konstanta pegas (N/m).&lt;/p>
+&lt;div class="container">
+&lt;iframe scrolling="no" title="Spring-Mass Motion LAB" src="https://www.geogebra.org/material/iframe/id/WJtR3PkW/width/900/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" class="responsive-iframe" style="border:0px;"> &lt;/iframe>
+&lt;/div></description></item><item><title>Ipa: Fisika Kelas 10</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
 &lt;h2 id="fokus-pembelajaran-fisika-kelas-10">Fokus Pembelajaran Fisika Kelas 10&lt;/h2>
 &lt;h3 id="pengukuran-dan-kinematika-partikel">Pengukuran dan Kinematika Partikel&lt;/h3>
 &lt;p>&lt;em>&lt;strong>Pengembangan pemahaman gerak lurus, gerak parabolik dan gerak melingkar&lt;/strong>&lt;/em>&lt;/p>
@@ -17,8 +1648,32 @@
 &lt;ul>
 &lt;li>Siswa menunjukkan rasa ingin tahu dan kegemaran memecahkan masalah fisika sederhana dengan pendekatan matematis dan logis.&lt;/li>
 &lt;li>Siswa menunjukkan sikap cakap, terampil, kreatif, produktif, inovatif, mandiri, komunikatif dalam berperilaku di lingkungannya.&lt;/li>
-&lt;li>Siswa berperilaku jujur, berakhlak mulia, beriman, takwa dan mencintai tanah air.&lt;/li>
-&lt;/ul></description></item><item><title>Ipa: Fisika Kelas 11</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-11/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-11/</guid><description>
+&lt;li>Siswa berperilaku jujur, berakhlak mulia, beriman, takwa dan mencintai tanah air&lt;/li>
+&lt;/ul></description></item><item><title>Ipa: Gerak Lurus Beraturan (GLB)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/glb/</link><pubDate>Sun, 12 Mar 2023 21:50:03 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/glb/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="pengertian-glb">Pengertian GLB&lt;/h2>
+&lt;p>Gerak Lurus Beraturan (GLB) adalah gerakan benda yang bergerak lurus dengan kecepatan yang tetap. Dalam GLB, benda akan bergerak sepanjang lintasan lurus tanpa mengalami perubahan arah. Kecepatan benda pada GLB selalu konstan dan tidak mengalami perubahan. Dalam fisika, GLB sering disebut juga dengan istilah konstanta kecepatan.&lt;/p>
+&lt;p>Contoh GLB adalah gerakan mobil yang bergerak pada jalan lurus dengan kecepatan yang tetap atau gerakan bola yang dilempar ke atas dengan kecepatan awal tetap. Pada gerakan ini, posisi benda dapat dihitung dengan menggunakan persamaan GLB:
+$$x = x_o + vt$$
+di mana:&lt;br>
+&lt;br>
+\(x\) adalah posisi akhir benda&lt;br>
+\(x_o\) adalah posisi awal benda&lt;br>
+\(v\) adalah kecepatan benda&lt;br>
+\(t\) adalah waktu yang diperlukan benda untuk bergerak dari posisi awal \(x_o\) hingga mencapai posisi \(x\)&lt;/p>
+&lt;p>Dalam GLB, percepatan benda selalu bernilai nol, sehingga persamaan gerak Newton tidak berlaku pada gerakan ini. Oleh karena itu, kecepatan benda pada GLB disebut sebagai kecepatan konstan atau kecepatan rata-rata karena kecepatan benda pada setiap saat sama dengan kecepatan awal.&lt;/p></description></item><item><title>Ipa: Fisika Kelas 11</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-11/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-11/</guid><description>
 &lt;h2 id="fokus-pembelajaran-fisika-kelas-11">Fokus Pembelajaran Fisika Kelas 11&lt;/h2>
 &lt;h3 id="mekanika-fluida">Mekanika Fluida&lt;/h3>
 &lt;p>&lt;em>&lt;strong>Pengembangan pemahaman sifat fluida statis dan fluida dinamis&lt;/strong>&lt;/em>&lt;/p>
@@ -40,7 +1695,45 @@ Siswa memanfaatkan pemahamannya tentang sifat-sifat cahaya, seperti pemantulan p
 &lt;li>Siswa menunjukkan semakin tumbuh kembang rasa ingin tahu dan kegemaran memecahkan masalah fisika lebih sulit dengan pendekatan matematis dan logis. Kegemaran siswa terhadap matematika, ilmu pengetahuan, teknologi, untuk memecahkan masalah-masalah yang kompleks semakin meningkat.&lt;/li>
 &lt;li>Siswa menunjukkan sikap cakap, terampil, kreatif, produktif, inovatif, mandiri, komunikatif dalam berperilaku di lingkungan hingga tingkat nasional dan internasional&lt;/li>
 &lt;li>Siswa berperilaku jujur, berakhlak mulia, beriman, takwa dan mencintai tanah air.&lt;/li>
-&lt;/ul></description></item><item><title>Ipa: Fisika Kelas 12</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-12/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-12/</guid><description>
+&lt;/ul></description></item><item><title>Ipa: Gerak Lurus Berubah Beraturan (GLBB)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/glbb/</link><pubDate>Fri, 03 Mar 2023 23:18:10 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/glbb/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="pengertian-glbb">Pengertian GLBB&lt;/h2>
+&lt;p>Gerak Lurus Berubah Beraturan (GLBB) adalah gerak benda yang bergerak lurus sepanjang lintasan dengan percepatan yang konstan. Dalam GLBB, kecepatan benda mengalami perubahan yang sama pada setiap interval waktu yang sama, sehingga percepatannya konstan. Contoh GLBB adalah gerak benda yang terlempar ke atas dan kemudian jatuh bebas, gerak benda yang dilempar horizontal dengan kecepatan awal, atau gerak mobil yang mempercepat atau memperlambat secara konstan pada jalan lurus.&lt;/p>
+&lt;p>Dalam GLBB, persamaan yang digunakan untuk menghitung jarak, kecepatan, waktu, dan percepatan benda adalah sebagai berikut:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Persamaan jarak: \(s=v_0 t + \frac{1}{2}at^2\)&lt;br>
+Persamaan ini digunakan untuk menghitung jarak \(s\) yang ditempuh oleh benda pada waktu tertentu \(t\), dengan kecepatan awal \(v_0\) dan percepatan \(a\) yang diketahui.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Persamaan kecepatan: \(v = v_0 + at\)&lt;br>
+Persamaan ini digunakan untuk menghitung kecepatan \(v\) benda pada waktu tertentu \(t\), dengan kecepatan awal \(v_0\) dan percepatan \(a\) yang diketahui.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Persamaan waktu: \(t = \frac{(v - v_0)}{a}\)&lt;br>
+Persamaan ini digunakan untuk menghitung waktu \(t\) yang diperlukan oleh benda untuk menempuh jarak tertentu \(s\), dengan kecepatan awal \(v_0\) dan percepatan \(a\) yang diketahui.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Persamaan percepatan: \(a = \frac{(v - v_0)}{t}\)
+Persamaan ini digunakan untuk menghitung percepatan \(a\) benda pada waktu tertentu \(t\), dengan kecepatan awal \(v_0\) dan kecepatan \(v\) yang diketahui.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Visualisasi GLBB dapat dilihat pada grafik berikut ini:&lt;/p>
+&lt;div class="container">
+&lt;iframe class="responsive-iframe" scrolling="no" title="Grafik GLBB" src="https://www.geogebra.org/material/iframe/id/csyrb5yd/width/762/height/506/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" style="border:0px;"> &lt;/iframe>
+&lt;/div></description></item><item><title>Ipa: Fisika Kelas 12</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-12/</link><pubDate>Sat, 14 May 2022 19:29:11 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-12/</guid><description>
 &lt;h2 id="fokus-pembelajaran-fisika-kelas-12">Fokus Pembelajaran Fisika Kelas 12&lt;/h2>
 &lt;h3 id="induktor-bahan-magnet-dan-arus-bolak-balik">Induktor, Bahan Magnet dan Arus Bolak Balik&lt;/h3>
 &lt;p>&lt;em>&lt;strong>Pengembangan pemahaman rangkaian bolak balik (AC) sederhana&lt;/strong>&lt;/em>&lt;/p>

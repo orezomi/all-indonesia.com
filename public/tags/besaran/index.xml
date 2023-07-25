@@ -1,0 +1,744 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – Besaran</title><link>https://www.all-indonesia.com/tags/besaran/</link><description>Recent content in Besaran on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 18 Feb 2023 23:26:42 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/besaran/index.xml" rel="self" type="application/rss+xml"/><item><title>Ipa: Contoh Soal Besaran Skalar (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/contoh-soal-1/</link><pubDate>Sat, 18 Feb 2023 23:26:42 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/contoh-soal-1/</guid><description>
+&lt;h2 id="contoh-contoh-soal-besaran-skalar-part-1">Contoh-contoh soal besaran skalar (part 1)&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Jika suhu ruangan saat ini adalah 25 derajat Celsius, berapakah suhu dalam satuan Fahrenheit?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;em>Diketahui:&lt;/em>
+Suhu dalam derajat Celsius = 25
+&lt;em>Dicari:&lt;/em>
+Suhu dalam satuan Fahrenheit
+&lt;em>Langkah penyelesaian:&lt;/em>
+Rumus konversi suhu dari Celsius ke Fahrenheit adalah sebagai berikut:
+$$F = (C \times 9/5) + 32$$
+Substitusikan nilai suhu dalam derajat Celsius ke dalam rumus konversi:
+$$F = (25 \times 9/5) + 32 = 77^\circ F$$
+Jadi, suhu dalam satuan Fahrenheit adalah 77 derajat Fahrenheit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda memiliki massa 10 kg. Berapakah massa benda dalam satuan gram (g)?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+&lt;em>Diketahui:&lt;/em>
+Massa benda = 10 kg
+&lt;em>Dicari:&lt;/em>
+Massa benda dalam satuan gram (g)
+&lt;em>Langkah penyelesaian:&lt;/em>
+$$1 kg = 1000 g $$
+Massa benda dalam \(g = 10 \times 1000 = 10,000 g\)
+Jadi, massa benda dalam satuan gram adalah &lt;em>&lt;strong>10,000 g&lt;/strong>&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika suhu lingkungan saat ini adalah 30 derajat Celsius, berapa suhu yang tercatat dalam derajat Fahrenheit?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Suhu dalam derajat Fahrenheit dapat dihitung dengan menggunakan rumus \(F = (9/5)C + 32\), di mana \(C\) adalah suhu dalam derajat Celsius. Oleh karena itu, jika suhu lingkungan saat ini adalah 30 derajat Celsius, maka suhu dalam derajat Fahrenheit dapat dihitung sebagai berikut:
+$$F = (9/5) \times 30 + 32$$
+$$F = 86^\circ F$$
+Jadi, suhu lingkungan saat ini adalah &lt;em>&lt;strong>86 derajat Fahrenheit&lt;/strong>&lt;/em>.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran Vektor (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-1/</link><pubDate>Fri, 17 Feb 2023 16:16:39 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-1/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-besaran-vektor---part-1">Berikut adalah contoh soal terkait Besaran Vektor - Part 1&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kg bergerak dengan kecepatan \(5 m/s\) ke arah sumbu \(x\) positif dan kecepatan \(3 m/s\) ke arah sumbu \(y\) negatif. Hitunglah momentum total benda tersebut.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kita dapat menggunakan rumus momentum \(\vec{p} = m\vec{v}\), di mana \(\vec{p}\) adalah momentum, \(m\) adalah massa benda, dan \(\vec{v}\) adalah kecepatan benda. Kita dapat menuliskan kecepatan benda sebagai vektor \(\vec{v} = (v_x, v_y, v_z)\), di mana \(v_x\) adalah kecepatan pada sumbu \(x\), \(v_y\) adalah kecepatan pada sumbu \(y\), dan \(v_z\) adalah kecepatan pada sumbu \(z\) (dalam hal ini, tidak ada gerakan pada sumbu \(z\)). Oleh karena itu, momentum total dapat ditulis sebagai:&lt;br>
+$$\begin{align}\vec{p} &amp;amp;= m\vec{v} \newline
+&amp;amp;= (2\text{ kg})(5\text{ m/s}\ \hat{i} - 3\text{ m/s}\ \hat{j}) \newline
+&amp;amp;= 10\text{ kg m/s}\ \hat{i} - 6\text{ kg m/s}\ \hat{j}\end{align}$$
+Jadi, momentum total benda tersebut adalah 10 kg m/s ke arah sumbu x positif dan 6 kg m/s ke arah sumbu y negatif.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan konstan 20 m/s ke arah timur. Jika mobil tersebut melakukan pergantian arah dan bergerak dengan kecepatan 15 m/s ke arah barat, tentukan besar dan arah perubahan kecepatan mobil.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Perubahan kecepatan dapat dihitung sebagai selisih antara kecepatan akhir dan kecepatan awal, sehingga:
+$$\begin{align}\Delta \vec{v} &amp;amp;= \vec{v_f} - \vec{v_i} \newline
+&amp;amp;= (-15\text{ m/s})\ \hat{i} - (20\text{ m/s})\ \hat{i} \newline
+&amp;amp;= -35\text{ m/s}\ \hat{i}\end{align}$$
+Perubahan kecepatan memiliki arah ke arah barat dan besarnya 35 m/s.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dengan massa 0.2 kg dilempar ke atas dengan kecepatan awal 10 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan kecepatan dan posisi bola setelah 2 detik.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Pertama-tama, hitunglah kecepatan bola setelah 2 detik dengan menggunakan rumus kecepatan:
+$$\begin{align}\vec{v} &amp;amp;= \vec{v_0} + \vec{a}t \newline
+&amp;amp;= (10\text{ m/s})\ \hat{j} - (9.8\text{ m/s}^2)\ \hat{j}(2\text{ s}) \newline
+&amp;amp;= -9.6\text{ m/s}\ \hat{j}\end{align}$$
+Jadi, kecepatan bola setelah 2 detik adalah 9.6 m/s ke arah bawah. Selanjutnya, hitunglah posisi bola setelah 2 detik dengan menggunakan rumus posisi:
+$$\begin{align}\vec{r} &amp;amp;= \vec{r_0} + \vec{v_0}t + \frac{1}{2}\vec{a}t^2 \newline
+&amp;amp;= (0\text{ m})\ \hat{i} + (0\text{ m})\ \hat{j} + (10\text{ m/s})\ \hat{j}(2\text{ s}) + \frac{1}{2}(9.8\text{ m/s}^2)\ \hat{j}(2\text{ s})^2 \newline
+&amp;amp;= 0\text{ m}\ \hat{i} + 20.4\text{ m}\ \hat{j}\end{align}$$
+Jadi, posisi bola setelah 2 detik adalah 20.4 m di atas titik awal.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kapal bergerak dengan kecepatan 12 km/jam ke arah timur. Jika angin bertiup dengan kecepatan 5 km/jam ke arah barat laut, tentukan kecepatan dan arah kapal relatif terhadap daratan&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan kapal relatif terhadap daratan adalah hasil penjumlahan vektor antara kecepatan kapal dan kecepatan angin. Jadi, kecepatan kapal relatif terhadap daratan adalah:
+&lt;br>
+$$\begin{align}\vec{v_{rel}} &amp;amp;= \vec{v_{kapal}} + \vec{v_{angin}} \newline &amp;amp;= (12\text{ km/jam})\ \hat{i} - (5\text{ km/jam})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &amp;amp;\approx 11.2\text{ km/jam}\ \hat{i} - 3.5\text{ km/jam}\ \hat{j}\end{align}$$
+&lt;br>
+Jadi, kecepatan kapal relatif terhadap daratan adalah sekitar 11.2 km/jam ke arah timur dan 3.5 km/jam ke arah selatan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang pelari berlari dengan kecepatan 6 m/s ke arah utara. Jika ada angin bertiup dengan kecepatan 3 m/s ke arah barat laut, tentukan kecepatan dan arah pelari relatif terhadap angin.&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan pelari relatif terhadap angin adalah hasil pengurangan vektor antara kecepatan pelari dan kecepatan angin. Jadi, kecepatan pelari relatif terhadap angin adalah:
+&lt;br>
+$$\begin{align}\vec{v_{rel}} &amp;amp;= \vec{v_{pelari}} - \vec{v_{angin}} \newline &amp;amp;= (6\text{ m/s})\ \hat{j} - (3\text{ m/s})\ \frac{1}{\sqrt{2}}(\hat{i} + \hat{j}) \newline &amp;amp;\approx 5.1\text{ m/s}\ \hat{j} - 2.1\text{ m/s}\ \hat{i}\end{align}$$
+&lt;br>
+Jadi, kecepatan pelari relatif terhadap angin adalah sekitar 5.1 m/s ke arah utara dan 2.1 m/s ke arah barat.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (1)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-1/</link><pubDate>Wed, 15 Feb 2023 23:13:07 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-1/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-tentang-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal tentang besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan 25 meter per detik. Berapa jarak yang ditempuh mobil setelah 10 detik?&lt;br>
+&lt;em>&lt;strong>Jawab :&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$v} = 25 m/s, {$t} = 10 s&lt;br>
+Rumus: {$s = vt}&lt;br>
+Substitusi: {$s} = (25 m/s) x (10 s)&lt;br>
+Hasil: {$s} = 250 m&lt;br>
+Jadi, jarak yang ditempuh mobil setelah 10 detik adalah 250 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kilogram dilemparkan ke atas dengan kecepatan awal 20 meter per detik. Berapa ketinggian maksimum yang dapat dicapai benda tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab :&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 2 kg, v = 20 m/s, g = 9,8 m/s{^2}&lt;br>
+Rumus: {$h} = ({$v}{^2})/(2g)&lt;br>
+Substitusi: {$h} = (20 m/s){^2} / (2 x 9,8 m/s{^2})&lt;br>
+Hasil: {$h} = 20,4 meter&lt;br>
+Jadi, ketinggian maksimum yang dapat dicapai benda tersebut adalah 20,4 meter.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah arus listrik sebesar 2 ampere mengalir melalui suatu kawat. Jika hambatan kawat tersebut adalah 4 ohm, berapa tegangan listrik yang diperlukan untuk menghasilkan arus tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$I} = 2 A, {$R} = 4 ohm&lt;br>
+Rumus: {$V = IR}&lt;br>
+Substitusi: {$V} = (2 A) x (4 ohm)&lt;br>
+Hasil: {$V} = 8 volt&lt;br>
+Jadi, tegangan listrik yang diperlukan untuk menghasilkan arus listrik sebesar 2 ampere adalah 8 volt.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah balok kayu memiliki dimensi 2 meter x 0,5 meter x 0,5 meter dan memiliki massa 200 kilogram. Berapakah densitas kayu tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 200 kg, {$V} = 2 m x 0,5 m x 0,5 m = 0,5 m{^3}&lt;br>
+Rumus: {$p = m/V}&lt;br>
+Substitusi: {$p} = 200 kg / 0,5 m{^3}&lt;br>
+Hasil: {$p} = 400 kg/m{^3}&lt;br>
+Jadi, densitas kayu tersebut adalah 400 kilogram per meter kubik.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola memiliki massa 0,1 kilogram dan bergerak dengan kecepatan 5 meter per detik. Berapa energi kinetik bola tersebut?&lt;br>
+&lt;em>&lt;strong>Jawab&lt;/strong>&lt;/em>&lt;br>
+Diketahui: {$m} = 0,1 kg, {$v} = 5 m/s&lt;br>
+Rumus: {$EK} = (1/2)mv{^2}&lt;br>
+Substitusi: {$EK} = (1/2) x 0,1 kg x (5 m/s){^2}&lt;br>
+Hasil: {$EK} = 1,25 joule&lt;br>
+Jadi, energi kinetik bola tersebut adalah 1,25 joule.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran Vektor (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-2/</link><pubDate>Sat, 18 Feb 2023 18:15:24 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/contoh-soal-2/</guid><description>
+&lt;h3 id="berikut-adalah-contoh-soal-terkait-besaran-vektor---part-2">Berikut adalah contoh soal terkait Besaran Vektor - Part 2&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda dengan massa 2 kg diletakkan pada permukaan licin dan diberi gaya sebesar 10 N pada arah 30 derajat ke atas dari sumbu x positif. Tentukan akselerasi benda dan perpindahan setelah 2 detik.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Faktor-faktor yang diberikan:&lt;br>
+massa \(m\) = 2 kg&lt;br>
+gaya \(F\) = 10 N&lt;br>
+sudut \(θ\) = 30°&lt;br>
+waktu \(t\) = 2 s&lt;br>
+keadaan permukaan = licin&lt;br>
+&lt;br>
+Untuk menyelesaikan soal ini, perlu dicari komponen gaya pada sumbu \(x\) dan \(y\) dan kemudian dihitung akselerasinya. Setelah itu, dapat dihitung perpindahan benda setelah 2 detik.&lt;br>
+&lt;br>
+Komponen gaya pada sumbu x dan y dapat dicari dengan menggunakan trigonometri:&lt;br>
+$$F_x = F\cos\theta = 10\text{ N}\cos 30^\circ = 8.66\text{ N}$$
+$$F_y = F\sin\theta = 10\text{ N}\sin 30^\circ = 5\text{ N}$$
+Karena permukaan licin, maka tidak ada gaya gesekan. Sehingga, gaya total pada sumbu \(x\) sama dengan massa dikalikan dengan percepatan pada sumbu \(x\):&lt;br>
+$$F_x = ma_x \rightarrow a_x = \frac{F_x}{m} = \frac{8.66\text{ N}}{2\text{ kg}} = 4.33\text{ m/s}^2$$
+Gaya total pada sumbu y sama dengan massa dikalikan dengan percepatan pada sumbu \(y\), sehingga:
+$$F_y = ma_y \rightarrow a_y = \frac{F_y}{m} = \frac{5\text{ N}}{2\text{ kg}} = 2.5\text{ m/s}^2$$
+Akselerasi total dapat dicari dengan menggunakan teorema Pythagoras:
+$$a = \sqrt{a_x^2 + a_y^2} = \sqrt{(4.33\text{ m/s}^2)^2 + (2.5\text{ m/s}^2)^2} = 4.98\text{ m/s}^2$$
+Perpindahan dapat dicari dengan menggunakan rumus:
+$$x = x_0 + v_0t + \frac{1}{2}at^2$$
+Karena benda awalnya diam dan hanya dipengaruhi oleh gaya, maka kecepatan awal adalah 0 m/s dan perpindahan pada sumbu \(x\) adalah:
+$$x = \frac{1}{2}at^2 = \frac{1}{2}(4.98\text{ m/s}^2)(2\text{ s})^2 = 9.96\text{ m}$$
+Jadi, akselerasi benda adalah 4.98 m/s{^2} dan perpindahan setelah 2 detik adalah 9.96 m pada sumbu \(x\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah pesawat terbang bergerak dengan kecepatan 400 km/jam dan membentuk sudut 30 derajat terhadap arah utara. Tentukan komponen horizontal dan vertikal dari kecepatan pesawat.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Komponen horizontal dari kecepatan pesawat dapat dihitung dengan rumus \(v_h = v \cos \theta\), sedangkan komponen vertikal dapat dihitung dengan rumus \(v_v = v \sin \theta\), di mana \(v\) adalah kecepatan pesawat dan \(\theta\) adalah sudut yang dibentuk oleh kecepatan pesawat dengan arah utara. Dalam satuan SI, &lt;em>400 km/jam&lt;/em> sama dengan &lt;em>111.1 m/s&lt;/em>. Dengan demikian,
+$$v_h = 111.1 \text{ m/s} \cos 30^\circ = 96.2 \text{ m/s}$$
+$$v_v = 111.1 \text{ m/s} \sin 30^\circ = 55.6 \text{ m/s}$$
+Jadi, kecepatan horizontal pesawat adalah &lt;em>&lt;strong>96.2 m/s&lt;/strong>&lt;/em> dan kecepatan vertikal pesawat adalah &lt;em>&lt;strong>55.6 m/s&lt;/strong>&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dilempar ke atas dengan kecepatan awal 20 m/s. Jika percepatan gravitasi adalah 9.8 m/s{^2} ke arah bawah, tentukan waktu yang dibutuhkan bola untuk mencapai ketinggian maksimum dan ketinggian maksimum tersebut.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Pertama-tama, kita dapat menggunakan rumus kecepatan untuk menghitung waktu yang dibutuhkan bola untuk mencapai titik tertinggi. Pada titik tertinggi, kecepatan bola sama dengan nol, sehingga kita dapat menggunakan persamaan \(v = v_0 + at\) dengan \(v = 0\), \(v_0 = 20 m/s\) dan \(a = -9.8 m/s^2\), maka:
+$$0 = 20 - 9.8t$$
+$$t = \frac{20}{9.8} \approx 2.04 \text{ s}$$
+Jadi, waktu yang dibutuhkan bola untuk mencapai ketinggian maksimum adalah sekitar &lt;em>&lt;strong>2.04&lt;/strong>&lt;/em> detik.
+Ketinggian maksimum dapat dihitung menggunakan rumus posisi pada titik tertinggi :
+$$h = h_0 + v_0 t + \frac{1}{2}at^2$$
+Dalam hal ini, \(h_0 = 0\), \(v_0 = 20 m/s\), dan \(a = -9.8 m/s^2\), sehingga
+$$h = 0 + 20 \times 2.04 - \frac{1}{2} \times 9.8 \times (2.04)^2 \approx 20.2 \text{ m}$$
+Jadi, ketinggian maksimum bola adalah sekitar &lt;em>&lt;strong>20.2&lt;/strong>&lt;/em> meter.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan kecepatan 50 km/jam ke arah timur. Kemudian, mobil tersebut belok ke arah utara dan bergerak dengan kecepatan 40 km/jam. Tentukan besar dan arah vektor perubahan kecepatan mobil.&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+&lt;br>
+Perubahan kecepatan adalah selisih antara kecepatan akhir dan kecepatan awal mobil:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i}$$
+Kecepatan awal mobil adalah 50 km/jam ke arah timur, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_i} = 50\text{ km/jam}\ \hat{i}$$
+Kecepatan akhir mobil adalah 40 km/jam ke arah utara, yang dapat dituliskan sebagai vektor sebagai berikut:
+$$\vec{v_f} = 40\text{ km/jam}\ \hat{j}$$
+Maka, perubahan kecepatan dapat dihitung sebagai berikut:
+$$\Delta \vec{v} = \vec{v_f} - \vec{v_i} = 40\text{ km/jam}\ \hat{j} - 50\text{ km/jam}\ \hat{i}$$
+Untuk mengetahui besarnya perubahan kecepatan, kita dapat menggunakan teorema Pythagoras:
+$$|\Delta \vec{v}| = \sqrt{(40\text{ km/jam})^2 + (-50\text{ km/jam})^2} = 64.03\text{ km/jam}$$
+Untuk mengetahui arah perubahan kecepatan, kita dapat menggunakan trigonometri dan menghitung sudut antara vektor perubahan kecepatan dan sumbu &lt;strong>\(x\)&lt;/strong> positif:
+$$\theta = \tan^{-1} \left(\frac{-50\text{ km/jam}}{40\text{ km/jam}}\right) = -51.34^\circ$$
+Jadi, besar perubahan kecepatan adalah &lt;em>&lt;strong>64.03 km/jam&lt;/strong>&lt;/em>, dan arah perubahan kecepatan membentuk sudut sebesar &lt;em>&lt;strong>51.34 derajat&lt;/strong>&lt;/em> di bawah sumbu &lt;em>&lt;strong>\(x\)&lt;/strong>&lt;/em> positif.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (2)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-2/</link><pubDate>Thu, 16 Feb 2023 00:08:12 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-2/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah benda bergerak dengan kecepatan 5 m/s selama 10 detik. Berapa jarak yang ditempuh oleh benda tersebut?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan = 5 m/s&lt;br>
+Waktu = 10 detik&lt;br>
+Jarak = kecepatan × waktu&lt;br>
+Jarak = 5 m/s × 10 detik = 50 meter&lt;br>
+Jadi, jarak yang ditempuh oleh benda tersebut adalah 50 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah beban memiliki massa 2 kg. Berapa gaya yang diperlukan untuk mengangkat beban tersebut?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Massa = 2 kg&lt;br>
+Gaya = massa × percepatan gravitasi&lt;br>
+Percepatan gravitasi = 9,8 m/s{^2}&lt;br>
+Gaya = 2 kg × 9,8 m/s{^2} = 19,6 N&lt;br>
+Jadi, gaya yang diperlukan untuk mengangkat beban tersebut adalah 19,6 N.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kawat tembaga memiliki panjang 10 m dan luas penampang 2 mm{^2}. Berapa resistansi kawat tersebut?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Panjang = 10 m&lt;br>
+Luas penampang = 2 mm{^2} = 2 × 10{^-6} m{^2}&lt;br>
+Hambatan spesifik tembaga = 1,72 × 10{^-8} ohm·m&lt;br>
+Resistansi = (hambatan spesifik × panjang) / luas penampang&lt;br>
+Resistansi = (1,72 × 10{^-8} ohm·m × 10 m) / (2 × 10{^-6} m{^2}) = 86 ohm&lt;br>
+Jadi, resistansi kawat tersebut adalah 86 ohm.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah ruangan memiliki suhu 25°C. Berapa suhu ruangan tersebut dalam skala Kelvin?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Suhu dalam skala Kelvin = suhu dalam skala Celsius + 273,15&lt;br>
+Suhu dalam skala Kelvin = 25°C + 273,15 = 298,15 K&lt;br>
+Jadi, suhu ruangan tersebut dalam skala Kelvin adalah 298,15 K.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah mobil bergerak dengan percepatan 3 m/s{^2} selama 8 detik. Berapa kecepatan mobil setelah 8 detik?&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>&lt;br>
+Percepatan = 3 m/s{^2}&lt;br>
+Waktu = 8 detik&lt;br>
+Kecepatan awal = 0 m/s&lt;br>
+Kecepatan akhir = kecepatan awal + percepatan × waktu&lt;br>
+Kecepatan akhir = 0 m/s + 3 m/s{^2} × 8 detik = 24 m/s&lt;br>
+Jadi, kecepatan mobil setelah 8 detik adalah 24 m/s.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Besaran &amp; Satuan</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/</link><pubDate>Tue, 14 Feb 2023 22:14:08 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="besaran-dan-satuan">Besaran dan Satuan&lt;/h2>
+&lt;p>Besaran dalam ilmu fisika dapat dibagi menjadi dua jenis yaitu besaran fundamental dan besaran turunan. Besaran fundamental adalah besaran yang tidak dapat diuraikan lebih lanjut dalam hal besaran fisika lainnya, misalnya massa, waktu, dan panjang. Sedangkan besaran turunan adalah besaran yang dapat dihitung atau diuraikan dari besaran fundamental, misalnya kecepatan, percepatan, dan momentum.&lt;/p>
+&lt;p>Setiap besaran memiliki satuan yang digunakan untuk mengukurnya, seperti meter (m) untuk panjang, kilogram (kg) untuk massa, dan detik (s) untuk waktu. Selain itu, terdapat juga dimensi besaran, seperti dimensi panjang, dimensi massa, dan dimensi waktu, yang digunakan untuk menganalisis hubungan antar besaran dalam suatu persamaan fisika.&lt;/p>
+&lt;h3 id="besaran-fundamental">Besaran Fundamental&lt;/h3>
+&lt;p>Besaran fundamental dalam ilmu fisika adalah besaran yang tidak dapat diuraikan lagi menjadi kombinasi dari besaran fisika lainnya. Terdapat 7 besaran fundamental dalam Sistem Satuan Internasional (SI), yaitu:&lt;/p>
+&lt;ul>
+&lt;li>Panjang (meter)&lt;/li>
+&lt;li>Massa (kilogram)&lt;/li>
+&lt;li>Waktu (detik)&lt;/li>
+&lt;li>Arus listrik (ampere)&lt;/li>
+&lt;li>Suhu termodinamika (kelvin)&lt;/li>
+&lt;li>Intensitas cahaya (kandela)&lt;/li>
+&lt;li>Jumlah zat (mol)&lt;/li>
+&lt;/ul>
+&lt;p>Ketujuh besaran ini digunakan sebagai dasar untuk menentukan satuan pengukuran yang lainnya dalam SI, dan banyak juga digunakan dalam berbagai cabang fisika seperti mekanika, termodinamika, listrik dan magnetisme, optik, dan lain-lain.&lt;/p>
+&lt;h4 id="panjang">Panjang&lt;/h4>
+&lt;p>Besaran satuan panjang dalam SI adalah meter (m). Satuan ini didefinisikan sebagai jarak yang ditempuh cahaya dalam ruang hampa selama 1/299.792.458 detik. Meter digunakan untuk mengukur panjang atau jarak suatu benda atau ruang dalam sistem metrik.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan meter:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Panjang meja di ruangan tersebut adalah 2 meter.&lt;/li>
+&lt;li>Jarak antara dua kota tersebut adalah 150 kilometer.&lt;/li>
+&lt;li>Diameter bola sepak adalah sekitar 22 sentimeter.&lt;/li>
+&lt;li>Lebar lintasan atletik adalah 400 meter.&lt;/li>
+&lt;li>Ketinggian gedung pencakar langit tersebut adalah 828 meter.&lt;/li>
+&lt;/ul>
+&lt;h4 id="massa">Massa&lt;/h4>
+&lt;p>Besaran satuan massa dalam SI adalah kilogram (kg). Satuan ini didefinisikan sebagai massa dari prototipe internasional kilogram, yang disimpan di markas Bureau International des Poids et Mesures (BIPM) di Sèvres, Prancis. Kilogram digunakan untuk mengukur massa suatu benda atau zat dalam sistem metrik.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan kilogram:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Massa badan seseorang adalah 70 kilogram.&lt;/li>
+&lt;li>Massa beras yang dibeli adalah 5 kilogram.&lt;/li>
+&lt;li>Massa atom karbon-12 adalah sekitar 1,99 x 10{^-26} kg.&lt;/li>
+&lt;li>Massa satu butir pasir adalah sekitar 0,01 gram atau 10 miligram.&lt;/li>
+&lt;li>Massa bumi adalah sekitar 5,97 x 10^24 kilogram.&lt;/li>
+&lt;/ul>
+&lt;h4 id="waktu">Waktu&lt;/h4>
+&lt;p>Waktu adalah besaran fisika yang mengukur urutan peristiwa atau durasi antara peristiwa. Dalam Sistem Satuan Internasional (SI), satuan untuk besaran waktu adalah detik (s). Detik didefinisikan sebagai durasi 9.192.631.770 periode radiasi terkait dengan transisi antara dua level hiperhalus dari keadaan dasar atom cesium-133.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan detik:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Waktu tempuh pesawat dari New York ke London adalah sekitar 7.5 jam atau 27.000 detik.&lt;/li>
+&lt;li>Waktu yang dibutuhkan bola untuk jatuh ke tanah adalah sekitar 3 detik.&lt;/li>
+&lt;li>Usia alam semesta diperkirakan sekitar 13,8 miliar tahun atau 4,35 x 10^17 detik.&lt;/li>
+&lt;li>Periode rotasi bumi pada sumbunya adalah sekitar 86.400 detik atau 1 hari.&lt;/li>
+&lt;li>Waktu setiap putaran bumi mengelilingi matahari adalah sekitar 31.536.000 detik atau 1 tahun.&lt;/li>
+&lt;/ul>
+&lt;h4 id="arus-listrik">Arus Listrik&lt;/h4>
+&lt;p>Arus listrik adalah besaran fisika yang mengukur muatan listrik yang mengalir dalam suatu penghantar atau kawat listrik dalam satu satuan waktu. Satuan untuk besaran arus listrik dalam Sistem Satuan Internasional (SI) adalah ampere (A). Satu ampere didefinisikan sebagai arus listrik yang mengalir melalui dua konduktor sejajar tak berujung dan lurus dengan jarak antara keduanya adalah 1 meter, dengan gaya antara keduanya adalah 2 x 10^-7 newton per meter.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan ampere:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Arus listrik pada setrika adalah sekitar 10 ampere.&lt;/li>
+&lt;li>Arus listrik pada lampu pijar 60 watt yang terhubung ke sumber listrik 220 volt adalah sekitar 0,27 ampere.&lt;/li>
+&lt;li>Arus listrik pada baterai AA adalah sekitar 0,02 - 0,03 ampere.&lt;/li>
+&lt;li>Arus listrik pada kabel listrik yang menyalurkan listrik ke rumah-rumah adalah sekitar 100-200 ampere.&lt;/li>
+&lt;li>Arus listrik yang dihasilkan oleh alat elektrokardiogram (EKG) pada jantung manusia adalah sekitar 0,5-1,0 miliampere.&lt;/li>
+&lt;/ul>
+&lt;h4 id="suhu-termodinamika">Suhu Termodinamika&lt;/h4>
+&lt;p>Suhu termodinamika adalah besaran fisika yang mengukur intensitas rata-rata dari energi kinetik partikel-partikel dalam suatu sistem. Satuan untuk besaran suhu dalam Sistem Satuan Internasional (SI) adalah Kelvin (K), yang merupakan satuan interval dari suhu termodinamika.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan Kelvin:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Suhu ruangan normal adalah sekitar 298 K atau 25°C.&lt;/li>
+&lt;li>Suhu beku air pada tekanan standar adalah 273,15 K atau 0°C.&lt;/li>
+&lt;li>Suhu didih air pada tekanan standar adalah 373,15 K atau 100°C.&lt;/li>
+&lt;li>Suhu pada permukaan matahari dapat mencapai sekitar 5.500 K.&lt;/li>
+&lt;li>Suhu kosmik mikro gelombang, sisa radiasi dari awal alam semesta, adalah sekitar 2,7 K.&lt;/li>
+&lt;/ul>
+&lt;h4 id="intensitas-cahaya">Intensitas Cahaya&lt;/h4>
+&lt;p>Intensitas cahaya, atau kadang disebut kecerahan, adalah besaran fisika yang mengukur kekuatan cahaya pada suatu arah dalam satu satuan waktu. Satuan untuk besaran intensitas cahaya dalam Sistem Satuan Internasional (SI) adalah kandela (cd).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan kandela:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Intensitas cahaya lampu pijar 60 watt yang ditempatkan pada jarak 1 meter dari pengamat adalah sekitar 60 kandela.&lt;/li>
+&lt;li>Intensitas cahaya lilin tunggal pada jarak 1 meter dari pengamat adalah sekitar 1 kandela.&lt;/li>
+&lt;li>Intensitas cahaya layar televisi atau komputer dapat mencapai ratusan hingga ribuan kandela.&lt;/li>
+&lt;li>Intensitas cahaya pada siang hari dapat mencapai sekitar 10^4 hingga 10^5 kandela tergantung dari kondisi cuaca dan lokasi.&lt;/li>
+&lt;li>Intensitas cahaya di malam hari atau dalam keadaan gelap dapat mencapai sekitar 10^-3 kandela atau kurang.&lt;/li>
+&lt;/ul>
+&lt;h4 id="jumlah-zat">Jumlah Zat&lt;/h4>
+&lt;p>Jumlah zat atau mol adalah besaran fisika yang mengukur jumlah partikel atau molekul dalam suatu benda atau sistem. Satuan untuk besaran jumlah zat dalam Sistem Satuan Internasional (SI) adalah mol.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan mol:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Jumlah zat air dalam satu mol adalah sekitar 18 gram, yang terdiri dari sekitar 6,02 x 10^23 molekul air.&lt;/li>
+&lt;li>Jumlah zat natrium klorida (NaCl) dalam satu mol adalah sekitar 58,44 gram, yang terdiri dari sekitar 6,02 x 10^23 molekul NaCl.&lt;/li>
+&lt;li>Jumlah zat gas ideal yang diukur dalam kondisi standar (25 derajat Celsius dan 1 atmosfer) adalah sekitar 24,45 liter per mol.&lt;/li>
+&lt;li>Jumlah zat oksigen yang diperlukan untuk membakar 1 mol glukosa dalam proses respirasi seluler adalah 6 mol oksigen.&lt;/li>
+&lt;li>Jumlah zat klorin yang dilepaskan oleh elektrolisis 1 mol larutan natrium klorida (NaCl) adalah 1 mol klorin dan 1 mol natrium.&lt;/li>
+&lt;/ul>
+&lt;h3 id="besaran-turunan">Besaran Turunan&lt;/h3>
+&lt;p>Besaran turunan dalam ilmu fisika adalah besaran yang dinyatakan sebagai kombinasi dari satu atau lebih besaran fisika fundamental. Besaran turunan ini didefinisikan untuk mengukur suatu sifat atau karakteristik suatu sistem fisika yang lebih kompleks. Beberapa contoh besaran turunan dalam SI adalah:&lt;/p>
+&lt;ul>
+&lt;li>Kecepatan (meter per detik)&lt;/li>
+&lt;li>Akselerasi (meter per detik kuadrat)&lt;/li>
+&lt;li>Gaya (newton)&lt;/li>
+&lt;li>Energi (joule)&lt;/li>
+&lt;li>Tekanan (pascal)&lt;/li>
+&lt;li>Medan listrik (volt per meter)&lt;/li>
+&lt;li>Resistansi (ohm)&lt;/li>
+&lt;li>Kapasitansi (farad)&lt;/li>
+&lt;/ul>
+&lt;p>Besaran turunan ini memiliki satuan pengukuran yang tergantung pada satuan dari besaran fundamental yang digunakan dalam definisinya. Besaran turunan ini banyak digunakan dalam berbagai cabang fisika, seperti mekanika, termodinamika, listrik dan magnetisme, optik, dan lain-lain.&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h4 id="kecepatan-meter-per-detik">Kecepatan (meter per detik)&lt;/h4>
+&lt;p>Kecepatan adalah besaran fisika yang mengukur perubahan posisi suatu benda dalam satu satuan waktu. Satuan untuk besaran kecepatan dalam Sistem Satuan Internasional (SI) adalah meter per detik (m/s).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan m/s:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Kecepatan rata-rata mobil yang berjalan sejauh 100 km dalam waktu 2 jam adalah sekitar 27,8 m/s.&lt;/li>
+&lt;li>Kecepatan suara di udara pada suhu 20 derajat Celsius adalah sekitar 343 m/s.&lt;/li>
+&lt;li>Kecepatan pesawat terbang komersial saat mengudara sekitar 900 km/jam atau sekitar 250 m/s.&lt;/li>
+&lt;li>Kecepatan bola yang dilemparkan ke atas dengan kecepatan awal 20 m/s dan di bumi tanpa hambatan adalah sekitar 0 m/s pada ketinggian tertentu sebelum jatuh kembali ke bumi.&lt;/li>
+&lt;li>Kecepatan elektron yang bergerak dalam suatu medan listrik dapat mencapai jutaan m/s, tergantung pada kuatnya medan listrik dan massa elektron tersebut.&lt;/li>
+&lt;/ul>
+&lt;h4 id="akselerasi-meter-per-detik-kuadrat">Akselerasi (meter per detik kuadrat)&lt;/h4>
+&lt;p>Akselerasi adalah besaran fisika yang mengukur perubahan kecepatan suatu benda dalam satu satuan waktu. Satuan untuk besaran akselerasi dalam Sistem Satuan Internasional (SI) adalah meter per detik kuadrat (m/s²).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan m/s²:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Akselerasi gravitasi bumi pada permukaan bumi adalah sekitar 9,81 m/s², yang berarti setiap detik kecepatan benda yang jatuh bebas di permukaan bumi bertambah sebesar 9,81 m/s.&lt;/li>
+&lt;li>Akselerasi mobil yang berhenti dari kecepatan 100 km/jam dalam waktu 5 detik adalah sekitar 5,6 m/s².&lt;/li>
+&lt;li>Akselerasi pesawat terbang pada saat lepas landas dan mendarat dapat mencapai beberapa meter per detik kuadrat, tergantung pada jenis pesawat dan kondisi penerbangan.&lt;/li>
+&lt;li>Akselerasi gerak harmonik sederhana pada pegas yang bergantung pada massa pegas dan massa yang digantung pada pegas tersebut.&lt;/li>
+&lt;li>Akselerasi benda yang bergerak pada lintasan melingkar seperti roda gigi, mesin cuci, dan mesin pengering dapat dihitung menggunakan persamaan a = v²/r, di mana v adalah kecepatan benda dan r adalah jari-jari lintasan.&lt;/li>
+&lt;/ul>
+&lt;h4 id="gaya-newton">Gaya (newton)&lt;/h4>
+&lt;p>Gaya adalah besaran fisika yang mengukur interaksi antara dua objek yang menghasilkan perubahan gerak atau bentuk suatu objek. Satuan untuk besaran gaya dalam Sistem Satuan Internasional (SI) adalah newton (N).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan N:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Gaya gravitasi bumi pada benda dengan massa 1 kg adalah sekitar 9,81 N pada permukaan bumi.&lt;/li>
+&lt;li>Gaya tarik atau dorong pada benda yang digerakkan dengan mesin, seperti mobil, kapal, dan pesawat terbang, diukur dalam newton.&lt;/li>
+&lt;li>Gaya gesekan antara permukaan benda juga diukur dalam newton, misalnya gesekan antara ban mobil dan jalan.&lt;/li>
+&lt;li>Gaya yang diberikan pada bola ketika memukulnya dalam permainan sepak bola atau tenis adalah sekitar beberapa newton, tergantung pada gaya dan kekuatan pemukul.&lt;/li>
+&lt;li>Gaya magnet pada benda yang berinteraksi dengan medan magnetik dapat diukur dalam newton, misalnya pada penggunaan magnet di mesin-mesin atau peralatan medis.&lt;/li>
+&lt;/ul>
+&lt;h4 id="energi-joule">Energi (Joule)&lt;/h4>
+&lt;p>Energi adalah besaran fisika yang mengukur kemampuan suatu benda untuk melakukan kerja atau menyebabkan perubahan pada suatu sistem fisika. Satuan untuk besaran energi dalam Sistem Satuan Internasional (SI) adalah joule (J).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan J:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Energi kinetik suatu benda dapat dihitung menggunakan persamaan E = 1/2 mv², di mana m adalah massa benda dan v adalah kecepatan benda. Jadi, jika sebuah benda bergerak dengan kecepatan 10 m/s dan memiliki massa 2 kg, maka energi kinetiknya adalah 100 J.&lt;/li>
+&lt;li>Energi potensial gravitasi suatu benda dapat dihitung menggunakan persamaan E = mgh, di mana m adalah massa benda, g adalah percepatan gravitasi bumi, dan h adalah ketinggian benda dari permukaan bumi. Jadi, jika sebuah benda dengan massa 1 kg berada pada ketinggian 10 meter di atas permukaan bumi, maka energi potensial gravitasinya adalah sekitar 98 J.&lt;/li>
+&lt;li>Energi listrik yang dihasilkan oleh alat-alat elektronik seperti baterai, generator, dan panel surya diukur dalam joule.&lt;/li>
+&lt;li>Energi yang dihasilkan oleh bahan bakar seperti bensin dan minyak diukur dalam joule per liter atau joule per kilogram.&lt;/li>
+&lt;li>Energi yang dilepaskan dalam ledakan atau reaksi kimia juga diukur dalam joule.&lt;/li>
+&lt;/ul>
+&lt;h4 id="tekanan-pascal">Tekanan (Pascal)&lt;/h4>
+&lt;p>Tekanan adalah besaran fisika yang mengukur gaya per satuan luas yang bekerja pada suatu permukaan. Satuan untuk besaran tekanan dalam Sistem Satuan Internasional (SI) adalah pascal (Pa), yang setara dengan satu newton per meter persegi (N/m²).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan Pa:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Tekanan atmosfer di permukaan laut adalah sekitar 101.325 Pa atau sekitar 1 atm (atmosfer).&lt;/li>
+&lt;li>Tekanan pada cairan di dalam wadah tertutup seperti tabung Bourdon yang digunakan dalam pengukuran tekanan pada mesin atau alat-alat industri, diukur dalam satuan Pa.&lt;/li>
+&lt;li>Tekanan pada gas dalam tabung tertutup atau dalam balon udara atau gas helium dalam balon selang, juga diukur dalam satuan Pa.&lt;/li>
+&lt;li>Tekanan darah manusia diukur dalam satuan mmHg (milimeter raksa) atau kPa (kiloPascal).&lt;/li>
+&lt;li>Tekanan pada aliran fluida dalam pipa atau saluran air atau udara diukur dalam satuan Pa.&lt;/li>
+&lt;li>Tekanan yang dihasilkan oleh benda yang diletakkan pada permukaan padat atau cair seperti ban mobil atau kaki meja juga diukur dalam satuan Pa.&lt;/li>
+&lt;/ul>
+&lt;h4 id="medan-listrik-volt-per-meter">Medan Listrik (Volt per Meter)&lt;/h4>
+&lt;p>Medan listrik adalah besaran fisika yang mengukur kekuatan suatu medan listrik di suatu tempat dalam ruang. Satuan untuk besaran medan listrik dalam Sistem Satuan Internasional (SI) adalah volt per meter (V/m), yang setara dengan satu volt per meter.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan V/m:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Medan listrik yang dihasilkan oleh benda-benda listrik seperti muatan listrik positif dan negatif diukur dalam satuan V/m.&lt;/li>
+&lt;li>Medan listrik yang dihasilkan oleh sebuah baterai atau sumber listrik lainnya dapat diukur dalam satuan V/m.&lt;/li>
+&lt;li>Medan listrik juga dapat dihasilkan oleh sinyal listrik seperti dalam antena, dan dapat diukur dalam satuan V/m.&lt;/li>
+&lt;li>Medan listrik juga digunakan dalam teknologi touchscreen, yang mengukur perubahan medan listrik di permukaan layar sentuh. Besaran medan listrik yang dihasilkan diukur dalam satuan V/m.&lt;/li>
+&lt;li>Medan listrik juga dapat dihasilkan oleh medan elektromagnetik, dan diukur dalam satuan V/m.&lt;/li>
+&lt;/ul>
+&lt;p>Satuan V/m juga dapat digunakan untuk mengukur besaran medan listrik dalam suatu medium atau bahan isolator seperti kaca atau plastik, yang dapat digunakan dalam teknologi isolasi atau insulasi listrik.&lt;/p>
+&lt;h4 id="resistansi-ohm">Resistansi (Ohm)&lt;/h4>
+&lt;p>Resistansi adalah besaran fisika yang mengukur tingkat resistansi suatu bahan atau komponen listrik terhadap aliran arus listrik. Satuan untuk besaran resistansi dalam Sistem Satuan Internasional (SI) adalah ohm (Ω).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan Ω:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Resistansi merupakan parameter kunci dalam hukum Ohm, yang menyatakan bahwa arus listrik yang mengalir melalui suatu bahan atau komponen listrik sebanding dengan resistansi bahan atau komponen tersebut, dan sebaliknya.&lt;/li>
+&lt;li>Nilai resistansi juga dapat digunakan untuk mengukur kekuatan sinyal listrik dalam sistem elektronik seperti amplifier atau filter, di mana nilai resistansi suatu komponen dapat digunakan untuk mengontrol tegangan atau arus yang melewatinya.&lt;/li>
+&lt;li>Nilai resistansi juga digunakan dalam pengukuran suhu melalui sensor termistor, yang mengukur perubahan resistansi bahan dengan perubahan suhu.&lt;/li>
+&lt;li>Nilai resistansi juga penting dalam perhitungan daya listrik atau daya hantar suatu kabel atau jaringan listrik.&lt;/li>
+&lt;li>Nilai resistansi juga digunakan dalam pengukuran arus dan tegangan dalam sirkuit listrik atau perangkat listrik lainnya.&lt;/li>
+&lt;/ul>
+&lt;p>Satuan Ω juga digunakan dalam pengukuran resistansi pada berbagai jenis bahan dan komponen listrik, seperti kawat tembaga, resistor, transistor, dioda, dan kapasitor.&lt;/p>
+&lt;h4 id="kapasitansi-farad">Kapasitansi (Farad)&lt;/h4>
+&lt;p>Kapasitansi adalah besaran fisika yang mengukur kemampuan suatu benda atau sistem untuk menyimpan muatan listrik. Satuan untuk besaran kapasitansi dalam Sistem Satuan Internasional (SI) adalah farad (F).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Contoh penggunaan satuan F:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Kapasitansi digunakan dalam perhitungan dan desain rangkaian elektronik seperti kapasitor, yang menyimpan muatan listrik dalam medan listrik antara dua konduktor terpisah.&lt;/li>
+&lt;li>Nilai kapasitansi juga digunakan dalam perhitungan dan analisis sistem elektronik seperti filter, osilator, dan rangkaian penyimpan energi seperti baterai.&lt;/li>
+&lt;li>Kapasitansi juga penting dalam pemahaman dan pengukuran parameter elektrik dari material isolator seperti kapasitor atau dielektrik, yang menyimpan muatan listrik tanpa mengalirkan arus.&lt;/li>
+&lt;li>Nilai kapasitansi juga digunakan dalam pengukuran dan analisis sirkuit listrik, seperti dalam pengukuran nilai resonansi atau dalam perhitungan waktu konstan pada rangkaian RC (resistor-kapasitor).&lt;/li>
+&lt;li>Nilai kapasitansi juga digunakan dalam sistem pembangkit tenaga listrik, seperti kapasitor pembangkit listrik tenaga surya atau pembangkit listrik tenaga angin, yang menyimpan energi listrik dari sumber daya terbarukan sebelum dialirkan ke jaringan listrik.&lt;/li>
+&lt;/ul>
+&lt;p>Satuan F juga digunakan dalam pengukuran kapasitansi pada berbagai jenis kapasitor, seperti kapasitor film, kapasitor elektrolit, kapasitor tantalum, dan kapasitor keramik.&lt;/p></description></item><item><title>Ipa: Contoh Soal Besaran dan Satuan (3)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-3/</link><pubDate>Thu, 16 Feb 2023 17:24:23 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-dan-satuan/contoh-soal-3/</guid><description>
+&lt;h4 id="berikut-adalah-beberapa-contoh-soal-besaran-dan-satuan-dalam-ilmu-fisika">Berikut adalah beberapa contoh soal besaran dan satuan dalam ilmu fisika&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Sebuah balok dengan massa 10 kg didorong dengan gaya 20 N. Berapa percepatan yang dialami oleh balok tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+massa ({$m}) = 10 kg&lt;br>
+gaya ({$F}) = 20 N&lt;br>
+Ditanyakan: percepatan ({$a})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$a = F/m}&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$a} = 20 N / 10 kg = 2 m/s{^2}&lt;br>
+Jadi, percepatan yang dialami oleh balok tersebut adalah 2 m/s{^2}.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seorang pelari berlari dengan kecepatan rata-rata 5 m/s selama 20 detik. Berapa jarak yang ditempuh oleh pelari tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+kecepatan rata-rata ({$v}) = 5 m/s&lt;br>
+waktu ({$t}) = 20 s&lt;br>
+Ditanyakan: jarak ({$s})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$s = v x t}&lt;br>
+Substitusi nilai:&lt;br>
+{$s} = 5 m/s x 20 s = 100 m&lt;br>
+Jadi, jarak yang ditempuh oleh pelari tersebut adalah 100 meter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah kabel listrik memiliki hambatan 5 ohm. Jika arus listrik yang mengalir melalui kabel tersebut sebesar 2 A, berapa tegangan listrik yang diperlukan?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+hambatan ({$R}) = 5 ohm&lt;br>
+arus ({$I}) = 2 A&lt;br>
+Ditanyakan: tegangan ({$V})&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{*V = R x I}&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$V} = 5 ohm x 2 A = 10 V&lt;br>
+Jadi, tegangan listrik yang diperlukan adalah 10 volt.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sebuah bola dilemparkan ke atas dengan kecepatan awal 10 m/s. Berapa tinggi maksimum yang dapat dicapai oleh bola tersebut?&lt;br>
+&lt;em>&lt;strong>Diketahui:&lt;/strong>&lt;/em>&lt;br>
+kecepatan awal ({$v}) = 10 m/s&lt;br>
+&lt;em>&lt;strong>Ditanyakan:&lt;/strong>&lt;/em>&lt;br>
+tinggi maksimum (h)&lt;br>
+&lt;em>&lt;strong>Rumus:&lt;/strong>&lt;/em>&lt;br>
+{$h} = {$v}{^2}/2{$g}&lt;br>
+Di mana {$g} adalah percepatan gravitasi bumi, yaitu sebesar 9,8 m/s{^2}.&lt;br>
+&lt;em>&lt;strong>Substitusi nilai:&lt;/strong>&lt;/em>&lt;br>
+{$h} = (10 m/s){^2} / 2 x 9,8 m/s{^2} = 5,1 m
+Jadi, tinggi maksimum yang dapat dicapai oleh bola tersebut adalah sekitar 5,1 meter.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Besaran Skalar</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/</link><pubDate>Sat, 18 Feb 2023 21:40:23 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-skalar/</guid><description>
+&lt;h2 id="pengertian-besaran-skalar">Pengertian Besaran Skalar&lt;/h2>
+&lt;p>Besaran skalar adalah jenis besaran fisika yang hanya memiliki nilai numerik atau magnitudo saja, tanpa arah atau orientasi tertentu. Contoh besaran skalar meliputi massa, waktu dan suhu.&lt;/p>
+&lt;p>Berikut adalah beberapa konsep dasar tentang besaran skalar:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Besaran skalar hanya memiliki nilai numerik, tanpa arah atau orientasi tertentu. Misalnya, massa sebuah benda memiliki nilai 5 kg, dan tidak ada arah atau orientasi yang terkait dengan besaran ini.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Besaran skalar dapat diukur menggunakan satuan standar yang berlaku secara internasional. Misalnya, massa dapat diukur dalam kilogram (kg), waktu dalam detik (s) dan suhu dalam Kelvin (K).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Besaran skalar dapat dioperasikan menggunakan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Misalnya, jika Anda memiliki dua besaran skalar, seperti massa 5 kg dan massa 3 kg, Anda dapat menambahkannya untuk mendapatkan total massa 8 kg.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Besaran skalar dapat direpresentasikan dengan menggunakan bilangan atau angka saja, tanpa tanda panah atau vektor. Misalnya, jika Anda ingin merepresentasikan suhu 25 derajat Celsius, Anda cukup menuliskan angka 25, tanpa perlu menggunakan tanda panah atau vektor.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Besaran skalar dapat digunakan untuk mengukur atau menentukan kuantitas fisika yang terkait dengan nilai numeriknya. Misalnya, massa dapat digunakan untuk mengukur inersia benda, waktu dapat digunakan untuk mengukur periode suatu fenomena dan suhu dapat digunakan untuk menentukan tingkat energi dalam sistem.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Ipa: Besaran Vektor</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/</link><pubDate>Fri, 17 Feb 2023 06:22:36 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/besaran-vektor/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="dasar-pemahaman">Dasar Pemahaman&lt;/h2>
+&lt;p>Besaran vektor adalah besaran yang memiliki magnitudo (besar) dan arah yang ditentukan dalam ruang tiga dimensi. Contoh besaran vektor adalah percepatan, gaya, kecepatan, dan momentum. Besaran vektor biasanya direpresentasikan dengan panah di atas huruf yang merepresentasikan besarnya. Misalnya, vektor percepatan direpresentasikan dengan panah di atas huruf &amp;ldquo;a&amp;rdquo;, yaitu \(\vec{a}\).&lt;/p>
+&lt;p>Dalam koordinat kartesian, besaran vektor dinyatakan dengan tiga komponen, masing-masing menunjukkan kontribusi besaran pada sumbu \(x\), \(y\), dan \(z\). Vektor posisi, misalnya, dapat ditulis sebagai \(\vec{r} = (x, y, z)\), di mana \(x\), \(y\), dan \(z\) adalah koordinat pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;p>Selain itu, besaran vektor juga dapat dioperasikan menggunakan operasi matematika seperti penjumlahan vektor, pengurangan vektor, dan perkalian skalar. Operasi ini memungkinkan kita untuk melakukan perhitungan yang kompleks dalam fisika dan matematika, seperti menghitung resultan gaya pada suatu benda atau menghitung arah dan besarnya momentum sebuah objek.&lt;/p>
+&lt;h3 id="berikut-beberapa-contoh-sederhana-dari-besaran-vektor">Berikut beberapa contoh sederhana dari besaran vektor&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Kecepatan:&lt;/strong>&lt;/em> kecepatan adalah besaran vektor yang menyatakan seberapa cepat suatu objek bergerak dan ke arah mana objek itu bergerak. Kecepatan dapat ditulis sebagai \(\vec{v} = (v_x, v_y, v_z)\), di mana \(v_x\), \(v_y\), dan \(v_z\) adalah kecepatan pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Gaya:&lt;/strong>&lt;/em> gaya adalah besaran vektor yang menyatakan seberapa kuat suatu benda ditarik atau didorong dan arah gaya tersebut. Gaya dapat ditulis sebagai \(\vec{F} = (F_x, F_y, F_z)\), di mana \(F_x\), \(F_y\), dan \(F_z\) adalah gaya pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Percepatan:&lt;/strong>&lt;/em> percepatan adalah besaran vektor yang menyatakan perubahan kecepatan suatu objek dalam suatu periode waktu tertentu dan arah percepatan tersebut. Percepatan dapat ditulis sebagai \(\vec{a} = (a_x, a_y, a_z)\), di mana \(a_x\), \(a_y\), dan \(a_z\) adalah percepatan pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Momentum:&lt;/strong>&lt;/em> momentum adalah besaran vektor yang menyatakan seberapa berat suatu objek dan seberapa cepat objek tersebut bergerak dan arah momentum tersebut. Momentum dapat ditulis sebagai \(\vec{p} = (p_x, p_y, p_z)\), di mana \(p_x\), \(p_y\), dan \(p_z\) adalah momentum pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Vektor posisi:&lt;/strong>&lt;/em> vektor posisi adalah besaran vektor yang menyatakan posisi suatu objek dalam suatu sistem koordinat tertentu. Vektor posisi dapat ditulis sebagai \(\vec{r} = (x, y, z)\), di mana \(x\), \(y\), dan \(z\) adalah koordinat pada sumbu \(x\), \(y\), dan \(z\).&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="gambar-besaran-vektor-dalam-ruang-tiga-dimensi">Gambar besaran vektor dalam ruang tiga dimensi&lt;/h3>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;figure>&lt;a href="https://www.all-indonesia.com/img/vektorabc.png">
+&lt;img src="https://www.all-indonesia.com/img/vektorabc.png"
+alt="Gambar Konsep Besaran Vektor"/> &lt;/a>&lt;figcaption>
+&lt;p>&lt;em>&lt;strong>Gambar Konsep Besaran Vektor&lt;/strong>&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Gambar tersebut menunjukkan tiga buah besaran vektor, yaitu \(\vec{a}\), \(\vec{b}\), dan \(\vec{c}\) yang dinyatakan dalam koordinat kartesian \((x, y, z)\). Setiap besaran vektor direpresentasikan oleh sebuah panah dengan panjang (magnitudo) dan arah yang ditentukan oleh koordinat \((x, y, z)\). Panjang panah merepresentasikan besar (magnitudo) dari besaran vektor, sedangkan arah dari panah merepresentasikan arah besaran vektor.&lt;/p>
+&lt;p>Dalam contoh gambar tersebut, \(\vec{a}\) dan \(\vec{b}\) memiliki arah yang sama, yaitu searah sumbu \(x\), sedangkan \(\vec{c}\) memiliki arah yang berbeda dari \(\vec{a}\) dan \(\vec{b}\). Selain itu, panjang dari \(\vec{b}\) lebih panjang dibandingkan dengan \(\vec{a}\) dan \(\vec{c}\), sehingga magnitudo \(\vec{b}\) lebih besar dibandingkan dengan \(\vec{a}\) dan \(\vec{c}\).&lt;/p>
+&lt;h3 id="contoh-lainnya-dari-besaran-vektor">Contoh lainnya dari besaran vektor&lt;/h3>
+&lt;p>Beberapa contoh besaran vektor dalam fisika adalah:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Kecepatan:&lt;/strong>&lt;/em> Kecepatan adalah besaran vektor yang menyatakan perubahan posisi suatu benda dalam suatu waktu tertentu. Kecepatan dinyatakan dalam satuan meter per detik \((\text{m/s})\) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, kecepatan mobil yang bergerak ke arah timur dengan kecepatan 50 km/jam dapat dituliskan sebagai \(\vec{v} = (50\text{ km/jam})\ \hat{i}\), di mana \(\hat{i}\) adalah vektor satuan searah sumbu \(x\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Gaya:&lt;/strong>&lt;/em> Gaya adalah besaran vektor yang menyatakan pengaruh suatu benda terhadap benda lain dalam hal perubahan kecepatan atau bentuk benda tersebut. Gaya dinyatakan dalam satuan newton (\(\text{N}\)) dan memiliki arah yang sejajar dengan arah pengaruh tersebut. Contohnya, gaya gravitasi yang bekerja pada sebuah benda dengan massa 2 kg di dekat permukaan bumi dapat dituliskan sebagai \(\vec{F_g} = (2\text{ kg})(9.8\text{ m/s}^2)\ \hat{j} = 19.6\text{ N}\ \hat{j}\), di mana \(\hat{j}\) adalah vektor satuan searah sumbu \(y\) negatif.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Momentum:&lt;/strong>&lt;/em> Momentum adalah besaran vektor yang menyatakan kuantitas gerak suatu benda, yaitu massa benda dikalikan dengan kecepatannya. Momentum dinyatakan dalam satuan kilogram meter per detik (\(\text{kg m/s}\)) dan memiliki arah yang sejajar dengan arah gerakan benda. Contohnya, momentum sebuah bola dengan massa 0.5 kg yang bergerak dengan kecepatan 10 m/s ke arah timur dapat dituliskan sebagai \(\vec{p} = (0.5\text{ kg})(10\text{ m/s})\ \hat{i} = 5\text{ kg m/s}\ \hat{i}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>&lt;strong>Percepatan:&lt;/strong>&lt;/em> Percepatan adalah besaran vektor yang menyatakan perubahan kecepatan suatu benda dalam suatu waktu tertentu. Percepatan dinyatakan dalam satuan meter per detik kuadrat (\(\text{m/s}^2\)) dan memiliki arah yang sejajar dengan arah perubahan kecepatan. Contohnya, percepatan gravitasi yang bekerja pada benda di dekat permukaan bumi dapat dituliskan sebagai \(\vec{a} = (0\ \text{m/s}^2)\ \hat{i} - (9.8\ \text{m/s}^2)\ \hat{j}\), di mana \(\hat{i}\) dan \(\hat{j}\) adalah vektor satuan searah sumbu \(x\) dan \(y\) negatif.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="proyeksi-vektor">Proyeksi Vektor&lt;/h2>
+&lt;p>Proyeksi vektor adalah hasil proyeksi suatu vektor pada suatu sumbu atau bidang tertentu. Proyeksi vektor dapat digunakan untuk menentukan komponen suatu vektor pada suatu sumbu atau bidang tertentu. Misalnya, proyeksi vektor pada sumbu x dapat digunakan untuk menentukan komponen vektor pada sumbu x, sedangkan proyeksi vektor pada bidang xy dapat digunakan untuk menentukan komponen vektor pada bidang xy.&lt;/p>
+&lt;p>Secara matematis, proyeksi vektor pada suatu sumbu atau bidang dapat ditemukan dengan mengalikan panjang vektor dengan kosinus sudut antara vektor tersebut dan sumbu atau bidang yang dimaksud. Jika vektor yang akan diproyeksikan dinyatakan sebagai vektor \(\vec{v}\) dan sumbu atau bidang yang dimaksud dinyatakan sebagai
+\(\hat{n}\), maka proyeksi vektor dapat dinyatakan sebagai:&lt;/p>
+&lt;p>$$\operatorname{proj}_{\hat{n}} \vec{v} = |\vec{v}| \cos \theta = |\vec{v}| \cos (\hat{n}, \vec{v})$$&lt;/p>
+&lt;p>di mana \(\theta\) adalah sudut antara vektor \(\vec{v}\) dan sumbu atau bidang \(\hat{n}\).&lt;/p>
+&lt;p>Ilustrasi proyeksi vektor dapat dilihat pada simulasi berikut:&lt;/p>
+&lt;div class="container">
+&lt;iframe scrolling="no" title="Vector Projection" src="https://www.geogebra.org/material/iframe/id/mkV7F8Jf/width/900/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" class="responsive-iframe" style="border:0px;"> &lt;/iframe>
+&lt;/div></description></item></channel></rss>

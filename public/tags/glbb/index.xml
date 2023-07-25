@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – GLBB</title><link>https://www.all-indonesia.com/tags/glbb/</link><description>Recent content in GLBB on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Mar 2023 23:18:10 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/glbb/index.xml" rel="self" type="application/rss+xml"/><item><title>Ipa: Gerak Lurus Berubah Beraturan (GLBB)</title><link>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/glbb/</link><pubDate>Fri, 03 Mar 2023 23:18:10 +0700</pubDate><guid>https://www.all-indonesia.com/ipa/sma/fisika/kelas-10/glbb/</guid><description>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="pengertian-glbb">Pengertian GLBB&lt;/h2>
+&lt;p>Gerak Lurus Berubah Beraturan (GLBB) adalah gerak benda yang bergerak lurus sepanjang lintasan dengan percepatan yang konstan. Dalam GLBB, kecepatan benda mengalami perubahan yang sama pada setiap interval waktu yang sama, sehingga percepatannya konstan. Contoh GLBB adalah gerak benda yang terlempar ke atas dan kemudian jatuh bebas, gerak benda yang dilempar horizontal dengan kecepatan awal, atau gerak mobil yang mempercepat atau memperlambat secara konstan pada jalan lurus.&lt;/p>
+&lt;p>Dalam GLBB, persamaan yang digunakan untuk menghitung jarak, kecepatan, waktu, dan percepatan benda adalah sebagai berikut:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Persamaan jarak: \(s=v_0 t + \frac{1}{2}at^2\)&lt;br>
+Persamaan ini digunakan untuk menghitung jarak \(s\) yang ditempuh oleh benda pada waktu tertentu \(t\), dengan kecepatan awal \(v_0\) dan percepatan \(a\) yang diketahui.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Persamaan kecepatan: \(v = v_0 + at\)&lt;br>
+Persamaan ini digunakan untuk menghitung kecepatan \(v\) benda pada waktu tertentu \(t\), dengan kecepatan awal \(v_0\) dan percepatan \(a\) yang diketahui.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Persamaan waktu: \(t = \frac{(v - v_0)}{a}\)&lt;br>
+Persamaan ini digunakan untuk menghitung waktu \(t\) yang diperlukan oleh benda untuk menempuh jarak tertentu \(s\), dengan kecepatan awal \(v_0\) dan percepatan \(a\) yang diketahui.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Persamaan percepatan: \(a = \frac{(v - v_0)}{t}\)
+Persamaan ini digunakan untuk menghitung percepatan \(a\) benda pada waktu tertentu \(t\), dengan kecepatan awal \(v_0\) dan kecepatan \(v\) yang diketahui.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Visualisasi GLBB dapat dilihat pada grafik berikut ini:&lt;/p>
+&lt;div class="container">
+&lt;iframe class="responsive-iframe" scrolling="no" title="Grafik GLBB" src="https://www.geogebra.org/material/iframe/id/csyrb5yd/width/762/height/506/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" style="border:0px;"> &lt;/iframe>
+&lt;/div></description></item></channel></rss>

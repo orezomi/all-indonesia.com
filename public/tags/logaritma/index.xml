@@ -1,0 +1,352 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – Logaritma</title><link>https://www.all-indonesia.com/tags/logaritma/</link><description>Recent content in Logaritma on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Mar 2023 20:59:31 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/logaritma/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Bentuk Pangkat</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-pangkat/</link><pubDate>Sun, 05 Mar 2023 09:34:26 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-pangkat/</guid><description>
+&lt;h2 id="bentuk-pangkat-bilangan">Bentuk Pangkat Bilangan&lt;/h2>
+&lt;h3 id="pengertian">Pengertian&lt;/h3>
+&lt;p>Eksponen atau pangkat bilangan adalah suatu bilangan yang menunjukkan seberapa banyak kali sebuah bilangan harus dikalikan dengan dirinya sendiri. Dalam notasi matematika, eksponen dituliskan dengan menempatkan bilangan yang akan dipangkatkan di bagian bawah, diikuti dengan tanda pangkat (^), dan angka pangkat di atas tanda tersebut.&lt;/p>
+&lt;p>Contohnya, 2^3 selanjutnya dituliskan dengan &lt;em>&lt;strong>2{^3}&lt;/strong>&lt;/em> artinya 2 dipangkatkan dengan eksponen 3, yang berarti 2 dikalikan dengan dirinya sendiri sebanyak 3 kali, yaitu 2 x 2 x 2 = 8.&lt;/p>
+&lt;p>Definisi dan pengertian eksponen dapat diberikan sebagai berikut:&lt;/p>
+&lt;ol>
+&lt;li>&lt;em>&lt;strong>Eksponen positif&lt;/strong>&lt;/em>: Jika bilangan dipangkatkan dengan eksponen positif, maka bilangan tersebut dikalikan dengan dirinya sendiri sebanyak kali yang ditunjukkan oleh angka eksponen tersebut. Contohnya, &lt;em>&lt;strong>2{^4}&lt;/strong>&lt;/em> = 2 x 2 x 2 x 2 = 16.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Eksponen negatif&lt;/strong>&lt;/em>: Jika bilangan dipangkatkan dengan eksponen negatif, maka bilangan tersebut menjadi pecahan dengan penyebut berupa bilangan yang dipangkatkan dengan eksponen positif. Contohnya, &lt;em>&lt;strong>2{^(-3)}&lt;/strong>&lt;/em> = 1/(2{^3}) = 1/8.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Eksponen nol&lt;/strong>&lt;/em>: Jika bilangan dipangkatkan dengan eksponen nol, maka hasilnya selalu 1. Contohnya, &lt;em>&lt;strong>2{^0}&lt;/strong>&lt;/em> = 1.&lt;/li>
+&lt;/ol>
+&lt;p>Contoh-contoh penggunaan eksponen dalam matematika antara lain:&lt;/p>
+&lt;ol>
+&lt;li>Perhitungan luas lingkaran menggunakan rumus \(A = πr^2\), di mana &lt;em>r&lt;/em> adalah jari-jari lingkaran.&lt;/li>
+&lt;li>Perhitungan kecepatan suatu objek dalam fisika menggunakan rumus \(v = v_0 + at^2\), di mana &lt;em>&lt;strong>v{_0}&lt;/strong>&lt;/em> adalah kecepatan awal, a adalah percepatan, dan t adalah waktu.&lt;/li>
+&lt;li>Perhitungan investasi pada bunga berbunga menggunakan rumus \(A = P(1 + \frac{r}{n})^{nt}\), di mana P adalah jumlah investasi awal, r adalah tingkat bunga, n adalah jumlah periode bunga per tahun, dan t adalah jumlah tahun investasi.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/li>
+&lt;/ol>
+&lt;h3 id="contoh-soal-bilangan-berpangkat">Contoh Soal Bilangan Berpangkat&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Hitung nilai dari 2{^3} x 3{^2}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2{^3} x 3{^2} = 8 x 9 = 72.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 5{^2} ÷ 5{^4}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 5{^2} ÷ 5{^4} = 1 ÷ 5{^2} = 1 ÷ 25 = 0,04.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari (4{^3}){^2}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> (4{^3}){^2} = 4{^6} = 4096.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 2{^5} x 2{^(-3)}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2{^5} x 2{^(-3)} = 2{^(5-3)} = 2{^2} = 4.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 2{^x} = 64, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^2}log 64 = 6.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 3{^x} = 81, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^3}log 81 = 4.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 5{^x} = 125, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^5}log 125 = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 10{^x} = 1000, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^10}log 1000 = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 2{^x} = 1/8, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^2}log (1/8) = {^2}log 2{^(-3)} = -3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 1/5{^x} = 25, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^5}log (1/25) = {^5}log 5{^(-2)} = -2.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 2{^3}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2{^3} = 2 x 2 x 2 = 8.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 10{^2}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 10{^2} = 10 x 10 = 100.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 3{^4}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 3{^4} = 3 x 3 x 3 x 3 = 81.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 2{^(-3)}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2{^(-3)} = 1 ÷ 2{^3} = 1 ÷ 8 = 0,125.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 2{^x} = 16, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^2}log 16 = 4.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 10{^x} = 100, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^10}log 100 = 2.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 5{^x} = 125, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^5}log 125 = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 3{^x} = 27, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^3}log 27 = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 2{^x} = 1/16, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^2}log (1/16) = {^2}log 2{^(-4)} = -4.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 1/10{^x} = 1000, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^10}log (1/1000) = {^10}log 10{^(-3)} = -3.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="sifat-bilangan-berpangkat">Sifat bilangan berpangkat&lt;/h3>
+&lt;p>Berikut ini adalah beberapa sifat-sifat bilangan berpangkat:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Sifat distributif perkalian terhadap pangkat, yaitu &lt;em>&lt;strong>a{^(m+n)} = a{^m} x a{^n}&lt;/strong>&lt;/em>.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 2{^(3+4)} = 2{^3} x 2{^4} = 8 x 16 = 128.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat distributif pembagian terhadap pangkat, yaitu &lt;em>&lt;strong>a{^(m-n)} = a{^m} ÷ a{^n}&lt;/strong>&lt;/em>.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 5{^(3-6)} = 5{^3} ÷ 5{^6} = 125 ÷ 15625 = 0,008.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat pangkat nol, yaitu &lt;em>&lt;strong>a{^0} = 1&lt;/strong>&lt;/em>, untuk a ≠ 0.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 10{^0} = 1.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat pangkat satu, yaitu &lt;em>&lt;strong>a{^1} = a&lt;/strong>&lt;/em>, untuk a ≠ 0.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 3{^1} = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat pangkat negatif, yaitu &lt;em>&lt;strong>a{^(-n)} = 1 ÷ a{^n}&lt;/strong>&lt;/em>, untuk a ≠ 0.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 2{^(-3)} = 1 ÷ 2{^3} = 1 ÷ 8 = 0,125.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat perpangkatan, yaitu &lt;em>&lt;strong>(a{^m}){^n} = a{^(m x n)}&lt;/strong>&lt;/em>.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> (4{^3}){^2} = 4{^(3 x 2)} = 4{^6} = 4096.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat akar pangkat n, yaitu &lt;em>&lt;strong>(a{^n}){^(1/n)} = a&lt;/strong>&lt;/em>.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> (16{^2}){^(1/2)} = 16{^(2 x 1/2)} = 16{^1} = 16.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat pangkat pecahan, yaitu \(a^{\frac{m}{n}} = \sqrt[n]{a^m}\), untuk m dan n bilangan bulat.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> \(27^{\frac{2}{3}} = \sqrt[3]{27^2} = \sqrt[3]{729} = 9\).&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Matematika: Notasi Ilmiah</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/notasi-ilmiah/</link><pubDate>Sun, 05 Mar 2023 12:21:14 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/notasi-ilmiah/</guid><description>
+&lt;h2 id="notasi-ilmiah">Notasi Ilmiah&lt;/h2>
+&lt;h3 id="pengertian">Pengertian&lt;/h3>
+&lt;p>Notasi ilmiah adalah suatu cara untuk menulis angka dalam bentuk yang mudah dibaca dan ditulis, terutama untuk angka yang sangat besar atau kecil. Notasi ini menggunakan pangkat 10, di mana bilangan yang ditulis merupakan hasil kali antara bilangan pada interval 1-10 dengan suatu pangkat 10 yang sesuai. Misalnya, bilangan &lt;em>&lt;strong>300.000.000&lt;/strong>&lt;/em> dapat dituliskan dalam notasi ilmiah sebagai &lt;em>&lt;strong>3 x 10{^8}&lt;/strong>&lt;/em>.&lt;/p>
+&lt;p>Notasi ilmiah biasanya digunakan dalam ilmu fisika, kimia, dan matematika. Keuntungan menggunakan notasi ini adalah mempermudah perhitungan dan membuat bilangan lebih mudah dibaca dan ditulis. Selain itu, notasi ilmiah juga memudahkan dalam mengekspresikan bilangan yang sangat besar atau sangat kecil.&lt;/p>
+&lt;p>Contoh lain dari notasi ilmiah adalah:&lt;/p>
+&lt;ol>
+&lt;li>&lt;em>&lt;strong>0,00000025&lt;/strong>&lt;/em> ditulis sebagai &lt;em>&lt;strong>2,5 x 10{^-7}&lt;/strong>&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>500&lt;/strong>&lt;/em> ditulis sebagai &lt;em>&lt;strong>5 x 10{^2}&lt;/strong>&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>0,0000000012&lt;/strong>&lt;/em> ditulis sebagai &lt;em>&lt;strong>1,2 x 10{^-9}&lt;/strong>&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;h3 id="contoh-soal-notasi-ilmiah">Contoh soal notasi ilmiah&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Tuliskan bilangan 0,000000045 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 4,5 x 10{^-8}&lt;br>
+&lt;em>&lt;strong>Penjelasan:&lt;/strong>&lt;/em> Bilangan 0,000000045 dapat dituliskan sebagai 4,5 x 0,00000001. Karena 0,00000001 = 1 x 10{^-8}, maka bilangan 0,000000045 dapat dituliskan dalam notasi ilmiah sebagai 4,5 x 10{^-8}.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan bilangan 8900 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 8,9 x 10{^3}&lt;br>
+&lt;em>&lt;strong>Penjelasan:&lt;/strong>&lt;/em> Bilangan 8900 dapat dituliskan sebagai 8,9 x 1000. Karena 1000 = 10{^3}, maka bilangan 8900 dapat dituliskan dalam notasi ilmiah sebagai 8,9 x 10{^3}.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan bilangan 0,0000000076 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 7,6 x 10{^-9}&lt;br>
+&lt;em>&lt;strong>Penjelasan:&lt;/strong>&lt;/em> Bilangan 0,0000000076 dapat dituliskan sebagai 7,6 x 0,000000001. Karena 0,000000001 = 1 x 10{^-9}, maka bilangan 0,0000000076 dapat dituliskan dalam notasi ilmiah sebagai 7,6 x 10{^-9}.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan bilangan 0,000000042 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Bilangan 0,000000042 dapat ditulis sebagai 4,2 x 10{^-8} dalam notasi ilmiah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan bilangan 950.000.000 dalam notasi ilmiah!
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Bilangan 950.000.000 dapat ditulis sebagai 9,5 x 10{^8} dalam notasi ilmiah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika kecepatan cahaya adalah 299.792.458 meter per detik, tuliskan kecepatan cahaya dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan cahaya dapat ditulis sebagai 2,99792458 x 10{^8} meter per detik dalam notasi ilmiah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Berapa hasil dari 6,5 x 10{^3} x 8,2 x 10{^2}?&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+6,5 x 10{^3} x 8,2 x 10{^2} dapat dihitung dengan mengalikan bilangan pada interval 1-10 dan menambahkan pangkatnya, yaitu:&lt;br>
+&lt;br>
+6,5 x 8,2 x 10{^(3+2)} = 53,3 x 10{^5}&lt;br>
+&lt;br>
+Maka hasil dari 6,5 x 10{^3} x 8,2 x 10{^2} adalah 53,3 x 10{^5}.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 0,00000127 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 1,27 x 10{^-6}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 700.000 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 7 x 10{^5}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 0,000025 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2,5 x 10{^-5}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 9.000.000.000 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 9 x 10{^9}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 0,0000000000845 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 8,45 x 10{^-11}&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Matematika: Bentuk Akar</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-akar/</link><pubDate>Sun, 05 Mar 2023 20:59:31 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-akar/</guid><description>
+&lt;h2 id="pengertian-dan-sifat-bilangan-bentuk-akar">Pengertian dan Sifat Bilangan Bentuk Akar&lt;/h2>
+&lt;p>Bilangan bentuk akar adalah bilangan yang dinyatakan dalam bentuk akar atau pangkat rasional dari bilangan bulat atau pecahan. Sebagai contoh, \(\sqrt{2}\) dan \(\frac{3}{\sqrt{5}}\) adalah bilangan bentuk akar. Sifat-sifat dari bilangan bentuk akar antara lain:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Operasi hitung bilangan bentuk akar dapat dilakukan dengan menggunakan aturan matematika yang sama seperti operasi bilangan biasa, yaitu penjumlahan, pengurangan, perkalian, dan pembagian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dua bilangan bentuk akar dapat dijumlahkan atau dikurangkan jika memiliki bentuk akar yang sama. Misalnya, \(2\sqrt{3} + 5\sqrt{3} = 7\sqrt{3}\), sedangkan \(2\sqrt{3} + 5\sqrt{2}\) tidak dapat dijumlahkan karena memiliki bentuk akar yang berbeda.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dalam perkalian dua bilangan bentuk akar, akar-akar dapat disederhanakan dengan mengalikan nilai-nilai di luar akar dan nilai-nilai di dalam akar secara terpisah. Misalnya, \(\sqrt{2} \times \sqrt{8} = \sqrt{16} = 4\), karena 2 x 8 = 16.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pembagian dua bilangan bentuk akar dapat disederhanakan dengan mengalikan baik pembilang dan penyebut dengan konjugat dari penyebut. Misalnya, \(\frac{3\sqrt{5}}{4\sqrt{3}}\) dapat disederhanakan dengan mengalikan pembilang dan penyebut dengan \(4\sqrt{3}\), sehingga hasilnya adalah \(\frac{3\sqrt{15}}{12}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bilangan bulat atau pecahan yang tidak memiliki bentuk akar yang tepat dapat dinyatakan dalam bentuk desimal yang tak terhingga atau dalam bentuk pecahan campuran. Sebagai contoh, \(\frac{5}{\sqrt{2}}\) dapat dinyatakan dalam bentuk desimal 3,536&amp;hellip;, atau dalam bentuk pecahan campuran \(7\frac{1}{\sqrt{2}}\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="perkalian-bilangan-bentuk-akar">Perkalian Bilangan Bentuk Akar&lt;/h3>
+&lt;p>Perkalian bilangan bentuk akar dapat dilakukan dengan mengalikan koefisien (bilangan sebelum tanda akar) dan mengalikan radikal (akar) dengan akar yang serupa. Misalnya, untuk mengalikan \(\sqrt{a}\) dan \(\sqrt{b}\), dapat dilakukan dengan mengalikan keduanya sehingga menjadi \(\sqrt{ab}\). Contoh lainnya, untuk mengalikan \(2\sqrt{3}\) dengan \(3\sqrt{5}\), dapat dilakukan dengan mengalikan koefisien 2 dan 3 sehingga menjadi 6, dan mengalikan akar 3 dengan akar 5 sehingga menjadi \(\sqrt{15}\). Dengan demikian, hasil perkaliannya adalah \(6\sqrt{15}\).&lt;/p>
+&lt;h3 id="pembagian-bilangan-bentuk-akar">Pembagian Bilangan Bentuk Akar&lt;/h3>
+&lt;p>Pembagian bilangan bentuk akar dapat dilakukan dengan membagi koefisien (bilangan sebelum tanda akar) dan membagi radikal (akar) dengan akar yang serupa. Misalnya, untuk membagi \(\sqrt{a}\) dan \(\sqrt{b}\), dapat dilakukan dengan membagi keduanya sehingga menjadi \(\sqrt{\frac{a}{b}}\). Contoh lainnya, untuk membagi \(4\sqrt{10}\) dengan \(2\sqrt{5}\), dapat dilakukan dengan membagi koefisien 4 dan 2 sehingga menjadi 2, dan membagi akar 10 dengan akar 5 sehingga menjadi \(\sqrt{2}\). Dengan demikian, hasil pembagiannya adalah \(2\sqrt{2}\).&lt;/p>
+&lt;p>Namun, perlu diperhatikan bahwa dalam pembagian bilangan bentuk akar, harus dipastikan bahwa penyebutnya tidak sama dengan 0, karena bilangan akar tidak bisa dibagi dengan 0.&lt;/p>
+&lt;h2 id="contoh-soal-bilangan-bentuk-akar">Contoh Soal Bilangan Bentuk Akar&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Hitunglah nilai dari \(\sqrt{75} - \sqrt{48}\).
+Untuk menyelesaikan soal ini, kita dapat menghitung terlebih dahulu nilai dari \(\sqrt{75}\) dan \(\sqrt{48}\). Kita dapat menyederhanakan akar-akar tersebut sebagai berikut:
+$$\sqrt{75} = \sqrt{25 \times 3} = 5\sqrt{3}$$
+$$\sqrt{48} = \sqrt{16 \times 3} = 4\sqrt{3}$$
+Substitusikan kedua nilai tersebut ke dalam soal:
+$$\sqrt{75} - \sqrt{48} = 5\sqrt{3} - 4\sqrt{3} = \sqrt{3}$$
+Jadi, nilai dari \(\sqrt{75} - \sqrt{48}\) adalah \(\sqrt{3}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(a = \sqrt{2} + \sqrt{3}\) dan \(b = \sqrt{2} - \sqrt{3}\), hitunglah nilai dari \(a^2 - 2ab + b^2\).
+Kita dapat menyelesaikan soal ini dengan menggunakan rumus \((a-b)^2 = a^2 - 2ab + b^2\). Kita tahu bahwa:
+$$(a-b)^2 = (\sqrt{2} + \sqrt{3} - \sqrt{2} + \sqrt{3})^2 = (2\sqrt{3})^2 = 12$$
+Sehingga:
+$$a^2 - 2ab + b^2 = (a-b)^2 = 12$$
+Jadi, nilai dari \(a^2 - 2ab + b^2\) adalah 12.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(x = \sqrt{2} + \sqrt{3}\), maka berapakah nilai dari \(x^2 - 5x + 1\)?&lt;br>
+A. 1&lt;br>
+B. 2&lt;br>
+C. 3&lt;br>
+D. 4&lt;br>
+E. 5&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Penyelesaian:&lt;/strong>&lt;/em>&lt;br>
+Dari persamaan \(x = \sqrt{2} + \sqrt{3}\), kita bisa kuadratkan kedua sisi sehingga didapatkan \(x^2 = 2 + 2\sqrt{6} + 3 = 5 + 2\sqrt{6}\). Jadi:
+$$\begin{align}
+x^2 - 5x + 1 &amp;amp;= (5 + 2\sqrt{6}) - 5(\sqrt{2} + \sqrt{3}) + 1 \newline
+&amp;amp;= 6 + 2\sqrt{6} - 5\sqrt{2} - 5\sqrt{3} \newline
+&amp;amp;= (6 - 5\sqrt{3}) + (2\sqrt{6} - 5\sqrt{2}) \newline
+\end{align}$$
+Jadi, jawabannya adalah D.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(x = \sqrt{2} + \sqrt{3}\) dan \(y = \sqrt{2} - \sqrt{3}\), maka berapakah nilai dari \(x^2 + 4xy + y^2\)?&lt;br>
+A. 1&lt;br>
+B. 2&lt;br>
+C. 3&lt;br>
+D. 4&lt;br>
+E. 5&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Penyelesaian:&lt;/strong>&lt;/em>&lt;br>
+Dari persamaan \(x = \sqrt{2} + \sqrt{3}\) dan \(y = \sqrt{2} - \sqrt{3}\), kita bisa menghitung \(x^2 dan\ y^2\) sebagai berikut:
+$$\begin{align}
+x^2 &amp;amp;= (\sqrt{2} + \sqrt{3})^2 \newline
+&amp;amp;= 2 + 2\sqrt{6} + 3 \newline
+&amp;amp;= 5 + 2\sqrt{6} \newline
+y^2 &amp;amp;= (\sqrt{2} - \sqrt{3})^2 \newline
+&amp;amp;= 2 - 2\sqrt{6} + 3 \newline
+&amp;amp;= 5 - 2\sqrt{6} \newline
+\end{align}$$
+Selanjutnya, kita dapat menghitung $xy$ sebagai berikut:
+$$\begin{align}
+xy &amp;amp;= (\sqrt{2} + \sqrt{3})(\sqrt{2} - \sqrt{3}) \newline
+&amp;amp;= 2 - \sqrt{6} - \sqrt{6} + 3 \newline
+&amp;amp;= 5 - 2\sqrt{6} \newline
+\end{align}$$
+Maka, \(x^2 + 4xy + y^2\) dapat dihitung sebagai berikut:
+$$\begin{align}
+x^2 + 4xy + y^2 &amp;amp;= (5 + 2\sqrt{6}) + 4(5 - 2\sqrt{6}) + (5 - 2\sqrt{6}) \newline
+&amp;amp;= 15 \newline
+\end{align}$$
+Jadi, jawabannya adalah C.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item></channel></rss>

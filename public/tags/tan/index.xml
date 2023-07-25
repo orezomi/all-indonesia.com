@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – tan</title><link>https://www.all-indonesia.com/tags/tan/</link><description>Recent content in tan on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 14 May 2022 16:08:44 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/tan/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Materi Trigonometri Sin Cos Tan Lengkap</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</link><pubDate>Sat, 14 May 2022 16:08:44 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – tan</title><link>https://www.all-indonesia.com/tags/tan/</link><description>Recent content in tan on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 May 2022 16:08:44 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/tan/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Materi Trigonometri Sin Cos Tan Lengkap</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</link><pubDate>Sat, 14 May 2022 16:08:44 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</guid><description>
 &lt;p>Trigonometri adalah bidang ilmu ukur sudut dan sempadan segitiga yang umum digunakan dalam ilmu astronomi atau perbintangan dan sebagainya (KBBI). Umumnya materi terkait trigonometri disajikan di sekolah mulai dari tingkat SMP dan akan lebih mendalam pada tingkat SMA dan Perguruan tinggi. Pada umumnya para siswa menyebut bidang ilmu matematika ini dengan sebutan pelajaran atau rumus &lt;em>&lt;strong>Sin Cos Tan&lt;/strong>&lt;/em>, karena mungkin lebih mudah untuk diingat.&lt;/p>
 &lt;p>Baik, kita akan menggunakan gambar berikut untuk menjelaskan konsep dasar trigonometri&lt;/p>
 &lt;table>
@@ -15,6 +15,19 @@
 &lt;/table>
 &lt;p>Pada dasarnya gambar di atas merupakan lingkaran dengan jari-jari &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Di dalam lingkaran tersebut terdapatlah sebuah segitiga siku-siku &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em>. Uniknya, sisi miring segitiga siku siku ini adalah sama dengan jari-jari lingkaran yaitu &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Selain itu, segitiga dalam lingkaran ini juga memiliki 2 sisi lainnya yaitu sisi &lt;em>&lt;strong>c&lt;/strong>&lt;/em> dan &lt;em>&lt;strong>a&lt;/strong>&lt;/em>.&lt;/p>
 &lt;p>Segitiga ABC ini memiliki tiga sudut yang terdiri atas dua sudut lancip yaitu \(\alpha\) dan \(\gamma\) serta sebuah sudut siku siku yaitu \(\beta\). Kedepan sudut-sudut dan sisi-sisi inilah yang mengantar kita ke pemahaman materi trigonometri ini. Para siswa pada umumnya menyebut lingkaran ini dengan &amp;ldquo;Lingkaran sin cos tan&amp;rdquo;.&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
 &lt;h2 id="rumus-nilai-cosinus-atau-cos">Rumus Nilai Cosinus atau Cos&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -157,6 +170,19 @@ $$Tan(\alpha) = {a\over c} = {3\over 4} = 0,75$$&lt;/p>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
 &lt;p>Berapakah tinggi pohon tersebut? kita dapat menghitung ketinggian pohon dengan fungsi trigonometri yang telah kita pelajari di materi ini.&lt;/p>
 &lt;p>$$tan(\theta) = {y\over x}$$
 $$y\ =\ x\ tan(\theta) = 70ft \times tan(31,8\degree)\ =\ 44ft$$&lt;/p>
@@ -205,6 +231,19 @@ $$1\degree\ =\ 60&amp;rsquo;\ =\ 3600&amp;quot;$$&lt;/p>
 $$Luas\ Juring\ ABC = {1\over 2}r^2\alpha \scriptstyle radian$$&lt;/p>
 &lt;h2 id="rasio-atau-perbandingan-trigonometri-segitiga-siku-siku">Rasio atau Perbandingan Trigonometri Segitiga Siku Siku&lt;/h2>
 &lt;p>Nilai sinus, cosinus, tangen, secan, cosecan dan cotangen sudut &lt;em>&lt;strong>α&lt;/strong>&lt;/em> dalam segitiga berikut akan selalu tetap walaupun ukuran segitiga bertambah besar atau kecil.&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
 &lt;table>
 &lt;thead>
 &lt;tr>

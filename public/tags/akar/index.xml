@@ -1,0 +1,106 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – Akar</title><link>https://www.all-indonesia.com/tags/akar/</link><description>Recent content in Akar on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Mar 2023 20:59:31 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/akar/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Bentuk Akar</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-akar/</link><pubDate>Sun, 05 Mar 2023 20:59:31 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-akar/</guid><description>
+&lt;h2 id="pengertian-dan-sifat-bilangan-bentuk-akar">Pengertian dan Sifat Bilangan Bentuk Akar&lt;/h2>
+&lt;p>Bilangan bentuk akar adalah bilangan yang dinyatakan dalam bentuk akar atau pangkat rasional dari bilangan bulat atau pecahan. Sebagai contoh, \(\sqrt{2}\) dan \(\frac{3}{\sqrt{5}}\) adalah bilangan bentuk akar. Sifat-sifat dari bilangan bentuk akar antara lain:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Operasi hitung bilangan bentuk akar dapat dilakukan dengan menggunakan aturan matematika yang sama seperti operasi bilangan biasa, yaitu penjumlahan, pengurangan, perkalian, dan pembagian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dua bilangan bentuk akar dapat dijumlahkan atau dikurangkan jika memiliki bentuk akar yang sama. Misalnya, \(2\sqrt{3} + 5\sqrt{3} = 7\sqrt{3}\), sedangkan \(2\sqrt{3} + 5\sqrt{2}\) tidak dapat dijumlahkan karena memiliki bentuk akar yang berbeda.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dalam perkalian dua bilangan bentuk akar, akar-akar dapat disederhanakan dengan mengalikan nilai-nilai di luar akar dan nilai-nilai di dalam akar secara terpisah. Misalnya, \(\sqrt{2} \times \sqrt{8} = \sqrt{16} = 4\), karena 2 x 8 = 16.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pembagian dua bilangan bentuk akar dapat disederhanakan dengan mengalikan baik pembilang dan penyebut dengan konjugat dari penyebut. Misalnya, \(\frac{3\sqrt{5}}{4\sqrt{3}}\) dapat disederhanakan dengan mengalikan pembilang dan penyebut dengan \(4\sqrt{3}\), sehingga hasilnya adalah \(\frac{3\sqrt{15}}{12}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bilangan bulat atau pecahan yang tidak memiliki bentuk akar yang tepat dapat dinyatakan dalam bentuk desimal yang tak terhingga atau dalam bentuk pecahan campuran. Sebagai contoh, \(\frac{5}{\sqrt{2}}\) dapat dinyatakan dalam bentuk desimal 3,536&amp;hellip;, atau dalam bentuk pecahan campuran \(7\frac{1}{\sqrt{2}}\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="perkalian-bilangan-bentuk-akar">Perkalian Bilangan Bentuk Akar&lt;/h3>
+&lt;p>Perkalian bilangan bentuk akar dapat dilakukan dengan mengalikan koefisien (bilangan sebelum tanda akar) dan mengalikan radikal (akar) dengan akar yang serupa. Misalnya, untuk mengalikan \(\sqrt{a}\) dan \(\sqrt{b}\), dapat dilakukan dengan mengalikan keduanya sehingga menjadi \(\sqrt{ab}\). Contoh lainnya, untuk mengalikan \(2\sqrt{3}\) dengan \(3\sqrt{5}\), dapat dilakukan dengan mengalikan koefisien 2 dan 3 sehingga menjadi 6, dan mengalikan akar 3 dengan akar 5 sehingga menjadi \(\sqrt{15}\). Dengan demikian, hasil perkaliannya adalah \(6\sqrt{15}\).&lt;/p>
+&lt;h3 id="pembagian-bilangan-bentuk-akar">Pembagian Bilangan Bentuk Akar&lt;/h3>
+&lt;p>Pembagian bilangan bentuk akar dapat dilakukan dengan membagi koefisien (bilangan sebelum tanda akar) dan membagi radikal (akar) dengan akar yang serupa. Misalnya, untuk membagi \(\sqrt{a}\) dan \(\sqrt{b}\), dapat dilakukan dengan membagi keduanya sehingga menjadi \(\sqrt{\frac{a}{b}}\). Contoh lainnya, untuk membagi \(4\sqrt{10}\) dengan \(2\sqrt{5}\), dapat dilakukan dengan membagi koefisien 4 dan 2 sehingga menjadi 2, dan membagi akar 10 dengan akar 5 sehingga menjadi \(\sqrt{2}\). Dengan demikian, hasil pembagiannya adalah \(2\sqrt{2}\).&lt;/p>
+&lt;p>Namun, perlu diperhatikan bahwa dalam pembagian bilangan bentuk akar, harus dipastikan bahwa penyebutnya tidak sama dengan 0, karena bilangan akar tidak bisa dibagi dengan 0.&lt;/p>
+&lt;h2 id="contoh-soal-bilangan-bentuk-akar">Contoh Soal Bilangan Bentuk Akar&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Hitunglah nilai dari \(\sqrt{75} - \sqrt{48}\).
+Untuk menyelesaikan soal ini, kita dapat menghitung terlebih dahulu nilai dari \(\sqrt{75}\) dan \(\sqrt{48}\). Kita dapat menyederhanakan akar-akar tersebut sebagai berikut:
+$$\sqrt{75} = \sqrt{25 \times 3} = 5\sqrt{3}$$
+$$\sqrt{48} = \sqrt{16 \times 3} = 4\sqrt{3}$$
+Substitusikan kedua nilai tersebut ke dalam soal:
+$$\sqrt{75} - \sqrt{48} = 5\sqrt{3} - 4\sqrt{3} = \sqrt{3}$$
+Jadi, nilai dari \(\sqrt{75} - \sqrt{48}\) adalah \(\sqrt{3}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(a = \sqrt{2} + \sqrt{3}\) dan \(b = \sqrt{2} - \sqrt{3}\), hitunglah nilai dari \(a^2 - 2ab + b^2\).
+Kita dapat menyelesaikan soal ini dengan menggunakan rumus \((a-b)^2 = a^2 - 2ab + b^2\). Kita tahu bahwa:
+$$(a-b)^2 = (\sqrt{2} + \sqrt{3} - \sqrt{2} + \sqrt{3})^2 = (2\sqrt{3})^2 = 12$$
+Sehingga:
+$$a^2 - 2ab + b^2 = (a-b)^2 = 12$$
+Jadi, nilai dari \(a^2 - 2ab + b^2\) adalah 12.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(x = \sqrt{2} + \sqrt{3}\), maka berapakah nilai dari \(x^2 - 5x + 1\)?&lt;br>
+A. 1&lt;br>
+B. 2&lt;br>
+C. 3&lt;br>
+D. 4&lt;br>
+E. 5&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Penyelesaian:&lt;/strong>&lt;/em>&lt;br>
+Dari persamaan \(x = \sqrt{2} + \sqrt{3}\), kita bisa kuadratkan kedua sisi sehingga didapatkan \(x^2 = 2 + 2\sqrt{6} + 3 = 5 + 2\sqrt{6}\). Jadi:
+$$\begin{align}
+x^2 - 5x + 1 &amp;amp;= (5 + 2\sqrt{6}) - 5(\sqrt{2} + \sqrt{3}) + 1 \newline
+&amp;amp;= 6 + 2\sqrt{6} - 5\sqrt{2} - 5\sqrt{3} \newline
+&amp;amp;= (6 - 5\sqrt{3}) + (2\sqrt{6} - 5\sqrt{2}) \newline
+\end{align}$$
+Jadi, jawabannya adalah D.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(x = \sqrt{2} + \sqrt{3}\) dan \(y = \sqrt{2} - \sqrt{3}\), maka berapakah nilai dari \(x^2 + 4xy + y^2\)?&lt;br>
+A. 1&lt;br>
+B. 2&lt;br>
+C. 3&lt;br>
+D. 4&lt;br>
+E. 5&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Penyelesaian:&lt;/strong>&lt;/em>&lt;br>
+Dari persamaan \(x = \sqrt{2} + \sqrt{3}\) dan \(y = \sqrt{2} - \sqrt{3}\), kita bisa menghitung \(x^2 dan\ y^2\) sebagai berikut:
+$$\begin{align}
+x^2 &amp;amp;= (\sqrt{2} + \sqrt{3})^2 \newline
+&amp;amp;= 2 + 2\sqrt{6} + 3 \newline
+&amp;amp;= 5 + 2\sqrt{6} \newline
+y^2 &amp;amp;= (\sqrt{2} - \sqrt{3})^2 \newline
+&amp;amp;= 2 - 2\sqrt{6} + 3 \newline
+&amp;amp;= 5 - 2\sqrt{6} \newline
+\end{align}$$
+Selanjutnya, kita dapat menghitung $xy$ sebagai berikut:
+$$\begin{align}
+xy &amp;amp;= (\sqrt{2} + \sqrt{3})(\sqrt{2} - \sqrt{3}) \newline
+&amp;amp;= 2 - \sqrt{6} - \sqrt{6} + 3 \newline
+&amp;amp;= 5 - 2\sqrt{6} \newline
+\end{align}$$
+Maka, \(x^2 + 4xy + y^2\) dapat dihitung sebagai berikut:
+$$\begin{align}
+x^2 + 4xy + y^2 &amp;amp;= (5 + 2\sqrt{6}) + 4(5 - 2\sqrt{6}) + (5 - 2\sqrt{6}) \newline
+&amp;amp;= 15 \newline
+\end{align}$$
+Jadi, jawabannya adalah C.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item></channel></rss>

@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – max</title><link>https://www.all-indonesia.com/tags/max/</link><description>Recent content in max on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Mar 2023 17:36:52 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/max/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: MAX</title><link>https://www.all-indonesia.com/msoffice/msexcel/max/</link><pubDate>Thu, 09 Mar 2023 17:36:52 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/max/</guid><description>
+&lt;h2 id="formula-max">Formula MAX&lt;/h2>
+&lt;p>Formula MAX pada Excel digunakan untuk menemukan nilai maksimum dalam sebuah range atau daftar nilai numerik. Formula ini berguna untuk menganalisis data numerik dan mengambil nilai terbesar dalam range tersebut.&lt;/p>
+&lt;p>Berikut adalah sintaks dari formula MAX pada Excel:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">MAX&lt;/span>(&lt;span style="color:#a6e22e">value1&lt;/span>, [&lt;span style="color:#a6e22e">value2&lt;/span>], &lt;span style="color:#f92672">...&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;ul>
+&lt;li>value1 adalah nilai atau range pertama yang ingin dicari nilai maksimumnya.&lt;/li>
+&lt;li>[value2] adalah nilai atau range kedua (opsional) yang ingin dicari nilai maksimumnya.&lt;/li>
+&lt;/ul>
+&lt;p>Tips penggunaan formula MAX pada Excel:&lt;/p>
+&lt;ul>
+&lt;li>Gunakan tanda &lt;em>$&lt;/em> pada range nilai yang ingin dicari nilai maksimumnya agar dapat digunakan pada sel yang berbeda.&lt;/li>
+&lt;li>Jika menggunakan range nilai, pastikan range tersebut hanya terdiri dari nilai numerik, jika tidak maka formula akan menghasilkan error.&lt;/li>
+&lt;li>Formula MAX juga dapat digunakan pada sel yang mengandung formula atau nilai hasil perhitungan.&lt;/li>
+&lt;/ul>
+&lt;h3 id="contoh-penggunaan-formula-max-pada-excel">Contoh penggunaan formula MAX pada Excel:&lt;/h3>
+&lt;p>Misalnya, kita ingin mencari nilai maksimum dari range nilai A1:A10, maka sintaks yang digunakan adalah sebagai berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">MAX&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A10&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Jika kita ingin mencari nilai maksimum dari dua range nilai yaitu A1:A10 dan B1:B10, maka sintaks yang digunakan adalah sebagai berikut:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">MAX&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>:&lt;span style="color:#a6e22e">A10&lt;/span>, &lt;span style="color:#a6e22e">B1&lt;/span>:&lt;span style="color:#a6e22e">B10&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Selain itu, kita juga dapat menggunakan formula MAX pada sel yang mengandung formula atau nilai hasil perhitungan seperti contoh berikut:
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">MAX&lt;/span>(&lt;span style="color:#ae81ff">10&lt;/span>, &lt;span style="color:#ae81ff">5&lt;/span>, &lt;span style="color:#ae81ff">20&lt;/span>, &lt;span style="color:#a6e22e">A1&lt;/span>, &lt;span style="color:#a6e22e">B2&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+Formula tersebut akan mencari nilai maksimum dari angka 10, 5, 20, nilai pada sel A1, dan nilai pada sel B2.&lt;/p></description></item></channel></rss>

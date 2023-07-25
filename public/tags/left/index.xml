@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – LEFT</title><link>https://www.all-indonesia.com/tags/left/</link><description>Recent content in LEFT on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 12 Mar 2023 11:47:56 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/tags/left/index.xml" rel="self" type="application/rss+xml"/><item><title>Msoffice: LEFT</title><link>https://www.all-indonesia.com/msoffice/msexcel/left/</link><pubDate>Sun, 12 Mar 2023 11:44:19 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/left/</guid><description>
+&lt;h2 id="formula-left">Formula LEFT&lt;/h2>
+&lt;p>Formula LEFT di Excel digunakan untuk mengambil sejumlah karakter pertama dari suatu teks atau nilai dalam sel. Berikut adalah contoh penggunaan formula LEFT:&lt;/p>
+&lt;p>Contoh 1:
+Ambil 3 karakter pertama dari teks &amp;ldquo;Produk A&amp;rdquo;.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">LEFT&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Produk A&amp;#34;&lt;/span>, &lt;span style="color:#ae81ff">3&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Contoh 2:
+Ambil 5 karakter pertama dari nilai di sel A1.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">LEFT&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>, &lt;span style="color:#ae81ff">5&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Tips dalam menggunakan formula LEFT:&lt;/p>
+&lt;ol>
+&lt;li>Pastikan jumlah karakter yang ingin diambil sudah benar dan sesuai dengan kebutuhan Anda.&lt;/li>
+&lt;li>Jangan lupa untuk memasukkan sel yang ingin diambil nilainya di dalam formula.&lt;/li>
+&lt;li>Anda juga dapat menggunakan formula RIGHT untuk mengambil karakter terakhir dari suatu teks atau nilai dalam sel.&lt;/li>
+&lt;/ol>
+&lt;p>Dalam penggunaan formula &lt;code>LEFT&lt;/code>, Anda dapat mengambil sejumlah karakter pertama dari suatu teks atau nilai dalam sel. Dengan menggunakan formula &lt;code>LEFT&lt;/code>, Anda dapat mempersiapkan data yang dibutuhkan untuk analisis atau presentasi dengan lebih efektif dan efisien.&lt;/p></description></item><item><title>Msoffice: RIGHT</title><link>https://www.all-indonesia.com/msoffice/msexcel/right/</link><pubDate>Sun, 12 Mar 2023 11:47:56 +0700</pubDate><guid>https://www.all-indonesia.com/msoffice/msexcel/right/</guid><description>
+&lt;h2 id="formula-right">Formula RIGHT&lt;/h2>
+&lt;p>Formula RIGHT di Excel digunakan untuk mengambil sejumlah karakter terakhir dari suatu teks atau nilai dalam sel. Berikut adalah contoh penggunaan formula RIGHT:&lt;/p>
+&lt;p>Contoh 1:
+Ambil 3 karakter terakhir dari teks &amp;ldquo;Produk A&amp;rdquo;.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">RIGHT&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Produk A&amp;#34;&lt;/span>, &lt;span style="color:#ae81ff">3&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Contoh 2:
+Ambil 5 karakter terakhir dari nilai di sel A1.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>=&lt;span style="color:#a6e22e">RIGHT&lt;/span>(&lt;span style="color:#a6e22e">A1&lt;/span>, &lt;span style="color:#ae81ff">5&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;p>Tips dalam menggunakan formula RIGHT:&lt;/p>
+&lt;ol>
+&lt;li>Pastikan jumlah karakter yang ingin diambil sudah benar dan sesuai dengan kebutuhan Anda.&lt;/li>
+&lt;li>Jangan lupa untuk memasukkan sel yang ingin diambil nilainya di dalam formula.&lt;/li>
+&lt;li>Anda juga dapat menggunakan formula &lt;code>LEFT&lt;/code> untuk mengambil karakter pertama dari suatu teks atau nilai dalam sel.&lt;/li>
+&lt;/ol>
+&lt;p>Dalam penggunaan formula &lt;code>RIGHT&lt;/code>, Anda dapat mengambil sejumlah karakter terakhir dari suatu teks atau nilai dalam sel. Dengan menggunakan formula &lt;code>RIGHT&lt;/code>, Anda dapat mempersiapkan data yang dibutuhkan untuk analisis atau presentasi dengan lebih efektif dan efisien.&lt;/p></description></item></channel></rss>

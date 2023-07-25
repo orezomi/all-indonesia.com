@@ -1,4 +1,199 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – Matematika Kelas 10</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/</link><description>Recent content in Matematika Kelas 10 on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 14 May 2022 19:29:11 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/matematika/sma/kelas-10/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Materi Trigonometri Sin Cos Tan Lengkap</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</link><pubDate>Sat, 14 May 2022 16:08:44 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All-Indonesia.com – Matematika Kelas 10</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/</link><description>Recent content in Matematika Kelas 10 on All-Indonesia.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 May 2022 19:29:11 +0700</lastBuildDate><atom:link href="https://www.all-indonesia.com/matematika/sma/kelas-10/index.xml" rel="self" type="application/rss+xml"/><item><title>Matematika: Rumus Luas Dan Keliling Bangun Datar</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/</link><pubDate>Sun, 08 May 2022 19:38:04 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/</guid><description>
+&lt;p>Bangun datar adalah bentuk geometri dengan semua titik bangun atau titik sudut berada dalam satu bidang datar. Contohnya adalah segi empat, lingkaran, bujur sangkar, belah ketupat, jajaran genjang dan trapesium. Dalam matematika terdapat dua hal utama yang umum dihitung dalam bidang datar yaitu menghitung luas dan keliling.&lt;/p>
+&lt;p>Dalam artikel ini akan dibahas satu per satu secara terperinci bagaimana cara menghitungnya. Dilengkapi dengan gambar untuk membantu pemahaman kita.&lt;/p>
+&lt;h2 id="empat-persegi-panjang">Empat Persegi Panjang&lt;/h2>
+&lt;p>Persegi panjang adalah bangun datar dengan empat sisi dengan panjang sisi sejajar yang sama serta panjang sisi tegak lurus berbeda dan empat titik sudut yang memiliki sudut 90 derajat di keempat sudutnya. Berikut adalah contoh gambar persegi panjang dan cara menghitung luas dan kelilingnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/persegi-panjang.png">&lt;img src="https://www.all-indonesia.com/img/persegi-panjang.png" alt="Persegi Panjang" title="Persegi Panjang">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Persegi Panjang&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus keliling persegi panjang di atas dalam &lt;em>cm&lt;/em> adalah :
+$$Keliling = 2 \times (p + l) = 2 \times (5 + 4)cm = 18cm$$
+Rumus luas persegi panjang di atas adalah :
+$$Luas = p \times l = 5 cm \times 4 cm = 20 cm^2$$&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="lingkaran">Lingkaran&lt;/h2>
+&lt;p>Lingkaran adalah garis melengkung yang kedua ujungnya bertemu pada jarak yang sama dari titik pusat. Jarak dari titik pusat lingkaran ke tepi lingkaran disebut dengan &lt;em>&lt;strong>jari-jari&lt;/strong>&lt;/em> atau &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Berikut adalah gambar lingkaran berikut dengan rumus menghitung keliling dan luasnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/lingkaran.png">&lt;img src="https://www.all-indonesia.com/img/lingkaran.png" alt="Lingkaran" title="Lingkaran">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Lingkaran&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus keliling lingkaran di atas dalam &lt;em>cm&lt;/em> adalah:
+$$Keliling\ Lingkaran = 2 \times \pi \times r = 2 \times {22 \over 7} \times 7 cm = 44 cm$$
+Rumus luas lingkaran di atas adalah:
+$$Luas\ Lingkaran = \pi \times r^2 = {22 \over 7} \times (7 cm)^2 = 154 cm^2$$&lt;/p>
+&lt;h2 id="bujur-sangkar">Bujur Sangkar&lt;/h2>
+&lt;p>Bujur sangkar adalah bangun datar segi empat yang memiliki panjang yang sama di keempat sisinya dan memiliki sudut 90 derajat di keempat sudutnya. berikut adalah gambar bujur sangkar dan cara menghitung luas dan kelilingnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/bujur-sangkar.png">&lt;img src="https://www.all-indonesia.com/img/bujur-sangkar.png" alt="Bujur Sangkar" title="Bujur Sangkar">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Bujur Sangkar&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus keliling bujur sangkar di atas dalam &lt;em>cm&lt;/em> adalah:
+$$Keliling Bujur Sangkar = 4 \times Panjang\ Sisi = 4 \times 5cm = 20cm$$&lt;/p>
+&lt;p>Rumus luas bujur sangkar di atas dalam &lt;em>cm&lt;/em> adalah :
+$$Luas\ Bujur\ Sangkar = {Panjang\ Sisi}^2 = 5^2 = 25cm^2$$&lt;/p>
+&lt;h2 id="segitiga-siku-siku">Segitiga Siku-Siku&lt;/h2>
+&lt;p>Segitiga adalah bidang datar yang memiliki 3(tiga) sisi. Sedangkan segitiga siku-siku adalah segitiga yang memiliki sudut 90 derajat di salah satu titik sudutnya. Rumus segitiga siku-siku untuk menghitung luas dan kelilingnya dapat dilihat di gambar berikut.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/segitiga-siku-siku.png">&lt;img src="https://www.all-indonesia.com/img/segitiga-siku-siku.png" alt="Segitiga Siku-Siku" title="Segitiga Siku Siku">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Segitiga Siku Siku&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus keliling segitiga siku-siku di atas (dalam cm) adalah :
+$$Keliling = a + t + r = 8cm + 6cm + \sqrt {8^2 + 6^2} = 24cm$$
+$$Luas = {1\over 2} \times a \times t = {1\over 2} \times 8cm \times 6cm = 24cm^2$$&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="segitiga-sama-kaki">Segitiga Sama Kaki&lt;/h2>
+&lt;p>Segitiga sama kaki adalah bangun datar segitiga yang memiliki 2(dua) sisi yang sama panjang. Jika diperhatikan gambar segitiga sama kaki di atas, maka dua sisi yang sama panjang pada segitiga tersebut adalah sisi r. Perhitungan luas dan keliling segitiga ini dihitung menggunakan rumus geometri berikut:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/segitiga-sama-kaki.png">&lt;img src="https://www.all-indonesia.com/img/segitiga-sama-kaki.png" alt="Segitiga Sama Kaki" title="Segitiga Sama Kaki">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Segitiga Sama Kaki&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus Keliling Segitiga Sama Kaki di atas (dalam cm) adalah :
+$$Keliling = AB + AC + BC$$
+$$AB = AC$$
+$$Keliling = 2 \times AB + BC$$
+$$Keliling = 2 \sqrt{AD^2 + CD^2} + BC$$
+$$Keliling = 2 \sqrt{6^2 + 2^2} + 4$$
+$$Keliling = 2 \sqrt{40} + 4$$
+Rumus Luas Segitiga Sama Kaki di atas (dalam cm) adalah :
+$$Luas = {1\over 2}\times a\times t = {1\over 2}\times 4\times 6 = 12cm^2$$&lt;/p>
+&lt;h2 id="luas-segitiga-dengan-trigonometri">Luas Segitiga Dengan Trigonometri&lt;/h2>
+&lt;p>Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus &lt;a href="https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/">trigonometri&lt;/a>. Berikut adalah penurunan rumusnya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/luas-segitiga-trigonometri.png">&lt;img src="https://www.all-indonesia.com/img/luas-segitiga-trigonometri.png" alt="Konsep Luas Segitiga dalam Trigonometri" title="Konsep Luas Segitiga dalam Trigonometri">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Konsep Luas Segitiga dalam Trigonometri&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>$$Luas\ ABC\ =\ {1\over 2}\times\ alas\ \times\ tinggi $$
+$$c=AB$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ f $$
+$${f\over sin(\alpha)}={b\over sin(90\degree)}$$
+$$f=b\ sin(\alpha)$$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ b\ sin(\alpha) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ a\ sin(\beta) $$
+$$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$&lt;/p>
+&lt;h2 id="trapesium">Trapesium&lt;/h2>
+&lt;p>Trapesium adalah bangun datar bersegi empat yang dua sisinya sejajar namun tidak sama panjang. Rumus luas dan rumus keliling trapesium dapat dilihat pada gambar dan keterangan berikut&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/trapesium.png">&lt;img src="https://www.all-indonesia.com/img/trapesium.png" alt="Trapesium" title="Trapesium">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Trapesium&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Gambar trapesium di atas adalah trapesium simetris, artinya sisi miring AD dan BC adalah sama panjang sehingga trapesium tersebut memiliki bentuk yang sama antara sisi sebelah kanan dan sisi sebelah kiri. Jika sisi miring tidak sama panjang maka dinamakan dengan trapesium sembarang. Dan jika trapesium hanya memiliki satu sisi miring maka disebut dengan trapesium siku siku.&lt;/p>
+&lt;p>Rumus luas trapesium di atas (dalam cm) adalah :&lt;/p>
+&lt;p>$$Luas\ Trapesium = Panjang\ Rata-Rata\ Sisi\ Sejajar \times Tinggi\ Trapesium$$
+$$Luas\ Trapesium = {(DC+AB)\over 2}\times 3 = {(6+2)\over 2}\times 3 = 12cm^2$$&lt;/p>
+&lt;p>Rumus keliling trapesium di atas (dalam cm) adalah :&lt;/p>
+&lt;p>$$Keliling\ Trapesium = AB + CD + 2BC = 6+2+\sqrt{2^2+3^2} = 8+2\sqrt 13$$&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
+&lt;h2 id="belah-ketupat">Belah Ketupat&lt;/h2>
+&lt;p>Belah ketupat adalah bangun datar yang memiliki empat buah rusuk atau sisi yang sama panjang dan memiliki dua pasang sudut bukan siku-siku yang masing-masing sama besar dengan sudut dihadapannya.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/belahketupat.png">&lt;img src="https://www.all-indonesia.com/img/belahketupat.png" alt="Belah Ketupat" title="Belah Ketupat">&lt;/a>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;em>Gambar Belah Ketupat&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Rumus luas dan keliling belah ketupat di atas adalah :
+$$Keliling = AB+BC+CD+DA = 4\times \sqrt{2^2+3^2} = 4\sqrt{13}$$
+$$Luas = {1\over 2}\times AC\times BD = {1\over 2}\times 6\times 4 = 12cm^2$$&lt;/p>
+&lt;p>Rumus rumus bangun datar untuk menghitung luas dan keliling persegi, lingkaran, segitiga, trapesium dan belah ketupat di atas merupakan sebagian dari banyak sekali turunan rumus-rumus bangun datar lainnya. Bentuk bangun dasar sangat bervariatif. Jenis segitiga, jenis trapesium dan lain-lain sangatlah beragam. Sehingga jika kita paham konsep dasar perhitungannya maka bukan tidak mungkin luas dan keliling dari bangun datar untuk diperoleh nilainya.&lt;/p></description></item><item><title>Matematika: Materi Trigonometri Sin Cos Tan Lengkap</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</link><pubDate>Sat, 14 May 2022 16:08:44 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/</guid><description>
 &lt;p>Trigonometri adalah bidang ilmu ukur sudut dan sempadan segitiga yang umum digunakan dalam ilmu astronomi atau perbintangan dan sebagainya (KBBI). Umumnya materi terkait trigonometri disajikan di sekolah mulai dari tingkat SMP dan akan lebih mendalam pada tingkat SMA dan Perguruan tinggi. Pada umumnya para siswa menyebut bidang ilmu matematika ini dengan sebutan pelajaran atau rumus &lt;em>&lt;strong>Sin Cos Tan&lt;/strong>&lt;/em>, karena mungkin lebih mudah untuk diingat.&lt;/p>
 &lt;p>Baik, kita akan menggunakan gambar berikut untuk menjelaskan konsep dasar trigonometri&lt;/p>
 &lt;table>
@@ -15,6 +210,19 @@
 &lt;/table>
 &lt;p>Pada dasarnya gambar di atas merupakan lingkaran dengan jari-jari &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Di dalam lingkaran tersebut terdapatlah sebuah segitiga siku-siku &lt;em>&lt;strong>ABC&lt;/strong>&lt;/em>. Uniknya, sisi miring segitiga siku siku ini adalah sama dengan jari-jari lingkaran yaitu &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Selain itu, segitiga dalam lingkaran ini juga memiliki 2 sisi lainnya yaitu sisi &lt;em>&lt;strong>c&lt;/strong>&lt;/em> dan &lt;em>&lt;strong>a&lt;/strong>&lt;/em>.&lt;/p>
 &lt;p>Segitiga ABC ini memiliki tiga sudut yang terdiri atas dua sudut lancip yaitu \(\alpha\) dan \(\gamma\) serta sebuah sudut siku siku yaitu \(\beta\). Kedepan sudut-sudut dan sisi-sisi inilah yang mengantar kita ke pemahaman materi trigonometri ini. Para siswa pada umumnya menyebut lingkaran ini dengan &amp;ldquo;Lingkaran sin cos tan&amp;rdquo;.&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
 &lt;h2 id="rumus-nilai-cosinus-atau-cos">Rumus Nilai Cosinus atau Cos&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -157,6 +365,19 @@ $$Tan(\alpha) = {a\over c} = {3\over 4} = 0,75$$&lt;/p>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
 &lt;p>Berapakah tinggi pohon tersebut? kita dapat menghitung ketinggian pohon dengan fungsi trigonometri yang telah kita pelajari di materi ini.&lt;/p>
 &lt;p>$$tan(\theta) = {y\over x}$$
 $$y\ =\ x\ tan(\theta) = 70ft \times tan(31,8\degree)\ =\ 44ft$$&lt;/p>
@@ -205,6 +426,19 @@ $$1\degree\ =\ 60&amp;rsquo;\ =\ 3600&amp;quot;$$&lt;/p>
 $$Luas\ Juring\ ABC = {1\over 2}r^2\alpha \scriptstyle radian$$&lt;/p>
 &lt;h2 id="rasio-atau-perbandingan-trigonometri-segitiga-siku-siku">Rasio atau Perbandingan Trigonometri Segitiga Siku Siku&lt;/h2>
 &lt;p>Nilai sinus, cosinus, tangen, secan, cosecan dan cotangen sudut &lt;em>&lt;strong>α&lt;/strong>&lt;/em> dalam segitiga berikut akan selalu tetap walaupun ukuran segitiga bertambah besar atau kecil.&lt;/p>
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -280,160 +514,473 @@ $$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$&lt;/p>
 &lt;li>Grafik Trigonometri&lt;/li>
 &lt;li>Contoh penerapan rumus trigonometri dasar dalam kehidupan sehari-hari&lt;/li>
 &lt;li>Perbandingan Trigonometri yang terdiri atas pengukuran sudut, identitas trigonometri, perbandingan trigomometri dalam segitiga siku-siku, dalil sinus, dalil cosinus dan luas segitiga dalam trigonometri.&lt;/li>
-&lt;/ol></description></item><item><title>Matematika: Rumus Luas Dan Keliling Bangun Datar</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/</link><pubDate>Sun, 08 May 2022 19:38:04 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/rumus-luas-dan-keliling-bangun-datar/</guid><description>
-&lt;p>Bangun datar adalah bentuk geometri dengan semua titik bangun atau titik sudut berada dalam satu bidang datar. Contohnya adalah segi empat, lingkaran, bujur sangkar, belah ketupat, jajaran genjang dan trapesium. Dalam matematika terdapat dua hal utama yang umum dihitung dalam bidang datar yaitu menghitung luas dan keliling.&lt;/p>
-&lt;p>Dalam artikel ini akan dibahas satu per satu secara terperinci bagaimana cara menghitungnya. Dilengkapi dengan gambar untuk membantu pemahaman kita.&lt;/p>
-&lt;h2 id="empat-persegi-panjang">Empat Persegi Panjang&lt;/h2>
-&lt;p>Persegi panjang adalah bangun datar dengan empat sisi dengan panjang sisi sejajar yang sama serta panjang sisi tegak lurus berbeda dan empat titik sudut yang memiliki sudut 90 derajat di keempat sudutnya. Berikut adalah contoh gambar persegi panjang dan cara menghitung luas dan kelilingnya.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/persegi-panjang.png">&lt;img src="https://www.all-indonesia.com/img/persegi-panjang.png" alt="Persegi Panjang" title="Persegi Panjang">&lt;/a>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;em>Gambar Persegi Panjang&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Rumus keliling persegi panjang di atas dalam &lt;em>cm&lt;/em> adalah :
-$$Keliling = 2 \times (p + l) = 2 \times (5 + 4)cm = 18cm$$
-Rumus luas persegi panjang di atas adalah :
-$$Luas = p \times l = 5 cm \times 4 cm = 20 cm^2$$&lt;/p>
-&lt;h2 id="lingkaran">Lingkaran&lt;/h2>
-&lt;p>Lingkaran adalah garis melengkung yang kedua ujungnya bertemu pada jarak yang sama dari titik pusat. Jarak dari titik pusat lingkaran ke tepi lingkaran disebut dengan &lt;em>&lt;strong>jari-jari&lt;/strong>&lt;/em> atau &lt;em>&lt;strong>r&lt;/strong>&lt;/em>. Berikut adalah gambar lingkaran berikut dengan rumus menghitung keliling dan luasnya.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/lingkaran.png">&lt;img src="https://www.all-indonesia.com/img/lingkaran.png" alt="Lingkaran" title="Lingkaran">&lt;/a>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;em>Gambar Lingkaran&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Rumus keliling lingkaran di atas dalam &lt;em>cm&lt;/em> adalah:
-$$Keliling\ Lingkaran = 2 \times \pi \times r = 2 \times {22 \over 7} \times 7 cm = 44 cm$$
-Rumus luas lingkaran di atas adalah:
-$$Luas\ Lingkaran = \pi \times r^2 = {22 \over 7} \times (7 cm)^2 = 154 cm^2$$&lt;/p>
-&lt;h2 id="bujur-sangkar">Bujur Sangkar&lt;/h2>
-&lt;p>Bujur sangkar adalah bangun datar segi empat yang memiliki panjang yang sama di keempat sisinya dan memiliki sudut 90 derajat di keempat sudutnya. berikut adalah gambar bujur sangkar dan cara menghitung luas dan kelilingnya.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/bujur-sangkar.png">&lt;img src="https://www.all-indonesia.com/img/bujur-sangkar.png" alt="Bujur Sangkar" title="Bujur Sangkar">&lt;/a>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;em>Gambar Bujur Sangkar&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Rumus keliling bujur sangkar di atas dalam &lt;em>cm&lt;/em> adalah:
-$$Keliling Bujur Sangkar = 4 \times Panjang\ Sisi = 4 \times 5cm = 20cm$$&lt;/p>
-&lt;p>Rumus luas bujur sangkar di atas dalam &lt;em>cm&lt;/em> adalah :
-$$Luas\ Bujur\ Sangkar = {Panjang\ Sisi}^2 = 5^2 = 25cm^2$$&lt;/p>
-&lt;h2 id="segitiga-siku-siku">Segitiga Siku-Siku&lt;/h2>
-&lt;p>Segitiga adalah bidang datar yang memiliki 3(tiga) sisi. Sedangkan segitiga siku-siku adalah segitiga yang memiliki sudut 90 derajat di salah satu titik sudutnya. Rumus segitiga siku-siku untuk menghitung luas dan kelilingnya dapat dilihat di gambar berikut.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/segitiga-siku-siku.png">&lt;img src="https://www.all-indonesia.com/img/segitiga-siku-siku.png" alt="Segitiga Siku-Siku" title="Segitiga Siku Siku">&lt;/a>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;em>Gambar Segitiga Siku Siku&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Rumus keliling segitiga siku-siku di atas (dalam cm) adalah :
-$$Keliling = a + t + r = 8cm + 6cm + \sqrt {8^2 + 6^2} = 24cm$$
-$$Luas = {1\over 2} \times a \times t = {1\over 2} \times 8cm \times 6cm = 24cm^2$$&lt;/p>
-&lt;h2 id="segitiga-sama-kaki">Segitiga Sama Kaki&lt;/h2>
-&lt;p>Segitiga sama kaki adalah bangun datar segitiga yang memiliki 2(dua) sisi yang sama panjang. Jika diperhatikan gambar segitiga sama kaki di atas, maka dua sisi yang sama panjang pada segitiga tersebut adalah sisi r. Perhitungan luas dan keliling segitiga ini dihitung menggunakan rumus geometri berikut:&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/segitiga-sama-kaki.png">&lt;img src="https://www.all-indonesia.com/img/segitiga-sama-kaki.png" alt="Segitiga Sama Kaki" title="Segitiga Sama Kaki">&lt;/a>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;em>Gambar Segitiga Sama Kaki&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Rumus Keliling Segitiga Sama Kaki di atas (dalam cm) adalah :
-$$Keliling = AB + AC + BC$$
-$$AB = AC$$
-$$Keliling = 2 \times AB + BC$$
-$$Keliling = 2 \sqrt{AD^2 + CD^2} + BC$$
-$$Keliling = 2 \sqrt{6^2 + 2^2} + 4$$
-$$Keliling = 2 \sqrt{40} + 4$$
-Rumus Luas Segitiga Sama Kaki di atas (dalam cm) adalah :
-$$Luas = {1\over 2}\times a\times t = {1\over 2}\times 4\times 6 = 12cm^2$$&lt;/p>
-&lt;h2 id="luas-segitiga-dengan-trigonometri">Luas Segitiga Dengan Trigonometri&lt;/h2>
-&lt;p>Di segmen ini kita akan menghitung luas segitiga berdasarkan rumus &lt;a href="https://www.all-indonesia.com/matematika/sma/kelas-10/materi-trigonometri-sin-cos-tan-lengkap/">trigonometri&lt;/a>. Berikut adalah penurunan rumusnya.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/luas-segitiga-trigonometri.png">&lt;img src="https://www.all-indonesia.com/img/luas-segitiga-trigonometri.png" alt="Konsep Luas Segitiga dalam Trigonometri" title="Konsep Luas Segitiga dalam Trigonometri">&lt;/a>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;em>Konsep Luas Segitiga dalam Trigonometri&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>$$Luas\ ABC\ =\ {1\over 2}\times\ alas\ \times\ tinggi $$
-$$c=AB$$
-$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ f $$
-$${f\over sin(\alpha)}={b\over sin(90\degree)}$$
-$$f=b\ sin(\alpha)$$
-$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ b\ sin(\alpha) $$
-$$Luas\ ABC\ =\ {1\over 2}\times\ c\ \times\ a\ sin(\beta) $$
-$$Luas\ ABC\ =\ {1\over 2}\times\ a\ \times\ b\ sin(\gamma) $$&lt;/p>
-&lt;h2 id="trapesium">Trapesium&lt;/h2>
-&lt;p>Trapesium adalah bangun datar bersegi empat yang dua sisinya sejajar namun tidak sama panjang. Rumus luas dan rumus keliling trapesium dapat dilihat pada gambar dan keterangan berikut&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/trapesium.png">&lt;img src="https://www.all-indonesia.com/img/trapesium.png" alt="Trapesium" title="Trapesium">&lt;/a>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;em>Gambar Trapesium&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Gambar trapesium di atas adalah trapesium simetris, artinya sisi miring AD dan BC adalah sama panjang sehingga trapesium tersebut memiliki bentuk yang sama antara sisi sebelah kanan dan sisi sebelah kiri. Jika sisi miring tidak sama panjang maka dinamakan dengan trapesium sembarang. Dan jika trapesium hanya memiliki satu sisi miring maka disebut dengan trapesium siku siku.&lt;/p>
-&lt;p>Rumus luas trapesium di atas (dalam cm) adalah :&lt;/p>
-&lt;p>$$Luas\ Trapesium = Panjang\ Rata-Rata\ Sisi\ Sejajar \times Tinggi\ Trapesium$$
-$$Luas\ Trapesium = {(DC+AB)\over 2}\times 3 = {(6+2)\over 2}\times 3 = 12cm^2$$&lt;/p>
-&lt;p>Rumus keliling trapesium di atas (dalam cm) adalah :&lt;/p>
-&lt;p>$$Keliling\ Trapesium = AB + CD + 2BC = 6+2+\sqrt{2^2+3^2} = 8+2\sqrt 13$$&lt;/p>
-&lt;h2 id="belah-ketupat">Belah Ketupat&lt;/h2>
-&lt;p>Belah ketupat adalah bangun datar yang memiliki empat buah rusuk atau sisi yang sama panjang dan memiliki dua pasang sudut bukan siku-siku yang masing-masing sama besar dengan sudut dihadapannya.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;a href="https://www.all-indonesia.com/img/belahketupat.png">&lt;img src="https://www.all-indonesia.com/img/belahketupat.png" alt="Belah Ketupat" title="Belah Ketupat">&lt;/a>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;em>Gambar Belah Ketupat&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Rumus luas dan keliling belah ketupat di atas adalah :
-$$Keliling = AB+BC+CD+DA = 4\times \sqrt{2^2+3^2} = 4\sqrt{13}$$
-$$Luas = {1\over 2}\times AC\times BD = {1\over 2}\times 6\times 4 = 12cm^2$$&lt;/p>
-&lt;p>Rumus rumus bangun datar untuk menghitung luas dan keliling persegi, lingkaran, segitiga, trapesium dan belah ketupat di atas merupakan sebagian dari banyak sekali turunan rumus-rumus bangun datar lainnya. Bentuk bangun dasar sangat bervariatif. Jenis segitiga, jenis trapesium dan lain-lain sangatlah beragam. Sehingga jika kita paham konsep dasar perhitungannya maka bukan tidak mungkin luas dan keliling dari bangun datar untuk diperoleh nilainya.&lt;/p></description></item></channel></rss>
+&lt;/ol></description></item><item><title>Matematika: Bentuk Pangkat</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-pangkat/</link><pubDate>Sun, 05 Mar 2023 09:34:26 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-pangkat/</guid><description>
+&lt;h2 id="bentuk-pangkat-bilangan">Bentuk Pangkat Bilangan&lt;/h2>
+&lt;h3 id="pengertian">Pengertian&lt;/h3>
+&lt;p>Eksponen atau pangkat bilangan adalah suatu bilangan yang menunjukkan seberapa banyak kali sebuah bilangan harus dikalikan dengan dirinya sendiri. Dalam notasi matematika, eksponen dituliskan dengan menempatkan bilangan yang akan dipangkatkan di bagian bawah, diikuti dengan tanda pangkat (^), dan angka pangkat di atas tanda tersebut.&lt;/p>
+&lt;p>Contohnya, 2^3 selanjutnya dituliskan dengan &lt;em>&lt;strong>2{^3}&lt;/strong>&lt;/em> artinya 2 dipangkatkan dengan eksponen 3, yang berarti 2 dikalikan dengan dirinya sendiri sebanyak 3 kali, yaitu 2 x 2 x 2 = 8.&lt;/p>
+&lt;p>Definisi dan pengertian eksponen dapat diberikan sebagai berikut:&lt;/p>
+&lt;ol>
+&lt;li>&lt;em>&lt;strong>Eksponen positif&lt;/strong>&lt;/em>: Jika bilangan dipangkatkan dengan eksponen positif, maka bilangan tersebut dikalikan dengan dirinya sendiri sebanyak kali yang ditunjukkan oleh angka eksponen tersebut. Contohnya, &lt;em>&lt;strong>2{^4}&lt;/strong>&lt;/em> = 2 x 2 x 2 x 2 = 16.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Eksponen negatif&lt;/strong>&lt;/em>: Jika bilangan dipangkatkan dengan eksponen negatif, maka bilangan tersebut menjadi pecahan dengan penyebut berupa bilangan yang dipangkatkan dengan eksponen positif. Contohnya, &lt;em>&lt;strong>2{^(-3)}&lt;/strong>&lt;/em> = 1/(2{^3}) = 1/8.&lt;/li>
+&lt;li>&lt;em>&lt;strong>Eksponen nol&lt;/strong>&lt;/em>: Jika bilangan dipangkatkan dengan eksponen nol, maka hasilnya selalu 1. Contohnya, &lt;em>&lt;strong>2{^0}&lt;/strong>&lt;/em> = 1.&lt;/li>
+&lt;/ol>
+&lt;p>Contoh-contoh penggunaan eksponen dalam matematika antara lain:&lt;/p>
+&lt;ol>
+&lt;li>Perhitungan luas lingkaran menggunakan rumus \(A = πr^2\), di mana &lt;em>r&lt;/em> adalah jari-jari lingkaran.&lt;/li>
+&lt;li>Perhitungan kecepatan suatu objek dalam fisika menggunakan rumus \(v = v_0 + at^2\), di mana &lt;em>&lt;strong>v{_0}&lt;/strong>&lt;/em> adalah kecepatan awal, a adalah percepatan, dan t adalah waktu.&lt;/li>
+&lt;li>Perhitungan investasi pada bunga berbunga menggunakan rumus \(A = P(1 + \frac{r}{n})^{nt}\), di mana P adalah jumlah investasi awal, r adalah tingkat bunga, n adalah jumlah periode bunga per tahun, dan t adalah jumlah tahun investasi.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/li>
+&lt;/ol>
+&lt;h3 id="contoh-soal-bilangan-berpangkat">Contoh Soal Bilangan Berpangkat&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Hitung nilai dari 2{^3} x 3{^2}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2{^3} x 3{^2} = 8 x 9 = 72.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 5{^2} ÷ 5{^4}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 5{^2} ÷ 5{^4} = 1 ÷ 5{^2} = 1 ÷ 25 = 0,04.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari (4{^3}){^2}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> (4{^3}){^2} = 4{^6} = 4096.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 2{^5} x 2{^(-3)}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2{^5} x 2{^(-3)} = 2{^(5-3)} = 2{^2} = 4.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 2{^x} = 64, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^2}log 64 = 6.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 3{^x} = 81, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^3}log 81 = 4.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 5{^x} = 125, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^5}log 125 = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 10{^x} = 1000, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^10}log 1000 = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 2{^x} = 1/8, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^2}log (1/8) = {^2}log 2{^(-3)} = -3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 1/5{^x} = 25, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^5}log (1/25) = {^5}log 5{^(-2)} = -2.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 2{^3}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2{^3} = 2 x 2 x 2 = 8.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 10{^2}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 10{^2} = 10 x 10 = 100.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 3{^4}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 3{^4} = 3 x 3 x 3 x 3 = 81.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hitung nilai dari 2{^(-3)}.
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2{^(-3)} = 1 ÷ 2{^3} = 1 ÷ 8 = 0,125.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 2{^x} = 16, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^2}log 16 = 4.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 10{^x} = 100, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^10}log 100 = 2.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 5{^x} = 125, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^5}log 125 = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 3{^x} = 27, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^3}log 27 = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 2{^x} = 1/16, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^2}log (1/16) = {^2}log 2{^(-4)} = -4.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika 1/10{^x} = 1000, maka nilai dari x adalah?
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> x = {^10}log (1/1000) = {^10}log 10{^(-3)} = -3.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="sifat-bilangan-berpangkat">Sifat bilangan berpangkat&lt;/h3>
+&lt;p>Berikut ini adalah beberapa sifat-sifat bilangan berpangkat:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Sifat distributif perkalian terhadap pangkat, yaitu &lt;em>&lt;strong>a{^(m+n)} = a{^m} x a{^n}&lt;/strong>&lt;/em>.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 2{^(3+4)} = 2{^3} x 2{^4} = 8 x 16 = 128.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat distributif pembagian terhadap pangkat, yaitu &lt;em>&lt;strong>a{^(m-n)} = a{^m} ÷ a{^n}&lt;/strong>&lt;/em>.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 5{^(3-6)} = 5{^3} ÷ 5{^6} = 125 ÷ 15625 = 0,008.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat pangkat nol, yaitu &lt;em>&lt;strong>a{^0} = 1&lt;/strong>&lt;/em>, untuk a ≠ 0.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 10{^0} = 1.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat pangkat satu, yaitu &lt;em>&lt;strong>a{^1} = a&lt;/strong>&lt;/em>, untuk a ≠ 0.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 3{^1} = 3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat pangkat negatif, yaitu &lt;em>&lt;strong>a{^(-n)} = 1 ÷ a{^n}&lt;/strong>&lt;/em>, untuk a ≠ 0.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> 2{^(-3)} = 1 ÷ 2{^3} = 1 ÷ 8 = 0,125.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat perpangkatan, yaitu &lt;em>&lt;strong>(a{^m}){^n} = a{^(m x n)}&lt;/strong>&lt;/em>.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> (4{^3}){^2} = 4{^(3 x 2)} = 4{^6} = 4096.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat akar pangkat n, yaitu &lt;em>&lt;strong>(a{^n}){^(1/n)} = a&lt;/strong>&lt;/em>.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> (16{^2}){^(1/2)} = 16{^(2 x 1/2)} = 16{^1} = 16.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sifat pangkat pecahan, yaitu \(a^{\frac{m}{n}} = \sqrt[n]{a^m}\), untuk m dan n bilangan bulat.&lt;br>
+&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em> \(27^{\frac{2}{3}} = \sqrt[3]{27^2} = \sqrt[3]{729} = 9\).&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Matematika: Notasi Ilmiah</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/notasi-ilmiah/</link><pubDate>Sun, 05 Mar 2023 12:21:14 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/notasi-ilmiah/</guid><description>
+&lt;h2 id="notasi-ilmiah">Notasi Ilmiah&lt;/h2>
+&lt;h3 id="pengertian">Pengertian&lt;/h3>
+&lt;p>Notasi ilmiah adalah suatu cara untuk menulis angka dalam bentuk yang mudah dibaca dan ditulis, terutama untuk angka yang sangat besar atau kecil. Notasi ini menggunakan pangkat 10, di mana bilangan yang ditulis merupakan hasil kali antara bilangan pada interval 1-10 dengan suatu pangkat 10 yang sesuai. Misalnya, bilangan &lt;em>&lt;strong>300.000.000&lt;/strong>&lt;/em> dapat dituliskan dalam notasi ilmiah sebagai &lt;em>&lt;strong>3 x 10{^8}&lt;/strong>&lt;/em>.&lt;/p>
+&lt;p>Notasi ilmiah biasanya digunakan dalam ilmu fisika, kimia, dan matematika. Keuntungan menggunakan notasi ini adalah mempermudah perhitungan dan membuat bilangan lebih mudah dibaca dan ditulis. Selain itu, notasi ilmiah juga memudahkan dalam mengekspresikan bilangan yang sangat besar atau sangat kecil.&lt;/p>
+&lt;p>Contoh lain dari notasi ilmiah adalah:&lt;/p>
+&lt;ol>
+&lt;li>&lt;em>&lt;strong>0,00000025&lt;/strong>&lt;/em> ditulis sebagai &lt;em>&lt;strong>2,5 x 10{^-7}&lt;/strong>&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>500&lt;/strong>&lt;/em> ditulis sebagai &lt;em>&lt;strong>5 x 10{^2}&lt;/strong>&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>0,0000000012&lt;/strong>&lt;/em> ditulis sebagai &lt;em>&lt;strong>1,2 x 10{^-9}&lt;/strong>&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;h3 id="contoh-soal-notasi-ilmiah">Contoh soal notasi ilmiah&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Tuliskan bilangan 0,000000045 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 4,5 x 10{^-8}&lt;br>
+&lt;em>&lt;strong>Penjelasan:&lt;/strong>&lt;/em> Bilangan 0,000000045 dapat dituliskan sebagai 4,5 x 0,00000001. Karena 0,00000001 = 1 x 10{^-8}, maka bilangan 0,000000045 dapat dituliskan dalam notasi ilmiah sebagai 4,5 x 10{^-8}.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan bilangan 8900 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 8,9 x 10{^3}&lt;br>
+&lt;em>&lt;strong>Penjelasan:&lt;/strong>&lt;/em> Bilangan 8900 dapat dituliskan sebagai 8,9 x 1000. Karena 1000 = 10{^3}, maka bilangan 8900 dapat dituliskan dalam notasi ilmiah sebagai 8,9 x 10{^3}.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan bilangan 0,0000000076 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 7,6 x 10{^-9}&lt;br>
+&lt;em>&lt;strong>Penjelasan:&lt;/strong>&lt;/em> Bilangan 0,0000000076 dapat dituliskan sebagai 7,6 x 0,000000001. Karena 0,000000001 = 1 x 10{^-9}, maka bilangan 0,0000000076 dapat dituliskan dalam notasi ilmiah sebagai 7,6 x 10{^-9}.
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan bilangan 0,000000042 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Bilangan 0,000000042 dapat ditulis sebagai 4,2 x 10{^-8} dalam notasi ilmiah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan bilangan 950.000.000 dalam notasi ilmiah!
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Bilangan 950.000.000 dapat ditulis sebagai 9,5 x 10{^8} dalam notasi ilmiah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika kecepatan cahaya adalah 299.792.458 meter per detik, tuliskan kecepatan cahaya dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+Kecepatan cahaya dapat ditulis sebagai 2,99792458 x 10{^8} meter per detik dalam notasi ilmiah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Berapa hasil dari 6,5 x 10{^3} x 8,2 x 10{^2}?&lt;br>
+&lt;em>&lt;strong>Jawab:&lt;/strong>&lt;/em>&lt;br>
+6,5 x 10{^3} x 8,2 x 10{^2} dapat dihitung dengan mengalikan bilangan pada interval 1-10 dan menambahkan pangkatnya, yaitu:&lt;br>
+&lt;br>
+6,5 x 8,2 x 10{^(3+2)} = 53,3 x 10{^5}&lt;br>
+&lt;br>
+Maka hasil dari 6,5 x 10{^3} x 8,2 x 10{^2} adalah 53,3 x 10{^5}.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 0,00000127 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 1,27 x 10{^-6}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 700.000 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 7 x 10{^5}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 0,000025 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 2,5 x 10{^-5}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 9.000.000.000 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 9 x 10{^9}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuliskan 0,0000000000845 dalam notasi ilmiah!&lt;br>
+&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em> 8,45 x 10{^-11}&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Matematika: Bentuk Akar</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-akar/</link><pubDate>Sun, 05 Mar 2023 20:59:31 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/bentuk-akar/</guid><description>
+&lt;h2 id="pengertian-dan-sifat-bilangan-bentuk-akar">Pengertian dan Sifat Bilangan Bentuk Akar&lt;/h2>
+&lt;p>Bilangan bentuk akar adalah bilangan yang dinyatakan dalam bentuk akar atau pangkat rasional dari bilangan bulat atau pecahan. Sebagai contoh, \(\sqrt{2}\) dan \(\frac{3}{\sqrt{5}}\) adalah bilangan bentuk akar. Sifat-sifat dari bilangan bentuk akar antara lain:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Operasi hitung bilangan bentuk akar dapat dilakukan dengan menggunakan aturan matematika yang sama seperti operasi bilangan biasa, yaitu penjumlahan, pengurangan, perkalian, dan pembagian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dua bilangan bentuk akar dapat dijumlahkan atau dikurangkan jika memiliki bentuk akar yang sama. Misalnya, \(2\sqrt{3} + 5\sqrt{3} = 7\sqrt{3}\), sedangkan \(2\sqrt{3} + 5\sqrt{2}\) tidak dapat dijumlahkan karena memiliki bentuk akar yang berbeda.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dalam perkalian dua bilangan bentuk akar, akar-akar dapat disederhanakan dengan mengalikan nilai-nilai di luar akar dan nilai-nilai di dalam akar secara terpisah. Misalnya, \(\sqrt{2} \times \sqrt{8} = \sqrt{16} = 4\), karena 2 x 8 = 16.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pembagian dua bilangan bentuk akar dapat disederhanakan dengan mengalikan baik pembilang dan penyebut dengan konjugat dari penyebut. Misalnya, \(\frac{3\sqrt{5}}{4\sqrt{3}}\) dapat disederhanakan dengan mengalikan pembilang dan penyebut dengan \(4\sqrt{3}\), sehingga hasilnya adalah \(\frac{3\sqrt{15}}{12}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bilangan bulat atau pecahan yang tidak memiliki bentuk akar yang tepat dapat dinyatakan dalam bentuk desimal yang tak terhingga atau dalam bentuk pecahan campuran. Sebagai contoh, \(\frac{5}{\sqrt{2}}\) dapat dinyatakan dalam bentuk desimal 3,536&amp;hellip;, atau dalam bentuk pecahan campuran \(7\frac{1}{\sqrt{2}}\).
+&lt;div class="adsense">
+&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7595366459378772"
+crossorigin="anonymous">&lt;/script>
+&lt;ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7595366459378772"
+data-ad-slot="9936289606">&lt;/ins>
+&lt;script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script>
+&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="perkalian-bilangan-bentuk-akar">Perkalian Bilangan Bentuk Akar&lt;/h3>
+&lt;p>Perkalian bilangan bentuk akar dapat dilakukan dengan mengalikan koefisien (bilangan sebelum tanda akar) dan mengalikan radikal (akar) dengan akar yang serupa. Misalnya, untuk mengalikan \(\sqrt{a}\) dan \(\sqrt{b}\), dapat dilakukan dengan mengalikan keduanya sehingga menjadi \(\sqrt{ab}\). Contoh lainnya, untuk mengalikan \(2\sqrt{3}\) dengan \(3\sqrt{5}\), dapat dilakukan dengan mengalikan koefisien 2 dan 3 sehingga menjadi 6, dan mengalikan akar 3 dengan akar 5 sehingga menjadi \(\sqrt{15}\). Dengan demikian, hasil perkaliannya adalah \(6\sqrt{15}\).&lt;/p>
+&lt;h3 id="pembagian-bilangan-bentuk-akar">Pembagian Bilangan Bentuk Akar&lt;/h3>
+&lt;p>Pembagian bilangan bentuk akar dapat dilakukan dengan membagi koefisien (bilangan sebelum tanda akar) dan membagi radikal (akar) dengan akar yang serupa. Misalnya, untuk membagi \(\sqrt{a}\) dan \(\sqrt{b}\), dapat dilakukan dengan membagi keduanya sehingga menjadi \(\sqrt{\frac{a}{b}}\). Contoh lainnya, untuk membagi \(4\sqrt{10}\) dengan \(2\sqrt{5}\), dapat dilakukan dengan membagi koefisien 4 dan 2 sehingga menjadi 2, dan membagi akar 10 dengan akar 5 sehingga menjadi \(\sqrt{2}\). Dengan demikian, hasil pembagiannya adalah \(2\sqrt{2}\).&lt;/p>
+&lt;p>Namun, perlu diperhatikan bahwa dalam pembagian bilangan bentuk akar, harus dipastikan bahwa penyebutnya tidak sama dengan 0, karena bilangan akar tidak bisa dibagi dengan 0.&lt;/p>
+&lt;h2 id="contoh-soal-bilangan-bentuk-akar">Contoh Soal Bilangan Bentuk Akar&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Hitunglah nilai dari \(\sqrt{75} - \sqrt{48}\).
+Untuk menyelesaikan soal ini, kita dapat menghitung terlebih dahulu nilai dari \(\sqrt{75}\) dan \(\sqrt{48}\). Kita dapat menyederhanakan akar-akar tersebut sebagai berikut:
+$$\sqrt{75} = \sqrt{25 \times 3} = 5\sqrt{3}$$
+$$\sqrt{48} = \sqrt{16 \times 3} = 4\sqrt{3}$$
+Substitusikan kedua nilai tersebut ke dalam soal:
+$$\sqrt{75} - \sqrt{48} = 5\sqrt{3} - 4\sqrt{3} = \sqrt{3}$$
+Jadi, nilai dari \(\sqrt{75} - \sqrt{48}\) adalah \(\sqrt{3}\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(a = \sqrt{2} + \sqrt{3}\) dan \(b = \sqrt{2} - \sqrt{3}\), hitunglah nilai dari \(a^2 - 2ab + b^2\).
+Kita dapat menyelesaikan soal ini dengan menggunakan rumus \((a-b)^2 = a^2 - 2ab + b^2\). Kita tahu bahwa:
+$$(a-b)^2 = (\sqrt{2} + \sqrt{3} - \sqrt{2} + \sqrt{3})^2 = (2\sqrt{3})^2 = 12$$
+Sehingga:
+$$a^2 - 2ab + b^2 = (a-b)^2 = 12$$
+Jadi, nilai dari \(a^2 - 2ab + b^2\) adalah 12.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(x = \sqrt{2} + \sqrt{3}\), maka berapakah nilai dari \(x^2 - 5x + 1\)?&lt;br>
+A. 1&lt;br>
+B. 2&lt;br>
+C. 3&lt;br>
+D. 4&lt;br>
+E. 5&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Penyelesaian:&lt;/strong>&lt;/em>&lt;br>
+Dari persamaan \(x = \sqrt{2} + \sqrt{3}\), kita bisa kuadratkan kedua sisi sehingga didapatkan \(x^2 = 2 + 2\sqrt{6} + 3 = 5 + 2\sqrt{6}\). Jadi:
+$$\begin{align}
+x^2 - 5x + 1 &amp;amp;= (5 + 2\sqrt{6}) - 5(\sqrt{2} + \sqrt{3}) + 1 \newline
+&amp;amp;= 6 + 2\sqrt{6} - 5\sqrt{2} - 5\sqrt{3} \newline
+&amp;amp;= (6 - 5\sqrt{3}) + (2\sqrt{6} - 5\sqrt{2}) \newline
+\end{align}$$
+Jadi, jawabannya adalah D.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jika \(x = \sqrt{2} + \sqrt{3}\) dan \(y = \sqrt{2} - \sqrt{3}\), maka berapakah nilai dari \(x^2 + 4xy + y^2\)?&lt;br>
+A. 1&lt;br>
+B. 2&lt;br>
+C. 3&lt;br>
+D. 4&lt;br>
+E. 5&lt;br>
+&lt;br>
+&lt;em>&lt;strong>Penyelesaian:&lt;/strong>&lt;/em>&lt;br>
+Dari persamaan \(x = \sqrt{2} + \sqrt{3}\) dan \(y = \sqrt{2} - \sqrt{3}\), kita bisa menghitung \(x^2 dan\ y^2\) sebagai berikut:
+$$\begin{align}
+x^2 &amp;amp;= (\sqrt{2} + \sqrt{3})^2 \newline
+&amp;amp;= 2 + 2\sqrt{6} + 3 \newline
+&amp;amp;= 5 + 2\sqrt{6} \newline
+y^2 &amp;amp;= (\sqrt{2} - \sqrt{3})^2 \newline
+&amp;amp;= 2 - 2\sqrt{6} + 3 \newline
+&amp;amp;= 5 - 2\sqrt{6} \newline
+\end{align}$$
+Selanjutnya, kita dapat menghitung $xy$ sebagai berikut:
+$$\begin{align}
+xy &amp;amp;= (\sqrt{2} + \sqrt{3})(\sqrt{2} - \sqrt{3}) \newline
+&amp;amp;= 2 - \sqrt{6} - \sqrt{6} + 3 \newline
+&amp;amp;= 5 - 2\sqrt{6} \newline
+\end{align}$$
+Maka, \(x^2 + 4xy + y^2\) dapat dihitung sebagai berikut:
+$$\begin{align}
+x^2 + 4xy + y^2 &amp;amp;= (5 + 2\sqrt{6}) + 4(5 - 2\sqrt{6}) + (5 - 2\sqrt{6}) \newline
+&amp;amp;= 15 \newline
+\end{align}$$
+Jadi, jawabannya adalah C.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Matematika: Persamaan Linear Satu Variabel</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/persamaan-linear-satu-variabel/</link><pubDate>Thu, 16 Mar 2023 15:08:48 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/persamaan-linear-satu-variabel/</guid><description>
+&lt;p>Persamaan linear satu variabel adalah persamaan matematika yang memiliki satu variabel dengan derajat tertinggi adalah 1. Persamaan ini dapat dituliskan dalam bentuk \(ax + b = 0\), di mana x adalah variabel, \(a\) dan \(b\) adalah konstanta. Tujuan dalam menyelesaikan persamaan linear satu variabel adalah untuk mencari nilai variabel \(x\) yang membuat persamaan tersebut benar.&lt;/p>
+&lt;p>Langkah-langkah untuk menyelesaikan persamaan linear satu variabel adalah sebagai berikut:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Pindahkan konstanta \(b\) ke sisi sebelah kanan dan koefisien variabel \(a\) ke sisi sebelah kiri. Contohnya, persamaan \(2x + 5 = 11\) dapat dituliskan menjadi \(2x = 6\) dengan cara memindahkan konstanta \(5\) ke sisi kanan dengan tanda negatif \(-5\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bagi kedua sisi persamaan dengan koefisien variabel \(a\). Contohnya, dari persamaan \(2x = 6\), dapat dibagi dengan \(2\) sehingga \(x = 3\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Periksa jawaban dengan menggantikan nilai variabel yang ditemukan ke dalam persamaan. Contohnya, untuk persamaan \(2x + 5 = 11\), jika \(x = 3\), maka \(2(3) + 5 = 6 + 5 = 11\), sehingga jawaban \(x = 3\) benar.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Contoh lainnya, jika diberikan persamaan \(3x - 6 = 9\), maka dapat diselesaikan dengan cara:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Pindahkan konstanta \(-6\) ke sisi sebelah kanan dengan tanda positif sehingga menjadi \(3x = 15\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bagi kedua sisi persamaan dengan koefisien variabel \(3\) sehingga menjadi \(x = 5\).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Periksa jawaban dengan menggantikan nilai \(x = 5\) ke dalam persamaan, sehingga didapatkan \(3(5) - 6 = 15 - 6 = 9\), maka jawaban \(x = 5\) benar.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="contoh-soal-persamaan-linear-satu-variabel">Contoh Soal Persamaan Linear Satu Variabel&lt;/h3>
+&lt;hr>
+&lt;p>Misal pada tahun 2014 jumlah penduduk kota Bandung per ha sama dengan 2/3 jumlah penduduk kota Yogyakarta. Jika jumlah penduduk kota Bandung per ha adalah 60 jiwa, berapakah jumlah penduduk kota Yogyakarta per ha pada tahun 2014?&lt;/p>
+&lt;p>&lt;em>&lt;strong>Jawaban:&lt;/strong>&lt;/em>
+Dari soal, diketahui:&lt;/p>
+&lt;ul>
+&lt;li>Jumlah penduduk kota Bandung per ha = 60 jiwa&lt;/li>
+&lt;li>Jumlah penduduk kota Bandung per ha = 2/3 x jumlah penduduk kota Yogyakarta per ha
+Mari kita beri variabel:&lt;/li>
+&lt;/ul>
+&lt;p>Jumlah penduduk kota Yogyakarta per ha = y
+Maka persamaan linear satu variabel yang mewakili soal di atas adalah:&lt;/p>
+&lt;p>$$\frac{2}{3}\times y = 60$$&lt;/p>
+&lt;p>Untuk mencari nilai y, kita dapat menyelesaikan persamaan tersebut dengan cara mengalikan kedua ruas dengan 3/2, sehingga didapatkan:&lt;/p>
+&lt;p>$$y = 60 \times \frac{3}{2} = 90$$&lt;/p>
+&lt;p>Jadi, jumlah penduduk kota Yogyakarta per ha pada tahun 2014 adalah &lt;em>&lt;strong>90&lt;/strong>&lt;/em> jiwa.&lt;/p>
+&lt;hr>
+&lt;p>Andi bermaksud menjual rumahnya melalui agen penjualan. Besarnya komisi penjualan 8%. Jika uang bersih yang diterima Andi dari hasil penjualannya adalah Rp82.800.000, berapakah harga kotor penjualan rumah tersebut? selesaikan dengan persamaan linear satu variabel&lt;/p>
+&lt;p>Untuk menyelesaikan masalah ini dengan persamaan linear satu variabel, kita perlu menggunakan persamaan:&lt;/p>
+&lt;p>harga kotor - 8% harga kotor = uang bersih&lt;/p>
+&lt;p>Jadi, jika harga kotor penjualan rumah tersebut adalah x, maka persamaan linearnya adalah:&lt;/p>
+&lt;p>$$x - 0,08x = 82.800.000$$&lt;/p>
+&lt;p>Sederhanakan persamaan tersebut dengan menggabungkan koefisien x:&lt;/p>
+&lt;p>$$0,92x = 82.800.000$$&lt;/p>
+&lt;p>Selanjutnya, kita bisa mencari nilai x dengan membagi kedua sisi persamaan dengan 0,92:&lt;/p>
+&lt;p>$$x = 90.000.000$$&lt;/p>
+&lt;p>Jadi, harga kotor penjualan rumah tersebut adalah &lt;em>&lt;strong>Rp90.000.000&lt;/strong>&lt;/em>.&lt;/p>
+&lt;hr>
+&lt;p>Agus menempuh perjalanan sejauh 255 km yang terbagi dalam dua bagian. Perjalanan pertama menghabiskan waktu 2 jam. Agus melanjutkan perjalanan kedua dengan meningkatkan kecepatannya lebih tinggi 25 km per jam dibandingkan dengan perjalanan pertama. Perjalanan ini dia tempuh dalam 3 jam. Berapa kecepatan kendaraan Agus pada perjalanan pertama? Selesaikan dalam persamaan linear satu variabel.&lt;/p>
+&lt;p>Kita dapat menggunakan rumus kecepatan &lt;em>(v) = jarak (s) / waktu (t)&lt;/em>.&lt;/p>
+&lt;p>Dari soal, diketahui:&lt;/p>
+&lt;ul>
+&lt;li>Jarak total yang ditempuh Agus = 255 km&lt;/li>
+&lt;li>Waktu tempuh pada perjalanan pertama \(t_1\) = 2 jam&lt;/li>
+&lt;li>Waktu tempuh pada perjalanan kedua \(t_2\) = 3 jam&lt;/li>
+&lt;li>Kecepatan pada perjalanan kedua \(v_2\) = kecepatan pada perjalanan pertama \(v_1\) + 25 km/jam&lt;/li>
+&lt;/ul>
+&lt;p>Maka dapat dibuat persamaan sebagai berikut:&lt;/p>
+&lt;p>$$(1)\ v_1 \times t_1 + v_2 \times t_2 = s$$
+$$(2)\ v_2 = v_1 + 25$$&lt;/p>
+&lt;p>Substitusi persamaan (2) ke persamaan (1), maka kita dapatkan:&lt;/p>
+&lt;p>$$v_1 \times 2 + (v_1 + 25) \times 3 = 255$$
+$$2v_1 + 3v_1 + 75 = 255$$
+$$5v_1 = 180$$
+$$v_1 = 36 km/jam$$&lt;/p>
+&lt;p>Jadi, kecepatan kendaraan Agus pada perjalanan pertama adalah &lt;em>&lt;strong>36 km/jam&lt;/strong>&lt;/em>.&lt;/p></description></item><item><title>Matematika: Persamaan Kuadrat</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/persamaan-kuadrat/</link><pubDate>Thu, 16 Mar 2023 16:01:26 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/persamaan-kuadrat/</guid><description>
+&lt;p>Persamaan kuadrat adalah persamaan polinomial orde dua yang memiliki bentuk umum sebagai berikut:&lt;/p>
+&lt;p>$$ax^2 + bx + c = 0$$&lt;/p>
+&lt;p>dengan &lt;em>a&lt;/em>, &lt;em>b&lt;/em>, dan &lt;em>c&lt;/em> adalah konstanta, dan &lt;em>x&lt;/em> adalah variabel. Dalam persamaan kuadrat ini, &lt;em>x&lt;/em> muncul dengan pangkat dua (kuadrat), sehingga disebut persamaan kuadrat. Solusi dari persamaan kuadrat tersebut dapat dicari menggunakan rumus kuadrat atau melalui faktorisasi. Persamaan kuadrat memiliki dua akar, yaitu \(x_1\) dan \(x_2\), yang dapat berupa bilangan real atau kompleks.&lt;/p>
+&lt;h3 id="penyelesaian-persamaan-kuadrat-dengan-faktorisasi">Penyelesaian Persamaan Kuadrat dengan Faktorisasi&lt;/h3>
+&lt;p>Faktorisasi persamaan kuadrat adalah cara untuk menulis kembali suatu persamaan kuadrat dalam bentuk perkalian faktor-faktor yang lebih sederhana. Faktorisasi dapat membantu dalam menyelesaikan suatu persamaan kuadrat atau dalam memperjelas hubungan antara variabel-variabel dalam masalah matematika.&lt;/p>
+&lt;p>Untuk faktorisasi persamaan kuadrat \(ax^2 + bx + c = 0\), langkah-langkahnya adalah sebagai berikut:&lt;/p>
+&lt;ol>
+&lt;li>Carilah dua bilangan yang jika dikalikan akan menghasilkan &lt;em>c&lt;/em>, dan jika dijumlahkan akan menghasilkan &lt;em>b&lt;/em>.&lt;/li>
+&lt;li>Tuliskan persamaan kuadrat dalam bentuk faktor dari dua bilangan yang telah dicari.&lt;/li>
+&lt;li>Gunakan sifat perkalian nol untuk menyelesaikan faktorisasi, yaitu apabila suatu bilangan dikalikan dengan nol, maka hasilnya adalah nol.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;em>&lt;strong>Contoh:&lt;/strong>&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>Faktorisasi persamaan kuadrat \(x^2 + 3x + 2 = 0\)&lt;/p>
+&lt;ul>
+&lt;li>Cari dua bilangan yang jika dikalikan akan menghasilkan 2, dan jika dijumlahkan akan menghasilkan 3, yaitu 1 dan 2.&lt;/li>
+&lt;li>Tuliskan persamaan kuadrat dalam bentuk faktor dari dua bilangan yang telah dicari, yaitu \((x + 1)(x + 2) = 0\).&lt;/li>
+&lt;li>Gunakan sifat perkalian nol untuk menyelesaikan faktorisasi, sehingga diperoleh \(x = -1\) atau \(x = -2\).&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Faktorisasi persamaan kuadrat \(2x^2 - 5x - 3 = 0\)&lt;/p>
+&lt;ul>
+&lt;li>Cari dua bilangan yang jika dikalikan akan menghasilkan -6 (perkalian antara koefisien a dan c), dan jika dijumlahkan akan menghasilkan -5 (koefisien b), yaitu -6 dan 1.&lt;/li>
+&lt;li>Tuliskan persamaan kuadrat dalam bentuk faktor dari dua bilangan yang telah dicari, yaitu \((2x - 3)(x + 1) = 0\).&lt;/li>
+&lt;li>Gunakan sifat perkalian nol untuk menyelesaikan faktorisasi, sehingga diperoleh \(x = 3/2\) atau \(x = -1\).&lt;/li>
+&lt;/ul></description></item><item><title>Matematika: Logaritma</title><link>https://www.all-indonesia.com/matematika/sma/kelas-10/logaritma/</link><pubDate>Thu, 16 Mar 2023 19:17:10 +0700</pubDate><guid>https://www.all-indonesia.com/matematika/sma/kelas-10/logaritma/</guid><description>
+&lt;h2 id="konsep-logaritma">Konsep Logaritma&lt;/h2>
+&lt;p>Logaritma merupakan sebuah konsep matematika yang digunakan untuk membalik operasi eksponensial. Logaritma adalah kebalikan dari eksponensial. Jika sebuah bilangan dipangkatkan dengan bilangan lain (misalnya \(2^3 = 8\)), maka bentuk logaritma dari bilangan tersebut dapat dinyatakan sebagai pangkat bilangan yang digunakan \(^2 log\ 8 = 3\).&lt;/p>
+&lt;p>Secara umum, logaritma dapat didefinisikan sebagai suatu fungsi matematika yang mengukur banyaknya pangkat dari bilangan tertentu yang diperlukan untuk menghasilkan bilangan lainnya. Misalnya, logaritma basis 2 dari bilangan 8 adalah 3 karena 2 pangkat 3 sama dengan 8.&lt;/p>
+&lt;p>Logaritma memiliki banyak aplikasi dalam berbagai bidang, seperti dalam ilmu statistika, ilmu eksakta, ilmu ekonomi, dan lain sebagainya. Salah satu contoh aplikasi logaritma adalah dalam mengukur kecepatan pertumbuhan suatu populasi, di mana tingkat pertumbuhan populasi dapat dihitung menggunakan logaritma.&lt;/p>
+&lt;h3 id="operasi-bilangan-logaritma">Operasi Bilangan Logaritma&lt;/h3>
+&lt;p>Operasi bilangan logaritma meliputi tiga jenis operasi, yaitu:&lt;/p>
+&lt;h4 id="operasi-penjumlahan-logaritma">Operasi penjumlahan logaritma&lt;/h4>
+&lt;p>Jika diberikan dua logaritma dengan basis yang sama, maka operasi penjumlahan logaritma dapat digunakan untuk menggabungkan kedua logaritma menjadi satu logaritma. Operasi ini dapat dilakukan dengan menggunakan rumus:&lt;/p>
+&lt;p>$$^a log (x \times y) = ^a log\ x + ^a log\ y$$&lt;/p>
+&lt;p>Contoh:&lt;/p>
+&lt;p>$$^2 log\ 8 + ^2 log\ 16 = ^2 log (8 \times 16) = ^2 log\ 128$$&lt;/p>
+&lt;h4 id="operasi-pengurangan-logaritma">Operasi pengurangan logaritma&lt;/h4>
+&lt;p>Operasi pengurangan logaritma digunakan untuk memisahkan dua logaritma yang digabungkan menjadi satu logaritma. Operasi ini dapat dilakukan dengan menggunakan rumus:&lt;/p>
+&lt;p>$$^a log (\frac{x}{y}) = ^a log\ x - ^a log\ y$$&lt;/p>
+&lt;p>Contoh:&lt;/p>
+&lt;p>$$^2 log\ 16 - ^2 log\ 4 = ^2 log (\frac{16}{4}) = ^2 log\ 4$$&lt;/p>
+&lt;h4 id="operasi-perpangkatan-logaritma">Operasi perpangkatan logaritma&lt;/h4>
+&lt;p>Operasi perpangkatan logaritma digunakan untuk memperbesar atau memperkecil nilai logaritma. Operasi ini dapat dilakukan dengan menggunakan rumus:&lt;/p>
+&lt;p>$$^a log\ x^y = y \times ^a log\ x$$&lt;/p>
+&lt;p>Contoh:&lt;/p>
+&lt;p>$$^2 log\ 8^2 = 2 \times ^2 log\ 8 = 2 \times 3 = 6$$&lt;/p></description></item></channel></rss>
